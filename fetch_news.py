@@ -2,6 +2,7 @@ import feedparser
 import json
 import re
 import html as html_module
+import unicodedata
 from datetime import datetime, timezone
 
 def strip_html(text):
@@ -26,6 +27,40 @@ def parse_date(entry):
             except Exception:
                 pass
     return datetime.now(timezone.utc).isoformat()
+
+def extract_image(entry):
+    # 1. media:thumbnail
+    for t in (getattr(entry, 'media_thumbnail', None) or []):
+        url = t.get('url') if isinstance(t, dict) else None
+        if url:
+            return url
+    # 2. media:content (prefer medium="image" or no medium)
+    for c in (getattr(entry, 'media_content', None) or []):
+        if not isinstance(c, dict):
+            continue
+        medium = c.get('medium')
+        url = c.get('url')
+        if url and (medium == 'image' or not medium):
+            return url
+    # 3. enclosures (via entry.enclosures or entry.links[rel=enclosure])
+    for enc in (getattr(entry, 'enclosures', None) or []):
+        if not isinstance(enc, dict):
+            continue
+        if enc.get('type', '').startswith('image/') and enc.get('href'):
+            return enc['href']
+        if enc.get('type', '').startswith('image/') and enc.get('url'):
+            return enc['url']
+    for link in (getattr(entry, 'links', None) or []):
+        if not isinstance(link, dict):
+            continue
+        if link.get('rel') == 'enclosure' and link.get('type', '').startswith('image/'):
+            return link.get('href') or link.get('url')
+    # 4. first <img> inside summary/description
+    raw = getattr(entry, 'summary', '') or getattr(entry, 'description', '') or ''
+    m = re.search(r'<img[^>]+src=["\']([^"\']+)', raw)
+    if m:
+        return m.group(1)
+    return None
 
 FEEDS = {
     "internacional": [
@@ -64,14 +99,32 @@ FEEDS = {
         {"source": "DW Español",      "url": "https://rss.dw.com/rdf/rss-es-all",       "keywords": True},
     ],
     "uruguay": [
+        {"source": "Montevideo Portal",  "url": "https://www.montevideo.com.uy/anxml.aspx?58"},
+        {"source": "La Diaria",          "url": "https://ladiaria.com.uy/feeds/articulos/"},
+        {"source": "El País Uy",         "url": "https://www.elpais.com.uy/rss/index.xml"},
         {"source": "Google Noticias UY", "url": "https://news.google.com/rss/search?q=uruguay&hl=es-419&gl=UY&ceid=UY:es-419"},
-        {"source": "Google Noticias UY", "url": "https://news.google.com/rss/search?q=uruguay+economia+politica&hl=es-419&gl=UY&ceid=UY:es-419"},
-        {"source": "El Observador",      "url": "https://www.elobservador.com.uy/rss/"},
-        {"source": "El País Uy",         "url": "https://www.elpais.com.uy/rss/portada.xml"},
     ],
 }
 
 MAX_PER_CATEGORY = 8
+
+# Dedup config
+STOPWORDS = {
+    "el","la","los","las","de","del","y","en","a","un","una",
+    "por","para","con","que","se","su","sus","al","lo","como",
+}
+SOURCE_RANKING = {
+    "BBC Mundo": 1,
+    "El País": 2, "El País Eco": 2, "El País Tech": 2, "El País Uy": 2,
+    "DW Español": 3,
+    "France 24": 4,
+    "Infobae": 5, "Infobae Dep.": 5,
+    "Montevideo Portal": 6,
+    "La Diaria": 7,
+    "El Observador": 8,
+}
+DEDUP_THRESHOLD = 0.6
+DEDUP_WINDOW_HOURS = 24
 
 WAR_KEYWORDS = [
     "guerra", "conflicto", "ataque", "bombardeo", "misil", "cohete",
@@ -86,6 +139,110 @@ WAR_KEYWORDS = [
 def matches_war_keywords(title, summary):
     text = (title + " " + summary).lower()
     return any(kw.lower() in text for kw in WAR_KEYWORDS)
+
+def _norm_compare(s):
+    """Aggressive normalization for comparing title vs summary:
+    lowercase, strip accents, drop all punctuation, collapse whitespace.
+    Makes \"Title - Source\" and \"Title Source\" equivalent.
+    """
+    s = s.lower()
+    s = ''.join(c for c in unicodedata.normalize('NFD', s)
+                if unicodedata.category(c) != 'Mn')
+    s = re.sub(r'[^\w\s]', ' ', s)
+    return re.sub(r'\s+', ' ', s).strip()
+
+def is_redundant_summary(title, summary):
+    """Google News (and some aggregators) return the title wrapped in <a>
+    as the description, so after stripping HTML the "summary" is basically
+    the title. Detect that and drop the summary so cards don't duplicate it.
+    """
+    if not summary:
+        return True
+    t = _norm_compare(title)
+    s = _norm_compare(summary)
+    if not t or not s:
+        return True
+    if t == s:
+        return True
+    # Summary is title + small trailing tail
+    if s.startswith(t) and (len(s) - len(t)) < 40:
+        return True
+    # Title is summary + small trailing tail
+    if t.startswith(s) and (len(t) - len(s)) < 15:
+        return True
+    # Token overlap >= 85% (catches reordered / truncated cases)
+    t_words = set(t.split())
+    s_words = set(s.split())
+    if t_words and s_words:
+        jaccard = len(t_words & s_words) / len(t_words | s_words)
+        if jaccard >= 0.85:
+            return True
+    return False
+
+def normalize_title(t):
+    """Lowercase, strip accents + punctuation, drop stopwords and short tokens."""
+    t = t.lower()
+    t = ''.join(c for c in unicodedata.normalize('NFD', t) if unicodedata.category(c) != 'Mn')
+    t = re.sub(r'[^\w\s]', ' ', t)
+    return {w for w in t.split() if len(w) > 2 and w not in STOPWORDS}
+
+def deduplicate(articles):
+    """Collapse near-duplicate articles across sources using Jaccard similarity.
+
+    Keeps the entry with the best-ranked source (ties broken by most recent).
+    """
+    kept = []
+    removed = 0
+    window_sec = DEDUP_WINDOW_HOURS * 3600
+
+    for a in articles:
+        a_tokens = normalize_title(a["title"])
+        if not a_tokens:
+            kept.append(a)
+            continue
+        try:
+            a_date = datetime.fromisoformat(a["published"])
+        except Exception:
+            a_date = None
+
+        dup_idx = -1
+        for i, b in enumerate(kept):
+            b_tokens = normalize_title(b["title"])
+            if not b_tokens:
+                continue
+            if a_date:
+                try:
+                    b_date = datetime.fromisoformat(b["published"])
+                    if abs((a_date - b_date).total_seconds()) > window_sec:
+                        continue
+                except Exception:
+                    pass
+            jaccard = len(a_tokens & b_tokens) / len(a_tokens | b_tokens)
+            if jaccard >= DEDUP_THRESHOLD:
+                dup_idx = i
+                break
+
+        if dup_idx >= 0:
+            b = kept[dup_idx]
+            a_rank = SOURCE_RANKING.get(a["source"], 99)
+            b_rank = SOURCE_RANKING.get(b["source"], 99)
+            replace = False
+            if a_rank < b_rank:
+                replace = True
+            elif a_rank == b_rank:
+                try:
+                    if datetime.fromisoformat(a["published"]) > datetime.fromisoformat(b["published"]):
+                        replace = True
+                except Exception:
+                    pass
+            if replace:
+                kept[dup_idx] = a
+            removed += 1
+        else:
+            kept.append(a)
+
+    print(f"  Deduped: {removed} duplicates removed")
+    return kept
 
 def fetch_category(category, feeds):
     articles = []
@@ -105,6 +262,9 @@ def fetch_category(category, feeds):
                     continue
                 if feed_info.get("keywords") and not matches_war_keywords(title, summary):
                     continue
+                # Drop summary when it's just the title (common in Google News)
+                if is_redundant_summary(title, summary):
+                    summary = ""
                 articles.append({
                     "category": category,
                     "source": feed_info["source"],
@@ -112,6 +272,7 @@ def fetch_category(category, feeds):
                     "summary": summary,
                     "url": url,
                     "published": parse_date(entry),
+                    "image": extract_image(entry),
                 })
         except Exception as e:
             print(f"  [!] Error en {feed_info['source']}: {e}")
@@ -127,6 +288,9 @@ def main():
         articles = fetch_category(category, feeds)
         all_articles.extend(articles)
         print(f"    {len(articles)} artículos")
+
+    print("Deduplicando entre fuentes...")
+    all_articles = deduplicate(all_articles)
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
