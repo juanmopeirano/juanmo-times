@@ -535,7 +535,7 @@ async function loadNews(manual = false) {
       updEl.title = '';
     }
 
-    renderTrending();
+    // renderTrending(); // desactivado
     applyFilter(currentCat);
 
     // Persist visit AFTER render so the badges appear this session
