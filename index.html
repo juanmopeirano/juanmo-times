@@ -162,6 +162,7 @@
     .badge-economia      { background: var(--c-eco); }
     .badge-iglesia       { background: var(--c-igl); }
     .badge-tecnologia    { background: var(--c-tec); }
+    .badge-belico        { background: #b91c1c; }
     .badge-uruguay       { background: var(--c-ury); }
 
     .card-source {
@@ -257,11 +258,13 @@
   </div>
   <div class="tabs-wrapper">
     <div class="tabs">
-      <button class="tab active" data-cat="todas">🌐 Todas</button>
+      <button class="tab active" data-cat="destacadas">⭐ Destacadas</button>
+      <button class="tab" data-cat="todas">🌐 Todas</button>
       <button class="tab" data-cat="internacional">🌍 Internacional</button>
       <button class="tab" data-cat="economia">💰 Economía</button>
       <button class="tab" data-cat="iglesia">✝️ Iglesia</button>
       <button class="tab" data-cat="tecnologia">🤖 Tecnología</button>
+      <button class="tab" data-cat="belico">⚔️ Bélico</button>
       <button class="tab" data-cat="uruguay">🇺🇾 Uruguay</button>
     </div>
   </div>
@@ -280,11 +283,12 @@
     economia:      'Economía',
     iglesia:       'Iglesia',
     tecnologia:    'Tecnología',
+    belico:        'Bélico',
     uruguay:       'Uruguay',
   };
 
   let allArticles = [];
-  let currentCat = 'todas';
+  let currentCat = 'destacadas';
 
   // ── Date helpers ────────────────────────────────────────────
   function timeAgo(iso) {
@@ -352,7 +356,22 @@
   // ── Filter ───────────────────────────────────────────────────
   function applyFilter(cat) {
     currentCat = cat;
-    const filtered = cat === 'todas' ? allArticles : allArticles.filter(a => a.category === cat);
+    let filtered;
+    if (cat === 'todas') {
+      filtered = allArticles;
+    } else if (cat === 'destacadas') {
+      const seen = new Set();
+      filtered = [];
+      for (const a of allArticles) {
+        if (!seen.has(a.category)) {
+          seen.add(a.category);
+          filtered.push(a);
+        }
+      }
+      filtered.sort((a, b) => new Date(b.published) - new Date(a.published));
+    } else {
+      filtered = allArticles.filter(a => a.category === cat);
+    }
     renderArticles(filtered);
   }
 
