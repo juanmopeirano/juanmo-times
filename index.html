@@ -222,28 +222,21 @@
     .message h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
     .message p  { font-size: 0.85rem; }
 
-    /* ── REFRESH BUTTON ── */
-    #refresh-btn {
+    /* ── NEXT UPDATE BADGE ── */
+    #next-update {
       position: fixed;
-      bottom: 1.5rem;
-      right: 1.5rem;
+      bottom: 1.2rem;
+      right: 1.2rem;
       background: var(--navy);
-      color: #fff;
-      border: none;
-      border-radius: 50%;
-      width: 48px;
-      height: 48px;
-      font-size: 1.2rem;
-      cursor: pointer;
-      box-shadow: 0 4px 14px rgba(0,0,0,.3);
-      transition: transform .2s, background .2s;
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      color: rgba(255,255,255,.85);
+      border-radius: 20px;
+      padding: 0.4rem 0.9rem;
+      font-size: 0.72rem;
+      font-weight: 500;
+      box-shadow: 0 3px 12px rgba(0,0,0,.25);
+      pointer-events: none;
     }
-    #refresh-btn:hover { background: var(--red); transform: rotate(30deg) scale(1.05); }
-    #refresh-btn.spinning { animation: spin 1s linear infinite; }
-    @keyframes spin { to { transform: rotate(360deg); } }
+    #next-update span { color: #fff; font-weight: 700; }
   </style>
 </head>
 <body>
@@ -275,7 +268,7 @@
   <div id="grid" class="grid"></div>
 </main>
 
-<button id="refresh-btn" title="Actualizar">↻</button>
+<div id="next-update">🕐 Próxima actualización: <span id="next-update-time">...</span></div>
 
 <script>
   const CATEGORY_LABELS = {
@@ -377,8 +370,6 @@
 
   // ── Fetch news ───────────────────────────────────────────────
   async function loadNews() {
-    const btn = document.getElementById('refresh-btn');
-    btn.classList.add('spinning');
     renderSkeletons();
 
     try {
@@ -400,7 +391,6 @@
         </div>`;
       document.getElementById('section-label').textContent = 'Error al cargar';
     } finally {
-      btn.classList.remove('spinning');
     }
   }
 
@@ -415,7 +405,20 @@
     });
   });
 
-  document.getElementById('refresh-btn').addEventListener('click', loadNews);
+  // Próxima actualización (GitHub Actions corre a las 10:00, 16:00 y 22:00 UTC = 7am, 1pm, 7pm Uruguay)
+  function updateNextTime() {
+    const now = new Date();
+    const hoursUTC = [10, 16, 22];
+    const next = hoursUTC
+      .map(h => { const d = new Date(now); d.setUTCHours(h, 0, 0, 0); if (d <= now) d.setUTCDate(d.getUTCDate() + 1); return d; })
+      .sort((a, b) => a - b)[0];
+    const diff = Math.round((next - now) / 60000);
+    const h = Math.floor(diff / 60), m = diff % 60;
+    document.getElementById('next-update-time').textContent =
+      h > 0 ? `en ${h}h ${m}m` : `en ${m} min`;
+  }
+  updateNextTime();
+  setInterval(updateNextTime, 60000);
 
   loadNews();
 
