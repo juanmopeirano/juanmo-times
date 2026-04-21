@@ -1,0 +1,44 @@
+# ── Python ────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# ── OS / editor ───────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── Node (future-proof, shouldn't appear) ─────────────────
+node_modules/
+package-lock.json
+yarn.lock
+
+# ── Secrets / env ─────────────────────────────────────────
+.env
+.env.*
+*.pem
+*.key
+
+# ── Logs ──────────────────────────────────────────────────
+*.log
+npm-debug.log*
+
+# ── Project-specific: docs for the friend, not part of the site ──
+Juanmo-Times-Implementacion.pdf
+generate_pdf.py
+
+# ── Claude Code artifacts ─────────────────────────────────
+.claude/
+.claude.json
+.claude.json.backup
+
+# ── Spec / brief (no forma parte del deploy) ──────────────
+IMPROVEMENTS.md
