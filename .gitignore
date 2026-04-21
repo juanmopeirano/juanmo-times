@@ -34,3 +34,11 @@ npm-debug.log*
 # ── Project-specific: docs for the friend, not part of the site ──
 Juanmo-Times-Implementacion.pdf
 generate_pdf.py
+
+# ── Claude Code artifacts ─────────────────────────────────
+.claude/
+.claude.json
+.claude.json.backup
+
+# ── Spec / brief (no forma parte del deploy) ──────────────
+IMPROVEMENTS.md
