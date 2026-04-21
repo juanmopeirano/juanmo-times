@@ -1,4 +1,4 @@
-const CACHE = 'juanmo-times-v8';
+const CACHE = 'juanmo-times-v11';
 const STATIC = ['/', '/index.html', '/styles.css', '/app.js', '/icon.svg'];
 
 self.addEventListener('install', e => {
@@ -19,7 +19,7 @@ self.addEventListener('fetch', e => {
   // news.json: network first, fallback to cache
   // Only cache responses that are actually JSON — prevents cache poisoning
   // if an intermediary (captive portal, error page, phishing) returns 200 HTML.
-  if (url.pathname.endsWith('news.json')) {
+  if (url.pathname.endsWith('/news.json')) {
     e.respondWith(
       fetch(e.request)
         .then(res => {

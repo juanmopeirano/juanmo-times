@@ -1,0 +1,45 @@
+name: Update news
+
+on:
+  schedule:
+    # 3 runs a day (UTC): 10:00, 16:00, 22:00 — ~7am/1pm/7pm Uruguay time
+    - cron: '0 10,16,22 * * *'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+# Cancel older runs if a newer one is queued
+concurrency:
+  group: update-news
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch news
+        run: python fetch_news.py
+
+      - name: Commit updated news.json if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "No changes in news.json — skipping commit."
+          else
+            git commit -m "chore: update news.json [skip ci]"
+            git push
+          fi

@@ -45,7 +45,6 @@
   <div class="header-top">
     <div class="header-brand">
       <div class="logo">The <span>Juanmo</span> Times</div>
-      <span id="new-count" class="new-count" aria-live="polite"></span>
     </div>
     <div class="header-meta" aria-hidden="false">
       <span id="today-date"></span>
@@ -54,9 +53,42 @@
     <div class="header-actions">
       <button class="header-btn" id="btn-search" title="Buscar (Ctrl+K)" aria-label="Buscar noticias (Ctrl+K)"><span aria-hidden="true">🔍</span></button>
       <button class="header-btn" id="btn-saved" title="Guardadas" aria-label="Ver guardadas"><span aria-hidden="true">⭐</span></button>
-      <button class="header-btn" id="btn-refresh" title="Actualizar" aria-label="Actualizar noticias"><span aria-hidden="true">↻</span></button>
-      <button class="header-btn" id="btn-hide-read" title="Ocultar leídas" aria-label="Alternar ocultar leídas" aria-pressed="false"><span aria-hidden="true">👁</span></button>
-      <button class="header-btn" id="btn-theme" title="Cambiar tema" aria-label="Cambiar tema"><span aria-hidden="true">☾</span></button>
+      <div class="overflow-wrap">
+        <button class="header-btn" id="btn-overflow" title="Más opciones" aria-label="Más opciones" aria-haspopup="menu" aria-expanded="false"><span aria-hidden="true">⋯</span></button>
+        <div class="overflow-menu" id="overflow-menu" role="menu" hidden>
+          <button class="overflow-menu-item" role="menuitem" data-action="sources">
+            <span class="icon" aria-hidden="true">📡</span>
+            <span class="label">Fuentes</span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="watchlist">
+            <span class="icon" aria-hidden="true">⚡</span>
+            <span class="label">Palabras clave</span>
+            <span class="sub" aria-hidden="true" id="watchlist-count"></span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="refresh">
+            <span class="icon" aria-hidden="true">↻</span>
+            <span class="label">Actualizar</span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="hide-read" aria-pressed="false">
+            <span class="icon" aria-hidden="true">👁</span>
+            <span class="label">Ocultar leídas</span>
+            <span class="check" aria-hidden="true"></span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="focus">
+            <span class="icon" aria-hidden="true">👓</span>
+            <span class="label">Modo lectura</span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="export">
+            <span class="icon" aria-hidden="true">📸</span>
+            <span class="label">Exportar portada</span>
+          </button>
+          <button class="overflow-menu-item" role="menuitem" data-action="theme">
+            <span class="icon" aria-hidden="true">☾</span>
+            <span class="label">Tema</span>
+            <span class="sub" aria-hidden="true">claro</span>
+          </button>
+        </div>
+      </div>
     </div>
   </div>
   <div class="tabs-container">
@@ -79,9 +111,59 @@
 </header>
 
 <main id="main" role="tabpanel" aria-labelledby="section-label">
+  <div id="trending" class="trending" hidden></div>
   <div id="section-label" class="section-label">Cargando noticias...</div>
+  <div id="filter-chips" class="filter-chips"></div>
   <div id="grid" class="grid"></div>
 </main>
+
+<!-- Focus mode exit button -->
+<button class="focus-exit" id="focus-exit" aria-label="Salir del modo lectura" hidden>✕</button>
+
+<!-- Watchlist modal -->
+<div class="palette-backdrop" id="watchlist-backdrop" role="presentation">
+  <div class="palette watchlist" role="dialog" aria-modal="true" aria-label="Palabras clave">
+    <div class="palette-input-wrap">
+      <span class="icon" aria-hidden="true">⚡</span>
+      <strong class="sources-title">Palabras clave</strong>
+      <span class="palette-hint" aria-hidden="true">Esc</span>
+    </div>
+    <form id="watchlist-form" class="watchlist-form">
+      <input id="watchlist-input" class="palette-input" type="text" placeholder="Agregar palabra o frase..." autocomplete="off" spellcheck="false" maxlength="40" />
+      <button type="submit" class="watchlist-add">Agregar</button>
+    </form>
+    <ul id="watchlist-list" class="palette-results" role="list"></ul>
+  </div>
+</div>
+
+<!-- Related articles modal -->
+<div class="palette-backdrop" id="related-backdrop" role="presentation">
+  <div class="palette related" role="dialog" aria-modal="true" aria-label="Noticias relacionadas">
+    <div class="palette-input-wrap">
+      <span class="icon" aria-hidden="true">🔗</span>
+      <strong class="sources-title">Relacionadas</strong>
+      <span class="palette-hint" aria-hidden="true">Esc</span>
+    </div>
+    <ul id="related-list" class="palette-results" role="list"></ul>
+  </div>
+</div>
+
+<!-- Sources modal -->
+<div class="palette-backdrop" id="sources-backdrop" role="presentation">
+  <div class="palette sources" role="dialog" aria-modal="true" aria-label="Fuentes del hub">
+    <div class="palette-input-wrap">
+      <span class="icon" aria-hidden="true">📡</span>
+      <strong class="sources-title">Fuentes</strong>
+      <span class="palette-hint" aria-hidden="true">Esc</span>
+    </div>
+    <ul id="sources-list" class="palette-results" role="list"></ul>
+    <div class="sources-footer">
+      <a class="sources-suggest" id="btn-suggest-source" href="#" target="_blank" rel="noopener">
+        <span aria-hidden="true">➕</span> Sugerir un medio
+      </a>
+    </div>
+  </div>
+</div>
 
 <!-- Command palette -->
 <div class="palette-backdrop" id="palette-backdrop" role="presentation">
