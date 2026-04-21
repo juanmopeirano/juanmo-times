@@ -1470,6 +1470,20 @@ async function loadMarket(force = false) {
 loadNews();
 loadMarket();
 
+// ── Próxima actualización (7am, 1pm, 7pm Uruguay = 10, 16, 22 UTC) ──
+function updateNextTime() {
+  const now = new Date();
+  const next = [10, 16, 22]
+    .map(h => { const d = new Date(now); d.setUTCHours(h, 0, 0, 0); if (d <= now) d.setUTCDate(d.getUTCDate() + 1); return d; })
+    .sort((a, b) => a - b)[0];
+  const diff = Math.round((next - now) / 60000);
+  const h = Math.floor(diff / 60), m = diff % 60;
+  const el = document.getElementById('next-update-time');
+  if (el) el.textContent = h > 0 ? `en ${h}h ${m}m` : `en ${m} min`;
+}
+updateNextTime();
+setInterval(updateNextTime, 60000);
+
 setInterval(refreshTimestamps, 60000);
 setInterval(() => loadMarket(), MARKET_REFRESH_MS);
 

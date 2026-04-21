@@ -1500,3 +1500,20 @@ body.focus-mode .focus-exit {
   ::view-transition-old(root),
   ::view-transition-new(root) { animation: none; }
 }
+
+/* ── PRÓXIMA ACTUALIZACIÓN ── */
+#next-update {
+  position: fixed;
+  bottom: 1.2rem;
+  right: 1.2rem;
+  background: var(--navy, #0f172a);
+  color: rgba(255,255,255,.85);
+  border-radius: 20px;
+  padding: 0.4rem 0.9rem;
+  font-size: 0.72rem;
+  font-weight: 500;
+  box-shadow: 0 3px 12px rgba(0,0,0,.25);
+  pointer-events: none;
+  z-index: 90;
+}
+#next-update span { color: #fff; font-weight: 700; }
