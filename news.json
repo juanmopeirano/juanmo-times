@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-04-21T13:00:44.015384+00:00",
+  "updated_at": "2026-04-21T13:12:23.202575+00:00",
   "articles": [
+    {
+      "category": "internacional",
+      "source": "El País",
+      "title": "Los ministros de Exteriores de la UE debaten la suspensión del Acuerdo de Asociación con Israel",
+      "summary": "España, apoyada por Irlanda y Eslovenia, insta a los Veintisiete a enviar una “señal fuerte” al Gobierno de Netanyahu. Alemania e Italia rechazan suspender el acuerdo",
+      "url": "https://elpais.com/internacional/2026-04-21/albares-la-ue-debe-enviar-una-senal-fuerte-a-israel.html",
+      "published": "2026-04-21T13:03:13+00:00"
+    },
     {
       "category": "internacional",
       "source": "BBC Mundo",
@@ -56,14 +64,6 @@
       "summary": "El Gobierno japonés aprobó este martes la mayor reforma de su normativa de exportación de defensa desde la Segunda Guerra Mundial, autorizando la venta de armamento letal, incluidos misiles y buques de guerra, a los 17 países con los que Tokio mantiene acuerdos de cooperación en defensa. La...",
       "url": "https://www.france24.com/es/medio-oriente/20260421-jap%C3%B3n-rompe-con-su-tradici%C3%B3n-pacifista-y-autoriza-la-venta-de-armas-letales-a-sus-aliados",
       "published": "2026-04-21T09:54:59+00:00"
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "Qué es la ceguera por falta de atención o por qué a veces eres incapaz de ver algo que está frente a tus ojos",
-      "summary": "Si te ha pasado de buscar algo sin éxito, para darte cuenta después que estaba delante de tus ojos, no desesperes. Es un fenómeno bastante común. Te contamos por qué ocurre.",
-      "url": "https://www.bbc.com/mundo/articles/cq8wwkke5j7o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-21T09:50:20+00:00"
     },
     {
       "category": "economia",
@@ -196,9 +196,17 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El Oppo Find X9 Ultra llega para difuminar la línea que separa el móvil convencional de las cámaras profesionales",
-      "summary": "Las compañías chinas de móviles se han marcado un objetivo para este comienzo de 2026: sacar músculo. Pero a lo bestia, además. Si Vivo presentó hace unas semanas el Vivo X300 Ultra, ahora es el turno de una Oppo que también tiene un nuevo retoño con ese mismo apellido. A continuación, vamos con...",
-      "url": "https://www.xataka.com/moviles/oppo-find-x9-ultra-caracteristicas-precio-ficha-tecnica",
+      "title": "Ha ocurrido algo inédito en la guerra: Ucrania ha tumbado shaheds rusos desde un hotel a 500 kilómetros de distancia",
+      "summary": "Durante una prueba militar en Estados Unidos, un piloto logró aterrizar un avión de combate sin tocar los mandos y a kilómetros de distancia, guiándolo únicamente a través de una conexión remota como si fuera un simulador. Ha pasado una década, y lo que entonces parecía una curiosidad tecnológica...",
+      "url": "https://www.xataka.com/magnet/ha-ocurrido-hecho-inedito-guerra-ucrania-ha-tumbado-shaheds-rusos-hotel-a-500-km-clave-esta-wifi",
+      "published": "2026-04-21T13:00:39+00:00"
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Si la pregunta es cuántas specs caben en un reloj inteligente, la respuesta es: mira el OPPO Watch X3",
+      "summary": "Hoy es un gran día para OPPO. Aprovechando el lanzamiento de su nuevo buque insignia, el Find X9 Pro, la compañía ha presentado dos dispositivos de lo más interesante: sus nuevos auriculares OPPO Enco Clip2, y su reloj inteligente OPPO Watch X3. Este último es el reloj inteligente más avanzado de...",
+      "url": "https://www.xataka.com/relojes-inteligentes/oppo-watch-x3-caracteristicas-precio-ficha-tecnica",
       "published": "2026-04-21T12:30:38+00:00"
     },
     {
@@ -212,9 +220,9 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Si la pregunta es cuántas specs caben en un reloj inteligente, la respuesta es: mira el OPPO Watch X3",
-      "summary": "Hoy es un gran día para OPPO. Aprovechando el lanzamiento de su nuevo buque insignia, el Find X9 Pro, la compañía ha presentado dos dispositivos de lo más interesante: sus nuevos auriculares OPPO Enco Clip2, y su reloj inteligente OPPO Watch X3. Este último es el reloj inteligente más avanzado de...",
-      "url": "https://www.xataka.com/relojes-inteligentes/oppo-watch-x3-caracteristicas-precio-ficha-tecnica",
+      "title": "El Oppo Find X9 Ultra llega para difuminar la línea que separa el móvil convencional de las cámaras profesionales",
+      "summary": "Las compañías chinas de móviles se han marcado un objetivo para este comienzo de 2026: sacar músculo. Pero a lo bestia, además. Si Vivo presentó hace unas semanas el Vivo X300 Ultra, ahora es el turno de una Oppo que también tiene un nuevo retoño con ese mismo apellido. A continuación, vamos con...",
+      "url": "https://www.xataka.com/moviles/oppo-find-x9-ultra-caracteristicas-precio-ficha-tecnica",
       "published": "2026-04-21T12:30:38+00:00"
     },
     {
@@ -250,12 +258,68 @@
       "published": "2026-04-21T11:30:38+00:00"
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Cómo deducirte el alquiler de tu vivienda habitual en la Renta 2025, y en qué comunidades puedes hacerlo en tu declaración de 2026",
-      "summary": "Vamos a explicarte cómo y dónde puedes deducirte el alquiler de tu vivienda habitual en tu Renta 2025, que es la declaración que hacemos en 2026 para rendir cuentas del pasado año fiscal. Ya puedes solicitar y presentar tu borrador online y desde el móvil, pero antes es recomendable prestarle...",
-      "url": "https://www.xataka.com/basics/como-deducirte-alquiler-tu-vivienda-habitual-renta-2025-que-comunidades-puedes-hacerlo-tu-declaracion-2026",
-      "published": "2026-04-21T11:08:07+00:00"
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Iran-US war: Four scenarios for what’s next as talks stumble",
+      "summary": "Between an expiring ceasefire and a possible deal lies a range of ways in which the war could proceed, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/iran-us-war-four-scenarios-for-whats-next-as-talks-stumble?traffic_source=rss",
+      "published": "2026-04-21T12:22:58+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Are we heading into a world divided by AI tribes?",
+      "summary": "Four thinkers join Mohamed Hassan to explore how AI is reshaping our politics, culture and collective thinking.",
+      "url": "https://www.aljazeera.com/video/doha-debates/2026/4/21/are-we-heading-into-a-world-divided-by-ai-tribes?traffic_source=rss",
+      "published": "2026-04-21T12:18:49+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "🔴 En directo: Trump acusa a Irán de haber violado el alto el fuego \"numerosas veces\"",
+      "summary": "",
+      "url": "https://www.france24.com/es/medio-oriente/20260421-ir%C3%A1n-rechaza-negociar-con-ee-uu-bajo-amenazas-y-las-conversaciones-en-pakist%C3%A1n-quedan-en-el-limbo",
+      "published": "2026-04-21T11:48:17+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+      "summary": "Trump withdrew the US from the JCPOA in 2018, branding it 'the worst deal ever' and seeking stronger terms.",
+      "url": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms?traffic_source=rss",
+      "published": "2026-04-21T11:44:10+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Mass trial for nearly 500 alleged gang members in El Salvador",
+      "summary": "Mass trial for nearly 500 alleged gang members in El Salvador",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/mass-trial-for-nearly-500-alleged-gang-members-in-el-salvador?traffic_source=rss",
+      "published": "2026-04-21T11:41:18+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Strait of Hormuz: How a threat became a playbook",
+      "summary": "How the Strait of Hormuz became a system of control, shaping power and the global economy.",
+      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/4/21/strait-of-hormuz-how-a-threat-became-a-playbook?traffic_source=rss",
+      "published": "2026-04-21T11:11:04+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Afghans displaced by Pakistan conflict survive in tent camps",
+      "summary": "Tens of thousands of Afghans have been displaced by recent fighting along the Pakistan border, forced into tent camps.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/21/afghans-displaced-by-pakistan-conflict-survive-in-tent-camps?traffic_source=rss",
+      "published": "2026-04-21T10:45:19+00:00"
+    },
+    {
+      "category": "belico",
+      "source": "Al Jazeera",
+      "title": "Is China a winner of the Iran war or facing economic risks?",
+      "summary": "China's economy beats expectations despite the Iran war, but weak demand and structural risks remain.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/21/is-china-a-winner-of-the-iran-war-or-facing-economic-risks?traffic_source=rss",
+      "published": "2026-04-21T10:40:38+00:00"
     }
   ]
 }
