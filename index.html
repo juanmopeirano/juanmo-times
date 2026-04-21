@@ -4,99 +4,431 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>The Juanmo Times</title>
-  <meta name="description" content="Tu hub diario de noticias — internacionales, economía, tecnología, deportes y más." />
+  <meta name="description" content="Tu resumen diario de noticias globales" />
+  <link rel="manifest" href="manifest.json" />
   <meta name="theme-color" content="#0f172a" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Juanmo Times" />
-
-  <!-- Icon -->
-  <link rel="icon" type="image/svg+xml" href="icon.svg" />
-  <link rel="apple-touch-icon" href="icon.svg" />
-
-  <!-- PWA manifest (inlined as data URL — no manifest.json file needed) -->
-  <link rel="manifest" href='data:application/manifest+json;charset=utf-8,%7B%22name%22%3A%22The%20Juanmo%20Times%22%2C%22short_name%22%3A%22Juanmo%20Times%22%2C%22description%22%3A%22Tu%20hub%20diario%20de%20noticias%22%2C%22start_url%22%3A%22.%22%2C%22display%22%3A%22standalone%22%2C%22background_color%22%3A%22%230f172a%22%2C%22theme_color%22%3A%22%230f172a%22%2C%22icons%22%3A%5B%7B%22src%22%3A%22icon.svg%22%2C%22sizes%22%3A%22any%22%2C%22type%22%3A%22image%2Fsvg%2Bxml%22%2C%22purpose%22%3A%22any%20maskable%22%7D%5D%7D' />
-
-  <!-- Open Graph -->
-  <meta property="og:title" content="The Juanmo Times" />
-  <meta property="og:description" content="Tu hub diario de noticias — internacionales, economía, tecnología, deportes y más." />
-  <meta property="og:type" content="website" />
-  <meta property="og:site_name" content="The Juanmo Times" />
-  <meta property="og:image" content="icon.svg" />
-  <meta name="twitter:card" content="summary" />
-
-  <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  <!-- Styles -->
-  <link rel="stylesheet" href="styles.css" />
+    :root {
+      --navy:    #0f172a;
+      --red:     #dc2626;
+      --bg:      #f1f5f9;
+      --card:    #ffffff;
+      --border:  #e2e8f0;
+      --text:    #1e293b;
+      --muted:   #64748b;
+      --c-int:   #1d4ed8;
+      --c-eco:   #15803d;
+      --c-igl:   #7c3aed;
+      --c-tec:   #ea580c;
+      --c-ury:   #0369a1;
+    }
 
-  <!-- App -->
-  <script src="app.js" defer></script>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+
+    /* ── HEADER ── */
+    header {
+      background: var(--navy);
+      padding: 0 1rem;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 12px rgba(0,0,0,.4);
+    }
+    .header-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.9rem 0 0.4rem;
+      border-bottom: 1px solid rgba(255,255,255,.1);
+    }
+    .logo {
+      font-family: 'Playfair Display', serif;
+      font-size: clamp(1.4rem, 5vw, 2rem);
+      font-weight: 900;
+      color: #fff;
+      letter-spacing: -0.5px;
+      line-height: 1;
+    }
+    .logo span { color: var(--red); }
+    .header-meta {
+      font-size: 0.7rem;
+      color: rgba(255,255,255,.5);
+      text-align: right;
+    }
+    #last-update { display: block; }
+
+    /* ── CATEGORY TABS ── */
+    .tabs-wrapper {
+      overflow-x: auto;
+      scrollbar-width: none;
+      padding: 0.6rem 0;
+    }
+    .tabs-wrapper::-webkit-scrollbar { display: none; }
+    .tabs {
+      display: flex;
+      gap: 0.4rem;
+      width: max-content;
+    }
+    .tab {
+      background: rgba(255,255,255,.1);
+      color: rgba(255,255,255,.75);
+      border: none;
+      border-radius: 20px;
+      padding: 0.35rem 0.85rem;
+      font-family: 'Inter', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 500;
+      cursor: pointer;
+      white-space: nowrap;
+      transition: background .2s, color .2s;
+    }
+    .tab:hover { background: rgba(255,255,255,.2); color: #fff; }
+    .tab.active { background: var(--red); color: #fff; }
+
+    /* ── MAIN ── */
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.2rem 1rem 3rem;
+    }
+
+    .section-label {
+      font-size: 0.72rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+      margin-bottom: 0.9rem;
+    }
+
+    /* ── GRID ── */
+    .grid {
+      display: grid;
+      gap: 1rem;
+      grid-template-columns: 1fr;
+    }
+    @media (min-width: 600px) {
+      .grid { grid-template-columns: 1fr 1fr; }
+    }
+    @media (min-width: 900px) {
+      .grid { grid-template-columns: 1fr 1fr 1fr; }
+    }
+
+    /* ── CARD ── */
+    .card {
+      background: var(--card);
+      border-radius: 12px;
+      border: 1px solid var(--border);
+      padding: 1rem 1.1rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+      transition: transform .15s, box-shadow .15s;
+      animation: fadeIn .3s ease;
+    }
+    .card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0,0,0,.08);
+    }
+    @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+    .card-meta {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+    .badge {
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      padding: 0.2rem 0.55rem;
+      border-radius: 20px;
+      color: #fff;
+    }
+    .badge-internacional { background: var(--c-int); }
+    .badge-economia      { background: var(--c-eco); }
+    .badge-iglesia       { background: var(--c-igl); }
+    .badge-tecnologia    { background: var(--c-tec); }
+    .badge-deportes      { background: #0284c7; }
+    .badge-belico        { background: #b91c1c; }
+    .badge-uruguay       { background: var(--c-ury); }
+
+    .card-source {
+      font-size: 0.72rem;
+      color: var(--muted);
+      font-weight: 500;
+    }
+    .card-time {
+      font-size: 0.68rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .card-title {
+      font-size: 0.97rem;
+      font-weight: 600;
+      line-height: 1.4;
+      color: var(--text);
+    }
+    .card-summary {
+      font-size: 0.83rem;
+      color: #475569;
+      line-height: 1.55;
+      flex: 1;
+    }
+    .card-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--red);
+      text-decoration: none;
+      margin-top: 0.2rem;
+    }
+    .card-link:hover { text-decoration: underline; }
+
+    /* ── SKELETON ── */
+    .skeleton {
+      background: #e2e8f0;
+      border-radius: 6px;
+      animation: pulse 1.4s ease-in-out infinite;
+    }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:.5} }
+    .sk-badge  { width: 80px; height: 20px; border-radius: 20px; }
+    .sk-title  { width: 100%; height: 14px; margin-top: 4px; }
+    .sk-title2 { width: 70%; height: 14px; }
+    .sk-line   { width: 100%; height: 11px; }
+    .sk-line2  { width: 85%; height: 11px; }
+    .sk-line3  { width: 60%; height: 11px; }
+
+    /* ── EMPTY / ERROR ── */
+    .message {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: var(--muted);
+    }
+    .message h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
+    .message p  { font-size: 0.85rem; }
+
+    /* ── NEXT UPDATE BADGE ── */
+    #next-update {
+      position: fixed;
+      bottom: 1.2rem;
+      right: 1.2rem;
+      background: var(--navy);
+      color: rgba(255,255,255,.85);
+      border-radius: 20px;
+      padding: 0.4rem 0.9rem;
+      font-size: 0.72rem;
+      font-weight: 500;
+      box-shadow: 0 3px 12px rgba(0,0,0,.25);
+      pointer-events: none;
+    }
+    #next-update span { color: #fff; font-weight: 700; }
+  </style>
 </head>
 <body>
 
-<a class="skip-link" href="#main">Saltar al contenido</a>
-
 <header>
-  <div id="scroll-progress" class="scroll-progress" aria-hidden="true"></div>
   <div class="header-top">
-    <div class="header-brand">
-      <div class="logo">The <span>Juanmo</span> Times</div>
-      <span id="new-count" class="new-count" aria-live="polite"></span>
-    </div>
-    <div class="header-meta" aria-hidden="false">
+    <div class="logo">The <span>Juanmo</span> Times</div>
+    <div class="header-meta">
       <span id="today-date"></span>
       <span id="last-update">Cargando...</span>
     </div>
-    <div class="header-actions">
-      <button class="header-btn" id="btn-search" title="Buscar (Ctrl+K)" aria-label="Buscar noticias (Ctrl+K)"><span aria-hidden="true">🔍</span></button>
-      <button class="header-btn" id="btn-saved" title="Guardadas" aria-label="Ver guardadas"><span aria-hidden="true">⭐</span></button>
-      <button class="header-btn" id="btn-refresh" title="Actualizar" aria-label="Actualizar noticias"><span aria-hidden="true">↻</span></button>
-      <button class="header-btn" id="btn-hide-read" title="Ocultar leídas" aria-label="Alternar ocultar leídas" aria-pressed="false"><span aria-hidden="true">👁</span></button>
-      <button class="header-btn" id="btn-theme" title="Cambiar tema" aria-label="Cambiar tema"><span aria-hidden="true">☾</span></button>
-    </div>
   </div>
-  <div class="tabs-container">
-    <button class="tab-scroll-btn tab-scroll-left" type="button" aria-label="Desplazar categorías a la izquierda" hidden><span aria-hidden="true">‹</span></button>
-    <nav class="tabs-wrapper" aria-label="Categorías">
-      <div class="tabs" role="tablist">
-        <button class="tab" role="tab" aria-selected="true" data-cat="destacadas"><span aria-hidden="true">⭐</span> Destacadas</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="todas"><span aria-hidden="true">🌐</span> Todas</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="internacional"><span aria-hidden="true">🌍</span> Internacional</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="economia"><span aria-hidden="true">💰</span> Economía</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="iglesia"><span aria-hidden="true">✝️</span> Iglesia</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="tecnologia"><span aria-hidden="true">🤖</span> Tecnología</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="deportes"><span aria-hidden="true">⚽</span> Deportes</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="belico"><span aria-hidden="true">⚔️</span> Bélico</button>
-        <button class="tab" role="tab" aria-selected="false" data-cat="uruguay"><span aria-hidden="true">🇺🇾</span> Uruguay</button>
-      </div>
-    </nav>
-    <button class="tab-scroll-btn tab-scroll-right" type="button" aria-label="Desplazar categorías a la derecha" hidden><span aria-hidden="true">›</span></button>
+  <div class="tabs-wrapper">
+    <div class="tabs">
+      <button class="tab active" data-cat="destacadas">⭐ Destacadas</button>
+      <button class="tab" data-cat="todas">🌐 Todas</button>
+      <button class="tab" data-cat="internacional">🌍 Internacional</button>
+      <button class="tab" data-cat="economia">💰 Economía</button>
+      <button class="tab" data-cat="iglesia">✝️ Iglesia</button>
+      <button class="tab" data-cat="tecnologia">🤖 Tecnología</button>
+      <button class="tab" data-cat="deportes">⚽ Deportes</button>
+      <button class="tab" data-cat="belico">⚔️ Bélico</button>
+      <button class="tab" data-cat="uruguay">🇺🇾 Uruguay</button>
+    </div>
   </div>
 </header>
 
-<main id="main" role="tabpanel" aria-labelledby="section-label">
+<main>
   <div id="section-label" class="section-label">Cargando noticias...</div>
   <div id="grid" class="grid"></div>
 </main>
 
-<!-- Command palette -->
-<div class="palette-backdrop" id="palette-backdrop" role="presentation">
-  <div class="palette" role="dialog" aria-modal="true" aria-label="Buscar noticias y comandos">
-    <div class="palette-input-wrap">
-      <span class="icon" aria-hidden="true">🔍</span>
-      <input id="palette-input" class="palette-input" type="text" placeholder="Buscar noticias o ejecutar comando..." autocomplete="off" spellcheck="false" />
-      <span class="palette-hint" aria-hidden="true">Esc</span>
-    </div>
-    <ul id="palette-results" class="palette-results" role="listbox"></ul>
-  </div>
-</div>
+<div id="next-update">🕐 Próxima actualización: <span id="next-update-time">...</span></div>
 
-<!-- Toast -->
-<div class="toast" id="toast" role="status" aria-live="polite"></div>
+<script>
+  const CATEGORY_LABELS = {
+    deportes:      'Deportes',
+    internacional: 'Internacional',
+    economia:      'Economía',
+    iglesia:       'Iglesia',
+    tecnologia:    'Tecnología',
+    belico:        'Bélico',
+    uruguay:       'Uruguay',
+  };
 
+  let allArticles = [];
+  let currentCat = 'destacadas';
+
+  // ── Date helpers ────────────────────────────────────────────
+  function timeAgo(iso) {
+    const diff = (Date.now() - new Date(iso).getTime()) / 1000;
+    if (diff < 60)   return 'hace un momento';
+    if (diff < 3600) return `hace ${Math.floor(diff / 60)}m`;
+    if (diff < 86400) return `hace ${Math.floor(diff / 3600)}h`;
+    return `hace ${Math.floor(diff / 86400)}d`;
+  }
+
+  function formatDate(d) {
+    return d.toLocaleDateString('es-UY', { weekday:'long', day:'numeric', month:'long', year:'numeric' });
+  }
+
+  // ── Skeleton ─────────────────────────────────────────────────
+  function renderSkeletons() {
+    const grid = document.getElementById('grid');
+    grid.innerHTML = Array(6).fill(0).map(() => `
+      <div class="card">
+        <div class="card-meta">
+          <div class="skeleton sk-badge"></div>
+        </div>
+        <div class="skeleton sk-title"></div>
+        <div class="skeleton sk-title2"></div>
+        <div style="display:flex;flex-direction:column;gap:5px;margin-top:4px">
+          <div class="skeleton sk-line"></div>
+          <div class="skeleton sk-line2"></div>
+          <div class="skeleton sk-line3"></div>
+        </div>
+      </div>
+    `).join('');
+  }
+
+  // ── Render cards ─────────────────────────────────────────────
+  function renderArticles(articles) {
+    const grid = document.getElementById('grid');
+    const label = document.getElementById('section-label');
+
+    if (!articles.length) {
+      grid.innerHTML = `<div class="message" style="grid-column:1/-1"><h2>Sin noticias por ahora</h2><p>Intentá actualizar en un momento.</p></div>`;
+      label.textContent = '0 artículos';
+      return;
+    }
+
+    label.textContent = `${articles.length} artículo${articles.length !== 1 ? 's' : ''}`;
+
+    grid.innerHTML = articles.map(a => `
+      <div class="card">
+        <div class="card-meta">
+          <span class="badge badge-${a.category}">${CATEGORY_LABELS[a.category] || a.category}</span>
+          <span class="card-source">${a.source}</span>
+          <span class="card-time">${timeAgo(a.published)}</span>
+        </div>
+        <div class="card-title">${escHtml(a.title)}</div>
+        ${a.summary ? `<div class="card-summary">${escHtml(a.summary)}</div>` : ''}
+        <a class="card-link" href="${a.url}" target="_blank" rel="noopener">Leer artículo →</a>
+      </div>
+    `).join('');
+  }
+
+  function escHtml(s) {
+    return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── Filter ───────────────────────────────────────────────────
+  function applyFilter(cat) {
+    currentCat = cat;
+    let filtered;
+    if (cat === 'todas') {
+      filtered = allArticles;
+    } else if (cat === 'destacadas') {
+      const seen = new Set();
+      filtered = [];
+      for (const a of allArticles) {
+        if (!seen.has(a.category)) {
+          seen.add(a.category);
+          filtered.push(a);
+        }
+      }
+      filtered.sort((a, b) => new Date(b.published) - new Date(a.published));
+    } else {
+      filtered = allArticles.filter(a => a.category === cat);
+    }
+    renderArticles(filtered);
+  }
+
+  // ── Fetch news ───────────────────────────────────────────────
+  async function loadNews() {
+    renderSkeletons();
+
+    try {
+      const res = await fetch(`news.json?_=${Date.now()}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+      allArticles = data.articles || [];
+
+      const upd = data.updated_at ? new Date(data.updated_at) : null;
+      document.getElementById('last-update').textContent =
+        upd ? `Actualizado: ${timeAgo(data.updated_at)}` : '';
+
+      applyFilter(currentCat);
+    } catch (err) {
+      document.getElementById('grid').innerHTML = `
+        <div class="message" style="grid-column:1/-1">
+          <h2>No se pudieron cargar las noticias</h2>
+          <p>Verificá tu conexión e intentá de nuevo.</p>
+        </div>`;
+      document.getElementById('section-label').textContent = 'Error al cargar';
+    } finally {
+    }
+  }
+
+  // ── Init ─────────────────────────────────────────────────────
+  document.getElementById('today-date').textContent = formatDate(new Date());
+
+  document.querySelectorAll('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+      btn.classList.add('active');
+      applyFilter(btn.dataset.cat);
+    });
+  });
+
+  // Próxima actualización (GitHub Actions corre a las 10:00, 16:00 y 22:00 UTC = 7am, 1pm, 7pm Uruguay)
+  function updateNextTime() {
+    const now = new Date();
+    const hoursUTC = [10, 16, 22];
+    const next = hoursUTC
+      .map(h => { const d = new Date(now); d.setUTCHours(h, 0, 0, 0); if (d <= now) d.setUTCDate(d.getUTCDate() + 1); return d; })
+      .sort((a, b) => a - b)[0];
+    const diff = Math.round((next - now) / 60000);
+    const h = Math.floor(diff / 60), m = diff % 60;
+    document.getElementById('next-update-time').textContent =
+      h > 0 ? `en ${h}h ${m}m` : `en ${m} min`;
+  }
+  updateNextTime();
+  setInterval(updateNextTime, 60000);
+
+  loadNews();
+
+  // ── PWA Service Worker ───────────────────────────────────────
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('sw.js').catch(() => {});
+  }
+</script>
 </body>
 </html>
