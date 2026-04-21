@@ -1,0 +1,115 @@
+{
+  "updated_at": "2026-04-21T22:09:20.289596+00:00",
+  "fx": [
+    {
+      "label": "USD/UYU",
+      "value": 39.87
+    },
+    {
+      "label": "EUR/UYU",
+      "value": 46.96
+    },
+    {
+      "label": "BRL/UYU",
+      "value": 8.01
+    },
+    {
+      "label": "ARS/UYU",
+      "value": 0.03
+    }
+  ],
+  "indices": [
+    {
+      "label": "S&P 500",
+      "value": 7064.0,
+      "change": -0.82,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "Dow Jones",
+      "value": 49149.4,
+      "change": -1.16,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "Nasdaq 100",
+      "value": 26479.47,
+      "change": -0.58,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "Bovespa",
+      "value": 196132.06,
+      "change": 0.2,
+      "_date": "2026-04-20",
+      "_prev_close": null
+    },
+    {
+      "label": "Merval",
+      "value": 2940100.25,
+      "change": 0.29,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    }
+  ],
+  "stocks": [
+    {
+      "label": "AAPL",
+      "value": 266.17,
+      "change": -1.96,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "MSFT",
+      "value": 424.16,
+      "change": 0.93,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "GOOGL",
+      "value": 332.35,
+      "change": -1.58,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "AMZN",
+      "value": 249.96,
+      "change": -2.01,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    },
+    {
+      "label": "TSLA",
+      "value": 386.39,
+      "change": -1.68,
+      "_date": "2026-04-21",
+      "_prev_close": null
+    }
+  ],
+  "crypto": [
+    {
+      "label": "BTC",
+      "value": 75537,
+      "change": -0.72,
+      "currency": "USD"
+    },
+    {
+      "label": "ETH",
+      "value": 2312.21,
+      "change": -0.6,
+      "currency": "USD"
+    },
+    {
+      "label": "SOL",
+      "value": 85.18,
+      "change": -0.9,
+      "currency": "USD"
+    }
+  ]
+}

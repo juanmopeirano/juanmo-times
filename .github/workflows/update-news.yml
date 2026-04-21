@@ -1,0 +1,52 @@
+name: Update news + market
+
+on:
+  schedule:
+    # 3 runs a day (UTC): 10:00, 16:00, 22:00 — ~7am/1pm/7pm Uruguay time
+    - cron: '0 10,16,22 * * *'
+  # Allow manual trigger from the Actions tab
+  workflow_dispatch:
+
+# Cancel older runs if a newer one is queued
+concurrency:
+  group: update-news
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch news
+        run: python fetch_news.py
+
+      - name: Fetch market
+        # stdlib-only script — never blocks on partial failure (writes whatever
+        # it could gather). continue-on-error guards the job against an
+        # unexpected crash so news still gets committed.
+        run: python fetch_market.py
+        continue-on-error: true
+
+      - name: Commit updated data if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add news.json market.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "chore: update data [skip ci]"
+            git push
+          fi
