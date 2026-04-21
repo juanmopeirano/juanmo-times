@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-04-21T13:23:43.190273+00:00",
+  "updated_at": "2026-04-21T13:53:12.976780+00:00",
   "articles": [
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Trump, Putin, Netanyahu: Amnistía Internacional llama a resistir frente a los líderes “depredadores”",
+      "summary": "La organización defensora de derechos humanos, Amnistía Internacional, publicó este martes 21 de abril su informe anual, en el que subraya que muchos líderes mundiales demostraron \"cobardía\" en 2025, cuando deberían haber estado \"resistiendo\" ante jefes de Estado \"depredadores\" como Donald Trump,...",
+      "url": "https://www.france24.com/es/europa/20260421-trump-putin-netanyahu-amnist%C3%ADa-internacional-llama-a-resistir-frente-a-los-l%C3%ADderes-depredadores",
+      "published": "2026-04-21T13:42:48+00:00"
+    },
+    {
+      "category": "internacional",
+      "source": "BBC Mundo",
+      "title": "Identifican al sospechoso del tiroteo en las pirámides de Teotihuacán en el que falleció una canadiense y otras 13 personas resultaron heridas",
+      "summary": "La presidenta de México, Claudia Sheinbaum, expresó sus condolencias por las víctimas y anunció una investigación federal del tiroteo.",
+      "url": "https://www.bbc.com/mundo/articles/cqj8x5488pwo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-21T13:37:03+00:00"
+    },
     {
       "category": "internacional",
       "source": "BBC Mundo",
       "title": "\"Disparaba desde arriba en la pirámide y tenía rehenes\": los relatos de testigos del tiroteo en Teotihuacán en el que murió una mujer y otras 13 personas resultaron heridas",
       "summary": "Turistas y trabajadores del famoso recinto arqueológico mexicano vivieron momentos de tensión y de angustia.",
       "url": "https://www.bbc.com/mundo/articles/ce350995jleo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-21T13:12:26+00:00"
-    },
-    {
-      "category": "internacional",
-      "source": "El País",
-      "title": "Los ministros de Exteriores de la UE debaten la suspensión del Acuerdo de Asociación con Israel",
-      "summary": "España, apoyada por Irlanda y Eslovenia, insta a los Veintisiete a enviar una “señal fuerte” al Gobierno de Netanyahu. Alemania e Italia rechazan suspender el acuerdo",
-      "url": "https://elpais.com/internacional/2026-04-21/albares-la-ue-debe-enviar-una-senal-fuerte-a-israel.html",
-      "published": "2026-04-21T13:03:13+00:00"
+      "published": "2026-04-21T13:34:15+00:00"
     },
     {
       "category": "internacional",
@@ -36,10 +44,10 @@
     {
       "category": "internacional",
       "source": "El País",
-      "title": "Carlos III admite, en el centenario de su madre, que la situación actual del Reino Unido “le habría preocupado profundamente”",
-      "summary": "El monarca viajará en una semana a Estados Unidos, en medio de una creciente tensión entre Londres y Washington",
-      "url": "https://elpais.com/internacional/2026-04-21/carlos-iii-admite-en-el-centenario-de-su-madre-que-la-situacion-actual-del-reino-unido-le-habria-preocupado-profundamente.html",
-      "published": "2026-04-21T10:52:36+00:00"
+      "title": "La incierta negociación entre Estados Unidos e Irán: ¿cuándo acaba la tregua? ¿Hay posibilidad de prorrogarla?",
+      "summary": "A pocas horas de que venza el plazo del alto el fuego, ninguna de las dos partes aclara si se reanudará el diálogo",
+      "url": "https://elpais.com/internacional/2026-04-21/la-incierta-negociacion-entre-estados-unidos-e-iran-cuando-acaba-la-tregua-hay-posibilidad-de-prorrogarla.html",
+      "published": "2026-04-21T11:17:28+00:00"
     },
     {
       "category": "internacional",
@@ -48,14 +56,6 @@
       "summary": "En los últimos meses, un número récord de brasileños ha solicitado la residencia en Paraguay, motivados por ideologías políticas, bajos impuestos y prometedores videos en redes sociales. BBC News Brasil visitó Ciudad del Este, en Paraguay, el punto de entrada de miles de brasileños.",
       "url": "https://www.bbc.com/mundo/articles/c99520139jzo?at_medium=RSS&at_campaign=rss",
       "published": "2026-04-21T10:34:11+00:00"
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "Identifican al sospechoso del tiroteo en las pirámides de Teotihuacán en el que falleció una canadiense y otras 13 personas resultaron heridas",
-      "summary": "La presidenta de México, Claudia Sheinbaum, expresó sus condolencias por las víctimas y anunció una investigación federal del tiroteo.",
-      "url": "https://www.bbc.com/mundo/articles/cqj8x5488pwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-21T10:21:14+00:00"
     },
     {
       "category": "internacional",
@@ -156,6 +156,14 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
+      "title": "El Papa a las Autoridades: aplicar políticas contracorriente centradas en el bien común",
+      "summary": "En su primer encuentro en Guinea Ecuatorial, el Papa se dirige a las autoridades del país y advierte que el destino de la humanidad corre el riesgo de verse trágicamente comprometido “sin un cambio de rumbo en la asunción de la responsabilidad política y sin respeto por las instituciones y los...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-04/papa-leon-discurso-autoridades-guinea-ecuatorial.html",
+      "published": "2026-04-21T09:30:00+00:00"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
       "title": "El Papa León se despide de Angola y llega a Guinea Ecuatorial",
       "summary": "Concluye la tercera etapa del viaje apostólico del Pontífice por África, quien es esperado en Guinea Ecuatorial. En el aeropuerto de Luanda se llevó a cabo la ceremonia de despedida con el presidente angoleño, João Manuel Gonçalves Lourenço. En Malabo están previstos el encuentro con las...",
       "url": "https://www.vaticannews.va/es/papa/news/2026-04/papa-leon-despedida-angola-viaje-apostolico-guinea-ecuatorial.html",
@@ -186,12 +194,12 @@
       "published": "2026-04-21T05:27:00+00:00"
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Guinea Ecuatorial: una \"Iglesia en camino\" aguarda a León XIV",
-      "summary": "Bajo el lema \"Cristo, luz de Guinea Ecuatorial\", la única nación hispanohablante de África se prepara para un reencuentro histórico con el Sucesor de Pedro, en una visita que promete consolidar la madurez de una Iglesia con rostro propio y raíces profundas. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-04/guinea-ecuatorial-espera-visita-papa-leon-xiv-iglesia-catolica.html",
-      "published": "2026-04-20T17:21:00+00:00"
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "'Dune 3' le ha bloqueado IMAX a 'Vengadores: Doomsday. La respuesta de Disney ha sido inventarse su propio IMAX",
+      "summary": "El 18 de diciembre de 2026, dos de los blockbusters más esperados de la última década comparten fecha de estreno. Warner Bros. tiene contratada la exclusividad de todas las pantallas IMAX de Estados Unidos para 'Dune: Parte Tres' durante tres semanas. Se trata de un espacio vital para la taquilla...",
+      "url": "https://www.xataka.com/cine-y-tv/dune-3-le-ha-bloqueado-imax-a-vengadores-doomsday-respuesta-disney-ha-sido-inventarse-su-propio-imax",
+      "published": "2026-04-21T13:30:38+00:00"
     },
     {
       "category": "tecnologia",
@@ -250,12 +258,68 @@
       "published": "2026-04-21T11:48:39+00:00"
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Con John Ternus, Apple ha dado un giro histórico en su liderazgo: el CEO de la logística da paso al CEO de la ingeniería",
-      "summary": "Tim Cook ha anunciado que dejará el cargo de CEO de Apple el 1 de septiembre. Le sustituirá John Ternus, su vicepresidente senior de ingeniería de hardware. Este relevo generacional, largamente esperado, supone un cambio importante en el ADN del liderazgo de una de las empresas más valiosas del...",
-      "url": "https://www.xataka.com/empresas-y-economia/apple-ha-dado-giro-historico-su-liderazgo-ceo-logistica-da-paso-al-ceo-ingenieria",
-      "published": "2026-04-21T11:46:38+00:00"
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Temporada en blanco, despido (casi) seguro",
+      "summary": "Sólo Luxemburgo resisitó a un ejercicio sin títulos... y de manera breve",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/04/21/consecuencias-temporadas-blanco-florentino.html",
+      "published": "2026-04-21T13:46:31+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Giulio Pellizzari está listo para el Giro: victoria de mucha entidad en el Tour de los Alpes",
+      "summary": "El italiano muestra un gran estado de forma en una de las carreras preparatorias por excelencia",
+      "url": "https://www.marca.com/ciclismo/2026/04/21/giulio-pellizzari-listo-giro-certifica-victoria-entidad-tour-alpes.html",
+      "published": "2026-04-21T13:24:18+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La odisea de la ballena Timmy continúa: vuelve a quedar varada en el mar Báltico tras su liberación",
+      "summary": "En apenas 24 horas, se ha pasado de la euforia al desconcierto",
+      "url": "https://www.marca.com/tiramillas/ciencia/2026/04/21/odisea-ballena-timmy-continua-vuelve-quedar-varada-mar-baltico-liberacion.html",
+      "published": "2026-04-21T13:19:56+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Max Verstappen cambia de coche... y vive la cara más amarga",
+      "summary": "El neerlandés vivió la cara amarga de las Clasificaciones de cara a unas 24 Horas de Nurburgring que no son tan fáciles como se podía esperar...",
+      "url": "https://www.marca.com/motor/formula1/2026/04/21/reto-dificil-max-verstappen-f1.html",
+      "published": "2026-04-21T13:03:42+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Roberto Mancini puede perder una Liga... ¡¡¡que ya había ganado!!!",
+      "summary": "Al Sadd se jugará la Liga en la última jornada después de que la Federación otorgara una victoria a Shamal en los despachos",
+      "url": "https://www.marca.com/futbol/2026/04/21/roberto-mancini-perder-liga-habia-ganado.html",
+      "published": "2026-04-21T13:02:52+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Mundial 2026",
+      "title": "Mundial 2026: Conoce todo lo que debes de saber del torneo - El Gráfico - El Gráfico",
+      "summary": "Mundial 2026: Conoce todo lo que debes de saber del torneo - El Gráfico El Gráfico",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXZiNUl3aGNlQW81ZHQ3LXZnTVZqRG5YbmJVT1FrZG5ZOHplYTI1ZkZPSGRuNks0WTQ5WHlEV3ZURXJlWnViZFVwcVNldzB4SDVMTzg2dkhXcV93UjBEaEtabHNNb0ZmV1Rka0lZZXZjUXdGSnZwWWZYM3BJdlhmUWVuTGo3UTBTTzdPV3VKN0JKdHN5VTgwRVJJSDFsMzBDYjlJSkRWdjRKMk5NcmfSAbMBQVVfeXFMTkdrazRQejdkOEVTS0M2N2NNUmRSS2p3YlBhbFdTNURIZW1IM1JuYVJQWGZTSGE2Z0NlNEZyNzdvd0RNTDJWMnQ5WTNtMWhZX2o1WnpTTXRQQkVvOUhOSWRhLWpEeWNPXzZCTGFRTTFmcmZiSVZ1c1o1MHBtQTZOdThvbm1Ccl9kbTV1S1ZIZ3BPcG9KYnBwd2lBX25TTzFmeHYxZnVhQkRhaXpSbTR3STktejg?oc=5",
+      "published": "2026-04-21T12:59:00+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Flick: \"¿Pasillo del Madrid? Paso a paso, primero ganar la Liga...\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/barcelona/2026/04/21/flick-pasillo-madrid-paso-paso-primero-ganar-liga-video.html",
+      "published": "2026-04-21T12:28:01+00:00"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El púgil británico Okolie da positivo en el control antidopaje antes del combate contra Yoka",
+      "summary": "Su pelea de los pesados está programada para este sábado 25 de abril en París",
+      "url": "https://www.marca.com/boxeo/2026/04/21/pugil-britanico-okolie-da-positivo-control-antidopaje-combate-yoka.html",
+      "published": "2026-04-21T12:13:07+00:00"
     },
     {
       "category": "belico",
@@ -324,10 +388,10 @@
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "La cantidad de pobres en Uruguay está estancada: la cifra se mantiene en torno a 17% hace años - Infobae",
-      "summary": "La cantidad de pobres en Uruguay está estancada: la cifra se mantiene en torno a 17% hace años Infobae",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ1NVTDZTbVdvQUlxRkRPWTZBODM2UUZfUk9wOWF2emFSQ3o1ZXY2UEdTeGRHQkYzdDVyNUxCc09zQzlKbDZPTFkwUnFtTk1MNExMenNUWDhRRU9tMDRYdFJ0clhxdk1Ta3h4ZEpZYVZNT0xrTnJUQUtQOGxpZndaQVQzMm9vd2FaSTNsVko3QXN0WnZKM3FDMW8tM19HN2l0OGRES05WQVlLdzR4bjR2VXVVSWdWeGhEY2JhcThOcUZ4TTBtV0ZfaDdKa1p6QVVsTXRaTUZFRHRHSWNTVlV0Wm1mUTktQdIBgAJBVV95cUxQSkNiWWttQ2NndmdTN3RJaGxYekpNa0RuQkxCa1Y3OG5TV3o3OXdFSV9UeHRqZ1RGRXRTVUlVVW1ONDlLVExvV1RkVUdLSUVRTzlaNk1tdHlWMjdZam5EMWpYV2g5cy02N1hUUkhDUnFOaGdaRlltS3hHRE9Fenc1bzJsNlhZeTRuZVFTUnhxZXF2V2dfWlk2bWZIRU1NbjBOSnBidXZuTWhaWTdQYnFoV0ZaNDJTbFFGVktjNTU4eTl3b0haMkFWeGZ2RzBGcTBiWHVxcVNNeVBBVjRWUDlSMXhRazEtcGNqQTRvdFNxUjRYVjZXd1NTM3JLcndOU3BR?oc=5",
-      "published": "2026-04-21T12:30:23+00:00"
+      "title": "Alerta en liceos por un peligroso reto viral que llega desde Argentina y moviliza a la Policía en Uruguay - EL PAÍS Uruguay",
+      "summary": "Alerta en liceos por un peligroso reto viral que llega desde Argentina y moviliza a la Policía en Uruguay EL PAÍS Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSmJfcUhwQzM1dW5VUXRLQlhRdlZsN0NRVDBaYjY4c2ZJOXFRbkkycTg5Tkc2dGY3dHhKMFlOS2lKdnBzRkFtVjlOZ0VQaGFpSUd0NlU4cGd3dk53MkJlNy1rZHVld3JxaFlpY1FKcFRJWC0wcEJhNTE4Zk9TSTBaSVN2YW9ZY29sRGJ5SjZIcmk1ajM5bnNIVkxMZkRmLWRWMlNGa3RFNlZjN1FpbWR5Y3hrVTJLb0M0YmdwdEZXd2d5eUNKaXVjS0FEZ283VkwwajZQV0hJSnF4amVZUnNvTWtjTVZ0UlA4bnc?oc=5",
+      "published": "2026-04-21T13:14:08+00:00"
     },
     {
       "category": "uruguay",
@@ -348,26 +412,10 @@
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "La crisis de Uruguay es de estructura, ahora se agrega la del Golfo Pérsico… - argentina.indymedia.org",
-      "summary": "La crisis de Uruguay es de estructura, ahora se agrega la del Golfo Pérsico… argentina.indymedia.org",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQb2xnd0pjVDA2QUJNTG9wOGZvY2NFQzVqSHVUUnRNTkwwM0hwTFJrb3BCRGRQTW82WWNDRndKejZ6WUloakVKQl9RX0hNeS12T0dsRkd5VXNkcVVnd0FVSXpKb2lWS1c2N240UTI0aWNZMXBFanRkb24xNXZIX21zbkJXclRqTFM2TU95M3ZJdzVGdTh0N19pRS00M3plRXZFb2pRcEs3dnhsZ3JTejhSdmw5MnU3ZmsxSFE?oc=5",
-      "published": "2026-04-21T10:24:42+00:00"
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "CEPES RESPALDA EN URUGUAY LA CONSTITUCIÓN DEL CONSEJO CONSULTIVO DE ECONOMÍA SOCIAL Y SOLIDARIA - Confederación Empresarial Española de la Economía Social",
-      "summary": "CEPES RESPALDA EN URUGUAY LA CONSTITUCIÓN DEL CONSEJO CONSULTIVO DE ECONOMÍA SOCIAL Y SOLIDARIA Confederación Empresarial Española de la Economía Social",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXUxRV8xZ3VnaVpHVk82SF9UWTJGQ0U4NTJ0WU9LcnJZZDZacE5sMVl5LTF4LWZWVVlRUjI5OElabmxyTUcxc0lIWm1rMmR6QzJ4UXJVVzJEeUhFdWgwTmdKWEtkTmxxS08wejY4b2VQd2xXTC1kbndGNC1aZmY0Ul9HUEFmWF9JZnd2cldXbTF3WXNHS2pGdVRHM3lYVDBKcFl3aUJqTnZMVFhQTkxWYUFFM19vZjE4c2c?oc=5",
-      "published": "2026-04-21T07:27:52+00:00"
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Cubano muere en accidente de motos en Uruguay tras demora de ambulancia; su hijo resultó herido - CiberCuba",
-      "summary": "Cubano muere en accidente de motos en Uruguay tras demora de ambulancia; su hijo resultó herido CiberCuba",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1FuUmx4cnduWUhCdGFyOHBpQ3Bmdkx1SUVITGtjM2xmYUxITktaUlcwTFBfLXBaNGtIY2VIUmJBWFVKRWNSNHM1YnAyX0o0SGM4Q2NRM0JPb2Rhd1JZdFFENHY4MTV0OXhtc1RuOUNxeTV6X2d1enBVSVlFQ1VWdG9fUHl0em5zY1ZBS1Zoc3B3czNvdklJY01NMzM1TGE2ZDhVcV9pWTZUOUZVRFYtcXdoMkhzMDhZdlUza25mb9IBvwFBVV95cUxQT1FuUmx4cnduWUhCdGFyOHBpQ3Bmdkx1SUVITGtjM2xmYUxITktaUlcwTFBfLXBaNGtIY2VIUmJBWFVKRWNSNHM1YnAyX0o0SGM4Q2NRM0JPb2Rhd1JZdFFENHY4MTV0OXhtc1RuOUNxeTV6X2d1enBVSVlFQ1VWdG9fUHl0em5zY1ZBS1Zoc3B3czNvdklJY01NMzM1TGE2ZDhVcV9pWTZUOUZVRFYtcXdoMkhzMDhZdlUza25mbw?oc=5",
-      "published": "2026-04-21T01:27:02+00:00"
+      "title": "Consolidación fiscal - EL PAÍS Uruguay",
+      "summary": "Consolidación fiscal EL PAÍS Uruguay",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBjRHBzVmZIcmdNUi1HUVJUSlNqc0ZzaUUwQTRmaFVoZkNoa0ZTS2VrUzI4VEExeHVKMFhtck1tX0VIdVhNU2RMQ2wxRUNmM2hVeS1YR01pSnVCNlpOSmRsVW94QURnNHU0UVNlQ2Ffekwwdw?oc=5",
+      "published": "2026-04-21T07:15:39+00:00"
     },
     {
       "category": "uruguay",
@@ -384,6 +432,22 @@
       "summary": "Uruguay refuerza el turismo social con subsidios para personas de bajos ingresos Yahoo en Español Vida y Estilo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSmZKcjBuMFBEa1pKdHV4YVpaSTR0MFN5OHlFUlQ4dkJXRU5RYUUxdkdHMEU1T1JwdndOZm8ybUZhQzlrU05KM24xOFBBZEIwT0hCSEl2VGlSbTk3TDZGOTUwaXhvbjBHSnBhUUd4bGd5cTZ5eGIyX254SUJkWjJtYnp3VjBQNlhaZTJGdy0wd1JWWS1ISzNj?oc=5",
       "published": "2026-04-20T22:38:53+00:00"
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Se presenta Sangre de Campeones, un recorrido por la historia del fútbol uruguayo - Montevideo Portal",
+      "summary": "Se presenta Sangre de Campeones, un recorrido por la historia del fútbol uruguayo Montevideo Portal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMk8wX2o2elJYd2ROSUZ3R2hjUWJCQTV0bVVUTUtoSU1ZT21LMWk1dHBuaXpGcHhaaHFkYzJfMnZqNDN1SWxNQnZleXdIUWEwZkNkMGtvOTJWS2cwYmdzVnZVeEQ1LWFvMUpNTlItN3g1MlczUkJhWmRpcVVhb2p1QTIxcXpCS2hWUW05a1haTE5Pb3RaQUY2d1BmbU90YzlfcnVSSkEyYkZjVWhJSkZXT2hMZnk3QjF1LThqRXZxUVl1Qnh2YTVv0gHrAUFVX3lxTFBQUk9oemxDdFhjRzNlallmZWU0YmdlOEpsSkMzRFp6emQwN19SSXhKejkteENidTFRd1FJb2FOd2wySGtMTXVQSUk2bmMyTGZxbHprbUFNUXB4X3o4a3ZvcEc2RE52SERVS2d5Vi05dkZOTFhsaldOajhBcVRsZGpLUEg3czNsaWhYSU9nSnBiVHZpRElFd1hGWE5sOHFHRlBYa0pTazdPVWgta3VuNGJGakhKQXdOTGJBRzdHVF9yVEUyMjRsY0NDYVRnYThTYWdZdndfZE1sYTNENjd1V0xGNER6dm95YWt2aEU?oc=5",
+      "published": "2026-04-20T17:48:00+00:00"
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Meteorólogo anuncia frente frío en Uruguay con un “día complicado” en cuatro departamentos - Montevideo Portal",
+      "summary": "Meteorólogo anuncia frente frío en Uruguay con un “día complicado” en cuatro departamentos Montevideo Portal",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSllyaTgzZ3FJU0hYZVZ5b1RQR0RfZXAta2JIdXVaaF82b1MtX3pmVW5BX2VFWEJCV0ZBMG5VZnVmSElNRm1GbDY0YmY5QUZWdFJwbjBxWll6OHhfNGFTMVFIazRCMTN3VzlpYW1GWlFKdWp0S2VLUHFPUTl3Z0haUWlYRTRqVHh4N3gxblMwZk5BRDlnZ3ZvV3puMjlyYWlSM2wwejg1S2NSemg5VGJqU3kwQVhlUUFjZUs1MjNxWE5CZmZaMUJiclRySktkenB1U1HSAfYBQVVfeXFMTm44TW1VMHlxQjl4dXY5M2ZuTHRuc25lZ0I2V2s1cFZpd0oxLTRfS05SZUVSRlJCaDFGcHlzWWg0NnVBNW10ZlJtWlA1MWJUREd6dVVSbDhkMTVVODdDbUN5N0U1VVBLVUF3Z21hV3hrWVFrNzl1dFk4ZEhxOGFucDJKM3lyU3ZmU01QaGVabDUxUWRBZElCMl91NjZTb3o4SWw4aXRjckhqVGpJWHJtdnQzSEFaNHZ6OEFJSUs1RHQ2RVNGazEzSWRoOW04SEFCQ3g2aDF6NVRoRFNtMGx1MnQ5VWV4TWhlUXZVTFBEMVNOcTJuYVJR?oc=5",
+      "published": "2026-04-20T00:03:00+00:00"
     }
   ]
 }
