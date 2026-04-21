@@ -49,14 +49,40 @@ FEEDS = {
         {"source": "Genbeta",      "url": "https://www.genbeta.com/index.xml"},
         {"source": "El País Tech", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"},
     ],
+    "belico": [
+        {"source": "Al Jazeera",   "url": "https://www.aljazeera.com/xml/rss/all.xml"},
+        {"source": "BBC Mundo",    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",    "keywords": True},
+        {"source": "France 24",    "url": "https://www.france24.com/es/rss",           "keywords": True},
+        {"source": "DW Español",   "url": "https://rss.dw.com/rdf/rss-es-all",        "keywords": True},
+        {"source": "Crisis Group", "url": "https://www.crisisgroup.org/rss.xml"},
+    ],
     "uruguay": [
-        {"source": "El Observador", "url": "https://www.elobservador.com.uy/rss/ultimas-noticias.xml"},
-        {"source": "El País Uy",    "url": "https://www.elpais.com.uy/rss"},
-        {"source": "La Diaria",     "url": "https://ladiaria.com.uy/feeds/rss/"},
+        {"source": "El Observador", "url": "https://www.elobservador.com.uy/rss/"},
+        {"source": "El Observador", "url": "https://www.elobservador.com.uy/rss/portada.xml"},
+        {"source": "Montevideo Portal", "url": "https://www.montevideo.com.uy/auc.aspx?3166,1"},
+        {"source": "La Diaria",     "url": "https://ladiaria.com.uy/feeds/rss/ultimas/"},
+        {"source": "La Diaria",     "url": "https://ladiaria.com.uy/rss/"},
+        {"source": "Subrayado",     "url": "https://www.subrayado.com.uy/rss"},
+        {"source": "El País Uy",    "url": "https://www.elpais.com.uy/rss/portada.xml"},
+        {"source": "El País Uy",    "url": "https://www.elpais.com.uy/feed/"},
     ],
 }
 
 MAX_PER_CATEGORY = 8
+
+WAR_KEYWORDS = [
+    "guerra", "conflicto", "ataque", "bombardeo", "misil", "cohete",
+    "ofensiva", "ejército", "militar", "tropas", "ceasefire", "alto el fuego",
+    "Gaza", "Ucrania", "Rusia", "Israel", "Hamas", "Hezbollah", "Irán",
+    "Siria", "Yemen", "Sudán", "Corea del Norte", "OTAN", "NATO",
+    "war", "attack", "strike", "troops", "offensive", "weapons", "bombs",
+    "killed", "deaths", "casualties", "battle", "invasion", "occupation",
+    "drone", "missile", "airstr", "ceasefire", "armistice",
+]
+
+def matches_war_keywords(title, summary):
+    text = (title + " " + summary).lower()
+    return any(kw.lower() in text for kw in WAR_KEYWORDS)
 
 def fetch_category(category, feeds):
     articles = []
@@ -73,6 +99,8 @@ def fetch_category(category, feeds):
                 summary = truncate(strip_html(raw_summary), 300)
                 url = getattr(entry, 'link', '')
                 if not title or not url:
+                    continue
+                if feed_info.get("keywords") and not matches_war_keywords(title, summary):
                     continue
                 articles.append({
                     "category": category,
