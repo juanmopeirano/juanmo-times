@@ -49,6 +49,13 @@ FEEDS = {
         {"source": "Genbeta",      "url": "https://www.genbeta.com/index.xml"},
         {"source": "El País Tech", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"},
     ],
+    "deportes": [
+        {"source": "Marca",           "url": "https://www.marca.com/rss/portada.xml"},
+        {"source": "AS",              "url": "https://as.com/rss/tags/ultimas_noticias.xml"},
+        {"source": "Infobae Dep.",    "url": "https://www.infobae.com/feeds/rss/deportes/"},
+        {"source": "Google Deportes", "url": "https://news.google.com/rss/search?q=deporte+futbol+tenis+basket&hl=es-419&gl=US&ceid=US:es-419"},
+        {"source": "Mundial 2026",    "url": "https://news.google.com/rss/search?q=mundial+futbol+2026&hl=es-419&gl=US&ceid=US:es-419"},
+    ],
     "belico": [
         {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=guerra+conflicto+ataque+militar+Gaza+Ucrania&hl=es-419&gl=US&ceid=US:es-419"},
         {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=Medio+Oriente+Iran+Israel+Hamas+Rusia&hl=es-419&gl=US&ceid=US:es-419"},
