@@ -1,5 +1,5 @@
-const CACHE = 'juanmo-times-v1';
-const STATIC = ['/', '/index.html', '/manifest.json', '/icon.svg'];
+const CACHE = 'juanmo-times-v8';
+const STATIC = ['/', '/index.html', '/styles.css', '/app.js', '/icon.svg'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(STATIC)));
@@ -17,12 +17,17 @@ self.addEventListener('fetch', e => {
   const url = new URL(e.request.url);
 
   // news.json: network first, fallback to cache
+  // Only cache responses that are actually JSON — prevents cache poisoning
+  // if an intermediary (captive portal, error page, phishing) returns 200 HTML.
   if (url.pathname.endsWith('news.json')) {
     e.respondWith(
       fetch(e.request)
         .then(res => {
-          const clone = res.clone();
-          caches.open(CACHE).then(c => c.put(e.request, clone));
+          const ct = res.headers.get('content-type') || '';
+          if (res.ok && ct.includes('application/json')) {
+            const clone = res.clone();
+            caches.open(CACHE).then(c => c.put(e.request, clone));
+          }
           return res;
         })
         .catch(() => caches.match(e.request))
@@ -30,7 +35,7 @@ self.addEventListener('fetch', e => {
     return;
   }
 
-  // Static assets: cache first
+  // Static assets: cache first, fall back to network
   e.respondWith(
     caches.match(e.request).then(cached => cached || fetch(e.request))
   );
