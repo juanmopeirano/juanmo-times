@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-04-23T00:11:16.413578+00:00",
+  "updated_at": "2026-04-23T16:19:37.192047+00:00",
   "fx": [
     {
       "label": "USD/UYU",
-      "value": 39.75
+      "value": 39.79
     },
     {
       "label": "EUR/UYU",
-      "value": 46.71
+      "value": 46.65
     },
     {
       "label": "BRL/UYU",
-      "value": 8.02
+      "value": 8.01
     },
     {
       "label": "ARS/UYU",
@@ -21,94 +21,94 @@
   "indices": [
     {
       "label": "S&P 500",
-      "value": 7137.9,
-      "change": 1.05,
-      "_date": "2026-04-22",
-      "_prev_close": 7064.0
+      "value": 7134.4,
+      "change": -0.05,
+      "_date": "2026-04-23",
+      "_prev_close": 7137.9
     },
     {
       "label": "Dow Jones",
-      "value": 49490.03,
-      "change": 0.69,
-      "_date": "2026-04-22",
-      "_prev_close": 49149.4
+      "value": 49419.4,
+      "change": -0.14,
+      "_date": "2026-04-23",
+      "_prev_close": 49490.03
     },
     {
       "label": "Nasdaq 100",
-      "value": 26937.28,
-      "change": 1.73,
-      "_date": "2026-04-22",
-      "_prev_close": 26479.47
+      "value": 26934.27,
+      "change": -0.01,
+      "_date": "2026-04-23",
+      "_prev_close": 26937.28
     },
     {
       "label": "Bovespa",
-      "value": 192888.96,
-      "change": -1.65,
-      "_date": "2026-04-22",
-      "_prev_close": 196132.06
+      "value": 191977.48,
+      "change": -0.47,
+      "_date": "2026-04-23",
+      "_prev_close": 192888.96
     },
     {
       "label": "Merval",
-      "value": 2898691.75,
-      "change": -1.41,
-      "_date": "2026-04-22",
-      "_prev_close": 2940100.25
+      "value": 2887445.75,
+      "change": -0.39,
+      "_date": "2026-04-23",
+      "_prev_close": 2898691.75
     }
   ],
   "stocks": [
     {
       "label": "AAPL",
-      "value": 273.19,
-      "change": 2.64,
-      "_date": "2026-04-22",
-      "_prev_close": 266.17
+      "value": 273.27,
+      "change": 0.03,
+      "_date": "2026-04-23",
+      "_prev_close": 273.19
     },
     {
       "label": "MSFT",
-      "value": 432.68,
-      "change": 2.01,
-      "_date": "2026-04-22",
-      "_prev_close": 424.16
+      "value": 418.77,
+      "change": -3.21,
+      "_date": "2026-04-23",
+      "_prev_close": 432.68
     },
     {
       "label": "GOOGL",
-      "value": 339.25,
-      "change": 2.08,
-      "_date": "2026-04-22",
-      "_prev_close": 332.35
+      "value": 339.93,
+      "change": 0.2,
+      "_date": "2026-04-23",
+      "_prev_close": 339.25
     },
     {
       "label": "AMZN",
-      "value": 255.33,
-      "change": 2.15,
-      "_date": "2026-04-22",
-      "_prev_close": 249.96
+      "value": 256.75,
+      "change": 0.56,
+      "_date": "2026-04-23",
+      "_prev_close": 255.33
     },
     {
       "label": "TSLA",
-      "value": 387.2,
-      "change": 0.21,
-      "_date": "2026-04-22",
-      "_prev_close": 386.39
+      "value": 380.09,
+      "change": -1.84,
+      "_date": "2026-04-23",
+      "_prev_close": 387.2
     }
   ],
   "crypto": [
     {
       "label": "BTC",
-      "value": 78217,
-      "change": 2.38,
+      "value": 78355,
+      "change": -1.01,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 2369.16,
-      "change": 1.75,
+      "value": 2331.67,
+      "change": -2.94,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 86.78,
-      "change": 0.72,
+      "value": 86.19,
+      "change": -2.35,
       "currency": "USD"
     }
   ]
