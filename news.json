@@ -1,6 +1,60 @@
 {
-  "updated_at": "2026-04-26T18:02:03.918528+00:00",
+  "updated_at": "2026-04-26T23:59:26.437333+00:00",
   "articles": [
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "¿Quién es Cole Allen?: el profesor señalado como autor del tiroteo en una cena de periodistas con Trump",
+      "summary": "Ingeniero, profesor y desarrollador de videojuegos, Cole Tomas Allen, de 31 años, fue detenido tras abrir fuego en un evento con presencia del presidente Donald Trump. Un manifiesto, antecedentes y su entorno revelan señales de radicalización y planificación previa que se vieron frustrados por el...",
+      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260426-cole-allen-el-profesor-se%C3%B1alado-como-autor-del-tiroteo-en-una-cena-de-periodistas-con-trump",
+      "published": "2026-04-26T22:38:32+00:00",
+      "image": "https://s.france24.com/media/display/3bea013a-41ba-11f1-be78-005056a90284/w:1024/p:16x9/capture-168783042769ee8922915ae2-44879428.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Colombia: ataque en la vía Panamericana y desafíos de seguridad antes de las elecciones",
+      "summary": "Colombia enfrenta un repunte de la violencia y un aumento de ataques contra civiles y militares en un momento crucial, previo a las elecciones presidenciales del 31 de mayo. El sábado 25 de abril, un ataque en la vía Panamericana dejó 19 muertos, luego de que, según el Ejército, guerrilleros...",
+      "url": "https://www.france24.com/es/video/20260426-colombia-ataque-en-la-v%C3%ADa-panamericana-y-desaf%C3%ADos-de-seguridad-antes-de-las-elecciones",
+      "published": "2026-04-26T22:11:17+00:00",
+      "image": "https://s.france24.com/media/display/c440e040-41b9-11f1-abc9-005056bfb2b6/w:1024/p:16x9/ES-20260426-160954-161404-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Mali: nuevos combates en Kidal entre rebeldes tuareg y fuerzas apoyadas por Rusia",
+      "summary": "Nuevos enfrentamientos estallaron este domingo 26 de abril en la estratégica ciudad maliense de Kidal, entre rebeldes tuareg respaldados por yihadistas y fuerzas gubernamentales apoyadas por mercenarios rusos, un día después de que los insurgentes lanzaran ataques coordinados en todo el Sahel.",
+      "url": "https://www.france24.com/es/video/20260426-mali-nuevos-combates-en-kidal-entre-rebeldes-tuareg-y-fuerzas-apoyadas-por-rusia",
+      "published": "2026-04-26T22:09:47+00:00",
+      "image": "https://s.france24.com/media/display/f941e70a-41bc-11f1-9bb5-005056bf30b7/w:1024/p:16x9/capture-120305665469ee8dbb3c4817-58751204.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "BBC Mundo",
+      "title": "\"En segundos todos estábamos bajo la mesa\": el testimonio del periodista de la BBC que asistía a la cena de corresponsales con Trump cuando ocurrió el tiroteo",
+      "summary": "El corresponsal de la BBC en América del Norte, Gary O'Donoghue, cuenta lo que vivió cuando comenzaron a sonar disparos durante la ceremonia en el salón de eventos del Washington Hilton.",
+      "url": "https://www.bbc.com/mundo/articles/cq8w8exzeyno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-26T21:33:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e11/live/92ee8830-416e-11f1-b55d-0f258dce1735.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "¿Hubo fallas de seguridad en la cena de corresponsales con Trump interrumpida por tiroteo?",
+      "summary": "Un sospechoso armado irrumpió en la cena anual de la Asociación de Corresponsales de la Casa Blanca (WHCA), en lo que, según las autoridades, habría sido un intento por atacar a funcionarios de la Administración de Donald Trump. El presidente estadounidense fue evacuado del recinto por el Servicio...",
+      "url": "https://www.france24.com/es/video/20260426-hubo-fallas-de-seguridad-en-la-cena-de-corresponsales-con-trump-interrumpida-por-tiroteo",
+      "published": "2026-04-26T18:32:46+00:00",
+      "image": "https://s.france24.com/media/display/ed0287dc-419a-11f1-a2cd-005056bf30b7/w:1024/p:16x9/ES-20260426-100350-100918-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Chernóbil, 40 años después de la tragedia",
+      "summary": "Este 26 de abril se cumplen 40 años de la explosión del reactor número 4 de la central nuclear de Chernóbil, que provocó el peor desastre nuclear civil de la historia. La Unión Soviética intentó contener la propagación de la radiación, pero para entonces ya era demasiado tarde. Actualmente, el...",
+      "url": "https://www.france24.com/es/video/20260426-chern%C3%B3bil-40-a%C3%B1os-despu%C3%A9s-de-la-tragedia",
+      "published": "2026-04-26T18:32:10+00:00",
+      "image": "https://s.france24.com/media/display/07096fb8-419d-11f1-a30d-005056a90284/w:1024/p:16x9/ES-20260426-101055-101341-CS.jpg"
+    },
     {
       "category": "internacional",
       "source": "France 24",
@@ -18,60 +72,6 @@
       "url": "https://elpais.com/us/2026-04-26/el-atacante-de-la-cena-de-corresponsales-un-maestro-californiano-de-31-anos-esta-detenido.html",
       "published": "2026-04-26T17:01:03+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/VOIJLFRWPJBWVOKUEBMBP6SROM.jpg?auth=0567dff050e4c1be501eb1651cd9982f9246c4130cd9d1c1fb4b3a298951306c"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "El Festival del Libro Africano de Marrakech celebra su cuarta edición",
-      "summary": "Marrakech acoge la cuarta edición del Festival del Libro Africano, una cita ya consolidada en la región que busca impulsar la cultura y las ideas africanas, que muchas veces quedan opacadas por la literatura occidental. Nuestra corresponsal, Sofia Català, habló con algunos autores y lectores en el...",
-      "url": "https://www.france24.com/es/video/20260426-el-festival-del-libro-africano-de-marrakech-celebra-su-cuarta-edici%C3%B3n",
-      "published": "2026-04-26T16:42:13+00:00",
-      "image": "https://s.france24.com/media/display/6ae6a3aa-418b-11f1-9361-005056bfb2b6/w:1024/p:16x9/ES-20260426-060747-060949-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "EE. UU. revive tensión por las Malvinas: ¿hubo un cambio de postura?",
-      "summary": "Según información filtrada del Pentágono, citada por Reuters, Estados Unidos podría revisar su posición sobre la soberanía de las islas Malvinas, reavivando la histórica disputa por el territorio que tanto Reino Unido como Argentina reclaman como propio. Con Gabriel Puricell, sociólogo y docente...",
-      "url": "https://www.france24.com/es/video/20260426-ee-uu-revive-tensi%C3%B3n-por-las-malvinas-hubo-un-cambio-de-postura",
-      "published": "2026-04-26T16:40:53+00:00",
-      "image": "https://s.france24.com/media/display/e1396586-4188-11f1-8bdc-005056a97e36/w:1024/p:16x9/ES-20260425-190940-191249-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "¿Se alejan los avances en negociaciones entre Irán y EE. UU. en Pakistán?",
-      "summary": "Las esperanzas de una negociación entre Irán y Estados Unidos parecen disiparse por las demoras en las conversaciones y tras la cancelación del vuelo de los representantes de Donald Trump a Islamabad el 25 de abril. Mientras tanto, el canciller iraní, Abbas Araqchi, propuso en Omán crear un marco...",
-      "url": "https://www.france24.com/es/video/20260426-se-alejan-los-avances-en-negociaciones-entre-ir%C3%A1n-y-ee-uu-en-pakist%C3%A1n",
-      "published": "2026-04-26T16:40:04+00:00",
-      "image": "https://s.france24.com/media/display/71e26c3e-4186-11f1-9837-005056a97e36/w:1024/p:16x9/ES-20260426-080603-080951-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "🔴 En directo: Israel y Hezbolá se amenazan mutuamente y denuncian violaciones al alto el fuego",
-      "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20260426-ataques-israel%C3%ADes-tras-%C3%B3rdenes-de-evacuaci%C3%B3n-en-l%C3%ADbano-gestiones-diplom%C3%A1ticas-de-ir%C3%A1n-en-om%C3%A1n",
-      "published": "2026-04-26T16:20:32+00:00",
-      "image": null
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "Colombia: una ola de violencia marca la recta final hacia las elecciones presidenciales",
-      "summary": "Atentados sacuden a Colombia en plena cuenta regresiva para las elecciones presidenciales. Un ataque con explosivos en la vía Panamericana, en el departamento del Cauca, dejó al menos 19 muertos el 25 de abril, sumándose a otros hechos violentos como el carro bomba detonado el día anterior contra...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260426-colombia-una-ola-de-violencia-marca-la-recta-final-hacia-las-elecciones-presidenciales",
-      "published": "2026-04-26T15:37:55+00:00",
-      "image": "https://s.france24.com/media/display/0ff7d600-417a-11f1-9327-005056bfb2b6/w:1024/p:16x9/2026-04-26T133606Z-1665061850-RC20XKAETLFZ-RTRMADP-3-COLOMBIA-VIOLENCE.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "Al menos 19 muertos y decenas de heridos tras ataques con explosivos en el sur de Colombia",
-      "summary": "Las autoridades acusaron a las disidencias de las FARC lideradas por alias \"Iván Mordisco\"",
-      "url": "https://www.bbc.com/mundo/articles/cvgl228k2rzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-04-26T15:20:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bbb2/live/96c57c10-4106-11f1-8897-fb452b13d91f.jpg"
     },
     {
       "category": "economia",
@@ -220,6 +220,24 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
+      "title": "Ponerse un traje de oso para defraudar más de 141.000 dólares a un seguro de coche parecía creíble. Hasta que dejó de serlo",
+      "summary": "Hay historias que parecen escritas para no ser creídas. Todo empieza con un coche de lujo, un supuesto ataque de oso en mitad de California y unas imágenes que, en teoría, deberían demostrarlo todo. El relato encaja en apariencia, daños en el interior del vehículo, marcas de garras, un animal que...",
+      "url": "https://www.xataka.com/magnet/ponerse-traje-oso-para-defraudar-141-000-dolares-a-seguro-coche-parecia-creible-que-dejo-serlo",
+      "published": "2026-04-26T19:01:52+00:00",
+      "image": "https://i.blogs.es/277862/oso-fraude-portada/1024_2000.jpeg"
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Petra no solo era una bella ciudad tallada en roca: también tenía un sofisticado sistema hídrico en pleno desierto de Jordania",
+      "summary": "Pocos monumentos hay más conocidos en toda la faz de la Tierra que Petra, la capital del Reino Nabateo en el sur del actual Jordán. Esa majestuosa fachada esculpida en roca es patrimonio de la humanidad. Sin embargo, hay una dimensión de la ciudad que es igual de impresionante y que suele pasar...",
+      "url": "https://www.xataka.com/magnet/petra-no-solo-era-bella-ciudad-tallada-roca-tambien-tenia-sofisticado-sistema-hidrico-pleno-desierto-jordania",
+      "published": "2026-04-26T18:01:52+00:00",
+      "image": "https://i.blogs.es/f80bfe/petri/1024_2000.jpeg"
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
       "title": "México toca el cielo con un nuevo y elegante rascacielos de 484 metros y 99 plantas. Será el más alto de todo América Latina",
       "summary": "Desde hace décadas, parecía que lo de \"el límite es el cielo\" aplicado a la arquitectura era una máxima a la que solo llegaba Asia y Oriente Medio. De hecho, en los últimos tiempos el mundo ha asistido a una frenética carrera por ver quién lo tiene más grande (el rascacielos) entre Dubai y Arabia...",
       "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/mexico-toca-cielo-nuevo-elegante-rascacielos-484-metros-99-plantas-sera-alto-todo-america-latina",
@@ -272,103 +290,103 @@
       "image": "https://i.blogs.es/4a958e/vestmannaeyjar087/1024_2000.jpeg"
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los Pirineos se están mediterranizando a marchas forzadas: hay 3 días de helada menos y 5 más de verano cada década",
-      "summary": "Las montañas son uno de los primeros termómetros del planeta: responden antes, lo hacen intensamente y de forma más visible que cualquier otro ecosistema terrestre frente al calentamiento global. Lo que empieza ocurriendo en sus cumbres anticipa lo que llegará después al resto. Los Pirineos no son...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/pirineos-se-estan-mediterranizando-a-marchas-forzadas-hay-3-dias-helada-5-verano-cada-decada",
-      "published": "2026-04-26T15:15:52+00:00",
-      "image": "https://i.blogs.es/9fafad/ibonnn/1024_2000.jpeg"
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Qué quería decir exactamente San Agustín con eso de \"Ama y haz lo que quieras\"",
-      "summary": "\"Para saber si alguien es bueno, no preguntamos qué cree o espera, sino qué ama\". Uno lee esta frase y es casi inevitablemente pensar que se trata de la típica mercancía escacharrada de autoayuda que llena feeds, tazas y estados de Whatsapp. Pero nada más lejos de la realidad. Y no solo porque fue...",
-      "url": "https://www.xataka.com/magnet/san-agustin-tenia-razon-pregunta-importante-para-entender-a-alguien-no-que-cree-que-espera-pregunta-que-ama",
-      "published": "2026-04-26T15:01:49+00:00",
-      "image": "https://i.blogs.es/8d1ba0/captura-de-pantalla-2026-04-26-a-las-10.57.24/1024_2000.png"
-    },
-    {
       "category": "deportes",
       "source": "Mundial 2026",
       "title": "Lista de la Selección Mexicana para el Mundial 2026. Últimas actualizaciones de la Convocatoria hoy - MARCA",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRG9FenFHYlFSbG9seW9yWjlVNDJULVpVbWRWdWRVTzFIemF2YndOeERZU3pUbnRieGRONWg3NFJ2Qlo2d3VfSVNpNDRGNjlHOGtNQUJmc0t3YWVraXZUWnEzUTFWU2ZlOGpfbURnWm1VdzVIV0lSM0tCYVEtZ1FMUGJ2T2ZoX3VIejZpck9pOHU2SGt5QkVYLdIBmAFBVV95cUxQV1ZJLTI2emFxRW9xWkRPajhOR2p0MnpVQ3kyamdCTDN3WTFqcnVESWJOT1N0Ti05dkI1NDMxbnRyNHVPNTNZM2E2bV9DMGdJOVd1OXlibkV3aEVZaWtJbWdoM3Y5dFVsaGFucmNXcjlKc1BGTFBwMjM5SmZVSnp5cGhvM2pReFJzR21OQ1k5UHoxTVJPZVVJVA?oc=5",
-      "published": "2026-04-26T17:30:29+00:00",
+      "published": "2026-04-26T23:52:23+00:00",
       "image": null
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Lebrón y Augsburger se coronan en el P2 de Bruselas tras remontar ante los número uno",
-      "summary": "Vencen por 2-6 / 6-3 / 6-3 a Tapia-Coello para estrenar su palmarés y enviar un mensaje.",
-      "url": "https://www.marca.com/padel/2026/04/26/lebron-augsburger-coronan-p2-bruselas-remontar-numero.html",
-      "published": "2026-04-26T16:59:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee3d49aa3f5.jpeg"
+      "title": "El ser humano rompe otra barrera",
+      "summary": "Así vienen los periódicos deportivos de este lunes 27 de abril de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/04/27/portadas-dia.html",
+      "published": "2026-04-26T23:47:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/27/69eea368895f1.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "La felicitación de Nike a un atleta de Adidas que está dando que hablar",
-      "summary": "La marca de Oregon felicitó a Sabastian Sawe tras su récord del mundo de maratón",
-      "url": "https://www.marca.com/atletismo/2026/04/26/felicitacion-nike-atleta-adidas-dando-hablar.html",
-      "published": "2026-04-26T16:45:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee40abcca61.jpeg"
+      "title": "Jódar ilumina la noche madrileña y ya es mejor que Fonseca",
+      "summary": "El joven de Leganés se impone al mediático tenista carioca en tres sets y sigue soñando en Madrid",
+      "url": "https://www.marca.com/tenis/mutua-madrid-open/2026/04/27/rafa-jodar-ilumina-noche-madrilena-mejor-fonseca.html",
+      "published": "2026-04-26T22:58:10+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/27/69ee94ecf1586.jpeg"
     },
     {
       "category": "deportes",
-      "source": "Marca",
-      "title": "La espeluznante caída que condenó a Márquez en Jerez",
+      "source": "Mundial 2026",
+      "title": "Comité anfitrión del Mundial 2026 lleva clínica de fútbol y salud mental a niños de Miami - WPLG Local 10",
       "summary": "",
-      "url": "https://www.marca.com/motor/motogp/2026/04/26/espectacular-caida-condeno-marquez-jerez-video.html",
-      "published": "2026-04-26T16:43:08+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee408e742be.png"
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUXdDNUtLdjIzOTROMmtsZTBZajFjSml5Ry12d0padG9hQmF3ZGRXUW1CQk9WeDRqZm56d0lUMERtNW1md3BBUFJGUG5zYlZid3haREpiMHFFLU5LcnF2d1BKTW1zZnU4SFV4blQwYWJmRVZScVphU3V5R1ZVOF9LNXJYTEcxNDZNUVdKLVN2Vm16SGxFWFBFdC11ZzRtZjJPLXNZT0NWcWVDM2Y3OF9IR19WUUoyNGZaMmZqWEdoU3JlV0cwalM2aXY5c1dtQQ?oc=5",
+      "published": "2026-04-26T22:55:31+00:00",
+      "image": null
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Paula Blasi, una semana de ensueño en las Ardenas",
-      "summary": "La española cerró el 'Tríptico' tras su quinta posición en la Lieja-Bastoña-Lieja",
-      "url": "https://www.marca.com/ciclismo/2026/04/26/paula-blasi-semana-ensueno-ardenas.html",
-      "published": "2026-04-26T16:37:44+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee3e8f38776.jpeg"
+      "title": "Wembanyama traspasa su conmoción a los Blazers en una segunda parte histórica",
+      "summary": "Los Spurs encarrilan la eliminatoria con un parcial de 35-73 tras el descanso y su estrella a tope tras recibir el alta: 27 puntos, 11 rebotes y siete tapones",
+      "url": "https://www.marca.com/baloncesto/nba/playoffs/2026/04/27/wembanyama-traspasa-conmocion-blazers-segunda-parte-historica.html",
+      "published": "2026-04-26T22:45:05+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/27/69ee8bfd13260.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Alta tensión en Oviedo: David Carmo se encara con la grada",
-      "summary": "El defensa se fue sustituido, le dijeron algo que no le gustó y se revolvió contra el público",
-      "url": "https://www.marca.com/futbol/oviedo/2026/04/26/alta-tension-oviedo-david-carmo-encara-grada-cambio.html",
-      "published": "2026-04-26T16:35:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee3ecf12a21.jpeg"
+      "title": "Xavi Simons se queda sin Mundial: cruzado y \"corazón\" roto",
+      "summary": "El jugador del Tottenham se lesionó en la rodilla en el partido ante los Wolves",
+      "url": "https://www.marca.com/futbol/premier-league/2026/04/27/xavi-simons-queda-mundial-corazon-roto.html",
+      "published": "2026-04-26T22:32:32+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/27/69ee9258285c7.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Real Oviedo 1-2 Elche: resumen y goles | LaLiga EA Sports (J33)",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/primera-division/2026/04/26/real-oviedo-1-2-elche-resumen-goles-laliga-ea-sports-j33-video.html",
-      "published": "2026-04-26T16:32:33+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee3e0d13519.png"
+      "title": "El partido entre Jódar y Fonseca se salva... ¡por 10 minutos!",
+      "summary": "La regla indica que no se puede iniciar partidos oficiales a partir de las 23.00 horas",
+      "url": "https://www.marca.com/tenis/mutua-madrid-open/2026/04/27/inicio-jodar-fonseca-salva-normativa-atp-10-minutos.html",
+      "published": "2026-04-26T22:00:17+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee89f31c706.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Arsenal se aprovecha de los errores del Lyon y toma ventaja",
-      "summary": "Los goles de Engen en propia puerta y Smith dan la vuelta al inicial de Brand",
-      "url": "https://www.marca.com/futbol/futbol-femenino/champions-league/cronica/2026/04/26/arsenal-aprovecha-errores-ol-lyonnes.html",
-      "published": "2026-04-26T16:25:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee3bec0bfdd.jpeg"
+      "title": "Andrada da la cara: \"Somos colegas...\"",
+      "summary": "El portero del Zaragoza se mostró triste y dolido por lo sucedido",
+      "url": "https://www.marca.com/futbol/zaragoza/2026/04/26/andrada-da-cara-arrepentido-le-pido-perdon-pulido.html",
+      "published": "2026-04-26T21:49:05+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/26/69ee88344d0cb.jpeg"
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "La junta militar de Mali enfrenta su mayor crisis tras la caída de Kidal y la muerte del ministro de Defensa",
-      "summary": "Los rebeldes tuareg que luchan contra el ejército de Mali anunciaron este domingo un acuerdo que permite a las fuerzas del Africa Corps ruso retirarse de Kidal, dejando la ciudad del norte \"totalmente\" bajo su control. Combatientes yihadistas en coordinación con los rebeldes tuareg mataron al...",
-      "url": "https://www.france24.com/es/%C3%A1frica/20260426-la-junta-militar-de-mali-enfrenta-su-mayor-crisis-tras-la-ca%C3%ADda-de-kidal-y-la-muerte-del-ministro-de-defensa",
-      "published": "2026-04-26T13:22:16+00:00",
-      "image": "https://s.france24.com/media/display/34a652ac-4147-11f1-b891-005056a97e36/w:1024/p:16x9/2026-04-25T123749Z-1752871624-RC2CWKAXNETP-RTRMADP-3-MALI-SECURITY.jpg"
+      "title": "¿Se alejan los avances en negociaciones entre Irán y EE. UU. en Pakistán?",
+      "summary": "Las esperanzas de una negociación entre Irán y Estados Unidos parecen disiparse por las demoras en las conversaciones y tras la cancelación del vuelo de los representantes de Donald Trump a Islamabad el 25 de abril. Mientras tanto, el canciller iraní, Abbas Araqchi, propuso en Omán crear un marco...",
+      "url": "https://www.france24.com/es/video/20260426-se-alejan-los-avances-en-negociaciones-entre-ir%C3%A1n-y-ee-uu-en-pakist%C3%A1n",
+      "published": "2026-04-26T16:40:04+00:00",
+      "image": "https://s.france24.com/media/display/71e26c3e-4186-11f1-9837-005056a97e36/w:1024/p:16x9/ES-20260426-080603-080951-CS.jpg"
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "🔴 En directo: Israel y Hezbolá se amenazan mutuamente y denuncian violaciones al alto el fuego",
+      "summary": "",
+      "url": "https://www.france24.com/es/medio-oriente/20260426-ataques-israel%C3%ADes-tras-%C3%B3rdenes-de-evacuaci%C3%B3n-en-l%C3%ADbano-gestiones-diplom%C3%A1ticas-de-ir%C3%A1n-en-om%C3%A1n",
+      "published": "2026-04-26T16:20:32+00:00",
+      "image": null
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Al menos 19 muertos y decenas de heridos tras ataques con explosivos en el sur de Colombia",
+      "summary": "Las autoridades acusaron a las disidencias de las FARC lideradas por alias \"Iván Mordisco\"",
+      "url": "https://www.bbc.com/mundo/articles/cvgl228k2rzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-04-26T15:20:44+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bbb2/live/96c57c10-4106-11f1-8897-fb452b13d91f.jpg"
     },
     {
       "category": "belico",
@@ -399,75 +417,75 @@
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "\"Algo no cuadra\": el influencer uruguayo que fue testigo del tiroteo en cena de Trump cuenta qué vio - EL PAÍS Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaXh6S3lhVzM5dnBvaG9CMGZVTU91aldkbUxEM3pxMWxScGVlTEZMSjhzdnI3Ynk0Qi13X0xoYUhJWWUydjVqaHJFVWhpcnlvWUJWYlA0QnNEZUR3QzByTDBab1BwLUpyQnNHRzl4aWQ0RkRRRWxEbF9RbmxzakVlSVlZQmd2My1MQmE2NkxuZW1DQU13Wl9OM2VwMnFwbVNjb3JYaEJkX0JpOGRkNzBua2sxUFlCbFNYbFoyMXBsV1ljR2lLVWU4bWx4NHQ1OU8ycXNtcmZyc0p0LUhH?oc=5",
-      "published": "2026-04-26T17:36:26+00:00",
+      "source": "La Diaria",
+      "title": "Nuestro Mundial, la eternidad en casa",
+      "summary": "Maldonado rompió 20 años de sequía para confirmar que ganar la Copa de Selecciones es ser campeón de la vida: desde el abrazo de un alcanzapelotas, el fútbol sigue siendo el único motor capaz de fabricar héroes a la vuelta de la esquina.Ya está. No hay que andar explicando más de qué se trata, cómo...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/4/nuestro-mundial-la-eternidad-en-casa/",
+      "published": "2026-04-26T23:58:17+00:00",
       "image": null
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Futuro primer ministro de Hungría denuncia fuga de capitales de allegados a Orbán hacia Uruguay - EL PAÍS Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW43Vm5nSXd5eFFXQk1RdE5SeWlMRl9XRXA3dGRGNjZybnRtTUszUzROS0w5aXUybkZMbUl4Vm4zcmtLdkF6aUp0Tnd1QnBYT09aaTduX0J6WVFwU1ZkaWZGQjc3RnEtYWdHQ2ZuSm9FSUFVamZHLWhLQXlsRklTelBuU0llcE9zaGw0Umx2REtucjZSb0tyTy15Yy0wcHJrZGI5M2xRUmd0c2lEZlhQNkJ0S2pmc3dHNTVrQlRzZzh4cXlJYkZQag?oc=5",
-      "published": "2026-04-26T17:26:46+00:00",
+      "source": "La Diaria",
+      "title": "Diálogo Social: la eliminación de las contraprestaciones en las transferencias tendrá asociada una “política de acompañamiento”",
+      "summary": "Gobierno y organizaciones sociales proponen quitar las condicionalidades para el cobro de las asignaciones familiares; desde la oposición se sostiene que con esta medida se pasa al “mero asistencialismo”.El próximo martes, el Consejo de Ministros volverá a reunirse para analizar el documento...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/4/dialogo-social-la-eliminacion-de-las-contraprestaciones-en-las-transferencias-tendra-asociada-una-politica-de-acompanamiento/",
+      "published": "2026-04-26T23:50:38+00:00",
       "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "Enzo Cabrera: de Río Negro de San José a anotarle a los dos grandes con Danubio",
-      "summary": "El atacante franjeado valoró a Matosas, que “se la jugó” por él, y explicó por qué el gol ante Nacional fue “una mini revancha”.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960228",
-      "published": "2026-04-26T16:11:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202604/_W620/954886.JPG"
+      "source": "La Diaria",
+      "title": "Trump y otros funcionarios de gobierno eran aparentemente los objetivos del atacante detenido en Washington",
+      "summary": "El presidente dijo que el agresor actuó movido por un profundo “odio” a los cristianos.El fiscal general interino de Estados Unidos, Todd Blanche, dijo este domingo que el presidente Donald Trump y otros funcionarios de su administración eran los probables objetivos de Cole Allen, el californiano...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/4/trump-y-otros-funcionarios-de-gobierno-eran-aparentemente-los-objetivos-del-atacante-detenido-en-washington/",
+      "published": "2026-04-26T23:47:24+00:00",
+      "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "La vendieron por $ 30.000: condenaron a los autores del robo de la estatua en el Prado",
-      "summary": "Se trataba de una pieza de bronce ubicada en la intersección de avenida Buschental y Lucas Obes.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960227",
-      "published": "2026-04-26T16:05:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202604/_W620/954885.jpeg"
+      "source": "La Diaria",
+      "title": "Heber dijo que irán detrás de la gira del FA para mostrar “la otra campana” sobre los temas de actualidad",
+      "summary": "En el congreso de la lista 71, su nuevo presidente, el diputado Juan Martín Rodríguez, dijo que se van a encargar “de decirle a Luis Lacalle Pou que tiene la responsabilidad histórica” de devolverles a los uruguayos “la confianza en el sistema democrático”.Este sábado, en el Club Español, se...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/4/heber-dijo-que-iran-detras-de-la-gira-del-fa-para-mostrar-la-otra-campana-sobre-los-temas-de-actualidad/",
+      "published": "2026-04-26T23:29:47+00:00",
+      "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "Sole Ramírez presenta su nuevo disco “Aeropuertos”, la consolidación de su camino solista",
-      "summary": "Con producción de Diego Maturro, el álbum reúne canciones bailables y colaboraciones que definen su identidad artística.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960075",
-      "published": "2026-04-26T16:00:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202604/_W620/954731.jpg"
+      "source": "La Diaria",
+      "title": "La B: Fénix o Huracán jugarán la final contra Oriental",
+      "summary": "El conjunto de Capurro visita a Atenas de San Carlos este lunes a las 19.00, y si gana, será finalista; con otro resultado, el premio será para los del Paso de la Arena, que desperdiciaron la chance contra Cerrito.La última fecha del Torneo Competencia de la Segunda División profesional mantiene el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/4/la-b-fenix-o-huracan-jugaran-la-final-contra-oriental/",
+      "published": "2026-04-26T23:23:17+00:00",
+      "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "Ola de violencia en Colombia: 26 atentados terroristas en 48 horas y decenas de muertos",
-      "summary": "El gobierno de Gustavo Petro atribuyó los ataques a una escalada por el control territorial del narcotráfico en el suroeste del país.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960226",
-      "published": "2026-04-26T15:54:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202604/_W620/954880.jpg"
+      "source": "La Diaria",
+      "title": "“Pasar del diagnóstico a la acción”: se conformó un “frente social” para enfrentar la violencia hacia infancias y adolescencias",
+      "summary": "En el marco del Día Internacional de Lucha contra el Maltrato Infantil y Adolescente, organizaciones sociales convocaron a una jornada de intercambio en la que se elaboraron propuestas para presentar al Poder Ejecutivo.“Infancias y adolescencias: emergencia nacional. Es tiempo de actuar frente a...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/4/pasar-del-diagnostico-a-la-accion-se-conformo-un-frente-social-para-enfrentar-la-violencia-hacia-infancias-y-adolescencias/",
+      "published": "2026-04-26T23:19:29+00:00",
+      "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "Menor de 16 años se entregó como presunto asesino del repartidor en Carrasco Norte",
-      "summary": "El adolescente afirmó ser el responsable y quedó a disposición de Fiscalía.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960224",
-      "published": "2026-04-26T15:28:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202406/_W620/884606.jpg"
+      "source": "La Diaria",
+      "title": "Comienzan a trabajar los sparrings convocados por Marcelo Bielsa",
+      "summary": "24 futbolistas juveniles comenzarán a trabajar en el Complejo Celeste junto con el cuerpo técnico de Marcelo Bielsa, como parte de la preparación para el Mundial 2026.La selección uruguaya de fútbol se empieza a proyectar hacia el Mundial de Estados Unidos, Canadá y México, para el que no queda...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/4/comienzan-a-trabajar-los-sparrings-convocados-por-marcelo-bielsa/",
+      "published": "2026-04-26T23:14:55+00:00",
+      "image": null
     },
     {
       "category": "uruguay",
-      "source": "Montevideo Portal",
-      "title": "“En vez de miedo, da suspenso”: las reacciones a la nueva montaña rusa en redes",
-      "summary": "Un influencer aficionado por este tipo de atracciones recopiló bromas y comentarios sobre el juego mecánico estrenado en febrero.",
-      "url": "https://www.montevideo.com.uy/auc.aspx?960222",
-      "published": "2026-04-26T15:17:00+00:00",
-      "image": "https://imagenes.montevideo.com.uy/imgnoticias/202602/_W620/946695.jpg"
+      "source": "La Diaria",
+      "title": "Mayo Amarillo en Salto: alertan por aumento de siniestros y reclaman infraestructura vial segura",
+      "summary": "Integrantes de la Unidad Local de Seguridad Vial lanzaron la convocatoria bajo la consigna “En el tránsito, ver al otro es salvar vidas”.Bajo la consigna “En el tránsito, ver al otro es salvar vidas”, el 16 de abril se lanzó el Mayo Amarillo en Salto. En diálogo con la diaria, la integrante de la...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/4/mayo-amarillo-en-salto-alertan-por-aumento-de-siniestros-y-reclaman-infraestructura-vial-segura/",
+      "published": "2026-04-26T23:11:48+00:00",
+      "image": null
     }
   ]
 }
