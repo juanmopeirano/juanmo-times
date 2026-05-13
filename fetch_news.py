@@ -99,10 +99,10 @@ FEEDS = {
         {"source": "DW Español",      "url": "https://rss.dw.com/rdf/rss-es-all",       "keywords": True},
     ],
     "uruguay": [
-        {"source": "Montevideo Portal",  "url": "https://www.montevideo.com.uy/anxml.aspx?58"},
         {"source": "La Diaria",          "url": "https://ladiaria.com.uy/feeds/articulos/"},
-        {"source": "El País Uy",         "url": "https://www.elpais.com.uy/rss/index.xml"},
         {"source": "Google Noticias UY", "url": "https://news.google.com/rss/search?q=uruguay&hl=es-419&gl=UY&ceid=UY:es-419"},
+        {"source": "El Observador",      "url": "https://news.google.com/rss/search?q=site:elobservador.com.uy&hl=es-419&gl=UY&ceid=UY:es-419"},
+        {"source": "El País Uy",         "url": "https://news.google.com/rss/search?q=site:elpais.com.uy&hl=es-419&gl=UY&ceid=UY:es-419"},
     ],
 }
 
