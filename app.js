@@ -10,6 +10,7 @@ const CATEGORY_LABELS = {
   deportes:      'Deportes',
   belico:        'Bélico',
   uruguay:       'Uruguay',
+  mercado:       'Mercado',
 };
 
 const CATEGORY_EMOJIS = {
@@ -23,6 +24,7 @@ const CATEGORY_EMOJIS = {
   deportes:      '⚽',
   belico:        '⚔️',
   uruguay:       '🇺🇾',
+  mercado:       '📈',
 };
 
 const THEMES = ['auto', 'light', 'dark', 'sepia'];
@@ -408,6 +410,23 @@ function applyFilter(cat) {
   const filterSuffix =
     (termFilter ? ` · "${termFilter}"` : '') +
     (sourceFilter ? ` · ${sourceFilter}` : '');
+
+  // Show/hide market panel vs news grid
+  const marketPanel = document.getElementById('market-panel');
+  const grid = document.getElementById('grid');
+  const filterChips = document.getElementById('filter-chips');
+  if (cat === 'mercado') {
+    if (marketPanel) marketPanel.hidden = false;
+    if (grid) grid.hidden = true;
+    if (filterChips) filterChips.hidden = true;
+    if (label) label.textContent = '📈 Mercado';
+    loadMarket(false);
+    return;
+  } else {
+    if (marketPanel) marketPanel.hidden = true;
+    if (grid) grid.hidden = false;
+    if (filterChips) filterChips.hidden = false;
+  }
 
   // Special: saved
   if (cat === 'guardadas') {
@@ -1425,6 +1444,7 @@ function renderMarketList(id, items) {
 }
 
 function renderMarket(data) {
+  // Sidebar (desktop)
   renderMarketList('market-fx',      data.fx);
   renderMarketList('market-indices', data.indices);
   renderMarketList('market-stocks',  data.stocks);
@@ -1434,11 +1454,21 @@ function renderMarket(data) {
     upd.dataset.fetchedAt = data.fetchedAt;
     upd.textContent = `act. ${timeAgo(data.fetchedAt)}`;
   }
+  // Mobile panel (tab Mercado)
+  renderMarketList('market-fx-m',      data.fx);
+  renderMarketList('market-indices-m', data.indices);
+  renderMarketList('market-stocks-m',  data.stocks);
+  renderMarketList('market-crypto-m',  data.crypto);
+  const updM = document.getElementById('market-update-m');
+  if (updM && data.fetchedAt) {
+    updM.dataset.fetchedAt = data.fetchedAt;
+    updM.textContent = timeAgo(data.fetchedAt);
+  }
 }
 
 async function loadMarket(force = false) {
-  // Only bother fetching when the sidebar is actually visible (≥1024px)
-  if (matchMedia('(max-width: 1023.98px)').matches) return;
+  // Skip on mobile unless the Mercado tab is active
+  if (matchMedia('(max-width: 1023.98px)').matches && currentCat !== 'mercado') return;
 
   const cached = loadMarketCache();
   if (cached) renderMarket(cached);

@@ -1517,3 +1517,68 @@ body.focus-mode .focus-exit {
   z-index: 90;
 }
 #next-update span { color: #fff; font-weight: 700; }
+
+/* ── PESTAÑA MERCADO (mobile) ── */
+.market-panel {
+  padding: 1rem 1rem 5rem;
+  max-width: 640px;
+  margin: 0 auto;
+}
+.market-panel .market-group {
+  background: var(--card-bg, #fff);
+  border: 1px solid var(--border, #e2e8f0);
+  border-radius: 12px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 1rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,.06);
+}
+.market-panel .market-group-label {
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  color: var(--text-muted, #64748b);
+  margin: 0 0 0.6rem;
+}
+.market-panel .market-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+}
+.market-panel .market-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.88rem;
+}
+.market-panel .market-label {
+  flex: 1;
+  color: var(--text, #0f172a);
+  font-weight: 500;
+}
+.market-panel .market-value {
+  font-variant-numeric: tabular-nums;
+  font-weight: 600;
+  color: var(--text, #0f172a);
+}
+.market-panel .market-change {
+  font-variant-numeric: tabular-nums;
+  font-size: 0.78rem;
+  min-width: 5ch;
+  text-align: right;
+}
+.market-panel .market-change.up   { color: #16a34a; }
+.market-panel .market-change.down { color: #dc2626; }
+.market-panel .market-empty {
+  color: var(--text-muted, #64748b);
+  font-size: 0.82rem;
+}
+.market-panel-update {
+  text-align: center;
+  font-size: 0.75rem;
+  color: var(--text-muted, #64748b);
+  margin-top: 0.25rem;
+}

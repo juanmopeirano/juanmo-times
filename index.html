@@ -129,6 +129,7 @@
         <button class="tab" role="tab" aria-selected="false" data-cat="deportes"><span aria-hidden="true">⚽</span> Deportes</button>
         <button class="tab" role="tab" aria-selected="false" data-cat="belico"><span aria-hidden="true">⚔️</span> Bélico</button>
         <button class="tab" role="tab" aria-selected="false" data-cat="uruguay"><span aria-hidden="true">🇺🇾</span> Uruguay</button>
+        <button class="tab" role="tab" aria-selected="false" data-cat="mercado"><span aria-hidden="true">📈</span> Mercado</button>
       </div>
     </nav>
     <button class="tab-scroll-btn tab-scroll-right" type="button" aria-label="Desplazar categorías a la derecha" hidden><span aria-hidden="true">›</span></button>
@@ -141,6 +142,25 @@
     <div id="section-label" class="section-label">Cargando noticias...</div>
     <div id="filter-chips" class="filter-chips"></div>
     <div id="grid" class="grid"></div>
+    <div id="market-panel" class="market-panel" hidden>
+      <div class="market-group">
+        <h3 class="market-group-label">Cotizaciones</h3>
+        <ul class="market-list" id="market-fx-m"><li class="market-empty">Cargando…</li></ul>
+      </div>
+      <div class="market-group">
+        <h3 class="market-group-label">Índices</h3>
+        <ul class="market-list" id="market-indices-m"><li class="market-empty">Cargando…</li></ul>
+      </div>
+      <div class="market-group">
+        <h3 class="market-group-label">Acciones</h3>
+        <ul class="market-list" id="market-stocks-m"><li class="market-empty">Cargando…</li></ul>
+      </div>
+      <div class="market-group">
+        <h3 class="market-group-label">Cripto</h3>
+        <ul class="market-list" id="market-crypto-m"><li class="market-empty">Cargando…</li></ul>
+      </div>
+      <p class="market-panel-update">📡 Actualizado: <span id="market-update-m"></span></p>
+    </div>
   </main>
 
   <aside class="sidebar" aria-label="Panel lateral">
