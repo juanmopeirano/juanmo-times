@@ -1,77 +1,86 @@
 {
-  "updated_at": "2026-05-16T06:38:30.974997+00:00",
+  "updated_at": "2026-05-16T14:37:08.757301+00:00",
   "articles": [
     {
       "category": "internacional",
+      "source": "BBC Mundo",
+      "title": "Muere un buzo que intentaba rescatar los cuerpos de los 5 italianos que se ahogaron en las Maldivas",
+      "summary": "El sargento Mohamed Mahdhee falleció mientras buceaba durante una operación de búsqueda y rescate, según informó el gobierno de Maldivas a la BBC.",
+      "url": "https://www.bbc.com/mundo/articles/clypqewj69qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T13:56:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bad8/live/c38baaf0-512b-11f1-a5d4-1388da3b9f7b.jpg"
+    },
+    {
+      "category": "internacional",
       "source": "France 24",
-      "title": "Trump y Xi en Beijing: ¿la cumbre para un cambio de liderazgo mundial?",
-      "summary": "Esta edición de Una Semana en el Mundo analiza si la capital de China ha escenificado el cambio de mando en el orden internacional o si se trata de un futuro de cooperación entre las dos principales potencias globales. Entretanto, en Cuba se dirime el futuro de la isla en negociaciones entre el...",
-      "url": "https://www.france24.com/es/programas/una-semana-en-el-mundo/20260516-trump-y-xi-en-beijing-la-cumbre-para-un-cambio-de-liderazgo-mundial",
-      "published": "2026-05-16T03:45:58+00:00",
-      "image": "https://s.france24.com/media/display/a4b7b17e-50cb-11f1-84ca-005056a90284/w:1024/p:16x9/AP26135126220714.jpg"
+      "title": "Putin se reunirá con Xi en China pocos días después del viaje de Trump a Beijing",
+      "summary": "El presidente ruso, Vladímir Putin, se reunirá con el líder chino, Xi Jinping, durante un viaje de dos días a Beijing el 19 y 20 de mayo, según informó el Kremlin el sábado. La reunión se produce pocos días después de la visita de Estado del presidente estadounidense, Donald Trump, a China, que...",
+      "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260516-putin-se-reunir%C3%A1-con-xi-en-china-pocos-d%C3%ADas-despu%C3%A9s-del-viaje-de-trump-a-beijing",
+      "published": "2026-05-16T13:43:30+00:00",
+      "image": "https://s.france24.com/media/display/5c050a58-5107-11f1-a823-005056bf30b7/w:1024/p:16x9/AP25252586333042.jpg"
     },
     {
       "category": "internacional",
-      "source": "El País",
-      "title": "El sector petrolero de Irán resiste la presión por el cierre estadounidense de Ormuz",
-      "summary": "La capacidad de refinado, el tipo de yacimiento y la experiencia en ese ámbito ofrecen a Teherán un margen de meses antes de sufrir daños graves, afirman expertos",
-      "url": "https://elpais.com/internacional/2026-05-16/el-sector-petrolero-de-iran-resiste-la-presion-por-el-cierre-estadounidense-de-ormuz.html",
-      "published": "2026-05-16T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/FWUB6QPWHREGDICPA6HDSYEXFE.jpg?auth=ee03c744679f5e3e53cd309457de56008783f768baabceb947d2e76ed15606ed"
+      "source": "France 24",
+      "title": "Informe desde Beirut: Israel ataca el sur de Líbano, pese a la extensión del cese el fuego",
+      "summary": "A pesar de que Israel y Líbano extendieron hace pocas horas el cese al fuego, el Ejército israelí atacó este 16 de mayo el sur del país, asegurando que su objetivo era \"infraestructura de Hezbolá\". Sin embargo, civiles y paramédicos también han resultado víctimas de los bombardeos de los últimos...",
+      "url": "https://www.france24.com/es/video/20260516-informe-desde-beirut-israel-ataca-el-sur-de-l%C3%ADbano-pese-a-la-extensi%C3%B3n-del-cese-el-fuego",
+      "published": "2026-05-16T13:30:24+00:00",
+      "image": "https://s.france24.com/media/display/65320e46-512a-11f1-a6cf-005056a97e36/w:1024/p:16x9/ES-20260516-070146-070549-CS.jpg"
     },
     {
       "category": "internacional",
-      "source": "El País",
-      "title": "El corazón de medio kilo de Maradona, en el centro del juicio por su muerte",
-      "summary": "Han pasado cinco años y medio de la muerte del ídolo popular y la Justicia todavía no ha dictado si hubo responsables o fue inevitable",
-      "url": "https://elpais.com/argentina/2026-05-16/argentina-a-la-espera-de-respuestas-sobre-maradona-y-su-corazon-de-503-gramos.html",
-      "published": "2026-05-16T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/GCWMLAUYQBGQFIBMIXRBLY4M4E.jpg?auth=0667acb2b1e868ae3969825821b2784214ee2f2d97a168179906dee5bddac6a9"
+      "source": "France 24",
+      "title": "Fuerzas de EE. UU. y Nigeria \"eliminan\" a un alto líder del grupo Estado Islámico en una misión conjunta",
+      "summary": "El presidente de Nigeria, Bola Tinubu, confirmó el sábado el anuncio del presidente Donald Trump relacionado con que las fuerzas estadounidenses y nigerianas mataron a un alto líder del grupo Estado Islámico (EI) en una misión conjunta en el país de África occidental.",
+      "url": "https://www.france24.com/es/%C3%A1frica/20260516-fuerzas-de-ee-uu-y-nigeria-eliminan-a-un-alto-l%C3%ADder-del-grupo-estado-isl%C3%A1mico-en-una-misi%C3%B3n-conjunta",
+      "published": "2026-05-16T13:15:19+00:00",
+      "image": "https://s.france24.com/media/display/ab655ba8-50f2-11f1-a938-005056a90284/w:1024/p:16x9/AP26118530740493.jpg"
     },
     {
       "category": "internacional",
-      "source": "El País",
-      "title": "Los palestinos de Israel mantienen viva la memoria de la Nakba pese a la represión del Gobierno de Netanyahu",
-      "summary": "La policía impide por segundo año consecutivo la tradicional marcha a los restos de una de las aldeas destruidas hace casi ocho décadas",
-      "url": "https://elpais.com/internacional/2026-05-16/los-palestinos-de-israel-mantienen-viva-la-memoria-de-la-nakba-pese-a-la-represion-del-gobierno-de-netanyahu.html",
-      "published": "2026-05-16T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/73GI6Y4MJRBOVEFMZEKT5MFS5Y.jpg?auth=10b73deb0ac4dcf5da4aadcffe177df3a0f15156fe14706881a61ecc45eb3d84"
-    },
-    {
-      "category": "internacional",
-      "source": "El País",
-      "title": "Angelique Geray, periodista infiltrada entre jóvenes neonazis alemanes: “Lo que más me sorprendió es que dicen las cosas en serio”",
-      "summary": "En estos movimientos extremistas de derecha, adolescentes de entre 14 y 17 años hablan de un “pueblo puro”, relativizan el Holocausto y odian a los inmigrantes",
-      "url": "https://elpais.com/internacional/2026-05-16/angelique-geray-periodista-infiltrada-entre-jovenes-neonazis-alemanes-lo-que-mas-me-sorprendio-es-que-dicen-las-cosas-en-serio.html",
-      "published": "2026-05-16T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/YF42WI5KJ5ASPLFYLMVLOBGHRE.jpg?auth=9728dcb161eaeccaf47d2438e0a1976ecaf314bc8ed9e71a0680fc0439e6b3fc"
+      "source": "France 24",
+      "title": "Israel ataca el sur de Líbano horas después de la extensión del alto el fuego",
+      "summary": "El Ejército de Israel ataca este sábado el sur del Líbano, afirmando que sus operaciones van dirigidas contra infraestructura de Hezbolá, pese a la extensión del alto el fuego vigente entre los gobiernos de Líbano e Israel. Mientras tanto, la televisión estatal iraní aseguró que países europeos...",
+      "url": "https://www.france24.com/es/medio-oriente/20260516-israel-ataca-el-sur-del-l%C3%ADbano-horas-despu%C3%A9s-de-la-extensi%C3%B3n-del-alto-el-fuego",
+      "published": "2026-05-16T12:41:51+00:00",
+      "image": "https://s.france24.com/media/display/0fa6151e-5105-11f1-8ea4-005056a97e36/w:1024/p:16x9/000-B2XW39F.jpg"
     },
     {
       "category": "internacional",
       "source": "BBC Mundo",
-      "title": "Por qué Italia se está convirtiendo en un refugio para los ultrarricos",
-      "summary": "Las ventajas fiscales italianas están haciendo que muchos adinerados extranjeros se instalen allí.",
-      "url": "https://www.bbc.com/mundo/articles/c3exl8qevw8o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-16T03:38:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7497/live/7dc156a0-4ef6-11f1-85df-7fe19d922bf1.jpg"
+      "title": "Suiza abrirá sus archivos secretos sobre Joseph Mengele, pero ¿cuál es la relación del \"Ángel de la muerte nazi\" con ese país?",
+      "summary": "Mengele huyó de Europa tras la guerra, pero durante años circularon rumores de que pasó un tiempo en Suiza.",
+      "url": "https://www.bbc.com/mundo/articles/c4g47vvyv4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T12:36:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8978/live/43b207e0-5115-11f1-8108-5b7f076d1ee7.jpg"
     },
     {
       "category": "internacional",
       "source": "El País",
-      "title": "Pormenores del infierno",
-      "summary": "Que haya israelíes con decencia para denunciar tantos crímenes resalta el envilecimiento de esa mayoría que según las encuestas apoya una campaña de exterminio",
-      "url": "https://elpais.com/opinion/2026-05-16/pormenores-del-infierno.html",
-      "published": "2026-05-16T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q2NFHU2MNFFVXBRS7WC6VMGUQI.jpg?auth=5a3d719bcc8bc0203034aed0055b7afbfe5def7b258002069596c8b4c8c90b8f"
+      "title": "Un bombardeo israelí mata al líder militar de Hamás en Gaza",
+      "summary": "El estado judío justifica el ataque, que ha causado 8 muertos en plena tregua, alegando que el miliciano fue “uno de los artífices” de la masacre del 7 de octubre",
+      "url": "https://elpais.com/internacional/2026-05-16/un-bombardeo-israeli-mata-al-lider-militar-de-hamas-en-gaza.html",
+      "published": "2026-05-16T12:27:15+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/JLF6Q5UQJZJUJI7WA6GF57QB5M.jpg?auth=c8dd3695cc2ec08be537b9e1199ff3029cb56252977022ef6a2e759d77e223e6"
     },
     {
       "category": "internacional",
-      "source": "France 24",
-      "title": "Ciclismo: Jonas Vingegaard gana la séptima etapa del Giro de Italia",
-      "summary": "El danés tuvo una resonante victoria en la llegada en alto de Blockhaus para acercarse en la clasificación general. El hombre del Visma atacó faltando cinco kilómetros y terminó 13 segundos antes que el escolta, el austríaco Felix Gall. El maillot rosa sigue siendo del portugués Afonso Eulalio, que...",
-      "url": "https://www.france24.com/es/deportes/20260516-ciclismo-jonas-vingegaard-gana-la-s%C3%A9ptima-etapa-del-giro-de-italia",
-      "published": "2026-05-16T02:47:40+00:00",
-      "image": "https://s.france24.com/media/display/43b43324-50cc-11f1-80a7-005056bfb2b6/w:1024/p:16x9/2026-05-15T154241Z-276616990-UP1EM5F17N4PM-RTRMADP-3-CYCLING-GIRO.jpg"
+      "source": "BBC Mundo",
+      "title": "Qué opinan los críticos de China dentro del movimiento MAGA sobre el viaje de Trump a Pekín",
+      "summary": "Entre los aliados de Trump, muchos se mantuvieron en silencio ante el tono amable del presidente hacia China y sus declaraciones sobre Taiwán.",
+      "url": "https://www.bbc.com/mundo/articles/c3d2rz97lyro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-16T10:29:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/893a/live/65a2cab0-50bb-11f1-b682-cf91850925ea.jpg"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "José Elías niega haber filtrado información privilegiada a Piqué y apunta a un exdirectivo de Audax",
+      "summary": "El empresario explica que se reunió con el exfutbolista en una comida para hablar de negocios, en la que también participó un directivo que tenía la misma información que él",
+      "url": "https://elpais.com/economia/2026-05-16/jose-elias-niega-haber-filtrado-informacion-privilegiada-a-pique-y-apunta-a-un-exdirectivo-de-audax.html",
+      "published": "2026-05-16T10:13:47+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/UWYQIPN24VFW7NP6766QQFFSW4.jpg?auth=f1b01577a6fa5d9ff15806d66decf89834941c3b2f1d0d517287fa6778aa6cbf"
     },
     {
       "category": "economia",
@@ -81,6 +90,15 @@
       "url": "https://cincodias.elpais.com/opinion/2026-05-16/la-inversion-en-un-mundo-multipolar.html",
       "published": "2026-05-16T03:40:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ANS2MSZXVJEFFP3ZUC7HXBIDVM.JPG?auth=e4272770f4d3cbbda3964b1400347558b8590e5ce55afea306a4158cd1c66df0"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Casos judiciales y reservas ante la IA: el debate sobre su desarrollo",
+      "summary": "Mientras la sociedad y los humanos la supervisen y la controlen, su rendimiento seguirá siendo positivo",
+      "url": "https://cincodias.elpais.com/opinion/2026-05-16/casos-judiciales-y-reservas-ante-la-ia-el-debate-sobre-su-desarrollo.html",
+      "published": "2026-05-16T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZPBCCD2O4NPI3CWW45SGSNXTVU.jpg?auth=d64bd5be23b37840b6d7bf74c18c2d62c1c342e14b903219ccfc449d71ec46f5"
     },
     {
       "category": "economia",
@@ -99,15 +117,6 @@
       "url": "https://cincodias.elpais.com/opinion/2026-05-16/un-florentino-perez-en-el-madrid-un-florentino-perez-en-acs.html",
       "published": "2026-05-16T03:40:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/NRJJLNRGENB2RCLSGS77MFWVGU.jpg?auth=1eed56488fd1cf1489ae5072945eb94f31f4fdcd8a95712b8334d8cbf514d7de"
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Casos judiciales y reservas ante la IA: el debate sobre su desarrollo",
-      "summary": "Mientras la sociedad y los humanos la supervisen y la controlen, su rendimiento seguirá siendo positivo",
-      "url": "https://cincodias.elpais.com/opinion/2026-05-16/casos-judiciales-y-reservas-ante-la-ia-el-debate-sobre-su-desarrollo.html",
-      "published": "2026-05-16T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZPBCCD2O4NPI3CWW45SGSNXTVU.jpg?auth=d64bd5be23b37840b6d7bf74c18c2d62c1c342e14b903219ccfc449d71ec46f5"
     },
     {
       "category": "economia",
@@ -137,229 +146,220 @@
       "image": "https://imagenes.elpais.com/resizer/v2/EH4IAOUB4RPBDIDQ5CQSUDVXPM.jpg?auth=789058b1e2f1d0008239ec5ece87e5b365b518f1e9976d5353cfaaabbb0a4fd5"
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La IA entra en la maleta con cautela: “La uso, pero para organizar viajes largos prefiero un profesional”",
-      "summary": "Seis de cada diez españoles emplean esta tecnología para diseñar parte de sus escapadas, aunque menos del 5% delegarían plenamente la planificación en algoritmos",
-      "url": "https://elpais.com/economia/2026-05-16/la-ia-entra-en-la-maleta-con-cautela-la-uso-pero-para-organizar-viajes-largos-prefiero-un-profesional.html",
-      "published": "2026-05-16T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/GCAMVH5ITZGDPEGM33R2DUSCQE.jpg?auth=4fc9c03e65884e4d9bc8224e262874db15dcde3d66d5cf5800565a23124c949d"
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Cardenal Czerny: oremos por la paz y el desarrollo social en Cuba",
+      "summary": "El prefecto del Dicasterio para el Servicio del Desarrollo Humano Integral celebró una misa por las necesidades del pueblo cubano: “que la amada tierra cubana pueda conocer días de mayor serenidad”. Leer todo",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/cardenal-czerny-oremos-por-la-paz-y-el-desarrollo-social-cuba.html",
+      "published": "2026-05-16T12:19:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/16/afef.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Un videopodcast para la visita del Papa León XIV a España",
-      "summary": "La archidiócesis de Madrid anima y prepara la visita del Papa también con un videopodcast: «Una Iglesia, mil voces» Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/un-videopodcast-para-la-visita-del-papa-leon-xiv-a-espana.html",
-      "published": "2026-05-15T15:53:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/15/FF.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "Jornada de los Museos: aperturas especiales en Castel Gandolfo",
+      "summary": "Con ocasión de la Jornada Internacional de los Museos, el Polo Museístico de Castel Gandolfo abre excepcionalmente tres ambientes del Apartamento privado que normalmente no son accesibles al público. Un recorrido entre ocio, música y convivencia para descubrir una dimensión más íntima de la vida de...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/castel-gandolfo-abiertos-ambientes-apartamento-pontificio-jornad.html",
+      "published": "2026-05-16T11:24:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/13/4---Papa-Clemente-XIV-esce-a-cavallo-dal-Palazzo---Sala-del-Biliardo---Palazzo-Papale---Ca.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "La Iglesia frente al conflicto en la frontera colombo-ecuatoriana",
-      "summary": "Encuentro de pastoral fronteriza entre Ecuador y Colombia, que reunió a obispos, agentes pastorales y actores sociales para analizar la crisis de seguridad binacional. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/la-iglesia-frente-a-la-agudizacion-del-conflicto-en-la-frontera.html",
-      "published": "2026-05-15T15:18:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/15/88.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "León XIV recibirá este lunes en el Vaticano a Aram I, Catolicós de Cilicia",
+      "summary": "En un comunicado, la Oficina de Prensa de la Santa Sede informó sobre la visita al Vaticano, el lunes 18 de mayo, de Su Santidad Aram I, Catolicós de Cilicia: mantendrá un encuentro privado con León XIV y visitará el Dicasterio para la Promoción de la Unidad de los Cristianos. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/leon-xiv-audiencia-vatican-aram-catholicos-armenio-cilicia.html",
+      "published": "2026-05-16T10:58:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/04/44.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "El Papa celebra las exequias de Tscherrig:\"Trabajó por la armonía de los pueblos\"",
-      "summary": "El cardenal suizo, diplomático de larga trayectoria y nuncio apostólico en Italia y San Marino, falleció el 12 de mayo. León XIV presidió la liturgia en el Altar de la Cátedra y en su homilía recordó la misión del cardenal en diversos países, \"con paciencia y abnegación, para reunir a los pueblos...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-05/el-papa-celebra-las-exequias-del-cardenal-tscherrig.html",
-      "published": "2026-05-15T15:01:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/15/2026-05-15-cappella-papale-per-le-esequie-del-cardinale-paul-emi/1778856367548.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "El Papa crea una comisión vaticana sobre la Inteligencia Artificial",
+      "summary": "En un rescripto publicado este sábado 16 de mayo, León XIV aprobó la creación de una comisión interdicasterial para reflexionar sobre los desafíos éticos de la inteligencia artificial. Estará bajo la dirección del Dicasterio para el Servicio del Desarrollo Humano Integral. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/papa-rescripto-comision-interdicasterial-inteligencia-artificial.html",
+      "published": "2026-05-16T10:45:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/12/17/10/1765962701834.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "En Roma un diplomado de Pensamiento Social, Igualdad y Bien Común",
-      "summary": "Abiertas las inscripciones del Diplomado de la Academia Internacional de Líderes Católicos sobre Pensamiento Social de la Iglesia, Igualdad y Bien Común Formación en liderazgo con impacto real, integrando fe, ética y estrategia para transformar la sociedad y responder a los desafíos del mundo...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-05/en-roma-un-diplomado-pensamiento-social-de-la-iglesia-igualdad.html",
-      "published": "2026-05-15T14:47:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/15/99.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "León XIV viajará a Francia en septiembre de 2026",
+      "summary": "La Oficina de Prensa de la Santa Sede ha realizado el anuncio este sábado 16 de mayo de 2026, acotando que el Pontífice también visitará la sede de la Unesco. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/leon-xiv-anuncio-viaje-apostolico-francia-septiembre-2026.html",
+      "published": "2026-05-16T10:14:29+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/04/15/2026-04-14-viaggio-apostolico-in-algeria---partenza-dall-aeropor/1776236171426.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Obispos pakistaníes comparten esperanzas y desafíos en visita ad limina",
-      "summary": "El obispo Samson Shukardin habla de desafíos como la discriminación, las acusaciones de blasfemia y las conversiones forzadas, al tiempo que expresa su esperanza en la igualdad de derechos y en un futuro más sólido para los cristianos en Pakistán. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/obispos-pakistan-visita-ad-limina-entrevista-samson-shukardin.html",
-      "published": "2026-05-15T14:39:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/15/2026-05-15-vescovi-del-pakistan-in-visita-ad-limina-apostolorum/1778837470129.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "El Papa a los banqueros: hagan de la caridad el criterio rector de sus decisiones",
+      "summary": "«Fieles a sus orígenes, nunca olviden la caridad; al contrario, hagan de ella, cada vez más, el criterio rector de sus decisiones programáticas». Palabras del Pontífice a varias delegaciones de empleados bancarios procedentes de diferentes instituciones financieras italianas que fueron recibidas en...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/leon-xiv-bancos-finanzas-personas-caridad-tecnologia.html",
+      "published": "2026-05-16T09:22:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/16/2026-05-16-dirigenti-e-dipendenti-di-diversi-istituti-bancari-it/1778926570219.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Luigi Giussani: Concluye en Milán la fase diocesana de la Causa de beatificación",
-      "summary": "El arzobispo Mario Delpini: «Es un momento de alegría. Para el padre Giussani, hombre de Dios, hombre de la Iglesia y origen de una comunión que ha hecho de la vida de cada uno de ustedes una historia de gracia». Davide Prosperi, presidente de Comunión y Liberación: «Inmensa alegría por este nuevo...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/don-giussani-milan-la-fase-diocesana-causa-de-beatificacion.html",
-      "published": "2026-05-15T13:48:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/02/20/don-Luigi-Giussani_1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "title": "Entre algoritmos y personas: cómo custodiar la comunicación humana",
+      "summary": "El hermano Jorge Sierra, delegado de Pastoral de La Salle en España y Portugal, reflexiona sobre el mensaje del Papa León XIV para la Jornada Mundial de las Comunicaciones Sociales y subraya la necesidad de preservar la dimensión humana frente a los desafíos de la inteligencia artificial. Desde su...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/jornada-comunicaciones-ia-mensaje-papa-educacion-lasallistas.html",
+      "published": "2026-05-16T08:16:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2019/06/06/02/1559782728248.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Misión, vida y fe en las alturas",
-      "summary": "El sueño de una iglesia sinodal y misionera, es realidad. En el norte argentino, la congregación de las Misioneras Diocesanas de María Madre de la Iglesia, junto a los pueblos indígenas de la región, comparten la vida, la cultura y la animación de la fe, en medio de los desafíos propios del lugar....",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/sisters-project-mision-argentina-oracion-fe-pobreza.html",
-      "published": "2026-05-15T13:32:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/04/PS_179-Foto-copertina.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Ucrania, el nuncio: ataques intensos, parece que no se quiere poner fin a la guerra",
-      "summary": "El arzobispo Kulbokas describe los daños causados ​​por los ataques aéreos rusos entre el 13 y el 14 de mayo: «Hubo numerosos bombardeos. Algunos diplomáticos recalcaron que, si continúan con tal intensidad, es señal de la voluntad de prolongar la guerra». Al prelado le preocupa que los...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/ucrania-nuncio-ataques-intensos-no-se-quiere-poner-fin-a-la-guer.html",
-      "published": "2026-05-15T12:02:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/05/15/12/1778841387804.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "tecnologia",
-      "source": "El País Tech",
-      "title": "Los adolescentes de familias con menos recursos sufren más problemas por el uso excesivo de las redes",
-      "summary": "Un nuevo estudio encuentra un vínculo sólido entre jóvenes de clases desfavorecidas, las horas con el móvil y la salud mental",
-      "url": "https://elpais.com/tecnologia/2026-05-16/los-adolescentes-de-familias-con-menos-recursos-sufren-mas-problemas-por-el-uso-excesivo-de-las-redes.html",
-      "published": "2026-05-16T03:30:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/XLSROAZYGZBPRBB4ZS4G4W32ZU.jpg?auth=383c54314dc4e00d9f9dd929716a8de49d4ddd04bdd867c68c0dd7148f3e4210"
+      "title": "El Papa: El Espíritu Santo nos da fuerza para seguir a Jesús",
+      "summary": "León XIV recibe y saluda de manera espontánea a los jóvenes de la Archidiócesis de Génova que se preparan para recibir el Sacramento de la Confirmación. Les exhorta a no vivir la fe \"solos\" sino \"juntos\", formando lazos de amistad y construyendo comunidades \"perseverantes\". Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/papa-confirmandos-diocesis-genova-encuentro-espiritu-perseverar.html",
+      "published": "2026-05-16T08:15:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/16/2026-05-16-cresimandi-della-diocesi-di-genova/1778917569947.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La UE quiso que elegir navegador fuera más fácil: Mozilla acaba de revelar cuántas veces fue elegido Firefox",
-      "summary": "Durante años, elegir navegador ha sido una de esas decisiones que parecían estar en nuestras manos, pero que en la práctica venían bastante condicionadas por el dispositivo que sacábamos de la caja. En el iPhone estaba Safari. En muchos móviles Android, Chrome. Y aunque siempre hemos podido...",
-      "url": "https://www.xataka.com/aplicaciones/ue-quiso-que-elegir-navegador-fuera-facil-mozilla-acaba-revelar-cuantas-veces-fue-elegido-firefox",
-      "published": "2026-05-15T20:01:30+00:00",
-      "image": "https://i.blogs.es/fc4f91/firefox-portada/1024_2000.jpeg"
+      "title": "Un gigantesco cable submarino entre Europa y África: el \"seguro de vida\" de Orange para blindar internet",
+      "summary": "Más del 95% del tráfico internacional de internet viaja por cables que están en el fondo del mar. África y Europa parten de posiciones muy distintas, pero son esenciales para sostener servicios esenciales en ambos continentes, como la nube o los sistemas financieros. Así, mientras que África es el...",
+      "url": "https://www.xataka.com/componentes/gigantesco-cable-submarino-europa-africa-seguro-vida-orange-para-blindar-internet",
+      "published": "2026-05-16T14:31:30+00:00",
+      "image": "https://i.blogs.es/015af3/cablesito/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La IA ha puesto patas arriba una vieja regla de los servidores: la memoria ya no quiere vivir en cada máquina",
-      "summary": "Para muchos de nosotros, la escasez de memoria puede sonar primero a un problema cercano al consumo doméstico: módulos de RAM, componentes y dispositivos condicionados por una demanda cada vez más tensionada. Pero el fenómeno que describe The Next Platform apunta también al otro extremo de la...",
-      "url": "https://www.xataka.com/robotica-e-ia/ia-ha-puesto-patas-arriba-vieja-regla-servidores-memoria-no-quiere-vivir-cada-maquina",
-      "published": "2026-05-15T19:31:30+00:00",
-      "image": "https://i.blogs.es/cb5aab/memoria-ia-portada-2/1024_2000.jpeg"
+      "title": "¿Refrigeración líquida o disipador por aire? Qué elegir para que tu CPU no eche humo sin necesidad de gastar una fortuna",
+      "summary": "Qué difícil es elegir las piezas de un PC de sobremesa: que si procesador, que si memoria RAM (bueno, si es que la encuentras a buen precio), que si tarjeta gráfica y otras cosas más. Pero no todo es que tu equipo sea tan potente como un ordenador de la NASA: también tienes que diseñarlo para que...",
+      "url": "https://www.xataka.com/seleccion/refrigeracion-liquida-disipador-aire-que-elegir-tu-cpu-no-eche-humo-necesidad-gastar-fortuna",
+      "published": "2026-05-16T14:15:30+00:00",
+      "image": "https://i.blogs.es/77799a/refrigeracion/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El próximo tratamiento contra la depresión podría estar en los ojos. Ya han probado con éxito unas lentillas inteligentes en ratones",
-      "summary": "La depresión que resiste a los fármacos es uno de los mayores desafíos de la medicina actual, puesto que cuando los antidepresivos no funcionan, la psiquiatría y la neurología tienen que recurrir a terapias como la electroconvulsión. Ahora, un equipo de investigadores ha dado un giro radical a este...",
-      "url": "https://www.xataka.com/medicina-y-salud/proximo-tratamiento-depresion-podria-estar-ojos-han-probado-exito-unas-lentillas-inteligentes-ratones",
-      "published": "2026-05-15T19:01:30+00:00",
-      "image": "https://i.blogs.es/78da8a/litio/1024_2000.jpeg"
+      "title": "El día que España quiso ser Spielberg haciendo ciencia ficción. Fue tal disparate que Tarantino terminó reivindicando la película",
+      "summary": "En 1982, durante el rodaje de Fitzcarraldo en la selva amazónica, Werner Herzog llegó a escuchar una propuesta completamente real de varios indígenas locales: se ofrecían a matar a Klaus Kinski para acabar con los problemas que estaba provocando en el set. El director alemán rechazó la idea, pero...",
+      "url": "https://www.xataka.com/cine-y-tv/dia-que-espana-quiso-ser-spielberg-haciendo-ciencia-ficcion-fue-tal-disparate-que-tarantino-termino-reivindicando-pelicula",
+      "published": "2026-05-16T14:15:30+00:00",
+      "image": "https://i.blogs.es/ecc2a3/bose-y-kinski-en-el-caballero-del-dragon/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Científicos japoneses han descubierto lo que tienen que ver las nubes de Venus con tu fregadero",
-      "summary": "En 2016, la misión japonesa Akatsuki detectó una perturbación masiva en Venus que dejó desconcertados a los científicos. Durante mucho tiempo, su origen ha sido un misterio. Sin embargo, ahora un equipo de investigadores de la Universidad de Tokio ha dado con la respuesta. Una respuesta que,...",
-      "url": "https://www.xataka.com/espacio/cientificos-japoneses-han-descubierto-que-tienen-que-ver-nubes-venus-tu-fregadero",
-      "published": "2026-05-15T18:31:30+00:00",
-      "image": "https://i.blogs.es/891413/venus-en-el-fregadero/1024_2000.jpeg"
+      "title": "Después de desplegar sus centros de datos en Aragón, Amazon quiere blindar Zaragoza de inundaciones",
+      "summary": "El 6 de julio de 2023, una tormenta torrencial colapsó el Barranco de la Muerte en Zaragoza, dejó la Z-30 bajo dos metros de agua y causó daños valorados en 125 millones de euros, como recoge El Heraldo. Entre las estructuras afectadas, el tren de alta velocidad entre Madrid y Barcelona y la...",
+      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/despues-desplegar-sus-centros-datos-aragon-amazon-quiere-blindar-zaragoza-inundaciones",
+      "published": "2026-05-16T14:01:30+00:00",
+      "image": "https://i.blogs.es/5989f7/zgzzzzzz/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El Estrecho de Ormuz se ha convertido en una trampa mortal. La solución de Emiratos Árabes es un faraónico \"baipás\" petrolero a través del desierto",
-      "summary": "El nuevo orden energético no se debate en cumbres de traje y corbata, sino que se levanta a contrarreloj bajo el sol abrasador de la península arábiga. Asfixiados por la Tercera Guerra del Golfo, los Emiratos Árabes Unidos han dado un golpe en la mesa: se niegan a dejar la supervivencia de sus...",
-      "url": "https://www.xataka.com/energia/estrecho-ormuz-se-ha-convertido-trampa-mortal-solucion-emiratos-arabes-faraonico-baipas-petrolero-a-traves-desierto",
-      "published": "2026-05-15T18:01:30+00:00",
-      "image": "https://i.blogs.es/92e0fd/ps---plantilla-portadas-xtk/1024_2000.jpeg"
+      "title": "Nuestro cerebro lleva milenios encogiendo: la ciencia tiene muy claro por qué (y no, no significa que seamos más tontos)",
+      "summary": "Durante millones de años, la evolución de los homínidos estuvo marcada por un aumento constante del tamaño del cráneo y, por tanto, del propio cerebro, lo que marcó un punto superimportante en el desarrollo cognitivo que nos ha llevado a donde estamos hasta ahora. Sin embargo, el registro fósil y...",
+      "url": "https://www.xataka.com/investigacion/nuestro-cerebro-lleva-milenios-encogiendo-ciencia-tiene-muy-claro-que-no-no-significa-que-seamos-tontos",
+      "published": "2026-05-16T13:31:30+00:00",
+      "image": "https://i.blogs.es/cd6990/cerebros/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La historia de la escritura parecía intocable. Hasta que unos investigadores descubrieron una tablilla en la Isla de Pascua",
-      "summary": "La Isla de Pascua es conocida sobre todo por los moáis, enormes esculturas con forma de cabeza que los nativos tallaron en toba volcánica y llevan décadas fascinando a los científicos. En la ínsula polinesia hay sin embargo otro enigma arqueológico mucho menos visible pero igual (o incluso más)...",
-      "url": "https://www.xataka.com/magnet/historia-escritura-parecia-intocable-que-unos-investigadores-descubrieron-tablilla-isla-pascua",
-      "published": "2026-05-15T17:31:30+00:00",
-      "image": "https://i.blogs.es/d6da91/isladepascua/1024_2000.jpeg"
+      "title": "Cucarachas, guppys y sexo espacial frustrado: la cara B de las muestras geológicas del programa Apolo",
+      "summary": "Cuando los astronautas del Apolo 11 volvieron a la Tierra, traían con ellos un trocito de la geología de la Luna. Su objetivo no era solo conocer su composición mineral. También se buscaba analizar todas esas rocas en busca de materiales orgánicos. Esto supuso un análisis químico completo, pero...",
+      "url": "https://www.xataka.com/espacio/cucarachas-guppys-sexo-espacial-frustrado-cara-b-muestras-geologicas-programa-apolo",
+      "published": "2026-05-16T13:01:30+00:00",
+      "image": "https://i.blogs.es/73f2a0/cucarachas-apolo/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Helio, bromo y disolventes: el bloqueo de Ormuz está a punto de provocar serios problemas a Samsung y TSMC",
-      "summary": "El cierre del estrecho de Ormuz por el conflicto con Irán ha puesto patas arriba a toda la industria tecnológica y energética, más allá de toda la tensión geopolítica que ha ido arrastrando. Se trata de un terremoto que recorre toda la cadena de suministro de semiconductores, incluyendo componentes...",
-      "url": "https://www.xataka.com/empresas-y-economia/helio-bromo-disolventes-bloqueo-ormuz-esta-a-punto-provocar-serios-problemas-a-samsung-tsmc",
-      "published": "2026-05-15T17:15:30+00:00",
-      "image": "https://i.blogs.es/e6a5f5/harrison-broadbent-nepxbivqulu-unsplash/1024_2000.jpeg"
+      "title": "La guerra de Irán está haciendo algo que ni Ryanair imaginaba: que los vuelos de 20 euros sean una reliquia del pasado",
+      "summary": "Durante la gran crisis del petróleo de 1970, varias aerolíneas estadounidenses empezaron a hacer algo insólito para ahorrar combustible: reducir velocidad deliberadamente en pleno vuelo. Algunas incluso eliminaron aceitunas de las ensaladas servidas a bordo porque cada kilo extra importaba cuando...",
+      "url": "https://www.xataka.com/movilidad/guerra-iran-esta-haciendo-algo-que-ryanair-imaginaba-que-vuelos-20-euros-sean-reliquia-pasado",
+      "published": "2026-05-16T12:31:30+00:00",
+      "image": "https://i.blogs.es/faebef/free-photo-of-ryanair-boeing-737-800-in-flight-over-valencia.png/1024_2000.jpeg"
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Logroño tiene un plan para evitar pesticidas en sus parques: soltar (muchas) mariquitas por la ciudad",
+      "summary": "Cada primavera los parques urbanos de media Europa lidian con el mismo problema: las plagas. La respuesta más habitual y de toda la vida siguen siendo los pesticidas químicos: son efectivos y baratos para mantener a raya insectos como el pulgón, pero tiene un coste ecológico de sobra documentado...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/logrono-tiene-plan-para-evitar-pesticidas-sus-parques-soltar-muchas-mariquitas-ciudad",
+      "published": "2026-05-16T12:15:30+00:00",
+      "image": "https://i.blogs.es/b592b6/logro/1024_2000.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "'Wemby' y sus Spurs arrollan a los Timberwolves y se meten en la final del Oeste",
-      "summary": "Una gran actuación de Stephon Castle, con un doble-doble (32 puntos y 11 asistencias), guía al francés a pasar de ronda, donde se verá las caras ante los Thunder de Shai",
-      "url": "https://www.marca.com/baloncesto/nba/playoffs/2026/05/16/wemby-spurs-arrollan-timberwolves-meten-final-oeste.html",
-      "published": "2026-05-16T06:23:13+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a080540819bb.jpeg"
+      "title": "Sinner vence a Medvedev y está a un triunfo de completar el Golden Masters",
+      "summary": "El italiano se lleva el partido que quedó suspendido por la lluvia para meterse en la final de Roma donde puede igualar el registro de Djokovic como campeón de los 9 Masters 1000",
+      "url": "https://www.marca.com/tenis/masters-1000-roma/2026/05/16/sinner-reanuda-racha-vence-medvedev-triunfo-completar-golden-masters.html",
+      "published": "2026-05-16T14:21:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a083f22d9144.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Villa ya es de Champions.... y ahora quiere la guinda de la Europa League",
-      "summary": "Los de Emery se aseguran la Liga de Campeones tras vapulear al Liverpool",
-      "url": "https://www.marca.com/futbol/premier-league/2026/05/16/villa-champions-quiere-guinda-europa-league.html",
-      "published": "2026-05-16T06:21:09+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/b24mG1g1vjjWByBUR.jpeg"
+      "title": "Heung-Min Son, el capitán general de Corea del Sur en el Mundial",
+      "summary": "El seleccionador surcoreano Hong Myung-bo ha dado a conocer los 26 futbolistas que representarán al país",
+      "url": "https://www.marca.com/futbol/mundial/2026/05/16/heung-min-son-capitan-general-corea-sur-mundial.html",
+      "published": "2026-05-16T14:19:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a087af13041b.png"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Matan al cantaor flamenco Matías de Paula a tiros y a la luz el día: la hipótesis",
-      "summary": "Fue asesinado en Villanueva de la Serena (Badajoz) este viernes.",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/05/16/matan-cantaor-flamenco-matias-paula-tiros-luz-dia.html",
-      "published": "2026-05-16T06:21:02+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a080a1bb613f.jpeg"
+      "title": "El Celtic rompe el corazón del Hearts en el 88'",
+      "summary": "Quinto título seguido de los 'católicos', que superan al Rangers con el equipo con más Ligas",
+      "url": "https://www.marca.com/futbol/2026/05/16/celtic-rompe-corazon-hearts-88.html",
+      "published": "2026-05-16T14:15:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a087c095af9b.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Óscar Trejo: \"Me encantaría quedarme en el club, daría lo que sea\"",
-      "summary": "El argentino fue uno de los protagonistas en el Día del Rayismo",
-      "url": "https://www.marca.com/futbol/rayo/2026/05/16/oscar-trejo-me-encantaria-quedarme-club-daria-sea.html",
-      "published": "2026-05-16T06:20:58+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a07da428db91.jpeg"
+      "title": "El crucero afectado por un brote de norovirus atraca en A Coruña con 21 casos activos a bordo",
+      "summary": "Las autoridades españolas han autorizado la entrada del buque tras confirmar que se cumplen las condiciones de seguridad y salud pública",
+      "url": "https://www.marca.com/tiramillas/sociedad/2026/05/16/crucero-ambition-afectado-brote-norovirus-atraca-coruna-21-casos-activos-bordo.html",
+      "published": "2026-05-16T14:05:32+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a08798040f37.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"El ayer no vuelve\"",
-      "summary": "Los comprimidos de Juan Ignacio Gallardo",
-      "url": "https://www.marca.com/futbol/opinion/2026/05/16/mou-intento-recuperar-pasado.html",
-      "published": "2026-05-16T06:08:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/15/1g1knDd1CVAo.jpeg"
+      "title": "Carlos Sainz y Fernando Alonso, invitados de excepción al E-Prix de Mónaco",
+      "summary": "Los dos pilotos españoles serán solo algunos de los pilotos de la parrilla de F1 que se pasarán por las carreras eléctricas",
+      "url": "https://www.marca.com/motor/formula-e/gp-monaco/2026/05/16/carlos-sainz-fernando-alonso-invitados-excepcion-e-prix-monaco.html",
+      "published": "2026-05-16T14:03:03+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a0878144d289.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Adiós provisional a pagar con Bizum en tiendas y bares: la medida iba a estar disponible el lunes 18 de mayo, pero ya hay nueva fecha",
-      "summary": "Un problema con Bizum Play es lo que retrasa su funcionamiento",
-      "url": "https://www.marca.com/tiramillas/economia/2026/05/16/adios-provisional-pagar-bizum-tiendas-bares-medida-iba-disponible-lunes-18-mayo-hay-nueva-fecha.html",
-      "published": "2026-05-16T05:57:00+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/14/6a060b6949eec.jpeg"
+      "title": "Yurtseven ya es nuevo jugador del Real Madrid",
+      "summary": "Se incorpora hasta final de temporada y sólo podrá jugar en Liga",
+      "url": "https://www.marca.com/baloncesto/2026/05/16/yurtseven-nuevo-jugador-madrid.html",
+      "published": "2026-05-16T13:59:01+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a08777c4bac6.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"De Julián y una negociación que niegan todos\"",
-      "summary": "Atlético y PSG desmienten que estén hablando del futuro del argentino",
-      "url": "https://www.marca.com/futbol/atletico/opinion/2026/05/16/julian-negociacion-niegan-todos.html",
-      "published": "2026-05-16T05:56:41+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/14/6a05ab1333401.jpeg"
+      "title": "El Sanse rescata un punto en el 93' y sella la salvación",
+      "summary": "Un gol de Dani Díaz en el 93' le da el punto que necesitaba para lograr la permanencia y los jabatos dejan escapar dos puntos que le hubieran acercado a la salvación",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/05/16/sanse-rescata-punto-final-cierre-anoeta-sella-salvacion.html",
+      "published": "2026-05-16T13:58:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a0874858e6c4.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Europa arde: lo que queda por decidirse en un final de temporada de locura",
-      "summary": "Las cinco 'grandes' ligas del viejo continente entran en la fase final con mucho en juego",
-      "url": "https://www.marca.com/futbol/2026/05/16/europa-arde-titulo-descensos-plazas-europeas-decidirse-final-temporada-locura.html",
-      "published": "2026-05-16T05:49:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/15/6a072a6810da5.jpeg"
+      "title": "España suma una nueva medalla en la Copa del Mundo de Brandemburgo",
+      "summary": "Plata del C4 500 masculino integrado por Pablo Martínez, Cayetano García, Pablo Graña y Ricardo Domínguez",
+      "url": "https://www.marca.com/otros-deportes/2026/05/16/espana-suma-nueva-medalla-copa-mundo-brandemburgo.html",
+      "published": "2026-05-16T13:52:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/16/6a0876a3edd28.jpeg"
     },
     {
       "category": "belico",
@@ -381,42 +381,6 @@
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Andy Burnham, el alcalde británico que gana fuerza como posible sucesor de Starmer",
-      "summary": "El nombre del alcalde del Gran Manchester, Andy Burnham, suena como el favorito entre los votantes laboristas para suceder a Keir Starmer como líder del partido y, en consecuencia, como primer ministro, según sondeos como el de YouGov o el de BMG Research y The i. En France 24 hacemos un repaso de...",
-      "url": "https://www.france24.com/es/video/20260516-andy-burnham-el-alcalde-brit%C3%A1nico-que-gana-fuerza-como-posible-sucesor-de-starmer",
-      "published": "2026-05-16T01:18:00+00:00",
-      "image": "https://s.france24.com/media/display/2f7428a0-50c3-11f1-9815-005056bf30b7/w:1024/p:16x9/ES-20260515-123812-124008-CS.jpg"
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Informe desde Beirut: Israel y Líbano acuerdan extender tregua por 45 días más",
-      "summary": "El Departamento de Defensa de Estados Unidos anunció que, tras una nueva ronda de conversaciones en Washington, Líbano e Israel acordaron extender la tregua por 45 días más, a pesar de los constantes ataques de ambas partes que han violado el alto el fuego desde el inicio. Nuestra corresponsal...",
-      "url": "https://www.france24.com/es/video/20260515-informe-desde-beirut-israel-y-l%C3%ADbano-acuerdan-extender-tregua-por-45-d%C3%ADas-m%C3%A1s",
-      "published": "2026-05-15T23:18:50+00:00",
-      "image": "https://s.france24.com/media/display/8a4bcd3a-50b1-11f1-a59a-005056a97e36/w:1024/p:16x9/ES-20260515-143156-143626-CS.jpg"
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "\"Una realidad presente\": a 78 años de la Nakba, los palestinos viven más desplazamiento y violencia de Israel",
-      "summary": "Cada 15 de abril, los palestinos conmemoran la expulsión forzada de más de 750.000 habitantes de sus aldeas por la creación del Estado de Israel en 1948. En el marco de una cotidianeidad de represión bajo la ocupación israelí, muchos palestinos consideran que la Nakba ('catástrofe', en árabe) es un...",
-      "url": "https://www.france24.com/es/medio-oriente/20260515-una-realidad-presente-a-78-a%C3%B1os-de-la-nakba-los-palestinos-viven-m%C3%A1s-desplazamiento-y-violencia-de-israel",
-      "published": "2026-05-15T23:12:26+00:00",
-      "image": "https://s.france24.com/media/display/33ac5a68-5092-11f1-8d76-005056bfb2b6/w:1024/p:16x9/FOTO-PORTADA-PALESTINA-NAKBA-78.jpg"
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "El NY Times defiende su reportaje sobre los presuntos abusos sexuales a presos palestinos tras la amenaza de demanda por parte de Israel",
-      "summary": "El primer ministro de Israel afirma haber ordenado emprender acciones legales a raíz de un artículo que alegaba que funcionarios de seguridad israelíes violaron a detenidos palestinos.",
-      "url": "https://www.bbc.com/mundo/articles/cgkpnznkv54o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T20:43:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e939/live/8d3f3300-5049-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "belico",
       "source": "BBC Mundo",
       "title": "Las hermanas adolescentes de Gaza que ganaron un premio por convertir escombros de la guerra en ladrillos",
       "summary": "Farah y Tala, dos adolescentes desplazadas múltiples veces de su hogar, querían \"transformar la destrucción en algo útil\".",
@@ -426,29 +390,29 @@
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Qué es la trampa de Tucídides y por qué Xi cree que define la relación de EE.UU. con China",
-      "summary": "Una idea nacida en la antigua Grecia que Xi Jinping mencionó frente a Donald Trump expresa los temores a una posible guerra entre la potencia emergente, China, y la hegemónica, Estados Unidos.",
-      "url": "https://www.bbc.com/mundo/articles/cjdpy7xv4mdo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-15T04:00:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ed4/live/12b28fc0-4fd0-11f1-8bad-4389c2128e5b.jpg"
+      "source": "Google Noticias",
+      "title": "Irán amenaza a Israel con \"ataques intensos\" en apoyo a los civiles en Palestina y Líbano frente al \"genocidio\" - Infobae",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUjg2akRoaXdjQzVCTC1sci1nYWRIa0l1NnRkWndJVzItRV9SVFlmd0dCbXIyX3hFVTh6V0t2YS1CSDBUd3BNLXBYYXhHTXUwSlJHc0NIc3c4TndyTVpZZkRxQ2t6cmVXM3N5c3RROXBXaTZjQmZRWVdoVW5NODhYUzFNU2cwQ3pyQ3hRcmtBcXpjcERDc0wycUhLdVNSal9PaE9XTHo4dl9KMVFzWVNyVEh5dmtieF9qM1VNSWFlMTByTllzYVBnNXYxRnJsTWM5V0JRMzNtdzYzSFMyaTRhcTlRQlBoM21MUE1VdkctQWxtUdIBjAJBVV95cUxPRWRYeDRPQ0htd0k1bHFLNWtNbi1GOC1rdktLeWxMWW0weVo5a0lRbFYxYXNyNlZ4a3hHQjZLSXpmLWR1bTByTkQzM29GZndfLW9ZdnJVRGk0OVk1TjNhd2pRV1hKUFJUTjN4Rmt1Rk4yRTFBbzdNblRkZ3QweTd3bEU1YXUzdWpPRWxMOExXODdUbWxYWE9rY1d5dWUyam1YUWJMbFE1SDFZSWNPVlRNQzNKS1dxeTE5TGFMamRBd0hiRjNFMDk1VUJMTXhWTUhRQmhKWHE2VE1jdWRIeF9KYXA3N2JJWTZiNW1SZzByOWE5akxTZ0pad2Rld19tTHY1bEFZUmJOWVFZeTlz?oc=5",
+      "published": "2026-03-24T07:00:00+00:00",
+      "image": null
     },
     {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El dólar en Uruguay sube por cuarta jornada consecutiva y en la semana aumentó 1,38%, para quedar por encima de los $ 40 - EL PAÍS Uruguay",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "La IA, un componente esencial de la guerra que sigue planteando dudas - Diario Libre",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZ242aVhPTGVEQU5qT2t6ajVpeERXS0FJSGpxLV9WVi1hR1kzVEFUNEFnaWdVcThhTGw0UnEyMktTdWRQZHFKNkd0VzlkYUZXWDFfZTNvODJLTV9sckZpakE4X0RBa2pubUhvYWgydFZKcWdIMmszQThhQjY0dHNYQnMzNHQ3aV93bmhNQXJ1ckxpclJ1ektOVlhFalA5RVRwM2lCX3JBa0V0a1lpTXFtSkZ1RlVCSVJ4b1NFVUpxalN6MGFYaDRHd2dkaENOeE9CZUpobzhqMVhxeEZIRG0wdlF3OEtQblVkUHZxMEQ3dTFkUQ?oc=5",
-      "published": "2026-05-16T06:10:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzlYR1MtVExjLXA3UG5wb25Lb1FnQkVvXzJoTkhkYlJGUWhOREtGanhXSkc0dC1zLWlVcWNxOWo2Uy1JNVZMVlJzcnNnX09xN0xjV0ZXNG5qY2ZJWG1TaGE3X1JZZlB1X2gyaUN5YlpQTWo2R0JBQ1gxa3lBZE9ONGtabVRYbDVXeVlvbVdXOGIwaElYODYwOXJZNkt3bFhMaHo5Vm9DTUtuRXdBTUZpZ202NHk2bTY4TnRBYU44WlE0NTNzakpWT9IBzgFBVV95cUxOZXBLVmdYZ0pYU3BEUzJsQW1VWUhKVkYzakVucGpvX05FSUR0U1FsZVE4WVlkT1VqdVNmLUx3dV9zeEVZZUVuTk9zVF9PdGE4OHdzeFNSbGFKVWxKUkczcGNqYVJmVm84MWZLbjdDZF9jQTQxbTc0Skc5QWliNm9KRElVWWwyclNkZTZOR0FXUTJSM1F1OVo5djJRSVFDdnVXal9tektfd0lHS192Yk1iVFdNZzA5eldnU1lmZ2xmV0Q4QTE1OFBoUVpuMG5JZw?oc=5",
+      "published": "2026-03-07T08:00:00+00:00",
       "image": null
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "La película más vista de Netflix en Uruguay, es el regreso elogiado de una estrella con dos Oscar - EL PAÍS Uruguay",
+      "source": "El País Uy",
+      "title": "Miami goleó a Guadalajara: cómo se mueve la venta de paquetes para seguir a Uruguay en el Mundial 2026 - EL PAÍS Uruguay",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTJWbmxBbi1GTV91Y3lpem9seldTOWZJTTM5ZE13Ml9RcWVvN00xaFM2STY5REVhY3ZicnhRWEIzbHpOS3pTbk1hSEFHcWZlVGdiVFFDTmRDS2FhVE9qU3dvOFhWQ1BsQng1cUhfX1EtVGozMnNsZHhwLVN4YUt0R1IxdmNmVjVqbmpnV3pZS3NfbGw4S3NGY0FWT2FLRWdSem11aS02Ujc2VUVlWmszQlJiVnZXRUJTYjB3TDlTWUluM2NhSFN5NDZIVGJ5UVU?oc=5",
-      "published": "2026-05-16T05:02:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRld3bVhyX0dNMEhfUnBUeEF4V21heFBvM3BFRGxYeERKdFB0X3Q3SXlIRUlrYzF4TWxpZWtKbWJ0amVGRHBkRXNMN1BFRW5TdGpiY092RU5qYnZXN2tWeFJmT3Frd3BudTFWWUZDeW9DSm1qYmxYUWk5WGtQZl82VVVmVW1WSThzNWNZZnk5dTdoMFZHNXNSdXpKbWJNdGZNUmtrQ0x3VVdBSndjWkYxMW82cUE3ZFVfX2RKaHVxSmhnX0ZZaW5SNkZDaG5OYm9oOTl6WmxqZDRDdjRUcGc?oc=5",
+      "published": "2026-05-16T07:32:05+00:00",
       "image": null
     },
     {
@@ -464,7 +428,7 @@
       "category": "uruguay",
       "source": "La Diaria",
       "title": "De los “tigres” de la conquista española al puma de La Tahona: 500 años de estudio de mamíferos en Uruguay",
-      "summary": "La publicación “Historia de la mastozoología en Uruguay” rastrea las primeras descripciones de mamíferos en nuestras tierras y también analiza el presente de una disciplina que, pese a los esfuerzos de investigadores e investigadoras, no termina de consolidarse por falta de recursos y voluntad...",
+      "summary": "La publicación Historia de la mastozoología en Uruguay rastrea las primeras descripciones de mamíferos en nuestras tierras y también analiza el presente de una disciplina que, pese a los esfuerzos de investigadores e investigadoras, no termina de consolidarse por falta de recursos y voluntad...",
       "url": "https://ladiaria.com.uy/ciencia/articulo/2026/5/de-los-tigres-de-la-conquista-espanola-al-puma-de-la-tahona-500-anos-de-estudio-de-mamiferos-en-uruguay/",
       "published": "2026-05-16T03:27:07+00:00",
       "image": null
