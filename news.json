@@ -1,68 +1,113 @@
 {
-  "updated_at": "2026-05-19T10:47:05.615731+00:00",
+  "updated_at": "2026-05-19T21:06:52.172408+00:00",
   "articles": [
     {
       "category": "internacional",
-      "source": "France 24",
-      "title": "Ébola en el Congo: 131 muertos obligan a la OMS a una reunión de emergencia",
-      "summary": "El número de muertos por el brote de ébola en la República Democrática del Congo aumentó drásticamente a al menos 131, a partir de 513 casos sospechosos, informó el ministro de Salud Samuel Roger Kamba. La Organización Mundial de la Salud celebrará este martes una reunión de su comité de emergencia.",
-      "url": "https://www.france24.com/es/%C3%A1frica/20260519-%C3%A9bola-en-el-congo-131-muertos-obligan-a-la-oms-a-una-reuni%C3%B3n-de-emergencia",
-      "published": "2026-05-19T10:27:27+00:00",
-      "image": "https://s.france24.com/media/display/1aa97216-5359-11f1-aa7f-005056bfb2b6/w:1024/p:16x9/2026-05-19T060747Z-506720022-RC2TBLAP2QIG-RTRMADP-3-HEALTH-EBOLA.jpg"
-    },
-    {
-      "category": "internacional",
       "source": "BBC Mundo",
-      "title": "Cómo 5 minutos de ejercicio al día pueden mejorar y alargar nuestras vidas",
-      "summary": "El ejercicio tiene efectos positivos en el cuerpo, el cerebro, la memoria y el bienestar general. Y no hace falta que sean largos entrenamientos para tener impacto.",
-      "url": "https://www.bbc.com/mundo/articles/crmpd3l082xo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-19T10:17:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aec/live/f992d870-52fd-11f1-a419-39ffd2a6cbf1.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "El País",
-      "title": "Rusia y Bielorrusia ensayan con armas nucleares",
-      "summary": "Los dos países aliados inician maniobras militares con el final del tratado Nuevo Start con Estados Unidos de fondo y tras las pruebas recientes del misil Sarmat",
-      "url": "https://elpais.com/internacional/2026-05-19/rusia-y-bielorrusia-ensayan-con-armas-nucleares.html",
-      "published": "2026-05-19T09:52:55+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5RZNNIRM4JPSTJE4EFBQLAGETA.jpg?auth=6ce9c09273fc4d39014124ce7f4e7e4dfc1d87ce0811fe9fbe9bc54a7cfc490d"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "España: imputan al expresidente José Luis Rodríguez Zapatero por tráfico de influencias en el caso Plus Ultra",
-      "summary": "La justicia española imputó este martes al expresidente José Luis Rodríguez Zapatero por su presunto papel en el desvío del rescate público de 53 millones de euros concedido a la aerolínea Plus Ultra. Sus oficinas fueron registradas y está citado a declarar a comienzos de junio. El caso es inédito...",
-      "url": "https://www.france24.com/es/europa/20260519-espa%C3%B1a-imputan-al-expresidente-jos%C3%A9-luis-rodr%C3%ADguez-zapatero-por-tr%C3%A1fico-de-influencias-en-el-caso-plus-ultra",
-      "published": "2026-05-19T09:45:06+00:00",
-      "image": "https://s.france24.com/media/display/332a981c-5366-11f1-afaa-005056a97e36/w:1024/p:16x9/2026-05-19T084806Z-1398487136-RC28CLAY81YL-RTRMADP-3-SPAIN-COURT-ZAPATERO.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "\"La distancia de un padre con un hijo es querer hablar y sentir que el otro está a 300 kilómetros aunque estés cara a cara\"",
+      "title": "\"A los 19 años los jóvenes empiezan a desarrollar una especie de rayos X en la mirada que puede ser durísima\"",
       "summary": "El escritor argentino habla sobre su última novela, \"Los nuevos\", la historia de tres jóvenes de 19 años unidos por una amistad.",
       "url": "https://www.bbc.com/mundo/articles/cpwjg8n42lvo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-19T09:40:33+00:00",
+      "published": "2026-05-19T20:52:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55f8/live/6e09edc0-3e7b-11f1-9c42-b7262844482d.jpg"
     },
     {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Qué se sabe del mortal tiroteo en una mezquita de San Diego presuntamente cometido por dos adolescentes que se suicidaron",
+      "summary": "Dos adolescentes de 17 y 18 años, que también fallecieron, son considerados como los presuntos responsables del ataque que causó la muerte de 3 personas.",
+      "url": "https://www.bbc.com/mundo/articles/cdxpwdkp4ggo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-19T17:28:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7eb9/live/d77048e0-53a7-11f1-962f-7dc94fa2f5d0.jpg"
+    },
+    {
       "category": "internacional",
-      "source": "France 24",
-      "title": "Rusia anuncia 72 horas de ejercicios militares nucleares a partir de hoy",
-      "summary": "Las Fuerzas Armadas de Rusia llevarán a cabo ejercicios de sus fuerzas nucleares entre el 19 y el 21 de mayo, informó este martes el ministerio de Defensa ruso. Las maniobras incluirán a más de 65.000 soldados y 7.800 tipos de equipos y armamento, añadió la cartera de Defensa.",
-      "url": "https://www.france24.com/es/europa/20260519-rusia-anuncia-72-horas-de-ejercicios-nucleares-a-partir-de-hoy",
-      "published": "2026-05-19T07:18:25+00:00",
-      "image": "https://s.france24.com/media/display/1675b3ae-534e-11f1-ba6f-005056bfb2b6/w:1024/p:16x9/AP25331524961800.jpg"
+      "source": "BBC Mundo",
+      "title": "Qué es lo que realmente une a China y Rusia y cómo se manifiesta en la visita de Putin a Xi",
+      "summary": "La visita de Putin a China esta semana muestra que la relación entre Pekín y Moscú perdura a pesar de un desequilibrio de poder entre ambos países.",
+      "url": "https://www.bbc.com/mundo/articles/cp3p94j2q1lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-05-19T20:35:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2de0/live/2729aec0-53c2-11f1-9ab7-fd5200863269.jpg"
     },
     {
       "category": "internacional",
       "source": "France 24",
-      "title": "Putin busca reforzar los lazos con China tras la cumbre entre Trump y Xi",
-      "summary": "Este martes, el presidente ruso, Vladimir Putin, tiene previsto llegar a Beijing para una visita de dos días en la que se reunirá con el líder chino, Xi Jinping. Según las autoridades de ambos países, la visita busca conmemorar el 25.º aniversario del tratado de amistad sino-ruso firmado en 2001,...",
-      "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260519-putin-busca-reforzar-los-lazos-con-china-tras-la-cumbre-entre-trump-y-xi",
-      "published": "2026-05-19T06:57:30+00:00",
-      "image": "https://s.france24.com/media/display/e931e740-4a3e-11f1-b3c5-005056bfb2b6/w:1024/p:16x9/AP25129274541868-1.jpg"
+      "title": "Bolivia: fuertes enfrentamientos en protestas contra el Gobierno de Rodrigo Paz",
+      "summary": "Las manifestaciones en Bolivia continúan escalando. Con la llegada de los seguidores del expresidente Evo Morales a La Paz se presentaron enfrentamientos con las fuerzas del orden. Las protestas, que empezaron como un levantamiento sectorial por la disminución del subsidio al combustible, han...",
+      "url": "https://www.france24.com/es/video/20260519-bolivia-fuertes-enfrentamientos-en-protestas-contra-el-gobierno-de-rodrigo-paz",
+      "published": "2026-05-19T20:15:35+00:00",
+      "image": "https://s.france24.com/media/display/1f0c187c-53b8-11f1-a48c-005056bf30b7/w:1024/p:16x9/ES-20260519-091341-091515-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "¿Qué se sabe de la cepa Bundibugyo del ébola que tiene en alerta a África oriental?",
+      "summary": "No tiene cura ni tratamiento, pero registra una mortalidad superior al 30 %. Así es la cepa Bundibugyo del ébola que ha encendido las alarmas en la República Democrática del Congo y los países vecinos, debido a un brote que ha matado a más de un centenar de possibles infectados. La Organización...",
+      "url": "https://www.france24.com/es/%C3%A1frica/20260519-qu%C3%A9-se-sabe-de-la-cepa-bundibugyo-del-%C3%A9bola-que-tiene-en-alerta-a-%C3%A1frica-oriental",
+      "published": "2026-05-19T18:48:51+00:00",
+      "image": "https://s.france24.com/media/display/d43e9fae-52d1-11f1-80e3-005056bf30b7/w:1024/p:16x9/000-B38G49M.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "España: expresidente Rodríguez Zapatero es imputado por presunto tráfico de influencias",
+      "summary": "Por primera vez en la historia española un expresidente de Gobierno es imputado por cargos criminales. El socialista José Luis Rodríguez Zapatero es señalado de presunto tráfico de influencias y acusado de liderar una red criminal para blanquear millones de dólares usados en el rescate público de...",
+      "url": "https://www.france24.com/es/video/20260519-espa%C3%B1a-expresidente-rodr%C3%ADguez-zapatero-es-imputado-por-presunto-tr%C3%A1fico-de-influencias",
+      "published": "2026-05-19T18:43:41+00:00",
+      "image": "https://s.france24.com/media/display/6ba48e10-53ab-11f1-9d22-005056bf30b7/w:1024/p:16x9/ES-20260519-091024-091240-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "La OMS expresa su preocupación por brote de ébola en RD Congo que deja al menos 131 muertos",
+      "summary": "Las organizaciones internacionales han expresado su preocupación por el rápido aumento de casos de ébola en la República Democrática del Congo. El director general de la OMS aseguró que es la primera vez que se declara la emergencia sanitaria antes de convocar a un Comité de Emergencia, pero que la...",
+      "url": "https://www.france24.com/es/video/20260519-la-oms-expresa-su-preocupaci%C3%B3n-por-brote-de-%C3%A9bola-en-rd-congo-que-deja-al-menos-131-muertos",
+      "published": "2026-05-19T18:41:43+00:00",
+      "image": "https://s.france24.com/media/display/32bd98e2-53a8-11f1-965a-005056bfb2b6/w:1024/p:16x9/ES-20260519-090152-090352-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Pese a la extensión de la aparente tregua, Israel lanza más ataques y órdenes de expulsión en Líbano",
+      "summary": "Con más de 3.000 muertos desde el pasado 2 de marzo, el país árabe observa cómo el cese al fuego patrocinado por Estados Unidos es mayormente nominal, mientras Israel mantiene su ocupación del sur libanés, sigue bombardeando a diario y amenaza a más aldeas. En las últimas horas, el Ejército israelí...",
+      "url": "https://www.france24.com/es/medio-oriente/20260519-pese-a-la-extensi%C3%B3n-de-la-aparente-tregua-israel-lanza-m%C3%A1s-ataques-y-%C3%B3rdenes-de-expulsi%C3%B3n-en-l%C3%ADbano",
+      "published": "2026-05-19T18:36:53+00:00",
+      "image": "https://s.france24.com/media/display/c8cbcd72-53ad-11f1-966c-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-LIBANO-ATAQUE-NABATIEH.jpg"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Así será el nuevo fondo España Crece: sin plazos, centralizado y con acento en la vivienda",
+      "summary": "El Gobierno da el primer paso para la constitución del nuevo vehículo y pide a Economía que desarrolle la estrategia inversora",
+      "url": "https://elpais.com/economia/2026-05-19/asi-sera-el-nuevo-fondo-espana-crece-sin-plazos-centralizado-y-con-acento-en-la-vivienda.html",
+      "published": "2026-05-19T16:36:47+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/IAKGLOU26BA65KK4EDQSY7JCPU.jpg?auth=b472013a23c7bc6a2a182c21e52f1ebf1e0b3c889f599d730342526faedffb7b"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El G-7 advierte de que la guerra en Irán aumenta “los riesgos sobre el crecimiento y la inflación”",
+      "summary": "Los responsables económicos del grupo, reunidos en París, piden reapertura del estrecho de Ormuz y acuerdan mantener las sanciones contra Rusia",
+      "url": "https://elpais.com/economia/2026-05-19/el-g-7-advierte-de-que-la-guerra-en-iran-aumenta-los-riesgos-sobre-el-crecimiento-y-la-inflacion.html",
+      "published": "2026-05-19T15:48:19+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/2XZLYD4T2NN6XL5UAD62UKWIC4.jpg?auth=b2e20efb0e088ee54797e58fea2590fd5ff464d2ccf4168b478144644a989186"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Bruselas prepara ayudas inmediatas para los agricultores por la subida de precios de los fertilizantes",
+      "summary": "La Comisión Europea quiere incrementar el fondo de emergencia agrícola como parte de un plan para paliar la crisis energética y su impacto en la agricultura",
+      "url": "https://elpais.com/economia/2026-05-19/bruselas-prepara-ayudas-inmediatas-para-los-agricultores-por-la-subida-de-precios-de-los-fertilizantes.html",
+      "published": "2026-05-19T14:43:24+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/XCKIU26EBRKPLKQW7UBRZIJKLA.jpg?auth=96503917bbed92f742eaedf04337e2a681571f570f529beb75bc39d7f438d05b"
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Las claves: Bizum, una tecnología que nació con humildad y puede ser muy transformadora",
+      "summary": "Evitar la intermediación de las grandes emisoras de tarjetas estadounidenses es el elemento más llamativo de su nuevo uso en los comercios",
+      "url": "https://cincodias.elpais.com/opinion/2026-05-19/las-claves-bizum-una-tecnologia-que-nacio-con-humildad-y-puede-ser-muy-transformadora.html",
+      "published": "2026-05-19T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6QYZ32NXAJHVBJLFZ7FCVVLABQ.jpg?auth=72a2cd5b32e53124a5556527f7d8b99986b24596579a4e83e6e97ac8e383e2f8"
     },
     {
       "category": "economia",
@@ -85,47 +130,11 @@
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Las claves: Bizum, una tecnología que nació con humildad y puede ser muy transformadora",
-      "summary": "Evitar la intermediación de las grandes emisoras de tarjetas estadounidenses es el elemento más llamativo de su nuevo uso en los comercios",
-      "url": "https://cincodias.elpais.com/opinion/2026-05-19/las-claves-bizum-una-tecnologia-que-nacio-con-humildad-y-puede-ser-muy-transformadora.html",
-      "published": "2026-05-19T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/6QYZ32NXAJHVBJLFZ7FCVVLABQ.jpg?auth=72a2cd5b32e53124a5556527f7d8b99986b24596579a4e83e6e97ac8e383e2f8"
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
       "title": "Cerebras era demasiado cara para SoftBank",
       "summary": "Masayoshi Son debería alegrarse de haber perdido ese tren",
       "url": "https://cincodias.elpais.com/opinion/2026-05-19/cerebras-era-demasiado-cara-para-softbank.html",
       "published": "2026-05-19T03:37:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/KWHACH5ZOJN67ODPKQSOQCPB6M.jpg?auth=7b2740e9e6641a32be98240c4e5d192858f6fbdd0a9a5f71c5a15b229f206409"
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Confusión en el aterrizaje de Bizum en los comercios: “Somos una empresa, no un particular”",
-      "summary": "El sistema ya está disponible en algunos terminales de pago, pero los bancos han pactado retrasar la promoción masiva hasta después del verano",
-      "url": "https://elpais.com/economia/2026-05-19/confusion-en-el-aterrizaje-de-bizum-en-los-comercios-somos-una-empresa-no-un-particular.html",
-      "published": "2026-05-19T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/WVUZNTKKLNCSFED3M5ZEJ2ILSA.jpg?auth=656ce83f72996779b402615df58e50000aac4898618439d3008386519662b52c"
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Claves de la próxima pasarela al RETA para mutualistas: cuándo compensa llevar los fondos al sistema público",
-      "summary": "Los abogados y procuradores de entre 55 y 65 años serían el colectivo más beneficiado con el texto actual",
-      "url": "https://elpais.com/economia/2026-05-19/claves-de-la-proxima-pasarela-al-reta-para-mutualistas-cuando-compensa-llevar-los-fondos-al-sistema-publico.html",
-      "published": "2026-05-19T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/C4XAFUOKANN4NDGE2TCGIV2OEE.jpg?auth=38fe92ded45887b6768436a81356f1b3cb9c26a14e7376efae23835eec40a828"
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "De Xabi Alonso a Ana Duato: otros famosos que batallaron contra Hacienda además de Shakira",
-      "summary": "La sentencia de la Audiencia Nacional que da la razón a la cantante reabre el debate sobre las pugnas entre las celebridades y la Agencia Tributaria",
-      "url": "https://elpais.com/economia/2026-05-19/de-xabi-alonso-a-ana-duato-otros-famosos-que-batallaron-contra-hacienda-ademas-de-shakira.html",
-      "published": "2026-05-19T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/J6SXEGWGC5B4DMXLWBEBCDLCMI.jpg?auth=82b1b8f833227e06adbf403e372da628bb77102bf0b8bbad3edb7e09ff01ee34"
     },
     {
       "category": "economia",
@@ -139,6 +148,69 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
+      "title": "Obispos de EE. UU. consagrarán el país al Sagrado Corazón de Jesús",
+      "summary": "De cara al 250º aniversario de la firma de la Declaración de Independencia, los obispos de los Estados Unidos consagrarán el país al Sagrado Corazón de Jesús. Leer todo",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/usccb-obispos-consagraran-estados-unidos-sagrado-corazon-jesus.html",
+      "published": "2026-05-19T18:34:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2021/11/17/18/1637171918401.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Observatorio sobre IA y medio ambiente, \"laboratorio de caridad intelectual\"",
+      "summary": "En la tarde de ayer, 18 de mayo, se presentó a la prensa la entidad promovida por la Pontificia Academia de Teología cuyo objetivo, según explicó su presidente, monseñor Antonio Staglianò, es educar en las cuestiones de la ecología integral. En octubre está programado un Foro con expertos en...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/inteligencia-artificial-pontificia-academia-teologia-ambiente.html",
+      "published": "2026-05-19T18:18:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/19/IMG_4175.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Colombia: disidentes de las FARC anuncian un alto el fuego",
+      "summary": "El anuncio fue difundido por el grupo armado liderado por Néstor Gregorio Vera Fernández, conocido como «Iván Mordisco», de cara a las elecciones del 31 de mayo. Sin embargo, en las últimas horas, dos miembros del equipo del candidato conservador Espriella fueron asesinados a tiros en el...",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-05/colombia-disidentes-farc-anuncian-alto-el-fuego-elecciones.html",
+      "published": "2026-05-19T13:43:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/05/14/01/1778715072432.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa a un joven “inquieto”: el tiempo es un maestro y cura todo",
+      "summary": "León XIV responde a un estudiante calabrés en la revista Piazza San Pietro, quien confiesa sentir “mucha inquietud y mucha confusión”, especialmente en relación con los vínculos y relaciones construidos a lo largo del tiempo. El Pontífice lo tranquiliza: “El Señor no defrauda los deseos que Él...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-05/papa-revista-piazza-san-pietro-fe-iglesia-jovenes-inquietudes.html",
+      "published": "2026-05-19T12:39:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/01/10/20/1768071722979.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Parolin: La UE sea un «esfuerzo creativo» por la paz amenazada por nuevos conflictos",
+      "summary": "El cardenal Secretario de Estado recibe la Orden Europea del Mérito y pronuncia un discurso en la ceremonia de entrega durante la sesión plenaria del Parlamento Europeo en Estrasburgo. Subraya el compromiso internacional del Papa y la Santa Sede con la promoción de la convivencia civil que afirma...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/parolin-la-ue-sea-un-esfuerzo-creativo-por-la-paz-amenazada-p.html",
+      "published": "2026-05-19T11:40:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/05/19/13/1779189447190.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Guinea Ecuatorial: los obispos llaman a traducir en la vida el mensaje de León XIV",
+      "summary": "Tras la visita apostólica del Papa, la Conferencia Episcopal de Guinea Ecuatorial exhorta a los fieles a asumir concretamente las enseñanzas del Pontífice. En una carta pastoral, los obispos invitan a promover la justicia, la fraternidad y el bien común, y advierten sobre los riesgos de una fe...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/carta-pastoral-obispos-guinea-ecuatorial-visita-papa-leon-xiv.html",
+      "published": "2026-05-19T11:04:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/04/22/2026-04-22-viaggio-apostolico-in-guinea-equatoriale----santa-mes/1776849970241.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El cardenal Martínez exhorta a la unidad y al diálogo nacional en Paraguay",
+      "summary": "El cardenal Adalberto Martínez Flores destacó la importancia de fortalecer las instituciones, promover la justicia social y atender a los sectores más necesitados. Leer todo",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/cardenal-martinez-unidad-dialogo-nacional-aniversario.html",
+      "published": "2026-05-19T10:26:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/18/215-independencia-del-ParaguayAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
       "title": "Estados Unidos, asalto a la mezquita de San Diego: 5 víctimas",
       "summary": "El centro islámico estadounidense fue atacado por hombres armados, donde murieron tres personas, además de los dos agresores que se habrían quitado la vida. La policía investiga los motivos de la masacre, pero por el momento la hipótesis considerada más plausible es la del “crimen de odio”. Nueva...",
       "url": "https://www.vaticannews.va/es/mundo/news/2026-05/estados-unidos-asalto-a-la-mezquita-de-san-diego-5-victimas.html",
@@ -146,247 +218,148 @@
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/05/19/06/1779163867951.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa en la Sapienza ha conmovido las conciencias incluso de los no creyentes",
-      "summary": "El capellán de Mediterranea Saving Humans, Don Mattia Ferrari, que reside en la Capilla universitaria, comenta a los medios vaticanos el discurso pronunciado por León XIV en la Universidad. «Su denuncia profética fue muy valiente: los jóvenes son extremadamente sensibles y están deseosos de aportar...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/don-ferrari-entrevista-visita-papa-universidad-sapienza.html",
-      "published": "2026-05-19T10:03:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/14/2026-05-14-visita-pastorale-all-universita---sapienza--di-roma/1778754671838.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El obispo de Asís: condonar la deuda de los países pobres",
-      "summary": "La propuesta de monseñor Accrocca, siguiendo el ejemplo de San Francisco, llegó al margen de la novena edición de la fiesta del Santuario del Despojo. “Importante una coordinación con las familias franciscanas y las instituciones locales para elaborar propuestas y proyectos sobre el tema”. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/el-obispo-de-asis-condonar-la-deuda-de-los-paises-pobres.html",
-      "published": "2026-05-19T06:47:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/18/fegeg.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El aniversario de la Rerum novarum, un documento para la dignidad humana",
-      "summary": "La encíclica de León XIII, promulgada el 15 de mayo de 1891, guía todavía hoy a mantener en el centro los principios éticos frente a los cambios que estamos viviendo a nivel social, económico y tecnológico. Padre Giacomo Costa, acompañante espiritual de las Acli: “La Doctrina social de la Iglesia...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-05/aniversario-rerum-novarum-documento-para-la-dignidad-humana.html",
-      "published": "2026-05-19T06:39:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/maggio/20/28.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Argentina: La UCA recordó al Papa Francisco y lanzó un instituto en su honor",
-      "summary": "Con música en vivo y distintas presentaciones, la UCA celebró el legado del Papa Francisco a un año de su fallecimiento y lanzó un instituto en su honor. El acto conmemorativo “Francisco para siempre” se llevó a cabo el lunes 27 de abril en el Campus Papa Francisco. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-05/argentina-la-uca-recordo-al-papa-francisco-y-lanzo-un-instituto.html",
-      "published": "2026-05-18T15:21:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/18/2026-04-Francisco-para-siempre-001aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Nerses Shnorhali, gran «pionero del ecumenismo» del Oriente cristiano",
-      "summary": "Durante la audiencia de esta mañana con Su Santidad Aram I, León XIV recordó al antiguo Catolicós de la Iglesia armenia que vivió en el siglo XII y que, según refirió el Papa, ha sido incluido recientemente en el Martirologio Romano: un ejemplo del «ecumenismo de los santos». Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-05/nerses-shnorhali-gran-pionero-ecumenismo-oriente-cristiano.html",
-      "published": "2026-05-18T13:49:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2022/09/13/qqqq.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Bolivia: unos 50 heridos y 100 detenidos en las protestas contra el Gobierno",
-      "summary": "El país sudamericano vuelve a enfrentarse a protestas, bloqueos de carreteras y violentos enfrentamientos entre manifestantes y las fuerzas de seguridad, en un contexto de crisis económica que en los últimos meses ha agravado las tensiones sociales y la inestabilidad política. Según el gobierno, se...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-05/bolivia-heridos-detenidos-protestas-contra-gobierno.html",
-      "published": "2026-05-18T12:36:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/05/17/04/1778983610546.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "“Magnifica humanitas”, la primera encíclica de León XIV, será publicada el 25 de mayo",
-      "summary": "El documento, dedicado al tema de “la custodia de la persona humana en el tiempo de la inteligencia artificial”, lleva la firma del Papa León XIV con fecha del 15 de mayo, coincidiendo con el 135º aniversario de la promulgación de la encíclica Rerum Novarum de León XIII. Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-05/papa-leon-xiv-primera-enciclica-magnifica-humanitas.html",
-      "published": "2026-05-18T10:48:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/05/06/2026-05-06-udienza-generale/1778056864955.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Gemini Omni quiere hacer con el vídeo lo que Nano Banana hizo con las imágenes: Google apunta muy alto",
+      "summary": "Crear una imagen con IA ya no sorprende como antes. Lo que empieza a marcar la diferencia es la capacidad de modificarla, darle continuidad y convertir una idea inicial en algo más elaborado sin perder el hilo por el camino. En vídeo, ese reto es mucho mayor: hay movimiento, tiempo, física y...",
+      "url": "https://www.xataka.com/robotica-e-ia/gemini-omni-quiere-hacer-video-que-nano-banana-hizo-imagenes-google-apunta-muy-alto",
+      "published": "2026-05-19T20:04:00+00:00",
+      "image": "https://i.blogs.es/c557b3/gemini-omni-nuevo-modelo-de-google/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Con la IA saturando las fábricas de TSMC, hay alguien listo para tomar el relevo: las fundiciones chinas",
-      "summary": "Semiconductor Manufacturing International Corp, o SMIC, es el pilar de la industria de los semiconductores en China. Junto a Huawei, es el artífice del gran plan gubernamental para que empresas y centros de datos chinos dejen de depender de chips extranjeros que, desde el puñetazo encima de la mesa...",
-      "url": "https://www.xataka.com/empresas-y-economia/ia-saturando-fabricas-tsmc-hay-alguien-listo-para-tomar-relevo-fundiciones-chinas",
-      "published": "2026-05-19T10:31:41+00:00",
-      "image": "https://i.blogs.es/d59263/asml/1024_2000.jpeg"
+      "title": "Los centros de datos bajo el mar parecían un experimento: China acaba de darles una misión mucho más ambiciosa",
+      "summary": "Cada vez que le pedimos algo a una IA, la escena parece casi invisible: escribimos una frase, recibimos una respuesta y seguimos adelante. Pero detrás de esa aparente ligereza hay edificios llenos de servidores, sistemas de refrigeración funcionando sin descanso y una demanda eléctrica que no deja...",
+      "url": "https://www.xataka.com/robotica-e-ia/centros-datos-mar-parecian-experimento-china-acaba-darles-mision-mucho-ambiciosa",
+      "published": "2026-05-19T19:01:12+00:00",
+      "image": "https://i.blogs.es/691e53/centro-de-datos-submarino-shanghai/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La gran pregunta tras la visita de EEUU a Pekín no es Taiwán. Son dos SUV chinos con unos techos que han disparado la imaginación",
-      "summary": "La escena tuvo lugar en 2018, durante un desfile militar en Moscú. Entonces, varios analistas occidentales pasaron horas intentando identificar un extraño camión ruso cubierto por lonas y antenas del que nadie ofrecía explicaciones. Años después se supo que formaba parte de uno de los sistemas de...",
-      "url": "https://www.xataka.com/magnet/gran-pregunta-visita-eeuu-a-pekin-no-taiwan-dos-suv-chinos-unos-techos-que-han-disparado-imaginacion",
-      "published": "2026-05-19T10:01:41+00:00",
-      "image": "https://i.blogs.es/553ec8/eeuu-china-suvdrones-xataka/1024_2000.jpeg"
+      "title": "La misión conjunta entre Europa y China ya está en el espacio. Lo verdaderamente importante llega ahora",
+      "summary": "Por fin, a pesar del aplazamiento del pasado mes de abril, SMILE se ha lanzado con éxito. La misión que une a China y Europa para estudiar cómo interaccionan los vientos solares con la magnetosfera terrestre partió del Puerto Espacial de Kurú, en la Guayana Francesa, a las 03:52 GMT (05:52, hora...",
+      "url": "https://www.xataka.com/espacio/smile-esta-espacio-esto-no-ha-hecho-que-empezar-asi-funciona-mision-que-estudiara-tormentas-solares",
+      "published": "2026-05-19T18:31:12+00:00",
+      "image": "https://i.blogs.es/72bb9a/lanzamiento-de-smile/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Electrodomésticos que más consumen en tu casa: lista con los ocho que más electricidad gastan y sus cantidades medias",
-      "summary": "Vamos a decirte cuáles son los electrodomésticos que más consumen en tu casa, para que puedas tenerlo en cuanta y así poder usarlos con cautela. Porque tenemos ejemplos como que tu horno puede gastar como 65 neveras funcionando a la vez, y son cosas que conviene conocer. Eso sí, debes saber que...",
-      "url": "https://www.xataka.com/basics/electrodomesticos-que-consumen-tu-casa-lista-ocho-que-electricidad-gastan-sus-cantidades-medias",
-      "published": "2026-05-19T09:38:56+00:00",
-      "image": "https://i.blogs.es/13b8a3/electrodomesticos/1024_2000.jpeg"
+      "title": "Mañana regresa a Prime Video uno de los principales héroes de acción de la plataforma, aunque lo hace en un formato inesperado",
+      "summary": "Cuando Amazon cerró 'Jack Ryan de Tom Clancy' en julio de 2023, la cuarta y última temporada dejó un personaje con las cuentas saldadas. John Krasinski había pasado cinco años encarnando a un analista de la CIA perpetuamente desubicado en un mundo que le sobrepasaba. Pocos esperaban que volviera...",
+      "url": "https://www.xataka.com/streaming/manana-regresa-a-prime-video-uno-principales-heroes-accion-plataforma-hace-formato-inesperado",
+      "published": "2026-05-19T18:15:12+00:00",
+      "image": "https://i.blogs.es/9240e0/captura-de-pantalla-2026-05-19-a-las-13.04.11/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Microsoft quiere darle a Windows 11 el empujón de velocidad que necesita: la idea recuerda a cómo funciona macOS",
-      "summary": "La velocidad de un sistema operativo no siempre se nota cuando exportamos un vídeo o abrimos un juego exigente. Muchas veces la percibimos en gestos mucho más pequeños: un menú que aparece al instante o una ventana que responde sin demora. Es una sensación difícil de vender en una ficha técnica,...",
-      "url": "https://www.xataka.com/aplicaciones/microsoft-quiere-darle-a-windows-11-empujon-velocidad-que-necesita-idea-recuerda-a-como-funciona-macos",
-      "published": "2026-05-19T09:31:41+00:00",
-      "image": "https://i.blogs.es/5bbeaf/windows/1024_2000.jpeg"
+      "title": "Pagar cuatro millones de dólares por saltarse la cola: cómo el Canal de Panamá se está forrando gracias a la guerra en Irán",
+      "summary": "Cuando estalla un conflicto internacional, siempre hay alguien que logra sacar provecho. Mientras el mundo observa con preocupación la Tercera Guerra del Golfo, a miles de kilómetros de los misiles y los drones, el Canal de Panamá se ha coronado como el ganador inesperado de este caos global. Lo...",
+      "url": "https://www.xataka.com/energia/pagar-cuatro-millones-dolares-saltarse-cola-como-canal-panama-se-esta-forrando-gracias-a-guerra-iran",
+      "published": "2026-05-19T17:15:12+00:00",
+      "image": "https://i.blogs.es/946182/canal-de-panama/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Un mes comiendo solo foca en descomposición: el extremo experimento en Groenlandia para poner a prueba la microbiota humana",
-      "summary": "La idea de comer carne en estado de putrefacción suena a billete de ida a urgencias por una gran gastroenteritis en el mejor de los casos, pero en las latitudes más extremas del planeta, es una técnica de supervivencia perfeccionada durante milenios. Ahora, el explorador y chef Mike Keen se ha...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/mes-comiendo-solo-foca-descomposicion-extremo-experimento-groenlandia-para-poner-a-prueba-microbiota-humana",
-      "published": "2026-05-19T09:01:42+00:00",
-      "image": "https://i.blogs.es/e5b7b8/groenlandia/1024_2000.jpeg"
+      "title": "Estás nervioso, te das un atracón de azúcar: por qué en momentos de cansancio o ansiedad buscamos ciertos sabores y texturas",
+      "summary": "Llegar al final de la jornada laboral, cerrar el ordenador y tener los niveles de ansiedad muy elevados son los componentes ideales para ir a la cocina casi automáticamente. Y no buscamos una comida saludable como una ensalada o una manzana, sino que el cerebro parece que está pidiendo con urgencia...",
+      "url": "https://www.xataka.com/medicina-y-salud/estas-nervioso-te-das-atracon-azucar-que-momentos-cansancio-ansiedad-buscamos-ciertos-sabores-texturas",
+      "published": "2026-05-19T17:01:12+00:00",
+      "image": "https://i.blogs.es/248373/comida-basura-estres/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Ver el Mundial de fútbol en una tele está bien, pero hacerlo en un proyector de hasta 100 pulgadas es otra experiencia",
-      "summary": "Queda muy poco para que comience el Mundial de fútbol. Si quieres renovar el televisor, hay muchísimas ofertas en tiendas como MediaMarkt. Pero, si te ocurre como a mí, lo compraste hace no demasiado tiempo y estás buscando algo diferente, quizás te interese un proyector como el Samsung The...",
-      "url": "https://www.xataka.com/seleccion/ver-mundial-futbol-tele-esta-bien-hacerlo-proyector-100-pulgadas-otra-experiencia",
-      "published": "2026-05-19T08:45:41+00:00",
-      "image": "https://i.blogs.es/7e8816/samsung-the-freestyle/1024_2000.jpeg"
+      "title": "Singapur lleva años construyendo el puerto automatizado más grande y avanzado del mundo: es su baza para superar a Shanghái",
+      "summary": "Singapur tiene un problema que muchos países envidiarían: su puerto se le está quedando pequeño. La ciudad-estado, que se ha convertido en un punto neurálgico del comercio mundial situado en el Estrecho de Malaca, ya gestiona más de 41 millones de contenedores al año y se está acercando al límite...",
+      "url": "https://www.xataka.com/movilidad/singapur-lleva-anos-construyendo-puerto-automatizado-grande-avanzado-planeta-su-baza-para-superar-a-shanghai",
+      "published": "2026-05-19T16:45:12+00:00",
+      "image": "https://i.blogs.es/20cd6e/wap12-4935/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "En 2008 China instalaba estaciones de metro en medio de la nada. En 2026 hemos descubierto lo ingenuos que fuimos",
-      "summary": "El año pasado se movió un vídeo que demostraba que, cuando se trata de levantar construcción, China mira muy por delante de esos sagrados planes quinquenales. De hecho, en Pekín ocurre algo fascinante: puedes encontrar una entrada de metro vacía donde no hay ningún desarrollo, un páramo. La...",
-      "url": "https://www.xataka.com/movilidad/2008-china-instalaba-estaciones-metro-medio-nada-2026-hemos-descubierto-ingenuos-que-fuimos",
-      "published": "2026-05-19T08:31:41+00:00",
-      "image": "https://i.blogs.es/794d55/ps---plantilla-portadas-xtk-525/1024_2000.jpeg"
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Xiaomi prepara el lanzamiento de Skynomad: su segunda marca irá mucho más allá del coche eléctrico",
-      "summary": "Xiaomi ha llegado para quedarse en el mercado del automóvil. Y vista su evolución, es muy probable que se estudie como uno de los casos de éxito más llamativos de la historia. Sin medias tintas. Y es que, como ya hemos explicado en Xataka, la industria del automóvil está llena de cadáveres de quien...",
-      "url": "https://www.xataka.com/movilidad/xiaomi-prepara-lanzamiento-skynomad-su-segunda-marca-ira-mucho-alla-coche-electrico",
-      "published": "2026-05-19T08:15:41+00:00",
-      "image": "https://i.blogs.es/3891d3/xiaomi-nueva-marca/1024_2000.jpeg"
+      "title": "Hay una batalla por tener el modelo de IA que programa mejor. Y en ella ha aparecido un rival bueno, bonito y muy barato: Cursor",
+      "summary": "Cursor ha presentado Composer 2.5, un modelo de IA generativa específicamente destinado a una cosa: programar bien. ¿Cómo de bien? Pues según esta startup, lo hace tan bien como los mejores modelos del momento, Claude Opus 4.7 y GPT 5.5, pero además lo hace por un coste inferior. El desafío es...",
+      "url": "https://www.xataka.com/robotica-e-ia/hay-batalla-tener-modelo-ia-que-programa-mejor-ella-ha-aparecido-rival-bueno-bonito-muy-barato-cursor",
+      "published": "2026-05-19T16:31:12+00:00",
+      "image": "https://i.blogs.es/e888d8/cursor-ia/1024_2000.jpeg"
     },
     {
       "category": "deportes",
-      "source": "Marca",
-      "title": "Así avanzan las obras del nuevo Benito Villamarín: fases, plazos, financiación, aforo, edificio anexo...",
-      "summary": "El director general del Betis actualiza la información sobre el proyecto del futuro estadio",
-      "url": "https://www.marca.com/futbol/betis/2026/05/19/asi-avanzan-obras-nuevo-benito-villamarin-fases-plazos-financiacion-aforo-edificio-anexo.html",
-      "published": "2026-05-19T10:40:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/b46Ss1g33oRaAAEIy.jpeg"
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Muere una turista al verse en medio de una inesperada pelea de elefantes en la India",
-      "summary": "Suceso repentino que provocó el aplastamiento de la visitante en un santuario que ofrece a los turistas actividades como bañar y alimentar a \"elefantes entrenados por naturalistas\"",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/05/19/muere-turista-verse-medio-inesperada-pelea-elefantes-india.html",
-      "published": "2026-05-19T10:23:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/mmBYg.jpeg"
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El niño prodigio español del tenis de mesa gana su primera medalla en un torneo absoluto",
-      "summary": "El jugador catalán Ladimir Mayorov, de 12 años, ha sido bronce en la prueba de parejas celebrada en el WTT Feeder de Lagos",
-      "url": "https://www.marca.com/otros-deportes/2026/05/19/nino-prodigio-espanol-tenis-mesa-gana-primera-medalla-torneo-absoluto.html",
-      "published": "2026-05-19T10:13:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0c378ed44f5.jpeg"
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "De no fallar un solo penalti en Primera, Segunda y 1ª RFEF a no meter ni uno",
-      "summary": "El defensa del Levante se había consumado en su carrera por ser letal desde los once metros: no fallaba en ninguna categoría... pero un día erró y desde entonces no sale del bucle",
-      "url": "https://www.marca.com/futbol/levante/2026/05/19/dela-fallar-penalti-primera-segunda-1-rfef-meter-dos-errores-seguidos-getafe-mallorca.html",
-      "published": "2026-05-19T10:07:16+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0bf66093d06.jpeg"
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Marc Ballester, de interino a líder del nuevo proyecto del Badalona",
-      "summary": "El técnico, que asumió el banquillo de manera provisional en noviembre, afrontará su primera temporada al frente de un primer equipo desde el inicio de la pretemporada",
-      "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/05/19/marc-ballester-interino-lider-nuevo-proyecto-badalona.html",
-      "published": "2026-05-19T10:05:24+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0c3560729c9.jpeg"
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El chasco de la familia de Joao Pedro al quedarse fuera del Mundial",
+      "source": "Mundial 2026",
+      "title": "Curazao reveló su lista de convocados al ritmo de rap para el Mundial 2026: histórica nómina en su primera participación - Infobae",
       "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/05/19/chasco-familia-joao-pedro-quedarse-fuera-mundial-video.html",
-      "published": "2026-05-19T10:04:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/b45t01g33Lwe4OZVp.jpeg"
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNOVdFV0Y4dnRwQXB6cEtpRTRrRzY0LUpJdGdUcjhVV1lKdmtsUmJCVkhHbWlXeHpoaE9GRkZ4N3o5S1JsXzlUakxoRkttWEFLWkRwWE5STDNhWm1sYy00RFI4QkV3TkFua3puUVFVLWhiT1ZvWVhpSlJsRjFaWDhhMFgzOWpwVkhIZExSOTVxUjJXRE5iNEFlNlJBVnlNTko5MncxWlRCN1FkRldyTWEwYmVRUjJBcnhRVzgwbDhYVTdJUUhkSm5FLUw1amZQdVFmRnNDb0ptbkJqWVQ5bEk1QW10dS1zZ1EwdGl4T2loZURaVDFJR1NaWE8xalNXUdIBmAJBVV95cUxOaE5zWUVpLVFFdi1xVU9CTnl5U3F6TUxLNjV4Ulp2RUpUbXFnOTRRWGxzX1NXaDYyMXlpNmVHSk1DanAtR25IUHZqblNiWDl0STRlR3Fyak1aYkxQNlFqUHBVRFRua0VfREpjTGVIZDdrZWdvRFlYMEFWMkFaZENXSkFVSmNRY2VrMUJ5RkNNdHdhTVJqSkY1S2hvR2Vsd0N1czh5R1VxT2ZqNjZHdDhoVk8wNDJhVEtvLXktUkN6TXdieEhJM1o4WHY1SDJDMThtZGZGaGdDQXVmdnc0Z3Npb0NVX2w3cUltM2YyTG5FWUJhVXAtNHFGZmNBLVNqSEFlaVBZZ3dieFpPNk44WXp6VUo0OFJTWFVn?oc=5",
+      "published": "2026-05-19T21:03:33+00:00",
+      "image": null
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "La disyuntiva de Guardiola",
-      "summary": "Afronta su partido 1.000 como técnico con un futuro incierto: Inglaterra, año sabático...",
-      "url": "https://www.marca.com/futbol/premier-league/2026/05/19/disyuntiva-milenario-guardiola.html",
-      "published": "2026-05-19T10:03:05+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0c3141e22ba.jpeg"
+      "title": "El Sevilla sigue blindando a las joyas de su cantera",
+      "summary": "En plena oleada de renovaciones, el club ata al internacional sub-16 Bruno Luque",
+      "url": "https://www.marca.com/futbol/sevilla/2026/05/19/sevilla-sigue-blindando-joyas-cantera.html",
+      "published": "2026-05-19T21:00:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0ccf1c5b17f.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ramos, el Sevilla y por qué el precio de compra no siempre está en el balance",
-      "summary": "Claves financieras para entender mejor la posible operación",
-      "url": "https://www.marca.com/sport-business/2playbook/2026/05/19/sergio-ramos-sevilla-precio-compra-siempre-balance.html",
-      "published": "2026-05-19T10:01:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/24/aMewa1fmcrgbk7wuK.jpeg"
+      "title": "El pronóstico de la plantilla del Zalgiris de cara a la Final Four de la Euroliga: confían más en el Valencia que en el Real Madrid",
+      "summary": "",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/05/19/pronostico-plantilla-zalgiris-cara-final-four-euroliga-confian-valencia-real-madr-video.html",
+      "published": "2026-05-19T20:42:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/b4SsS1g3D0hY0zUyU.jpeg"
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump afirma que hay una \"muy buena posibilidad\" de alcanzar un acuerdo con Irán",
-      "summary": "El presidente de Estados Unidos, Donald Trump, afirmó que suspenndió el lunes un ataque militar planeado contra Irán porque existe una \"muy buena posibilidad\" de alcanzar un acuerdo con ese país, aunque advirtió que Estados Unidos sigue preparado para lanzar un asalto a gran escala si las...",
-      "url": "https://www.france24.com/es/medio-oriente/20260519-trump-afirma-que-hay-una-muy-buena-posibilidad-de-alcanzar-un-acuerdo-con-ir%C3%A1n",
-      "published": "2026-05-19T05:21:31+00:00",
-      "image": "https://s.france24.com/media/display/af07271c-5329-11f1-bea6-005056a97e36/w:1024/p:16x9/AP26138795232085.jpg"
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Hezonja: \"¿Cómo estoy de feliz en el Real Madrid de 0 a 10? Estoy 11\"",
+      "summary": "El alero y Trey Lyles, cuyos futuros como madridistas están en duda, aseguran que quieren continuar",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/05/19/hezonja-feliz-real-madrid-0-10-11.html",
+      "published": "2026-05-19T20:38:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0cc9e9132ca.jpeg"
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump pausa su ataque sobre Irán y el petróleo retrocede en su valor",
-      "summary": "Durante gran parte de la jornada del 18 de mayo, el precio del petróleo Brent, el de mayor referencia para Europa, fluctuó cercano a los 112 dólares. No obstante, luego del anuncio del jefe de la Casa Blanca, los precios retrocedieron y alimentan la esperanza de una tregua. En Estados Unidos, los...",
-      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260519-economia-trump-petroleo-iran-guerra",
-      "published": "2026-05-19T03:13:09+00:00",
-      "image": "https://s.france24.com/media/display/0031434e-5329-11f1-a1e2-005056bfb2b6/w:1024/p:16x9/2026-05-16T175750Z-1754326462-RC2OAKA34MAR-RTRMADP-3-MEXICO-PEMEX-FIRE.jpg"
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Arteta, camino a la historia",
+      "summary": "Este equipo 'gunner' de Mikel Arteta a camino de ser el mejor en la historia del club",
+      "url": "https://www.marca.com/futbol/premier-league/2026/05/19/superarsenal-destierra-pasado-compite-invencibles-2004.html",
+      "published": "2026-05-19T20:28:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0cb05575894.jpeg"
     },
     {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Qué es lo que realmente une a China y Rusia y cómo se manifiesta en la inminente visita de Putin a Xi",
-      "summary": "La visita de Putin a China esta semana muestra que la relación entre Pekín y Moscú perdura a pesar de un desequilibrio de poder entre ambos países.",
-      "url": "https://www.bbc.com/mundo/articles/cp3p94j2q1lo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-19T00:27:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d79f/live/4aeaae10-5302-11f1-8b5e-87f3f0f881bd.jpg"
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Guardiola dice adiós al City haciendo campeón al Arsenal",
+      "summary": "Al Manchester City solamente le valía ganar para llegar con vida a la última jornada",
+      "url": "https://www.marca.com/futbol/premier-league/cronica/2026/05/19/guardiola-dice-adios-city-haciendo-campeon-arsenal.html",
+      "published": "2026-05-19T20:27:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0cc1fde099b.jpeg"
     },
     {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Díaz-Canel asegura que un ataque de EE.UU. en Cuba provocaría \"un baño de sangre de consecuencias incalculables\"",
-      "summary": "El ministro de Asuntos Exteriores de Cuba indicó que un reporte que indica que la isla ha adquirido drones de ataque es parte de la justificación para una \"agresión\" estadounidense.",
-      "url": "https://www.bbc.com/mundo/articles/cjepz099495o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-05-18T20:49:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/807b/live/a549a150-52cf-11f1-a138-8bc30d70ab4d.jpg"
+      "category": "deportes",
+      "source": "Mundial 2026",
+      "title": "Brasil le ‘debe’ a Efraín Juárez su último delantero para el Mundial 2026 - Sports Illustrated",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQalRremxSbV8xRS1NMlpxT1pFWVZQUkFYQTJvRjVqanRGV1hnekRRNnVVWmpJcjhFdEFSLW5DM3BVX2htbEVLbGlqZkdkYXhiVkdGU1RHY1JwYS16WjNBWFVYY1pCQ09LRGRuN01rai04alR6N3VoUVRYM0U1SEc0TUNWMzFkRG1EbF93VUZvT3k4bW1PeHQ0?oc=5",
+      "published": "2026-05-19T20:00:01+00:00",
+      "image": null
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Xabi Alonso ya enamora y piden para él lo que no tuvo en el Madrid",
+      "summary": "Palmer se mostró entusiasmado de tenerle como entrenador y Sturridge alaba su llegada",
+      "url": "https://www.marca.com/futbol/premier-league/2026/05/19/xabi-alonso-enamora-piden-tuvo-madrid-hay-darle-dos-temporadas-completas.html",
+      "published": "2026-05-19T19:32:43+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/19/6a0cba8d69940.jpeg"
     },
     {
       "category": "belico",
@@ -400,82 +373,109 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Bajo asedio y sin aliados: Irán intensifica sus ataques en Medio Oriente mientras China y Rusia optan por la cautela - Infobae",
+      "title": "Las reacciones en Alemania a la ofensiva contra Irán - DW.com",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX2c4VzJQZXgwQzNVY1VkUEU5ZFRnWGVTV29QWUhLVWhZLW9qWDVBX1NhLTEySmpiODdXdEF4QThfMk9JbE1wNURJSHJCbERid01XS0JOR3I5ai1iay1IZUl1M0d2dEphWnRpSFg1czJpY2ZiNmd6RnFxNGNHZ2JfZXNxMUtpS3d2OGc0QkRkRFozeFZaWUd1LWU5dWVjdW5DVzZQdE11dGp1WjRIWWNsWG52V0Nrb3hvVEFLQmUyS0c0d3dObWowY0tmOEZKbnpicHZibUc4aGVkYzJZazdEdk1uWVo4aTZPVEpLZEZ6ZDRrY2FOV0xLa9IBkwJBVV95cUxNNDQ5aFRQWElRZy16VW1HMnFLN1hNdGlZZF9tWVo0ZVJQZjMyRm5NbWw0ZW15WHRreHIycWNUNGRnTHhpV1REYTAtaU1OaFlDV1R1dlVqanZKRzZuNXlYaF93dWYwSXMzZWhWcExMdFppQVVZaXFkMHB4UnY0dHRzUHVNcm5hWm1rZ2szc2Q5S3pyZGtVc3VjSVg4cXdGOWFlTGlza2VQRHNHVkRYa2Q1MWN6UHVmMnE4elRMMVRxTmZXYlJEN3A0Zk5hWF96MEgwbjlySWRuWlVEZGE0SERCVTFmaWRsbzBoWHBHZXBUTWVNZzJaRUFEdnhYYzVRNEc5UzZTb2M0NDlhbGVZX2hkeTdiVQ?oc=5",
-      "published": "2026-03-05T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc0IwNTBJT0owa1FyT1hxR3lUNnpTbjdFMUJtRjhITFRGZHNxQUFvRXZ2cXlXSWg5T0JtZE16Sjh1N2xSc0Y2Nk5OTWFyMWk1bzlWMjdESlpqR0JHTmhicTllT3ZSQnN5Y0xQNE1wbURCVU52d19ZYWJZS01zbUUyMXYxeFg0U1pOVjVOM2Vub3hsc2R3cWYwYkFVRlh0NWk2d1JDeGJR0gGmAUFVX3lxTE5FUzc3d093ZEYycWV2b2NaSmxFcDJyT3h3eGhqcTFseW5ITUhYMHdaXzR3TlJlRFhZbGdRaElPWDVWTGpHVUpiaGNXQTAxVHp2VFBHYldPY1daUHJrbTllazFQUmc2VUJlVVp5a1BBQVc3LU9GYXdjTEdEMm1aUU5tTjBEYmZjWXZmR1l5UmNEeGVKSFdTdlJ0QTNIdjBScFV3OUpRNmc?oc=5",
+      "published": "2026-03-02T08:00:00+00:00",
       "image": null
     },
     {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "(Multimedia) Cuba recibe ayuda solidaria de México y Uruguay - Xinhua Español",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Qué aliados le quedan a Irán en la región en medio de su enfrentamiento con Estados Unidos e Israel - BBC",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWU4ME1uRVpkS25nVVgzaDJhZk9nNjRydVFBX2swdUJtTDcyZ2VIbkowN3FVSmhLcXk1OUNBclRLT2huTTV4UzdRd3pRMGxYbzBHb3VqdE5jektVOEI5dk5IRlprXzJXLXNZSDBHRkxGZ1BMbzhoTW5ya3hkcFJpREQ1YW0?oc=5",
-      "published": "2026-05-19T08:47:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ODkzRFg1ZFZSRndYUVR2SGNYLTlBRGJYSkExS1J5MFhacHhSbWhDZ0cxQVNWUGhQaWtsOFlURUc2TWN3U1l4YTFHZVpZNzJYNEh5SUJySzFfdknSAWBBVV95cUxOUTFkMXJQRnJ0c0Y1cUREMmdlR2RsMEQ5bF9aM1VpbWZqYWVjY09ZY1hUTTlEUXNaYjBhR2FUUlpwUXFXeFAxYnBDbGQ2ckphcW1OREJ0VFlab3NEZ0JvdFU?oc=5",
+      "published": "2026-03-01T08:00:00+00:00",
       "image": null
     },
     {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay fortalece su mapa exportador agroindustrial rumbo a 2026 - FoodNewsLatam",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Líderes mundiales condenan ataque de Israel y EU a Irán; Francia llama a consejo de seguridad de la ONU - La Jornada",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb1FKbG9mTFowVWxJZUt6SjJmRkxjRzQ5VTZOTFl1UWpZYWRRdzFFdllmdjBhenByR2MydkJfUmswOU9WTWt0SHl3R3A1TVpQeks4ZE43ZWNLNDQxRG0xaXRTSzNSeHREcmF5ckJDNmZQeDluQXBhaS1aaVJkdS1ISWpMS0FmS1d5cGlTX3dIcDR2dXVQVmdDSUZ1TUZnNDBZUW9SYjlCd09TTGNjN3dCVUVJZ0FvYTFRQWEtMDJsWlQ?oc=5",
-      "published": "2026-05-19T05:03:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRU92WGR5blEzcm1fV3VCT0hlQUVtbW1NNFUta1FmSEc0aEZybExRTVgyZ2NYRzUxVWJYWDRtU1RNYXZfN0dXbG9kc244UXIwVXJpVUo5TzFzczhPNTJRX3Y0eUNQRXZNT2xQWXp5OEg4d3d6TERlM3RQdWhCeUNMcGdMckFQclRVdDB1UmF3V0RfM2toV1RKSC0xYURlWS1QSjlRQzg3UHNzNkpIX3JBRkdKcEM2U2I4dlNmNW5jQzBVd3BGRVNMWlRETnFpY3BtZ3daWk1UbHR1UFl1cC1JWGlZUFV2SU9QU3c?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
       "image": null
     },
     {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Cuba agradece ayuda de México y Uruguay por crisis en la isla - UnoTV",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Rusia denuncia como “agresión armada no provocada” los ataques de EEUU e Israel contra Irán - Univision",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMTR3WS16dUt1UDB1N0xkYU16YTFXYnQ3LTZheGk3Ml9kaVRpUVpTU0pxeEgyMmcwblBiOU5pMVBJMm16T3pTTFdvWEVCM0JDY1UxV1FKVW00enMydm4wNF9fUWNVVFJJLTVLN05PSGhCQ3psbFpSWEtlZDIzdFowZHh5aHV6R08xNEhQNHRJT1VBUzdwSG1rdWMwWUxYOWs?oc=5",
-      "published": "2026-05-19T04:11:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbDJvSWVrUmdHV2pTQVU0S0JoUmpZYzhlMUVIQVhaMF8zTGhYSXNQV3N6RDdPRHMtQ1I5VFdwZF9IeWFHb0pJcjBnQndoeEpfd2ZSemwyaENGZ1ZSNURoc3E1OWtZcFFIUW5sQzc1SVhLUkZsYldJb1R6b01WeEJpWXNMZVRHcGpodXRPZjZhaTdTellsWnBtbWpzRjdPTjluM1lhd2J0X05oVkp4T0wzTVJWS20zZTFpLWZZaEZCbTBjd0dlcV9CX0Z3?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Laguna del Cisne: informe de la Facultad de Ciencias sostiene que proyecto inmobiliario implica “riesgos ambientales relevantes”",
-      "summary": "El IECA plantea que es “técnicamente improcedente” avanzar en la iniciativa que pretende instalar más de 70 chacras alrededor de la laguna “sin un encuadre ambiental”; OSE, que toma agua del lugar para abastecer a la población, afirmó que aún no fue consultada por el Ministerio de Ambiente.El...",
-      "url": "https://ladiaria.com.uy/ambiente/articulo/2026/5/laguna-del-cisne-informe-de-la-facultad-de-ciencias-sostiene-que-proyecto-inmobiliario-implica-riesgos-ambientales-relevantes/",
-      "published": "2026-05-19T03:35:28+00:00",
+      "title": "Zelmar Michelini, influyente en todas las canchas",
+      "summary": "A 50 años de su asesinato a manos del terrorismo de Estado en Argentina, algunas anécdotas pintan su incidencia en la política, el periodismo y el deporte.Este miércoles 20 de mayo se cumplen 50 años de que Zelmar Michelini Guarch fue asesinado. También se hacen 102 años de su nacimiento. En esos...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/5/zelmar-michelini-influyente-en-todas-las-canchas/",
+      "published": "2026-05-19T20:51:22+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Un presidente bajo fuego cruzado",
-      "summary": "La semana pasada terminó con el impacto causado por la difusión de una encuesta de Equipos Consultores. Esta mostró un aumento de la desaprobación al desempeño presidencial de Yamandú Orsi, de 40% a 48% desde la anterior consulta de la empre...Continuar leyendo...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/5/un-presidente-bajo-fuego-cruzado/",
-      "published": "2026-05-19T03:23:53+00:00",
+      "title": "Diputado Fermín Farinha pide adelantar los cronogramas para que “la inversión pública termine dinamizando y derramando en el interior”",
+      "summary": "El legislador sanducero por el Partido Nacional repasó la realidad local, marcada por el fuerte desarrollo universitario pero también por una compleja situación laboral.El diputado por Paysandú Fermín Farinha (Partido Nacional) está transitando su experiencia como legislador luego de haber estado...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/5/diputado-fermin-farinha-pide-adelantar-los-cronogramas-para-que-la-inversion-publica-termine-dinamizando-y-derramando-en-el-interior/",
+      "published": "2026-05-19T20:45:28+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "ASSE: investigar corrupción duele",
-      "summary": "Investigar la corrupción afecta pilares de la sociedad y de la cultura política del país, que parece tan blindada de ello. Más allá de las irregularidades en sí mismas, afecta a personas, sectores empresariales, partidos políticos y sus figuras principales, y, por ende, a la democracia en su cerno....",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/5/asse-investigar-corrupcion-duele/",
-      "published": "2026-05-19T03:02:35+00:00",
+      "title": "Cancillería uruguaya se contactó con Bruselas luego de que Brasil y Argentina acaparasen la cuota de miel en el acuerdo con la UE",
+      "summary": "El ministro de Relaciones Exteriores, Mario Lubetkin, reconoció en el Parlamento que el gobierno quedó “terriblemente frustrado” por la negociación que hubo a la interna del Mercosur para el reparto de las exportaciones.El miércoles de la semana pasada, a 13 días de la entrada en vigencia del...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/5/cancilleria-uruguaya-se-contacto-con-bruselas-luego-de-que-brasil-y-argentina-acaparasen-la-cuota-de-miel-en-el-acuerdo-con-la-ue/",
+      "published": "2026-05-19T20:24:34+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El caso Minetti desde la antropología del parentesco",
-      "summary": "El caso de Nicole Minetti[^1] colocó nuevamente en la discusión pública el tema de la adopción en Uruguay. El debate mezcla dos preguntas: si el proceso fue legítimo y si el vínculo filial realmente existe. Las respuestas pueden no coincidir, lo que plantea distintos escenarios posibles e...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/5/el-caso-minetti-desde-la-antropologia-del-parentesco/",
-      "published": "2026-05-19T03:02:34+00:00",
+      "title": "¿Quiénes son los militares prófugos de la Justicia?",
+      "summary": "Hay 16 represores que están requeridos por delitos cometidos durante la dictadura.Hay 16 militares requeridos por la Justicia uruguaya por delitos cometidos durante el terrorismo de Estado, según información judicial a la que accedió la diaria. De ese total, 12 están prófugos, tres fueron...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/5/quienes-son-los-militares-profugos-de-la-justicia/",
+      "published": "2026-05-19T20:19:34+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Femicidas policías: tenemos que hacernos algunas preguntas",
-      "summary": "Todos los casos de femicidio me impactan, conmocionan e indignan, pero hay algunos que, por muchísimos motivos –algunos personales, otros profesionales, muchos vinculados a las características específicas del crimen–, no se me van de la cabeza. Me acuerdo perfectamente de qué estaba haciendo cuando...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/5/femicidas-policias-tenemos-que-hacernos-algunas-preguntas/",
-      "published": "2026-05-19T03:02:34+00:00",
+      "title": "El presidente de la Conmebol fue denunciado en la FIFA por recibir un presunto pago millonario ilegal",
+      "summary": "Alejandro Domínguez fue acusado ante el comité de ética de la FIFA de quedarse con más de cinco millones de dólares recuperados tras el escándalo de corrupción de 2015 conocido como FIFA Gate, según reportó The New York TimesEl diario estadounidense The New York Times, que en 2015 destapó el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/5/el-presidente-de-la-conmebol-fue-denunciado-en-la-fifa-por-recibir-un-presunto-pago-millonario-ilegal/",
+      "published": "2026-05-19T20:05:52+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Periodistas brasileños participan en la Marcha del Silencio y documentan la vida del fotógrafo Aurelio González",
+      "summary": "En 2025 estrenaron una pieza audiovisual sobre el acto de memoria en su 30° aniversario.“Independiente de los partidos políticos, ahí van los uruguayos caminando en esta marcha, apoyados por otros miles de personas en su trayecto: es una de las cosas más fantásticas que pueden ocurrir en América...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/5/periodistas-brasilenos-participan-en-la-marcha-del-silencio-y-documentan-la-vida-del-fotografo-aurelio-gonzalez/",
+      "published": "2026-05-19T19:51:50+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Uruguay está presente en el mercado audiovisual de Cannes y se prepara para la Ventana al Sur",
+      "summary": "Se cerraron acuerdos y se confirmaron proyectos, como una nueva película de Beatriz Flores Silva.Por estas horas, en paralelo al Festival de Cannes, se está desarrollando una nueva edición del Marché du Film, uno de los mercados cinematográficos más importantes del mundo. La Agencia del Cine y el...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/5/uruguay-esta-presente-en-el-mercado-audiovisual-de-cannes-y-se-prepara-para-la-ventana-al-sur/",
+      "published": "2026-05-19T19:40:09+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "La Cámara de Senadores aprobó por unanimidad la segunda edición del programa Uruguay Impulsa",
+      "summary": "El senador del FA Sebastián Sabini dijo que el respaldo al plan anteriormente conocido como “jornales solidarios” demuestra que “es posible generar políticas que trasciendan los gobiernos”La Cámara de Senadores aprobó este martes por unanimidad la segunda edición del programa Uruguay Impulsa, que...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/5/la-camara-de-senadores-aprobo-por-unanimidad-la-segunda-edicion-del-programa-uruguay-impulsa/",
+      "published": "2026-05-19T19:26:36+00:00",
       "image": null
     }
   ]
