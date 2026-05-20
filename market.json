@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-05-19T21:06:53.734417+00:00",
+  "updated_at": "2026-05-20T10:29:16.365633+00:00",
   "fx": [
     {
       "label": "USD/UYU",
-      "value": 40.07
+      "value": 40.2
     },
     {
       "label": "EUR/UYU",
-      "value": 46.67
+      "value": 46.68
     },
     {
       "label": "BRL/UYU",
-      "value": 7.94
+      "value": 7.99
     },
     {
       "label": "ARS/UYU",
@@ -21,14 +21,14 @@
   "indices": [
     {
       "label": "S&P 500",
-      "value": 7353.6,
+      "value": 7353.61,
       "change": -0.67,
       "_date": "2026-05-19",
       "_prev_close": 7403.05
     },
     {
       "label": "Dow Jones",
-      "value": 49363.9,
+      "value": 49363.88,
       "change": -0.65,
       "_date": "2026-05-19",
       "_prev_close": 49686.12
@@ -49,7 +49,7 @@
     },
     {
       "label": "Merval",
-      "value": 2774731.25,
+      "value": 2774731.0,
       "change": -1.47,
       "_date": "2026-05-19",
       "_prev_close": 2816245.25
@@ -65,29 +65,29 @@
     },
     {
       "label": "MSFT",
-      "value": 417.6,
-      "change": -1.4,
+      "value": 417.42,
+      "change": -1.44,
       "_date": "2026-05-19",
       "_prev_close": 423.54
     },
     {
       "label": "GOOGL",
-      "value": 387.7,
-      "change": -2.33,
+      "value": 387.66,
+      "change": -2.34,
       "_date": "2026-05-19",
       "_prev_close": 396.94
     },
     {
       "label": "AMZN",
-      "value": 259.38,
-      "change": -2.07,
+      "value": 259.34,
+      "change": -2.08,
       "_date": "2026-05-19",
       "_prev_close": 264.86
     },
     {
       "label": "TSLA",
-      "value": 404.15,
-      "change": -1.42,
+      "value": 404.11,
+      "change": -1.43,
       "_date": "2026-05-19",
       "_prev_close": 409.99
     }
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 76932,
-      "change": 0.16,
+      "value": 77499,
+      "change": 0.96,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 2116.19,
-      "change": -0.06,
+      "value": 2130.42,
+      "change": 0.76,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 84.34,
-      "change": -0.57,
+      "value": 84.92,
+      "change": 0.42,
       "currency": "USD"
     }
   ]
