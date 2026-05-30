@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-05-29T23:01:58.525300+00:00",
+  "updated_at": "2026-05-30T11:10:36.669001+00:00",
   "fx": [
     {
       "label": "USD/UYU",
-      "value": 40.0
+      "value": 39.99
     },
     {
       "label": "EUR/UYU",
-      "value": 46.57
+      "value": 46.63
     },
     {
       "label": "BRL/UYU",
@@ -65,8 +65,8 @@
     },
     {
       "label": "MSFT",
-      "value": 449.7,
-      "change": 5.32,
+      "value": 450.24,
+      "change": 5.45,
       "_date": "2026-05-29",
       "_prev_close": 426.99
     },
@@ -79,15 +79,15 @@
     },
     {
       "label": "AMZN",
-      "value": 270.62,
+      "value": 270.64,
       "change": -1.23,
       "_date": "2026-05-29",
       "_prev_close": 274.0
     },
     {
       "label": "TSLA",
-      "value": 435.52,
-      "change": -1.49,
+      "value": 435.79,
+      "change": -1.43,
       "_date": "2026-05-29",
       "_prev_close": 442.1
     }
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 73374,
-      "change": -0.1,
+      "value": 73528,
+      "change": -0.03,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 2010.71,
-      "change": 0.31,
+      "value": 2014.31,
+      "change": 0.24,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 81.86,
-      "change": -0.13,
+      "value": 82.23,
+      "change": 0.3,
       "currency": "USD"
     }
   ]
