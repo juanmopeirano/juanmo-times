@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-01T20:08:41.067773+00:00",
+  "updated_at": "2026-06-01T23:20:49.617827+00:00",
   "fx": [
     {
       "label": "USD/UYU",
@@ -42,15 +42,15 @@
     },
     {
       "label": "Bovespa",
-      "value": 172268.06,
-      "change": -0.87,
+      "value": 172197.46,
+      "change": -0.91,
       "_date": "2026-06-01",
       "_prev_close": 173787.49
     },
     {
       "label": "Merval",
-      "value": 3244375.0,
-      "change": 2.46,
+      "value": 3242787.5,
+      "change": 2.41,
       "_date": "2026-06-01",
       "_prev_close": 3166407.0
     }
@@ -58,36 +58,36 @@
   "stocks": [
     {
       "label": "AAPL",
-      "value": 307.15,
-      "change": -1.57,
+      "value": 306.3,
+      "change": -1.85,
       "_date": "2026-06-01",
       "_prev_close": 312.06
     },
     {
       "label": "MSFT",
-      "value": 461.3,
-      "change": 2.46,
+      "value": 460.49,
+      "change": 2.28,
       "_date": "2026-06-01",
       "_prev_close": 450.24
     },
     {
       "label": "GOOGL",
-      "value": 377.54,
-      "change": -0.74,
+      "value": 376.37,
+      "change": -1.04,
       "_date": "2026-06-01",
       "_prev_close": 380.34
     },
     {
       "label": "AMZN",
-      "value": 261.7,
-      "change": -3.3,
+      "value": 261.26,
+      "change": -3.47,
       "_date": "2026-06-01",
       "_prev_close": 270.64
     },
     {
       "label": "TSLA",
-      "value": 416.75,
-      "change": -4.37,
+      "value": 415.88,
+      "change": -4.57,
       "_date": "2026-06-01",
       "_prev_close": 435.79
     }
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 71452,
-      "change": -2.87,
+      "value": 71351,
+      "change": -3.23,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 2000.1,
-      "change": -0.0,
+      "value": 2003.2,
+      "change": -0.22,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 81.02,
-      "change": -0.73,
+      "value": 81.38,
+      "change": -1.37,
       "currency": "USD"
     }
   ]
