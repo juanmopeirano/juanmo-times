@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-02T19:34:50.463014+00:00",
+  "updated_at": "2026-06-02T23:25:18.845636+00:00",
   "fx": [
     {
       "label": "USD/UYU",
@@ -21,36 +21,36 @@
   "indices": [
     {
       "label": "S&P 500",
-      "value": 7611.3,
-      "change": 0.15,
+      "value": 7609.8,
+      "change": 0.13,
       "_date": "2026-06-02",
       "_prev_close": 7600.0
     },
     {
       "label": "Dow Jones",
-      "value": 51346.7,
-      "change": 0.52,
+      "value": 51307.8,
+      "change": 0.45,
       "_date": "2026-06-02",
       "_prev_close": 51078.9
     },
     {
       "label": "Nasdaq 100",
-      "value": 30628.47,
-      "change": 0.38,
+      "value": 30660.6,
+      "change": 0.48,
       "_date": "2026-06-02",
       "_prev_close": 30513.86
     },
     {
       "label": "Bovespa",
-      "value": 174362.58,
-      "change": 1.26,
+      "value": 174197.64,
+      "change": 1.16,
       "_date": "2026-06-02",
       "_prev_close": 172197.46
     },
     {
       "label": "Merval",
-      "value": 3206944.75,
-      "change": -1.11,
+      "value": 3224263.75,
+      "change": -0.57,
       "_date": "2026-06-02",
       "_prev_close": 3242787.5
     }
@@ -58,36 +58,36 @@
   "stocks": [
     {
       "label": "AAPL",
-      "value": 314.92,
-      "change": 2.81,
+      "value": 315.2,
+      "change": 2.91,
       "_date": "2026-06-02",
       "_prev_close": 306.3
     },
     {
       "label": "MSFT",
-      "value": 441.87,
-      "change": -4.04,
+      "value": 441.3,
+      "change": -4.17,
       "_date": "2026-06-02",
       "_prev_close": 460.49
     },
     {
       "label": "GOOGL",
-      "value": 363.94,
-      "change": -3.3,
+      "value": 361.81,
+      "change": -3.87,
       "_date": "2026-06-02",
       "_prev_close": 376.37
     },
     {
       "label": "AMZN",
-      "value": 257.92,
-      "change": -1.28,
+      "value": 256.5,
+      "change": -1.82,
       "_date": "2026-06-02",
       "_prev_close": 261.26
     },
     {
       "label": "TSLA",
-      "value": 419.88,
-      "change": 0.96,
+      "value": 423.74,
+      "change": 1.89,
       "_date": "2026-06-02",
       "_prev_close": 415.88
     }
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 66616,
-      "change": -6.93,
+      "value": 66513,
+      "change": -6.71,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 1893.91,
-      "change": -5.36,
+      "value": 1858.94,
+      "change": -7.08,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 75.26,
-      "change": -7.08,
+      "value": 73.62,
+      "change": -9.54,
       "currency": "USD"
     }
   ]
