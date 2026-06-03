@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T19:41:03.239092+00:00",
+  "updated_at": "2026-06-03T23:25:29.816427+00:00",
   "articles": [
     {
       "category": "internacional",
@@ -10,10 +10,38 @@
       "published": "2026-06-03T15:51:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1764/live/f1cf6d20-5f63-11f1-89a3-d1f559421220.jpg",
       "coverage": 2,
-      "relevance": 27.3,
+      "relevance": 26.91,
       "sources": [
         "BBC Mundo",
         "Google Internacional"
+      ]
+    },
+    {
+      "category": "internacional",
+      "source": "BBC Mundo",
+      "title": "\"Estás loco\": la tensa llamada telefónica entre Trump y Netanyahu que complica las conversaciones con Irán",
+      "summary": "El medio Axios aseguró que, durante una llamada telefónica el lunes, el presidente le había dicho a Netanyahu que estaba \"malditamente loco\" y lo había acusado de ingratitud.",
+      "url": "https://www.bbc.com/mundo/articles/crmpg81lmr3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-03T22:26:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/19b3/live/828ab740-5f99-11f1-9327-116d48c78d42.jpg",
+      "coverage": 1,
+      "relevance": 17.6,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "internacional",
+      "source": "BBC Mundo",
+      "title": "La película que el famoso director Wim Wenders retirará por una escena en la que aparece en topless la actriz Nastassja Kinski con 13 años",
+      "summary": "La actriz Nastassja Kinski, que participó en la película cuando tenía 13 años, afirmó que el director no la protegió.",
+      "url": "https://www.bbc.com/mundo/articles/c7v920qp8e4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-03T22:24:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/28c4/live/dd3948f0-5f99-11f1-994c-dd7b6299b2d3.jpg",
+      "coverage": 1,
+      "relevance": 17.59,
+      "sources": [
+        "BBC Mundo"
       ]
     },
     {
@@ -25,7 +53,7 @@
       "published": "2026-06-03T19:01:51+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TJPUUZT5SZJIZA66UOYP74536Q.jpg?auth=fa121c5c83cf34b817cdfb55dfa87cc171ef59c87b96f01ad08b33185e7ae4f0",
       "coverage": 1,
-      "relevance": 17.33,
+      "relevance": 16.94,
       "sources": [
         "El País"
       ]
@@ -39,7 +67,7 @@
       "published": "2026-06-03T16:07:34+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33d5/live/efac3be0-5e9b-11f1-89a3-d1f559421220.png",
       "coverage": 1,
-      "relevance": 17.33,
+      "relevance": 16.94,
       "sources": [
         "BBC Mundo"
       ]
@@ -53,65 +81,51 @@
       "published": "2026-06-03T17:48:56+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/AVQBKLTCIZBJ7G7KJMVLHYWQJQ.jpg?auth=10c06266545c623b5acb3780e128a0bc5f591ce91a7873ad2bf4f90c9d386083",
       "coverage": 1,
-      "relevance": 17.21,
+      "relevance": 16.82,
       "sources": [
         "El País"
       ]
     },
     {
       "category": "internacional",
-      "source": "El País",
-      "title": "La violencia de la ultraderecha en el Reino Unido por el asesinato del joven Nowak se salda con 11 agentes heridos",
-      "summary": "Los enfrentamientos incitados por Farage provocan la indignación en el Reino Unido. El Gobierno revisa la normativa policial derivada del movimiento Black Lives Matter",
-      "url": "https://elpais.com/internacional/2026-06-03/la-violencia-de-la-ultraderecha-en-el-reino-unido-por-el-asesinato-del-joven-nowak-se-salda-con-11-agentes-heridos.html",
-      "published": "2026-06-03T16:54:43+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ETRP7YKYAZPXDJITJHNLIZ3TXM.jpg?auth=29c11f1167086cc638f4e159198afeb678eb0a5bced2a599cb41a56742f29cf4",
+      "source": "France 24",
+      "title": "Hungría desbloquea el camino de Ucrania a la UE tras acuerdo sobre los derechos de la minoría magiar",
+      "summary": "El nuevo primer ministro húngaro, el proeuropeo Péter Magyar, anunció un acuerdo con Kiev sobre derechos lingüísticos, educativos y culturales para los 100.000 magiares que viven en Ucrania. El pacto pone fin a un conflicto de larga data entre Budapest y Kiev y representa un giro radical respecto a...",
+      "url": "https://www.france24.com/es/europa/20260603-hungr%C3%ADa-desbloquea-el-camino-de-ucrania-a-la-ue-tras-acuerdo-sobre-los-derechos-de-la-minor%C3%ADa-magiar",
+      "published": "2026-06-03T22:42:12+00:00",
+      "image": "https://s.france24.com/media/display/6424f3f4-239b-11f1-8a03-005056bfb2b6/w:1024/p:16x9/2026-03-03T110653Z-1797884382-RC2X4GAVW8XM-RTRMADP-3-UKRAINE-CRISIS-EU-ENLARGEMENT.jpg",
       "coverage": 1,
-      "relevance": 17.11,
+      "relevance": 16.72,
       "sources": [
-        "El País"
+        "France 24"
       ]
     },
     {
       "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido",
-      "summary": "Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.",
-      "url": "https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-03T12:49:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ca/live/20841970-5e0d-11f1-89a3-d1f559421220.png",
+      "source": "France 24",
+      "title": "Elecciones Perú 2026: un balotaje sin mayorías claras en un Perú agotado",
+      "summary": "Roberto Sánchez y Keiko Fujimori llegan al balotaje con cuestionamientos, sin una mayoría sólida detrás y frente a un fenómeno inédito: un sector organizado que llama a votar en blanco o anular el voto, en un Perú agotado por la inestabilidad, con nueve presidentes en diez años y un Congreso más...",
+      "url": "https://www.france24.com/es/video/20260603-elecciones-per%C3%BA-2026-un-balotaje-sin-mayor%C3%ADas-claras-en-un-per%C3%BA-agotado",
+      "published": "2026-06-03T22:38:23+00:00",
+      "image": "https://s.france24.com/media/display/542e8dfe-5f94-11f1-b378-005056a97e36/w:1024/p:16x9/ES-20260603-151153-151407-CS.jpg",
       "coverage": 1,
-      "relevance": 16.98,
+      "relevance": 16.72,
       "sources": [
-        "BBC Mundo"
+        "France 24"
       ]
     },
     {
-      "category": "internacional",
-      "source": "El País",
-      "title": "Un ataque iraní en Kuwait y Baréin mata a una persona y causa 63 heridos en pleno estancamiento de las negociaciones con EE UU",
-      "summary": "Teherán carga contra sus vecinos árabes con drones y misiles en represalia por los ataques de Washington, que sin embargo insiste en que da por concluida su operación militar",
-      "url": "https://elpais.com/internacional/2026-06-03/iran-reaviva-el-pulso-militar-con-estados-unidos-al-bombardear-objetivos-en-kuwait-y-barein.html",
-      "published": "2026-06-03T15:32:07+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ECIPNJTCWJK6ZIXJQ3FBAGUMUY.jpg?auth=0ffa404e2aeb0514acf375cc42a907c0895e027bd01593ee3f0569a0c2bfddef",
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "España intensifica su apuesta económica en Latinoamérica con México como eje",
+      "summary": "En un escenario de tensiones con Washington y conflictos globales, Madrid relanza su relación con México buscando inversiones bilaterales frescas",
+      "url": "https://elpais.com/mexico/economia/2026-06-03/espana-intensifica-su-apuesta-economica-en-latinoamerica-con-mexico-como-eje.html",
+      "published": "2026-06-03T22:05:42+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6JPBJJYNFJNR5MCYYKAZRKZNPU.jpg?auth=dd7059b19733236f7cf2d820703b7e58f80664dd5d2fda1877c3687df5ee3335",
       "coverage": 1,
-      "relevance": 16.97,
+      "relevance": 17.26,
       "sources": [
-        "El País"
-      ]
-    },
-    {
-      "category": "internacional",
-      "source": "El País",
-      "title": "La agencia de la energía atómica ve más riesgo nuclear en Irán hoy que antes de la guerra",
-      "summary": "El organismo de la ONU advierte de que cuanto más tiempo permanezca el uranio fuera de su radar, mayor será el peligro",
-      "url": "https://elpais.com/internacional/2026-06-03/la-agencia-de-la-energia-atomica-ve-mas-riesgo-nuclear-en-iran-hoy-que-antes-de-la-guerra.html",
-      "published": "2026-06-03T14:46:52+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/WG64NEY3LZFD5CMVXFZX7PB63U.jpg?auth=f202047c93d222649a4b3ef2f7396303b0035d2b4ce5a96034e1a3125a56c776",
-      "coverage": 1,
-      "relevance": 16.89,
-      "sources": [
-        "El País"
+        "El País Eco"
       ]
     },
     {
@@ -123,7 +137,7 @@
       "published": "2026-06-03T16:19:33+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/Z5IJO2FRI5G63C5FNGB7ULT4XE.jpg?auth=7cad8514e9cb29860c66208a778dd62760131c93d850e906d838d5b9188586a2",
       "coverage": 1,
-      "relevance": 17.05,
+      "relevance": 16.66,
       "sources": [
         "El País Eco"
       ]
@@ -137,7 +151,7 @@
       "published": "2026-06-03T15:41:14+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/YDCH4TEYUNIPHFBYM7NPIQ55MA.jpg?auth=b58b20baa7f87305ee5268f0d05d51b97b43fe84bc924cda9dc952d54e659c14",
       "coverage": 1,
-      "relevance": 16.98,
+      "relevance": 16.59,
       "sources": [
         "El País Eco"
       ]
@@ -151,7 +165,7 @@
       "published": "2026-06-03T13:29:42+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/7FZ2VHZNABGT5HJJTAMTCWS2ZM.JPG?auth=9531cf9b281082194929dca59ae6351c7ac60eb4411cae948ea16f0df8665dae",
       "coverage": 1,
-      "relevance": 16.76,
+      "relevance": 16.37,
       "sources": [
         "El País Eco"
       ]
@@ -165,7 +179,7 @@
       "published": "2026-06-03T12:16:43+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XO7TUQRZMZEWTME2JCHF4S7BJ4.png?auth=829a04be33f70c306142f59f64901455f5e545a32638034e3efae825e85a075d",
       "coverage": 1,
-      "relevance": 16.63,
+      "relevance": 16.24,
       "sources": [
         "El País Eco"
       ]
@@ -179,7 +193,7 @@
       "published": "2026-06-03T11:00:06+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XLITZWPX75B5NNILDFJP3FGYE4.jpg?auth=f749ab8a6b2c6c3d7b1c43557528abbf8346e9ec2eaf42fe0f71801761365973",
       "coverage": 1,
-      "relevance": 16.5,
+      "relevance": 16.11,
       "sources": [
         "El País Eco"
       ]
@@ -193,7 +207,7 @@
       "published": "2026-06-03T08:38:19+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TGVT2AD4BJGABBKZ5HB5Q4WHNI.jpg?auth=fbc627167dccba6cdbaf2a5e22f52aa2889776d9c7d7b80f3be3df884703d168",
       "coverage": 1,
-      "relevance": 16.25,
+      "relevance": 15.86,
       "sources": [
         "El País Eco"
       ]
@@ -207,21 +221,7 @@
       "published": "2026-06-03T07:55:31+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/4QHXPX3XHBENJKWSTRPQPF7C6I.jpg?auth=dac2079d86c661924d3e8f26d0b78f960ea00f1e456d0ae2afcec2f9192565d8",
       "coverage": 1,
-      "relevance": 16.18,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La OCDE advierte de que algunas economías entrarán en recesión si el bloqueo del estrecho de Ormuz se prolonga",
-      "summary": "El organismo sube una décima, hasta el 2,2%, sus perspectivas de crecimiento para España este año, la única gran economía del euro que mejora",
-      "url": "https://elpais.com/economia/2026-06-03/la-ocde-advierte-de-que-algunas-economias-entraran-en-recesion-si-el-bloqueo-del-estrecho-de-ormuz-se-prolonga.html",
-      "published": "2026-06-03T07:00:46+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/FLJALHYXVVNAJN5KTIN7JHTDKU.jpg?auth=af6a2cc88650dd8f05a596f76ea99a1bdf1275c05cba1b9875f77e40b64287c8",
-      "coverage": 1,
-      "relevance": 16.08,
+      "relevance": 15.79,
       "sources": [
         "El País Eco"
       ]
@@ -235,7 +235,7 @@
       "published": "2026-06-03T17:24:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/03/PAPA---pegoraro-2aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.56,
+      "relevance": 16.17,
       "sources": [
         "Vatican News"
       ]
@@ -249,9 +249,51 @@
       "published": "2026-06-03T16:50:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/03/08/1780467062916.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.5,
+      "relevance": 16.11,
       "sources": [
         "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "“Alzad la mirada”: vivir con esperanza en medio del ruido",
+      "summary": "Los católicos de España se preparan para recibir al santo padre, León XIV, durante su viaje apostólico del 6 al 12 de junio, bajo el lema: “Alzad la mirada”. Este lema está inspirado en el Evangelio según san Juan (4,35) y, con ello, el santo padre exhorta a todo el pueblo a salir de las Leer más…...",
+      "url": "https://es.aleteia.org/2026/06/04/alzad-la-mirada-vivir-con-esperanza-en-medio-del-ruido/",
+      "published": "2026-06-03T22:25:59+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.1,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿De dónde provienen la secuencias en la Iglesia?",
+      "summary": "La liturgia católica contiene una riqueza inmensa que difícilmente abarcaremos si no la estudiamos a detalle. Y en medio de su evolución, encontraremos las secuencias, de las que conocemos muy bien tres, aunque en realidad son cuatro las más comunes porque se recitan o entonan – que es lo más...",
+      "url": "https://es.aleteia.org/2026/06/03/de-donde-provienen-la-secuencias-en-la-iglesia/",
+      "published": "2026-06-03T20:00:02+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.84,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Históricas iglesias para visitar en México durante la Copa Mundial 2026",
+      "summary": "La Copa Mundial está a punto de empezar, y tras la inauguración del 11 de junio en el Estadio Azteca, la Ciudad de México, Guadalajara y Monterrey albergarán trece partidos y tres FIFA Fan Fest oficiales. El país cuenta con, al menos, 2 mil 239 iglesias de valor histórico-patrimonial, según datos...",
+      "url": "https://es.aleteia.org/2026/06/03/historicas-iglesias-para-visitar-en-mexico-durante-la-copa-mundial-2026/",
+      "published": "2026-06-03T19:41:26+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.81,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -263,7 +305,7 @@
       "published": "2026-06-03T13:50:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/03/DSC_7908.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.19,
+      "relevance": 15.8,
       "sources": [
         "Vatican News"
       ]
@@ -277,7 +319,7 @@
       "published": "2026-06-03T12:42:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/geralt-artificial-intelligence-3382507aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.07,
+      "relevance": 15.68,
       "sources": [
         "Vatican News"
       ]
@@ -291,49 +333,7 @@
       "published": "2026-06-03T11:36:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/03/2026-06-03-delegazione-della--association-of-catholic-colleges-a/1780473964521.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 15.96,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "4 años de infertilidad, 2 abortos espontáneos y… ¡nació Tomás!",
-      "summary": "Marta y Jaime habían soñado con formar una familia numerosa, pero pronto los médicos les advirtieron que les costaría tener hijos o tal vez nunca lo lograrían. El camino no ha sido fácil. Sin embargo, con perseverancia y la colaboración de profesionales comprometidos, en abril de 2026 nació su hijo...",
-      "url": "https://es.aleteia.org/2026/06/03/4-anos-de-infertilidad-2-abortos-espontaneos-y-nacio-tomas/",
-      "published": "2026-06-03T17:04:09+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.93,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Corpus Christi dio lugar a la fiesta del Sagrado Corazón",
-      "summary": "En el siglo XIII, una monja belga llamada Juliana de Lieja instó a los dirigentes de la Iglesia a instituir una fiesta en honor al Santísimo Sacramento el jueves siguiente al Domingo de la Trinidad. La fiesta del Corpus Christi se estableció finalmente como fiesta universal en 1264, y poco después...",
-      "url": "https://es.aleteia.org/2026/06/03/corpus-christi-dio-lugar-a-la-fiesta-del-sagrado-corazon/",
-      "published": "2026-06-03T15:42:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.79,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Tras las huellas de Santa Rita, una brasileña en misión en Roccaporena",
-      "summary": "Sor María Atília Collet ha encontrado en la santa de las causas imposibles un camino para orientar su vida y la de miles de peregrinos. Antes de llegar a Roccaporena, el pueblo donde nació Santa Rita en 1381, la misión de la religiosa la llevó desde el interior de Brasil a Italia, Portugal, España...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/sisters-project-italia-umbria-santa-rita-brasil-familia.html",
-      "published": "2026-06-03T09:53:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/20/SP_181-FOTO-COPERTINA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 15.78,
+      "relevance": 15.57,
       "sources": [
         "Vatican News"
       ]
@@ -347,9 +347,23 @@
       "published": "2026-06-03T14:00:56+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/DKKJHG3PE5E57DL3EZJ6F2BBAE.jpeg?auth=48926e2fa33daca2eace25314dee863f2b4e7b1f6c01e7f73b1935052ab61fa2",
       "coverage": 1,
-      "relevance": 16.81,
+      "relevance": 16.42,
       "sources": [
         "El País Tech"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En Tlaxcala, México, ya tienen su propio coche eléctrico: se carga con el sol y cuesta menos de 100.000 pesos",
+      "summary": "México se acaba de sumar en esto de la movilidad eléctrica asequible. Y es que la empresa TT Automotriz presentó hace unos días el TT01, también bautizado como \"Totalmente Tlaxcalteca\", un pequeño vehículo eléctrico y solar fabricado casi por completo en el estado de Tlaxcala. La cita fue en la...",
+      "url": "https://www.xataka.com/movilidad/tlaxcala-mexico-tienen-su-propio-coche-electrico-se-carga-sol-cuesta-100-000-pesos",
+      "published": "2026-06-03T20:01:58+00:00",
+      "image": "https://i.blogs.es/d3473e/coche-mexico/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 16.15,
+      "sources": [
+        "Xataka"
       ]
     },
     {
@@ -361,7 +375,7 @@
       "published": "2026-06-03T19:31:58+00:00",
       "image": "https://i.blogs.es/b5ea6d/suiza-bateria-gigante-subterranea.jpeg/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.48,
+      "relevance": 16.09,
       "sources": [
         "Xataka"
       ]
@@ -375,7 +389,7 @@
       "published": "2026-06-03T19:01:59+00:00",
       "image": "https://i.blogs.es/a568a7/nvidia-rtx-spark/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.43,
+      "relevance": 16.04,
       "sources": [
         "Xataka"
       ]
@@ -389,9 +403,23 @@
       "published": "2026-06-03T19:01:58+00:00",
       "image": "https://i.blogs.es/ca1861/panama-tren-puente-renfe/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.43,
+      "relevance": 16.04,
       "sources": [
         "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Google lanza una nueva versión de Gemma 4 que puedes ejecutar en tu portátil con 16 GB de RAM",
+      "summary": "La familia de modelos de inteligencia artificial Gemma 4, de Google, acaba de sumar un integrante bastante interesante. Se trata de una nueva versión de 12.000 millones de parámetros especialmente pensada para tareas de ejecución local y que funciona en cualquier ordenador portátil con unos módicos...",
+      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-gemma-4-12b/",
+      "published": "2026-06-03T21:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Gemma-4-12B.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 16.0,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -403,7 +431,7 @@
       "published": "2026-06-03T18:34:34+00:00",
       "image": "https://i.blogs.es/9a807f/herencias-piso-entre-herederos/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.38,
+      "relevance": 15.99,
       "sources": [
         "Xataka"
       ]
@@ -417,119 +445,36 @@
       "published": "2026-06-03T18:15:58+00:00",
       "image": "https://i.blogs.es/fcab73/la-asistenta/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.35,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Stephan Winkelmann, CEO de Lamborghini: \"Invertir en el desarrollo de coches eléctricos completos sería un pasatiempo costoso\"",
-      "summary": "Algo así como le sucedió a Luca Cordero di Montezemolo le ha pasado a Stephan Winkelmann, CEO de Lamborghini. No quiso decir pero dijo cuando le preguntaron por el nuevo Ferrari Luce y toda la polémica que ha rodeado al primer lanzamiento completamente eléctrico de la compañía italiana. Y es que...",
-      "url": "https://www.xataka.com/movilidad/pasatiempo-costoso-ceo-lamborghini-tiene-claro-que-no-deben-lanzar-su-propio-ferrari-luce",
-      "published": "2026-06-03T18:01:59+00:00",
-      "image": "https://i.blogs.es/95e541/ceo-lamborghini-coche-electrico/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 16.33,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El reloj de la evolución humana se rompe: ya usábamos el fuego 800.000 años antes de lo que pensábamos",
-      "summary": "El dominio del fuego es, sin duda, el mayor punto de inflexión en la historia tecnológica y evolutiva de nuestro linaje. Nos dio calor, ahuyentó a los depredadores y, al permitirnos cocinar los alimentos, disparó el desarrollo de nuestros cerebros y también de nuestras propias vidas. Hasta ahora,...",
-      "url": "https://www.xataka.com/investigacion/reloj-evolucion-humana-se-rompe-homo-erectus-usaba-fuego-800-000-anos-pensabamos",
-      "published": "2026-06-03T17:31:58+00:00",
-      "image": "https://i.blogs.es/35b335/fuegoo/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 16.28,
+      "relevance": 15.96,
       "sources": [
         "Xataka"
       ]
     },
     {
       "category": "deportes",
-      "source": "Marca",
-      "title": "\"Bernardo decidirá después del Mundial\"",
-      "summary": "El Barcelona gana tiempo con el portugués",
-      "url": "https://www.marca.com/futbol/barcelona/2026/06/03/bernardo-silva-decidira-mundial.html",
-      "published": "2026-06-03T19:28:37+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a207d0f9250e.jpeg",
-      "coverage": 1,
-      "relevance": 16.48,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Rahm vs. Scheffler: así los ve David Puig",
-      "summary": "El jugador español analiza a dos de los grandes jugadores de los últimos años",
-      "url": "https://www.marca.com/golf/liv-golf/2026/06/03/rahm-vs-scheffler-asi-ve-david-puig.html",
-      "published": "2026-06-03T19:22:15+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a203bbc76ec6.jpeg",
-      "coverage": 1,
-      "relevance": 16.47,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La entrevista a Enrique Riquelme en 'El Hormiguero' donde va a anunciar su primer fichaje estrella, en directo",
-      "summary": "El candidato a la presidencia blanca tiene previsto anunciar su fichaje estrella para las elecciones",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/6a2050f9cf1a9beb61fc0c18.html",
-      "published": "2026-06-03T19:11:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/17805029568242.png",
-      "coverage": 1,
-      "relevance": 16.45,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Topuria responde al padre de Gaethje: \"18-0, papá\"",
-      "summary": "'El Matador' ha escrito un mensaje a través de sus redes sociales augurando el mismo final para el estadounidense que sus anteriores rivales",
-      "url": "https://www.marca.com/combates-ufc/2026/06/03/topuria-responde-padre-gaethje-18-0-papa.html",
-      "published": "2026-06-03T18:26:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2024/07/05/17163705663831.jpeg",
-      "coverage": 1,
-      "relevance": 16.37,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "España está de moda: la camiseta blanca, un impacto como no se recuerda",
-      "summary": "El atractivo y valr de la selección se dispara y une su camino con marcas referente en el mundo como Loewe y Google",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/03/espana-moda-da-salto-mundial.html",
-      "published": "2026-06-03T18:16:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1e8c43daf8e.jpeg",
-      "coverage": 1,
-      "relevance": 16.35,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El vídeo de los Celtics para resumir la primera temporada de Hugo González",
+      "source": "Mundial 2026",
+      "title": "Las combinaciones de indumentaria que deberá utilizar Uruguay en el Mundial 2026",
       "summary": "",
-      "url": "https://www.marca.com/baloncesto/nba/2026/06/03/video-celtics-resumir-primera-temporada-hugo-gonzalez-video.html",
-      "published": "2026-06-03T17:52:58+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/bLsqA1g86FqLuamXW.jpeg",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSS1qd3ZobGtYVDF2RW93aEItUDQ4YWhPTXhnay1SZkY1WVRFNEJjQUFmQzh6SzZFWkVaZ3h4aXhXTlIxLWZ1WldqZmQyXzREaS1jNDVvZlYzU2ZMSUpQOW5RYXBhWV9UMFRoTk1pbVZyQjVva21YblhYX2x2Q0psTzlXSzdtaGFUWUF3UTQwSXNOZVVleDE4NDBRNkh3T2VycHN6QVhMb21nOWxhaGxLYzRtcG5Md3labWVXdUdNaUVZYVd4QlpOd2szc1VJQ0I1SzZucjBrNGpJdzF0?oc=5",
+      "published": "2026-06-03T22:03:00+00:00",
+      "image": null,
+      "coverage": 2,
+      "relevance": 24.86,
+      "sources": [
+        "Google Noticias UY",
+        "Mundial 2026"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El bombazo de Enrique Riquelme copa los titulares",
+      "summary": "Repaso a las primeras de los principales diarios deportivos.",
+      "url": "https://www.marca.com/mundo-marca/album/2026/06/04/portadas-bombazo-enrique-riquelme-copa-titulares.html",
+      "published": "2026-06-03T22:59:51+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/04/6a20b11a15564.jpeg",
       "coverage": 1,
-      "relevance": 16.31,
+      "relevance": 16.46,
       "sources": [
         "Marca"
       ]
@@ -537,13 +482,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El compromiso ante notario de Florentino: \"El Madrid será siempre de sus socios\"",
-      "summary": "El presidente en funciones sale al paso de las acusaciones de privatización del club",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/compromiso-notario-florentino-madrid-sera-siempre-socios.html",
-      "published": "2026-06-03T17:41:23+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a204c11c88b7.jpeg",
+      "title": "Florentino paga para aparecer justo tras la entrevista a Riquelme",
+      "summary": "El anuncio se emitió inmediatamente después de acabar el programa",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/04/primer-spot-publicitario-entrevista-riquelme-hormiguero-anuncio-fichaje-mourinho.html",
+      "published": "2026-06-03T22:29:17+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/04/6a20a863775b0.jpeg",
       "coverage": 1,
-      "relevance": 16.29,
+      "relevance": 16.4,
       "sources": [
         "Marca"
       ]
@@ -551,13 +496,69 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Un gran Attaoui gana los 1.500 de los Paavo Nurmi Games con marca personal",
-      "summary": "El mediofondista cántabro atacó como siempre en la última contrarrecta y mejoró casi un segundo su mejor registro",
-      "url": "https://www.marca.com/atletismo/2026/06/03/gran-attaoui-gana-1-500-paavo-nurmi-games-marca-personal.html",
-      "published": "2026-06-03T17:36:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2064bc17423.jpeg",
+      "title": "El mensaje de agradecimiento de Leo Messi por el Princesa de Asturias: \"Es un orgullo muy grande\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/06/03/mensaje-agradecimiento-leo-messi-princesa-asturias-orgullo-grande-recibir-reconocimiento-importancia-video.html",
+      "published": "2026-06-03T21:59:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/bM5dQ1g8A96tzkkrK.jpeg",
+      "coverage": 1,
+      "relevance": 16.35,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Riquelme firma ante notario que pagará las cuotas de los socios si no llegan Haaland y Rodri",
+      "summary": "El candidato, dispuesto a asumir el coste de inscripción de los 100.000 socios si incumple sus promesas electorales",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/riquelme-firma-notario-pagara-cuotas-socios-llegan-haaland-rodri.html",
+      "published": "2026-06-03T21:56:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/U1g89jNJymuR8.jpeg",
+      "coverage": 1,
+      "relevance": 16.35,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Riquelme confirma el fichaje de Rodri",
+      "summary": "El candidato a la presidencia blanca asegura que el capitán del combinado nacional jugará en el Bernabéu si gana las elecciones",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/riquelme-confirma-fichaje-rodri-madrid-tendra-jugador-mundial.html",
+      "published": "2026-06-03T21:28:26+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a209c436363a.jpeg",
+      "coverage": 1,
+      "relevance": 16.3,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Riquelme, sobre su entrenador: \"Tendremos al que todos quieren que entrene al Madrid\"",
+      "summary": "El candidato a la presidencia espera anunciarlo el viernes o el sábado",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/riquelme-sobre-florentino-fichaje-mourinho-me-gusta-nosotros-tendremos-todos-quieren-entrene-madrid.html",
+      "published": "2026-06-03T21:21:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a209a42c9e8f.jpeg",
       "coverage": 1,
       "relevance": 16.28,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Una Italia irreconocible arranca una nueva etapa",
+      "summary": "Se impusieron a Luxemburgo (0-1) con un combinado repleto de jugadores Sub21",
+      "url": "https://www.marca.com/futbol/2026/06/03/italia-irreconocible-arranca-nueva-etapa.html",
+      "published": "2026-06-03T21:08:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a20971ae6b27.jpeg",
+      "coverage": 1,
+      "relevance": 16.26,
       "sources": [
         "Marca"
       ]
@@ -676,6 +677,35 @@
     },
     {
       "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Giorgian de Arrascaeta va al Mundial",
+      "summary": "La determinación fundamentada de la presencia de Giorgian de Arrascaeta en el Mundial, y las vanas especulaciones de sustitución.Giorgian de Arrascaeta estuvo en la lista presentada a la FIFA el 30 de mayo, a pesar de que ya se sabía que, por la intervención en la clavícula a que había sido...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/giorgian-de-arrascaeta-va-al-mundial/",
+      "published": "2026-06-03T20:49:16+00:00",
+      "image": null,
+      "coverage": 2,
+      "relevance": 25.63,
+      "sources": [
+        "Google Noticias UY",
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Murió Julieta Denevi a los 48 años, actriz de \"Plop!\" e hija de Jorge Denevi y Mary Da Cuña",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZDZ4YzJ1Uk9Vak90SkwzZ2w2LXBfazVGdkF3cTRlX0ZDcHh4UjcyNzFSMGlyRHdRMmR2MHk5TFhHVFRIdkNIbTVkS1c3eEhwdWlzNkxXalAwd3BORXZ5Z0ktV3hNSEEyRHVuMTF2NjZtYTNZY0R2OTdvV1BZSmRDcFN5SGttMVEzVWNGbDQyU3RjMGhGZ3YzOHktZEJ2RWE0V0V0Ulk5bEgyMXFQdUppcGpWb29TY0dXVUtuTU9XSUgtaDdWWXZfMjNqTQ?oc=5",
+      "published": "2026-06-03T19:14:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.96,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
       "source": "El País Uy",
       "title": "Recibió la eutanasia Pablo Cánepa, uno de los impulsores de la ley: “Se fue rodeado de familia y amigos”",
       "summary": "",
@@ -683,49 +713,7 @@
       "published": "2026-06-03T14:59:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.91,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Orsi, que donará camioneta a la ANEP, reconoce que abonó US$ 25.000 menos y dice que pagó al FA por Renault",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlg2M2VHTXVzc2g4aHdrNnZQR0NBMjFhNTJLb01IbDNQbG0tTDZaaFNBcDB1Wl9xRDJMVkdHekt2aWowalpnRGl4Y3RtRnFQVUszRnAtMTV0Y2ZiMG9mcDVTeWNWZGduM3ZlcGpreXpETmJyM1RxMW53V3JRWGVEZ1g3YVB2bFAwWDBsYWtMQ3d4U284OS1OaUQ3cGs2dGctUkFIbHhZODBkeXdKS2FjWlZvdFhfX1FFQ3BTcThRUDZCaElLQ2RSNGd4RXA2dkQyaEprNUVIQm9QNnlLZHJuSnI4bGY5dw?oc=5",
-      "published": "2026-06-03T07:09:10+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.09,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Proyecto del BCU obliga a bancos a informar a clientes que abran o tengan cuentas en dólares sobre \"riesgo de tipo de cambio\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFBqSV9pWktiZXhDb0pMa21hSWJlZFEzUlRScWhTWmRZcm1HZ202aUxoWUFkQXJYS09Td2hjWG9oMkRxQzhiRE9GY0Exb0wwZDJSdGk5dm94SlBsSlNMdG1Hc3MySTRRTXk4UkRXZnkyNUZBcy10WG9Ydm5TQ0c4YjlEV01ROXRuMW9UZUs4d2ZtSUlHVlVqZGZheUZqYmltZ2JyanRpY2xHSEVOUEZiTTFxZlF2VjA3WFctWU1mZENjMVI4bG1YR25fMEVWRWh4dkVUaDlPcnBTRHktX0NSSEU4dE5Nd1Y2MXlEajA4TW56NDVoVGw0azNQZw?oc=5",
-      "published": "2026-06-03T06:41:56+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.05,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Peñarol aprobó dos importantes propuestas en el Consejo Directivo: cuáles son y cómo fueron recibidas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN1A4aW15UVFOMUxWV0NwYVVfOTdqWkRRXzhyLS1ldzAxSXVaTElDLWJzdy1lXzhHSkhEUjJZN0pTT3RCMGxPYlQxZWZYcGUxZXY3THlJX0hjbmNMbWIxUnpSamE5VXZGZFdKanR2anJpaW8xZlh0b2I4bGtmR1ktVkhRUElxeUZMZDN1ZDFuWWxZaWl1dmhPVktwTmZGTU41QjE5Z2lxYi1QNzNJX2xVczdZXzA2ZS13WjRfRDRkVWxkc0lsNm5vOUs3a3FaODY2SG9mWUV4aF8?oc=5",
-      "published": "2026-06-03T06:05:26+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.98,
+      "relevance": 16.52,
       "sources": [
         "El País Uy"
       ]
@@ -733,10 +721,52 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fiscalía de Milán ratificó el indulto a la italiana Nicole Minetti",
-      "summary": "En la sentencia se indicó que “no se han detectado irregularidades en el proceso de adopción reconocido en Italia por el Juzgado de Menores de Venecia”La Fiscalía de Milán dispuso mantener el indulto a Nicole Minetti, exconsejera regional de Lombardía, y pareja del empresario Giuseppe Cipriani, que...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/6/fiscalia-de-milan-ratifico-el-indulto-a-la-italiana-nicole-minetti/",
-      "published": "2026-06-03T19:13:05+00:00",
+      "title": "El 67% de la población de Cerro Largo aprueba la gestión de la Intendencia",
+      "summary": "Idéntico porcentaje respalda a Christian Morel como intendente, según una encuesta de Ágora.Cerro Largo no conoce intendencias de otro signo político que el Partido Nacional. En el último período electoral, allí la principal disputa fue entre el candidato de la continuidad, José Yurramendi, y el...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/el-67-de-la-poblacion-de-cerro-largo-aprueba-la-gestion-de-la-intendencia/",
+      "published": "2026-06-03T23:17:17+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.89,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Se reactivó el proceso para designar al comisionado parlamentario de cárceles con una convocatoria a postulaciones",
+      "summary": "El diputado del Partido Independiente Gerardo Sotelo dijo que “hay un amplio consenso” sobre el nombre del director del Inisa, Daniel Radío, que se había manejado por parte del Frente Amplio y el Partido Nacional.Este martes quedó conformada, una vez más, la comisión especial para la designación...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/se-reactivo-el-proceso-para-designar-al-comisionado-parlamentario-de-carceles-con-una-convocatoria-a-postulaciones/",
+      "published": "2026-06-03T23:08:36+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.87,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Comisión de Ambiente del Senado recibió a pescadores que fueron desalojados de predio ubicado en la costa de Punta Artilleros",
+      "summary": "Eduardo Brenta opinió que si ese fraccionamientos costero transforma los primeros 150 metros de la ribera -que son dominio público- en una zona privada, “generará un antecedente muy negativo” que “no corresponde que suceda”.El martes 2, la Comisión de Ambiente de la Cámara de Senadores recibió a un...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/6/comision-de-ambiente-del-senado-recibio-a-pescadores-que-fueron-desalojados-de-predio-ubicado-en-la-costa-de-punta-artilleros/",
+      "published": "2026-06-03T23:00:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.86,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Keiko Fujimori dejó abierta la posibilidad de no reconocer los resultados de las elecciones del domingo",
+      "summary": "La candidata derechista fue consultada sobre si respetaría los resultados en caso de resultar derrotada. Respondió: “Bueno, vamos a ver”.A pocos días de la segunda vuelta electoral de las elecciones presidenciales peruanas que se celebrarán el domingo, la incertidumbre es enorme en el país,...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/keiko-fujimori-dejo-abierta-la-posibilidad-de-no-reconocer-los-resultados-de-las-elecciones-del-domingo/",
+      "published": "2026-06-03T22:54:59+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 15.85,
@@ -747,43 +777,15 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fracasó iniciativa vecinal para crear un municipio al este del arroyo Maldonado",
-      "summary": "La Junta de Maldonado rechazó la propuesta tras recibir un informe negativo del intendente Abella; vecinos de La Barra afirman que hay “razones políticas”.El plenario de la Junta Departamental de Maldonado rechazó por unanimidad, este martes, la iniciativa de vecinos que residen al este del arroyo...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/fracaso-iniciativa-vecinal-para-crear-un-municipio-al-este-del-arroyo-maldonado/",
-      "published": "2026-06-03T18:33:36+00:00",
+      "title": "Lula dijo que Brasil no puede aceptar la manera en que es tratado por Estados Unidos",
+      "summary": "El gobierno de Trump, en sintonía con los pedidos de Flávio Bolsonaro, amenaza con imponerle nuevos aranceles a los productos brasileños.El presidente de Brasil respondió este miércoles con indignación ante las medidas con las que el gobierno estadounidense intenta presionar a su país, a cuatro...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/lula-dijo-que-brasil-no-puede-aceptar-la-manera-en-que-es-tratado-por-estados-unidos/",
+      "published": "2026-06-03T22:07:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 15.78,
+      "relevance": 15.76,
       "sources": [
         "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "\"Lujo de verdad\": Gabriela Hearst y la AUF presentaron los trajes que lucirá la selección uruguaya en el Mundial",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOS3YwUUZqMzZsRmlPd215dmxsZXpSZW9uMkR3SWZWUnlfalJ0aWxBWnpOVTZpOE1xNnRzSEQ5S2d0SUhieGN3ZDdSZkVEeUFONnpCY0oxa1FTeGtCdGhYek1rSWhKMURDVHdCWTRKZ0Vsel9wYXBnRVRUU0gyWGN2NHY2ejAzTm1ISjZwcWJQaW5odTFBdDFnQXNFQ2Y2c2hVLVVLaktnVWlkbG5VSnZ4R1NTTUdpNHRHR1dOXzMzUnNfWVBKMk1KSEdkNDY1dEFqSzV5T2xLQm0zUQ?oc=5",
-      "published": "2026-06-03T04:05:23+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.78,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "La decisión que tomó el Consejo Directivo de Peñarol con Diego Aguirre y los pasos a seguir en el club",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUWt2UFNEM3VEbjQzcmFROTQ4VkdaRGpVMTFDV0pBa2JsTG5PT1pVUE5RZHo5ckFGUmowUzlaT3lnekdKYlB5c2NiTmFPVE1ZbWoxbTRvbE9pT00zbE91Nm8zOWR4MVRPb205S2FveEJPNWxBQUI4eG05NUcwSng1SnpSa2VWX3ZfM0VPbmZ1NFRzcllTSTQyaGVKWFdST3NMVXJGaGpvN2FvRVRYSzZjMjdPdWVDWWFkLUEtWlF3aXVQZmpUSGdyT3pVRW1LOFk5Y25vZkFGX2szZEk?oc=5",
-      "published": "2026-06-03T04:03:30+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.77,
-      "sources": [
-        "El País Uy"
       ]
     }
   ]
