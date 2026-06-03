@@ -1,149 +1,203 @@
 {
-  "updated_at": "2026-06-02T23:25:17.516740+00:00",
+  "updated_at": "2026-06-03T14:19:41.249168+00:00",
   "articles": [
     {
       "category": "internacional",
       "source": "France 24",
-      "title": "Descartan fraude electoral en Colombia, pese a denuncias de Gustavo Petro",
-      "summary": "El presidente de Colombia, Gustavo Petro, insiste en que hubo presuntas irregularidades en la primera vuelta de las elecciones presidenciales que habrían perjudicado al candidato de su partido, el izquierdista Iván Cepeda. Este 2 de junio, el mandatario presentó pruebas que, según afirma,...",
-      "url": "https://www.france24.com/es/video/20260602-descartan-fraude-electoral-en-colombia-pese-a-denuncias-de-gustavo-petro",
-      "published": "2026-06-02T23:21:35+00:00",
-      "image": "https://s.france24.com/media/display/5b874698-5ed3-11f1-b9f9-005056a90284/w:1024/p:16x9/ES-20260602-170931-171108-CS.jpg"
+      "title": "¿La guerra en Líbano pone a prueba la alianza entre Trump y Netanyahu?",
+      "summary": "Mientras los bombardeos israelíes continúan sobre Líbano, nuevas tensiones diplomáticas emergen entre Washington y el gobierno de Benjamin Netanyahu. La revelación de que Donald Trump habría cuestionado la estrategia militar israelí reaviva las dudas sobre el margen de maniobra de Estados Unidos...",
+      "url": "https://www.france24.com/es/programas/el-debate/20260603-la-guerra-en-l%C3%ADbano-pone-a-prueba-la-alianza-entre-trump-y-netanyahu",
+      "published": "2026-06-03T14:14:19+00:00",
+      "image": "https://s.france24.com/media/display/95bfe2aa-2497-11f1-ad83-005056a97e36/w:1024/p:16x9/AP26061855785359.jpg"
     },
     {
       "category": "internacional",
       "source": "France 24",
-      "title": "\"Si no fuera por mí, estarías en la cárcel\": ¿será la guerra en Irán el quiebre entre Trump y Netanyahu?",
-      "summary": "Las diferencias en torno a los planes militares en Líbano caldearon el ambiente entre Donald Trump y Benjamin Netanyahu durante una llamada telefónica el 1 de junio, de acuerdo con una versión del medio digital estadounidense 'Axios', que citó a dos funcionarios presentes durante el intercambio y...",
-      "url": "https://www.france24.com/es/medio-oriente/20260602-si-no-fuera-por-m%C3%AD-estar%C3%ADas-en-la-c%C3%A1rcel-ser%C3%A1-la-guerra-en-ir%C3%A1n-el-quiebre-entre-trump-y-netanyahu",
-      "published": "2026-06-02T23:20:11+00:00",
-      "image": "https://s.france24.com/media/display/b53ca666-2471-11f1-b030-005056bf30b7/w:1024/p:16x9/main-trump-netanyahu-war-v2.jpg"
+      "title": "Passport Bros: la búsqueda de mujeres “sumisas” en América Latina",
+      "summary": "En redes sociales y foros vinculados a la llamada \"manosfera\", crece el fenómeno de los Passport Bros, hombres occidentales que viajan a países de América Latina y otras regiones del sur global en busca de mujeres a las que consideran más tradicionales, dependientes o dispuestas a asumir roles de...",
+      "url": "https://www.france24.com/es/programas/ellas-hoy/20260603-passport-bros-la-b%C3%BAsqueda-de-mujeres-sumisas-en-am%C3%A9rica-latina",
+      "published": "2026-06-03T13:56:08+00:00",
+      "image": "https://s.france24.com/media/display/2d6f686a-5efd-11f1-8a64-005056a97e36/w:1024/p:16x9/WEB-PORTADA-ELL-02JUN.png"
+    },
+    {
+      "category": "internacional",
+      "source": "El País",
+      "title": "Irán reaviva el pulso militar con Estados Unidos al bombardear objetivos en Kuwait y Baréin",
+      "summary": "Teherán arremete de nuevo contra sus vecinos árabes y ataca el cuartel general de la Quinta Flota en represalia por sendos ataques estadounidenses",
+      "url": "https://elpais.com/internacional/2026-06-03/iran-reaviva-el-pulso-militar-con-estados-unidos-al-bombardear-objetivos-en-kuwait-y-barein.html",
+      "published": "2026-06-03T13:32:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ECIPNJTCWJK6ZIXJQ3FBAGUMUY.jpg?auth=0ffa404e2aeb0514acf375cc42a907c0895e027bd01593ee3f0569a0c2bfddef"
+    },
+    {
+      "category": "internacional",
+      "source": "El País",
+      "title": "Ucrania desafía a Putin con un bombardeo masivo en el corazón de Rusia",
+      "summary": "La ofensiva de Kiev, con 350 drones lanzados contra varias regiones rusas, empaña la inauguración de un foro internacional en San Petersburgo. Un proyectil mata a ocho civiles al impactar sobre un autobús en la zona ocupada de Donetsk",
+      "url": "https://elpais.com/internacional/2026-06-03/al-menos-siete-muertos-en-un-ataque-de-ucrania-contra-un-autobus-en-la-zona-ocupada-por-rusia.html",
+      "published": "2026-06-03T13:13:55+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZBBRAARNLBE3JLHHHTDDUAZTMY.jpg?auth=56a1ffc9a9d9a5475045db5a1d9a5c6c84a163d57ca0d8815939a9b414af5bd5"
     },
     {
       "category": "internacional",
       "source": "France 24",
-      "title": "Guerra en Ucrania: Kiev ordena evacuaciones tras ataques rusos",
-      "summary": "🇺🇦🪖 Ciudades ucranianas se despertaron bajo las bombas rusas. Los ataques con drones y misiles dejaron varias víctimas mortales y decenas de heridos en Kiev.",
-      "url": "https://www.france24.com/es/video/20260602-guerra-en-ucrania-kiev-ordena-evacuaciones-tras-ataques-rusos",
-      "published": "2026-06-02T23:05:03+00:00",
-      "image": "https://s.france24.com/media/display/9ae619de-5ed0-11f1-9f16-005056bf30b7/w:1024/p:16x9/PORTADA-UCRANIA.png"
+      "title": "¿Qué está pasando con la relación entre Donald Trump y Benjamin Netanyahu?",
+      "summary": "Los ataques israelíes sobre Líbano de los últimos días han puesto una importante presión sobre Estados Unidos y sus intentos de negociación con Irán. La República Islámica amenazó con suspender las conversaciones con Washington si seguía tolerando los ataques de Israel en Líbano, al tiempo que el...",
+      "url": "https://www.france24.com/es/video/20260603-qu%C3%A9-est%C3%A1-pasando-con-la-relaci%C3%B3n-entre-donald-trump-y-benjamin-netanyahu",
+      "published": "2026-06-03T13:05:04+00:00",
+      "image": "https://s.france24.com/media/display/13c92eb0-5f4c-11f1-b519-005056bfb2b6/w:1024/p:16x9/ES-20260603-071255-072214-CS.jpg"
+    },
+    {
+      "category": "internacional",
+      "source": "France 24",
+      "title": "Diálogos bajo fuego: un muerto y 63 heridos en Kuwait; seis víctimas mortales por ataque israelí en Líbano",
+      "summary": "Las treguas en Irán y Líbano, así como las negociaciones por alcanzar un acuerdo duradero, se mantienen sobre el papel y en el terreno la situación es distinta. Al menos una persona murió y 63 resultaron heridas tras un ataque iraní contra instalaciones civiles en Kuwait, incluyendo el aeropuerto...",
+      "url": "https://www.france24.com/es/medio-oriente/20260603-di%C3%A1logos-bajo-fuego-un-muerto-y-63-heridos-en-kuwait-seis-v%C3%ADctimas-mortales-por-ataque-israel%C3%AD-en-l%C3%ADbano",
+      "published": "2026-06-03T12:59:14+00:00",
+      "image": "https://s.france24.com/media/display/5075ac94-5f15-11f1-89f4-005056a90284/w:1024/p:16x9/000-A4NV8KP.jpg"
     },
     {
       "category": "internacional",
       "source": "BBC Mundo",
-      "title": "La policía de Nueva York investiga videos de hombres saliendo de las alcantarillas de la ciudad",
-      "summary": "La policía de Nueva York está llevando a cabo una investigación tras la aparición en las últimas semanas de múltiples videos que muestran a grupos de personas entrando y saliendo del sistema de alcantarillado de la ciudad.",
-      "url": "https://www.bbc.com/mundo/articles/c202qpeglego?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-02T22:44:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b62/live/b8485870-5ed5-11f1-b682-cf91850925ea.jpg"
+      "title": "La indignación por el caso del joven que murió esposado por la policía mientras se desangraba tras ser apuñalado en Reino Unido",
+      "summary": "Las imágenes grabadas por la cámara policial han generado una enorme conmoción en el país y sembrado dudas sobre la actuación de los agentes.",
+      "url": "https://www.bbc.com/mundo/articles/c4g8n0p5w6yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-03T12:49:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ca/live/20841970-5e0d-11f1-89a3-d1f559421220.png"
     },
     {
       "category": "internacional",
       "source": "France 24",
-      "title": "Llegan las primeras selecciones a norteamérica para el Mundial de fútbol",
-      "summary": "Faltan pocos días para el inicio de la Copa Mundial de fútbol y los países organizadores, Estados Unidos, México y Canadá, se preparan para recibir a las selecciones de todo el mundo que participarán en el torneo. Con la confirmación de las convocatorias, equipos como Brasil ya aterrizaron en...",
-      "url": "https://www.france24.com/es/video/20260602-llegan-las-primeras-selecciones-a-norteam%C3%A9rica-para-el-mundial-de-f%C3%BAtbol",
-      "published": "2026-06-02T22:10:04+00:00",
-      "image": "https://s.france24.com/media/display/37d7a958-5ecf-11f1-9ee3-005056bfb2b6/w:1024/p:16x9/ES-20260602-141209-141330-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "Directo a... La Paz y los intentos del Gobierno boliviano que acaben las protestas",
-      "summary": "El presidente Rodrigo Paz se mostró positivo ante un eventual fin de las manifestaciones en Bolivia, que ya completan cinco semanas con bloqueos y miles de bolivianos afectados por la crisis de escasez e inflación. Paz habló de alcanzar grandes acuerdos y abrir espacios de debate, al tiempo que...",
-      "url": "https://www.france24.com/es/video/20260602-directo-a-la-paz-y-los-intentos-del-gobierno-boliviano-que-acaben-las-protestas",
-      "published": "2026-06-02T22:07:27+00:00",
-      "image": "https://s.france24.com/media/display/6b9b8dbe-5ece-11f1-a4a0-005056bfb2b6/w:1024/p:16x9/ES-20260602-124558-125126-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "France 24",
-      "title": "Camiseta de la selección en la campaña de De la Espriella: ¿patriotismo u oportunismo?",
-      "summary": "Iván Cepeda, candidato oficialista en las elecciones presidenciales de Colombia, criticó al candidato de extrema derecha Abelardo de la Espriella por usar la camiseta de la selección de fútbol del país como \"símbolo político\", al incorporarla en su campaña con una variación: un tigre estampado,...",
-      "url": "https://www.france24.com/es/video/20260602-camiseta-de-f%C3%BAtbol-de-colombia-en-la-campa%C3%B1a-de-de-la-espriella-patriotismo-u-oportunismo",
-      "published": "2026-06-02T22:06:59+00:00",
-      "image": "https://s.france24.com/media/display/f70be5c2-5ec6-11f1-a355-005056a90284/w:1024/p:16x9/ES-20260602-151732-152927-CS.jpg"
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "La polémica por los exorbitantes precios del transporte público para llegar a los estadios del Mundial 2026 en EE.UU.",
-      "summary": "Los precios para llegar a algunos partidos han generado críticas de aficionados, autoridades locales e incluso de la FIFA, y han abierto un debate sobre quién debe pagar la factura logística del Mundial.",
-      "url": "https://www.bbc.com/mundo/articles/cvgz2519dvlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-02T22:00:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1ef0/live/b82bdc50-5ec0-11f1-b588-45cc931ea6f1.jpg"
+      "title": "Ucrania contraataca: impacta una terminal petrolera en San Petersburgo durante foro económico de Putin",
+      "summary": "Drones ucranianos impactaron un buque de guerra ruso de la flota del Mar Báltico e incendió una instalación petrolera en San Petersburgo, en momentos en que la ciudad acoge la emblemática cumbre mundial en la que el Kremlin busca promover inversiones. Rusia afirma haber interceptado más de 700...",
+      "url": "https://www.france24.com/es/europa/20260603-ucrania-contraataca-impacta-una-terminal-petrolera-en-san-petersburgo-durante-foro-econ%C3%B3mico-de-putin",
+      "published": "2026-06-03T12:16:11+00:00",
+      "image": "https://s.france24.com/media/display/605c2656-5f42-11f1-8c3a-005056bf30b7/w:1024/p:16x9/AP26154236712277.jpg"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Bruselas cede y se abre a relajar las reglas de gasto público para que los Estados afronten la crisis energética",
-      "summary": "La Comisión plantea que los Gobiernos puedan destinar hasta un 0,3% del PIB anual para reducir la dependencia de los combustibles fósiles",
-      "url": "https://elpais.com/economia/2026-06-02/bruselas-cede-y-se-abre-a-relajar-las-reglas-de-gasto-publico-para-que-los-estados-afronten-la-crisis-energetica.html",
-      "published": "2026-06-02T15:46:56+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/PYBV7KVIAVLXPA5AR3QMREKZ7Q.jpg?auth=9afa943a9523cf9c33b0085a947b43758270feed0e4112094925215c3b63f43c"
+      "title": "Trump plantea nuevos aranceles a la UE, China o México basados en supuestos incumplimientos de las reglas de trabajo forzado",
+      "summary": "Estados Unidos busca reconstruir su política arancelaria después de su derrota en el Supremo y planea aplicar un gravamen de al menos un 10% a decenas de países",
+      "url": "https://elpais.com/economia/2026-06-03/trump-plantea-nuevos-aranceles-a-la-ue-china-o-mexico-basados-en-supuestos-incumplimientos-de-las-reglas-de-trabajo-forzado.html",
+      "published": "2026-06-03T13:29:42+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/7FZ2VHZNABGT5HJJTAMTCWS2ZM.JPG?auth=9531cf9b281082194929dca59ae6351c7ac60eb4411cae948ea16f0df8665dae"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "La inflación de la eurozona escala al 3,2% en mayo y añade presión al BCE para subir tipos",
-      "summary": "El riesgo más inmediato según los analistas es que el aumento de precios de la energía se contagie a otros productos",
-      "url": "https://elpais.com/economia/2026-06-02/la-inflacion-de-la-eurozona-escala-al-32-en-mayo-y-anade-presion-al-bce-para-subir-tipos.html",
-      "published": "2026-06-02T10:52:27+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/DNETUHN7ZFPKBOYLVVLMUUONUA.jpg?auth=60d6bf519c7dd6f61a06226a18bdfea487bd230c6dfdd81d68a2bd5dd4a93155"
+      "title": "Bruselas pide a España que limite las rebajas del IVA a la hostelería",
+      "summary": "La Comisión Europea reclama al Ejecutivo que reduzca la pobreza infantil “reequilibrando el gasto social entre generaciones”",
+      "url": "https://elpais.com/economia/2026-06-03/bruselas-pide-a-espana-que-limite-desgravaciones-fiscales-como-las-rebajas-del-iva-a-la-hosteleria.html",
+      "published": "2026-06-03T11:00:06+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/XLITZWPX75B5NNILDFJP3FGYE4.jpg?auth=f749ab8a6b2c6c3d7b1c43557528abbf8346e9ec2eaf42fe0f71801761365973"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "El Ministerio de Trabajo recomienda el teletrabajo en los municipios que visitará el Papa",
-      "summary": "El departamento de Yolanda Díaz pide “reducir los desplazamientos innecesarios” en las localidades afectadas en Madrid, Cataluña y Canarias",
-      "url": "https://elpais.com/economia/2026-06-02/el-ministerio-de-trabajo-recomienda-el-teletrabajo-en-los-municipios-que-visitara-el-papa.html",
-      "published": "2026-06-02T08:18:08+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/OF24VRWMTJMVLDUEZDJ4Z34N5A.jpg?auth=c87dc78a27ac26e860fa546a9cbcb64336b9a5cbb972bdfa6b14e882c230fb39"
+      "title": "Meliá también cede ante la presión de Trump y abandona la gestión de 15 hoteles en Cuba",
+      "summary": "La decisión, comunicada a la CNMV, se produce tan solo un día después de que Iberostar también retirara su marca a 12 inmuebles",
+      "url": "https://elpais.com/economia/2026-06-03/melia-tambien-cede-ante-la-presion-de-trump-y-abandona-la-gestion-de-15-hoteles-en-cuba.html",
+      "published": "2026-06-03T08:38:19+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/5O6BLXFMDJNQ7CO2MZCT45VLEI.jpg?auth=825feca49cb00fa9d673c231bbaa4235e6c98183a7f8655da4cdd8144a877beb"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Iberostar deja doce hoteles en Cuba por la amenaza de sanciones de Estados Unidos y eleva la presión sobre Meliá",
-      "summary": "La hotelera balear confirma que abandona la gestión de esos establecimientos, propiedad de Gaesa, el conglomerado militar en el punto de mira de la Administración Trump",
-      "url": "https://elpais.com/economia/2026-06-02/iberostar-deja-parte-de-sus-hoteles-en-cuba-por-la-amenaza-de-sanciones-de-estados-unidos-y-eleva-la-presion-sobre-melia.html",
-      "published": "2026-06-02T08:15:21+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/2S52B3ITQUWYBMP5BH4DEMVWTU.jpg?auth=582d8f08b7b1cacc6b96d3ea29a55ba4acdad567f548bb40e0fe1cf0ef55f0dd"
+      "title": "La justicia europea anula en parte la condición de Meta como guardián de mercado",
+      "summary": "El Tribunal General de la UE avala que la Comisión otorgara esa desingnación con respecto a Messenger pero la anula en relación a Marketplace",
+      "url": "https://elpais.com/economia/2026-06-03/la-justicia-europea-anula-en-parte-la-condicion-de-meta-como-guardian-de-mercado.html",
+      "published": "2026-06-03T07:55:31+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/4QHXPX3XHBENJKWSTRPQPF7C6I.jpg?auth=dac2079d86c661924d3e8f26d0b78f960ea00f1e456d0ae2afcec2f9192565d8"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "La economía gana 232.000 empleos en mayo, el mayor impulso en ocho años, pero la caída del paro se resiente",
-      "summary": "La afiliación total alcanza un nuevo récord de 22,3 millones, con un fuerte avance de los extranjeros. El desempleo registrado retrocede en 36.300 personas, uno de los peores registros en ese mes desde 2012",
-      "url": "https://elpais.com/economia/2026-06-02/la-economia-gana-232000-empleos-en-mayo-el-mayor-impulso-en-ocho-anos-pero-la-caida-del-paro-se-resiente.html",
-      "published": "2026-06-02T07:00:06+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/S34UBRELZVAFNHWHDIBEC4QEUU.jpg?auth=7d9a665d35cd01b7a85c4d098887628a3c5dcf340aac027a718fbd0de48a0abb"
+      "title": "Las claves de un ultimátum: cómo Washington consumó el jaque al decaído turismo en Cuba",
+      "summary": "La orden ejecutiva del 1 de mayo, que amenaza con congelar los activos de las empresas extranjeras en la isla, tomará efecto el viernes",
+      "url": "https://elpais.com/mexico/2026-06-03/las-claves-de-un-ultimatum-como-washington-consumo-el-jaque-al-decaido-turismo-en-cuba.html",
+      "published": "2026-06-03T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/YS3GTSCVHBK4ZFFDXHLITRUWTI.jpg?auth=102774251d5cfcce65e3c8cea0aec390aecf55784dbc0e08bcff49a87ea979ed"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Las claves: las ayudas anticrisis empiezan a decaer antes de que Irán y EE UU hagan las paces",
-      "summary": "La subida de los precios no es suficiente para que, en España, se mantengan las rebajas fiscales a la energía",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-02/las-claves-las-ayudas-anticrisis-empiezan-a-decaer-antes-de-que-iran-y-ee-uu-hagan-las-paces.html",
-      "published": "2026-06-02T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/LPWQGDPFWZILFK6IF66NLLZPZQ.jpg?auth=70df80907189464336d297cf594cc3f8a0411dfc9a9fe1bda9503425a149a88f"
+      "title": "La realidad paralela de Trump, en otra dimensión",
+      "summary": "A diferencia de Clinton y Obama, no rectifica ante el rechazo ciudadano y niega la realidad",
+      "url": "https://cincodias.elpais.com/opinion/2026-06-03/la-realidad-paralela-de-trump-en-otra-dimension.html",
+      "published": "2026-06-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/HASY576MXBMFRIAVFESP4JIDVM.jpg?auth=2c2f91e202c3606430d2ffa395ba56e091424861bd6565429a22b24175763b3c"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "A Europa le vendría bien reiniciar su programa de chips",
-      "summary": "Bruselas pretende que los gobiernos compren semiconductores a empresas emergentes locales",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-02/a-europa-le-vendria-bien-reiniciar-su-programa-de-chips.html",
-      "published": "2026-06-02T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/YXEKFJZOXRIE3BFV7PZE6QE4GI.jpg?auth=f99a6366e49d040e923caf33103226cb84eafee77c9a7c30b5586540ec3abd5c"
+      "title": "La debacle de Monsanto siembra amargas lecciones para las fusiones",
+      "summary": "Cualquier empresa como Bayer cuyos productos lleguen a millones de vidas es vulnerable a litigios demoledores",
+      "url": "https://cincodias.elpais.com/opinion/2026-06-03/la-debacle-de-monsanto-siembra-amargas-lecciones-para-las-fusiones.html",
+      "published": "2026-06-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6T5JKEZYOZKXJEGTTL53UUPALA.jpg?auth=0ac67405d350795b2350d81d3644898242b894d5e5b95bef64c56028bb34f322"
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "La IA te facilita el trabajo, pero puede quitarte el criterio",
-      "summary": "Su apariencia de precisión facilita bajar la guardia ante errores ocultos",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-02/la-ia-te-facilita-el-trabajo-pero-puede-quitarte-el-criterio.html",
-      "published": "2026-06-02T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/UBHNOVPE4ZMITPJOK452WW2QOA.jpg?auth=dd7362f387ef0ff510d1e849d50e562d16494d2dbca5d10129f389979263cd99"
+      "title": "Las claves: el imaginativo mercado de derivados se inventa un nuevo producto",
+      "summary": "Los futuros perpetuos sobre SpaceX deberían llamarse más bien indefinidos",
+      "url": "https://cincodias.elpais.com/opinion/2026-06-03/las-claves-el-imaginativo-mercado-de-derivados-se-inventa-un-nuevo-producto.html",
+      "published": "2026-06-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/QZUWWPH6SRGUDNXGIU4MQ6CLA4.jpg?auth=8aebf7f51c9b12ef66be241b29b633ec68d57a14a43065b1bd83f81a324ccd7d"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Quattrociocchi: la «Magnifica humanitas» invita a no delegar el juicio",
+      "summary": "En una entrevista concedida a los medios de comunicación vaticanos, Walter Quattrociocchi, catedrático de Informática en la Universidad La Sapienza de Roma, califica la primera encíclica del Papa León como «muy lúcida» y capaz de llevar el debate sobre la IA a «un plano mucho más maduro». El...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/quattrociocchi-magnifica-humanitas-no-delegar-juicio-ia.html",
+      "published": "2026-06-03T12:42:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/geralt-artificial-intelligence-3382507aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa advierte sobre los riesgos de la IA en la educación",
+      "summary": "Dirigiéndose a los representantes de la Association of Catholic Colleges and Universities, León XIV subrayó cómo el desarrollo de las nuevas tecnologías hace más difícil evaluar el rendimiento académico de los estudiantes. Estos deben ser acompañados por los educadores mediante una adaptación...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-advierte-sobre-los-riesgos-de-la-ia-en-la-educacion.html",
+      "published": "2026-06-03T11:36:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/03/2026-06-03-delegazione-della--association-of-catholic-colleges-a/1780473964521.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Tras las huellas de Santa Rita, una brasileña en misión en Roccaporena",
+      "summary": "Sor María Atília Collet ha encontrado en la santa de las causas imposibles un camino para orientar su vida y la de miles de peregrinos. Antes de llegar a Roccaporena, el pueblo donde nació Santa Rita en 1381, la misión de la religiosa la llevó desde el interior de Brasil a Italia, Portugal, España...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/sisters-project-italia-umbria-santa-rita-brasil-familia.html",
+      "published": "2026-06-03T09:53:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/20/SP_181-FOTO-COPERTINA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Corpus Christi, el Papa: «Que las procesiones sean un valiente testimonio de fe»",
+      "summary": "León XIV, en su saludo al final de la Audiencia General, recuerda que en los próximos días se celebra la Solemnidad del Santísimo Cuerpo y Sangre de Cristo. Exhorta a mirar al corazón de Jesús para transformar el nuestro, «haciéndolo más paciente, generoso y compasivo». Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/corpus-christi-el-papa-que-las-procesiones-sean-un-valiente-t.html",
+      "published": "2026-06-03T09:28:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/06/22/-2025-06-22-santa-messa--processione-a-santa-maria-maggiore-e-be/1750611426081.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa: una liturgia viva, recurso para despertar la apertura al encuentro con Dios",
+      "summary": "El Pontífice preside la Audiencia General en la Plaza de San Pedro y explica a los fieles cuáles son los elementos de la acción litúrgica, la cual permite “gustar la presencia de Dios por medio de Jesucristo”. Con la sobriedad solemne de sus ritmos, el rito —que debe ser cuidado “con mano delicada...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/catequesis-papa-liturgia-viva-recurso-para-despertar-apertura.html",
+      "published": "2026-06-03T09:15:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/03/2026-06-03-udienza-generale/1780474873006.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Salvador. San Miguel convoca el Congreso Eucarístico Diocesano 2026",
+      "summary": "En un camino de fe y renovación espiritual, la Diócesis de San Miguel ha lanzado una convocatoria oficial a todo el Pueblo de Dios de la zona oriental del país para participar en el Congreso Eucarístico Diocesano 2026. Este acontecimiento, calificado como un «encuentro de gracia», se llevará a cabo...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/diocesis-san-miguel-congreso-eucaristico-diocesano-salvador.html",
+      "published": "2026-06-03T08:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/settembre/30/Eucaristia-Santissimo-Sacramento-adorazione-preghiera-foto1-Mirek-Krajewski.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
       "category": "iglesia",
@@ -164,327 +218,255 @@
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/09/01/2025-06-19-visita-a-santa-maria-di-galeria/1756720624325.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "«Con sus espadas forjarán arados»: Tema de la Jornada por el Cuidado de la Creación",
-      "summary": "El Dicasterio para el Servicio del Desarrollo Humano Integral anunció el título elegido por el Papa para la iniciativa ecuménica de oración que se celebrará el 1 de septiembre de 2026. El tema subraya «la conexión entre el conflicto armado y el deterioro ambiental» y aboga por priorizar «el...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/lema-del-papa-jornada-mundial-oracion-cuidado-de-creacion-2026.html",
-      "published": "2026-06-02T14:22:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2020/06/09/AdobeStock_13010051.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "El espacio en tierra firme se nos acabará algún día. Así que España ya está echando placas solares en el mar",
+      "summary": "Llenar el campo de placas solares tiene un límite físico. Es muy probable que, mientras lees esto, hayas escuchado el debate de que en nuestros paisajes empieza a haber más paneles que cultivos. Frente a esta creciente saturación terrestre, la alternativa ya está flotando en el agua: el Astillero...",
+      "url": "https://www.xataka.com/energia/espacio-tierra-firme-se-nos-acabara-algun-dia-asi-que-espana-esta-echando-placas-solares-mar",
+      "published": "2026-06-03T14:01:59+00:00",
+      "image": "https://i.blogs.es/9c658b/panel-solar/1024_2000.jpeg"
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa: Que el deporte sea un instrumento de paz, encuentro y diálogo",
-      "summary": "A pocos días de grandes competiciones deportivas, como la Copa Mundial de Fútbol, el Papa León XIV dedica su intención de oración del mes de junio a los valores del deporte, “para construir comunión y fraternidad en la historia”. Y, además, propone el deporte como “escuela de fraternidad,...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-leon-xiv-intencion-oracion-junio-por-el-deporte-escuela-paz.html",
-      "published": "2026-06-02T13:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/Official-image---June-2026-SP.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Pessoa: Bolivia necesita un proyecto de nación que una y devuelva la esperanza",
-      "summary": "En la Misa de acción de gracias por los 340 años de la fundación de la ciudad de la Santísima Trinidad, el presidente de la Conferencia Episcopal Boliviana, Monseñor Aurelio Pessoa, dirigió un mensaje en el que expresó la necesidad de construir un proyecto de nación capaz de ilusionar al pueblo...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/bolivia-aniversario-obispo-episcopado-proyecto-nacion.html",
-      "published": "2026-06-02T11:12:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/bolivia.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "León XIV advierte sobre la tecno-sanidad y los datos de pacientes",
-      "summary": "El Papa envió un mensaje, firmado por el secretario de Estado, el cardenal Parolin, al arzobispo Pegoraro, presidente de la Pontificia Academia para la Vida, que estuvo reunida ayer y hoy, 2 de junio, en Roma, en un encuentro dedicado a la revisión de la Declaración de Taipéi sobre la conservación...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-es-urgente-proteger-datos-pacientes-frente-colonialismo.html",
-      "published": "2026-06-02T10:45:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/PAV.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "León XIV nombra a una mujer laica Prefecta del Dicasterio para la Comunicación",
-      "summary": "María Montserrat Alvarado, actual presidenta y directora de operaciones de EWTN News, sucederá a Paolo Ruffini en noviembre, continuando el camino de reforma y renovación iniciado por el Papa Francisco. Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-nombra-a-una-mujer-prefecta-del-dicasterio-comunicacion.html",
-      "published": "2026-06-02T10:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/2026.06.02-Maria-Montserrat-Alvarado.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Renovada la colaboración entre el Dicasterio para la Comunicación y la Urbaniana",
-      "summary": "El convenio firmado este primero de junio, regula las actividades editoriales de la universidad, que incluyen también las del Dicasterio para la Evangelización – Sección para la primera evangelización y las nuevas Iglesias particulares - del cual la universidad forma parte integrante. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/renovada-colaboracion-entre-dicasterio-comunicacion-urbaniana.html",
-      "published": "2026-06-02T08:41:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/01/PHOTO-2026-06-01-16-54-48.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg"
+      "category": "tecnologia",
+      "source": "El País Tech",
+      "title": "La IA consumirá en 2030 tanta agua como 1.300 millones de personas",
+      "summary": "Los científicos de la ONU alertan de que “se está minusvalorando” el coste medioambiental de una tecnología que exige cada vez más recursos naturales",
+      "url": "https://elpais.com/tecnologia/2026-06-03/la-ia-consumira-en-2030-tanta-agua-como-1300-millones-de-personas.html",
+      "published": "2026-06-03T14:00:56+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/DKKJHG3PE5E57DL3EZJ6F2BBAE.jpeg?auth=48926e2fa33daca2eace25314dee863f2b4e7b1f6c01e7f73b1935052ab61fa2"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Un dron casero acaba de superar los 700 km/h. Y con ello ha puesto contra las cuerdas el récord oficial",
-      "summary": "Cuando pensamos en un dron, lo normal es imaginar un aparato que despega en vertical, se queda suspendido en el aire y nos permite grabar planos imposibles con bastante facilidad. El Blackbird no va de eso. Su objetivo es mucho más extremo: volar lo más rápido posible. En esta carrera, la...",
-      "url": "https://www.xataka.com/drones/dron-rapido-mundo-tiene-nuevo-aspirante-su-secreto-esta-helices-punta-730-km-h",
-      "published": "2026-06-02T20:01:40+00:00",
-      "image": "https://i.blogs.es/c4c789/blackbird-dron-mas-rapido-1/1024_2000.png"
+      "title": "Hay una división de Xiaomi a la que nadie presta atención. Es justo la que está pagando la fiesta de los móviles, la IA y los coches",
+      "summary": "Xiaomi ya no es solo una empresa de smartphones; es un conglomerado de cuatro grandes divisiones que se apoyan y alimentan entre sí para competir en un mercado cada vez más agresivo. La sorpresa es que financieramente la división que menos atención genera es la que está pagando la fiesta de las...",
+      "url": "https://www.xataka.com/empresas-y-economia/hay-division-xiaomi-a-que-nadie-presta-atencion-justo-que-esta-pagando-fiesta-moviles-ia-coches",
+      "published": "2026-06-03T13:45:58+00:00",
+      "image": "https://i.blogs.es/b8af11/nevera-su7-xiaomi/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Uno de los aeropuertos más temidos de Europa afronta un nuevo problema. Y llega desde el Atlántico",
-      "summary": "Hay aeropuertos que parecen diseñados para recordarnos lo complejo que es volar. También depende del lugar exacto donde se intenta aterrizar. En Madeira, esa realidad se entiende muy rápido: el aeropuerto Cristiano Ronaldo convive con el Atlántico, con una orografía difícil y con vientos capaces de...",
-      "url": "https://www.xataka.com/movilidad/uno-aeropuertos-temidos-europa-afronta-nuevo-problema-llega-atlantico",
-      "published": "2026-06-02T19:31:40+00:00",
-      "image": "https://i.blogs.es/a66811/aeropuerto-madeira-portugal/1024_2000.jpeg"
+      "title": "Esta máquina para hacer helados, sorbetes o granizados es perfecta para cocinas pequeñas. Y no llega a 100 euros",
+      "summary": "No sé en tu comunidad, pero aquí en Andalucía hace ya un calor terrible. Combatirlo con agua o cualquier refresco fresquito está bien, pero mucho mejor con un helado o un granizado. Si eres de los que prefiere hacerlo en casa y no tener que ir a comprarlo a la calle, lo puedes tener mucho más fácil...",
+      "url": "https://www.xataka.com/seleccion/esta-maquina-para-hacer-helados-sorbetes-granizados-perfecta-para-cocinas-pequenas-no-llega-a-100-euros",
+      "published": "2026-06-03T13:35:58+00:00",
+      "image": "https://i.blogs.es/42a22c/american-heritage-chocolate-pwwkjlhzekk-unsplash/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "‘Minecraft’ no parece el mejor sitio para calcular pi: dos investigadores han encontrado cómo aproximarlo dentro del juego",
-      "summary": "‘Minecraft’ parece, de entrada, el último lugar al que acudiríamos para buscar una constante matemática asociada a círculos perfectos. Su mundo está hecho de cubos, sus paisajes se levantan bloque a bloque y casi todo lo que vemos dentro del juego tiene aristas. Precisamente por eso resulta tan...",
-      "url": "https://www.xataka.com/videojuegos/minecraft-no-parece-mejor-sitio-para-calcular-pi-dos-investigadores-han-encontrado-como-aproximarlo-dentro-juego",
-      "published": "2026-06-02T19:01:40+00:00",
-      "image": "https://i.blogs.es/c3c6ab/minecraft/1024_2000.jpeg"
+      "title": "Alguien ha creado la web \"¿es la IA rentable ya?\" para responder a la pregunta de nuestro tiempo en tiempo real",
+      "summary": "Existe una web llamada “Is AI Profitable Yet?” cuya única misión es responder a una de las preguntas más importantes —y más incómodas— de la industria tecnológica actual: ¿la inteligencia artificial gana dinero ya? La respuesta visual es absolutamente contundente: La respuesta corta es a priori un...",
+      "url": "https://www.xataka.com/robotica-e-ia/alguien-ha-creado-web-ia-rentable-para-responder-a-pregunta-nuestro-tiempo-tiempo-real",
+      "published": "2026-06-03T13:31:58+00:00",
+      "image": "https://i.blogs.es/24a4d9/ai-profitable/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Hoy en HBO Max: la última película dirigida por uno de los mayores maestros de la historia del cine",
-      "summary": "Clint Eastwood cumplió 96 años el pasado 31 de mayo. Y un poco de casualidad, con unas declaraciones de su hijo el músico de jazz Kyle Eastwood (diciendo que \"ahora está retirado, pero he tenido mucha suerte de poder trabajar con él en bastantes películas\"), nos hemos enterado de que Eastwood ya no...",
-      "url": "https://www.xataka.com/streaming/hoy-hbo-max-ultima-pelicula-dirigida-uno-mayores-maestros-historia-cine",
-      "published": "2026-06-02T18:45:40+00:00",
-      "image": "https://i.blogs.es/8dc009/jurado-no-2/1024_2000.jpeg"
+      "title": "Nvidia acaba de presentar el chip definitivo contra Intel y AMD. Hay un problema: Windows",
+      "summary": "El procesador de Nvidia para PC es el “que viene el lobo” de la tecnología de consumo. La compañía ha sido la referencia durante años en GPU para jugadores y coqueteó con los SoC gracias a los chips Tegra (que son los que dan vida tanto a Nintendo Switch como a Nintendo Switch 2), pero para...",
+      "url": "https://www.xataka.com/ordenadores/nvidia-acaba-presentar-chip-definitivo-intel-amd-hay-problema-windows",
+      "published": "2026-06-03T13:15:58+00:00",
+      "image": "https://i.blogs.es/a0c9fb/chatgpt-image-3-jun-2026-14_02_01/1024_2000.png"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Hemos pasado años desentrañando una señal del espacio que no debería existir. Y al fin tenemos una \"piedra Rosetta\" para descifrarla",
-      "summary": "Corría el año 2018 cuando un equipo de científicos australianos detectó una extraña señal de radio en el plano de la Vía Láctea. El pulso de radio era demasiado lento para cualquier objeto astronómico conocido. Parecía más bien algún tipo de anomalía o error de los telescopios que un nuevo...",
-      "url": "https://www.xataka.com/espacio/hemos-estado-varios-anos-intentando-desentranar-senal-espacio-que-no-deberia-existir-fin-hemos-encontrado-piedra-rosetta-que-decodifica",
-      "published": "2026-06-02T18:31:40+00:00",
-      "image": "https://i.blogs.es/baa2e4/piedra-rosetta-espacial/1024_2000.jpeg"
+      "title": "China tiene muy claro cómo ganar la carrera tecnológica al resto del mundo: con toneladas de dinero público",
+      "summary": "China se ha empeñado en ser la primera potencia mundial. Esta declaración de intenciones puede ser tan vacía como cada uno de enero cuando digo que este año sí empezaré a despertarme a las seis de la mañana para salir a correr, o puede ocurrir todo lo contrario: que pongan todos los medios a su...",
+      "url": "https://www.xataka.com/empresas-y-economia/china-tiene-muy-claro-como-ganar-carrera-tecnologica-al-resto-mundo-toneladas-dinero-publico",
+      "published": "2026-06-03T13:01:59+00:00",
+      "image": "https://i.blogs.es/e2864d/china-tecnologia-subvenciones/1024_2000.jpeg"
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El problema no es que los cargos intermedios se estén jubilando en masa. Es que la generación Z no quiere su puesto",
-      "summary": "La pirámide invertida poblacional que tenemos en España hace que cada año se jubilen cientos de miles de profesionales con décadas de experiencia a sus espaldas. Directores de área, gerentes de zona, responsables de equipo y otros cargos intermedios y de gerencia que han sostenido las estructuras...",
-      "url": "https://www.xataka.com/empresas-y-economia/problema-no-que-cargos-intermedios-se-esten-jubilando-masa-que-generacion-z-no-quiere-su-puesto",
-      "published": "2026-06-02T18:28:01+00:00",
-      "image": "https://i.blogs.es/b52ea7/tommao-wang-ud85qdu2jkw-unsplash/1024_2000.jpeg"
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Oppo Find X9 Ultra vs Galaxy S26 Ultra: una de las mejores cámaras se lo pone difícil a Samsung. Y eso sin olvidar el silicio-carbono",
-      "summary": "Comparten apellido y sistema operativo, pero poco más. En eso se puede resumir al máximo si comparamos el nuevo Oppo Find X9 Ultra y el Galaxy S26 Ultra, dos de los mejores móviles de este 2026. Las hojas de especificaciones de cada uno nos arrojan muchas diferencias entre ellos, varias que llaman...",
-      "url": "https://www.xataka.com/seleccion/oppo-find-x9-ultra-vs-galaxy-s26-ultra-mejores-camaras-se-pone-dificil-a-samsung-eso-olvidar-silicio-carbono",
-      "published": "2026-06-02T18:15:40+00:00",
-      "image": "https://i.blogs.es/d9a895/ps---plantilla-portadas-xtk/1024_2000.jpeg"
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Llevar la energía eólica a 100 km de la costa parecía imposible. Hasta que China ha botado su nuevo \"corazón\" metálico",
-      "summary": "Una mole de acero de 25.000 toneladas, con la superficie de un campo de fútbol y la altura de un edificio de 15 plantas, surca ahora mismo el océano a bordo de un inmenso buque semisumergible. El último gran hito de la ingeniería asiática ya está en marcha. Este coloso acaba de zarpar desde el...",
-      "url": "https://www.xataka.com/energia/gran-problema-eolica-era-alejarse-costa-china-acaba-solucionarlo-monstruo-acero-25-000-toneladas",
-      "published": "2026-06-02T18:01:40+00:00",
-      "image": "https://i.blogs.es/1fc9f0/energia-eolica/1024_2000.jpeg"
+      "title": "EEUU tenía un barco con 2.000 marines listo para invadir Irán. Ahora lo ha enviado justo al lugar donde más preocupa China",
+      "summary": "Una imagen que todavía se estudia en academias militares ocurrió en 1942, cuando durante la llamada Battle of Midway los estadounidenses lograron hundir cuatro portaaviones japoneses en apenas unas horas. Aquella batalla demostró que, en el Pacífico, mover un puñado de buques al lugar adecuado...",
+      "url": "https://www.xataka.com/magnet/eeuu-tenia-barco-2-000-marines-listos-para-invadir-iran-ahora-ha-enviado-justo-al-lugar-donde-preocupa-china",
+      "published": "2026-06-03T12:31:58+00:00",
+      "image": "https://i.blogs.es/549dab/9699794-scaled/1024_2000.jpeg"
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Arman Tsarukyan 'se borra' como suplente del Topuria vs Gaethje... y ya tiene dos peleas en RAF",
-      "summary": "El peleador armenio ha priorizado sus próximos combates de grappling antes que ser el remplazo del UFC Casa Blanca",
-      "url": "https://www.marca.com/combates-ufc/2026/06/03/arman-tsarukyan-borra-suplente-topuria-vs-gaethje-dos-peleas-raf.html",
-      "published": "2026-06-02T22:55:33+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/20/69e68eadaa352.jpeg"
+      "title": "Riquelme anuncia esta noche su primer fichaje... en TV y ante notario",
+      "summary": "El candidato lo ha anunciado en su entrevista con Rubén Martín",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/riquelme-anuncia-fichajes-iran-firma-notario-cumplire-mis-promesas.html",
+      "published": "2026-06-03T13:58:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a20293e3706f.jpeg"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La Comunidad rebaja ahora el optimismo de Florentino: \"No hacemos normativas ad hoc\"",
+      "summary": "Su portavoz responde tras las declaraciones del presidente en las que aseguró que Ayuso y Almeida acometerían \"normativas especiales\" para que vuelvan los conciertos al Bernabéu",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/comunidad-rebaja-optimismo-florentino-normativas-ad-hoc.html",
+      "published": "2026-06-03T13:58:36+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a203237b3d92.jpeg"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Sabalenka se derrumba con todo ante Shnaider y Roland Garros es un solar",
+      "summary": "La número 1 se queda otro año sin título en París y no defiende la final de la pasada edición",
+      "url": "https://www.marca.com/tenis/roland-garros/2026/06/03/sabalenka-derrumba-shnaider-roland-garros-solar.html",
+      "published": "2026-06-03T13:43:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a202dc24cb37.jpeg"
     },
     {
       "category": "deportes",
       "source": "Mundial 2026",
-      "title": "Mundial 2026: la lista de convocados de México genera dudas - Dallas News",
+      "title": "¿Dónde ver Corea del Sur vs El Salvador? Transmisión del partido y a qué hora empieza el partido amistoso - MARCA",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTnM2VUMtU1RsTVVRR3pqbkFTZVVpQXNaWEF4M2FIc0dScmZXZzRBMVEtUHdqb2pOUDJRdGdUQmFvTmt5TzZDUGJOMk1oSjljZnh3c25rRUFuMmd0S1hBNHlqeVE2Yy1vR0V4emtXS080U3Y4Q2hZR0Nyelc5N0EybFdDX3o2RndqOGpRSzhVTFNfU1QzYTNLMVUybWpYd1FmMFE?oc=5",
-      "published": "2026-06-02T22:42:35+00:00",
-      "image": null
-    },
-    {
-      "category": "deportes",
-      "source": "Mundial 2026",
-      "title": "El Estadio Azteca es la sede del Mundial 2026 y hará historia una vez más - Dallas News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU5EQWhxbG01bzVwcVUzSG1idmZkNkxTRUozaE9FbFd4MDB5STR5OS15SFhrckg5VHQycFg3TVFwVERobXJtTmEtejUtSC03ZjM4eGw4bkdSZHFWdFdFMDYxSlZrQkRBcXJHN1pZZmNrUHFXTE9SY2ZKMXZlN3FYNmp3QXFUYm9jYmNYRVhJZHg2UHdpVTMxUV9wbFFib1dRRDBzZDZadU0wb1E0TFUtYXE2MUhldw?oc=5",
-      "published": "2026-06-02T22:41:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMldfRk1pNzVXVE42UFVyQUk3SlMxNHZEM3NGMloyb0JPNktJQ3dpZThWTEZJaWl0NDUycHBma0VYaURGVkNhMHNXN2VGdl9TeEJoNGF6WnBrMUJuajNTSkduMlRYdngxZXNxTUNZR01Cb2otckFxZFM4OFhvS3BENUpPTTlScEXSAYcBQVVfeXFMTnhLV1dyRjRpM1p4ZzVPNWdrY3FUWFNsNnh0bmFnbUJrdFpWMk90UC02SnpkNFJfMVZNZlg5eVFvZEx2TlF3blNMS0tONzNPQzh0ZkI3ZlZrX3lacmdyenA2OV9HeU5vc3FmSFZkdXVnaGwwLW1peTNidHpOSExBdkw5NTk1aXM0?oc=5",
+      "published": "2026-06-03T13:41:25+00:00",
       "image": null
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Florentino prepara una revolución",
-      "summary": "El club trabaja en un nuevo proyecto, con gestiones muy avanzadas en varias posiciones que, en principio, trascenderán después de las elecciones: \"Nuestra filosofía siempre ha sido traer a los mejores\"",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/florentino-prepara-revolucion-cinco-cambios-refuerzos-gran-nivel.html",
-      "published": "2026-06-02T22:32:49+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1ea284a8107.jpeg"
+      "title": "Sergio García, el rey indiscutible de Valderrama; Jon Rahm, el aspirante",
+      "summary": "El de Borriol computa cuatro victorias y unos números asombrosos en el campo sanroqueño; el 'León de Barrika' ha rozado la gloria dos veces",
+      "url": "https://www.marca.com/golf/liv-golf/2026/06/03/sergio-garcia-rey-indiscutible-valderrama-jon-rahm-aspirante.html",
+      "published": "2026-06-03T13:37:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a202b98cecaf.jpeg"
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Oso: \"Siempre tuve claro que quería jugar para Argentina\"",
+      "summary": "El carrilero del Sevilla también reveló que sueña con jugar en River Plate",
+      "url": "https://www.marca.com/futbol/sevilla/2026/06/03/oso-siempre-tuve-claro-queria-jugar-argentina.html",
+      "published": "2026-06-03T13:00:12+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a202516b59cd.jpeg"
     },
     {
       "category": "deportes",
       "source": "Mundial 2026",
-      "title": "Cuándo juega Ecuador vs. Curazao por el Mundial 2026: equipo, fecha, hora y TV en vivo - ESPN Deportes",
+      "title": "¿Cuánto ganará el América en premio monetario por sus seleccionados en el Mundial 2026? - Sports Illustrated",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQm9PX0VVNF9xTWY4d0puMzVmV2JGQUZGdWhCNjI2VDc1ZVRwSE54a3RnYzVjMmtLZTJZb3hubVhaTkdFN09PejdhSTJsUHRnUERIamZURndkMVZuWFZGTVNOVXhvQ1UxUkVFQXYzWnpZdmxvVlNxUzR6VDFlUW93MEN6T1h3NV9WbUFocUJEdFBxMzl3RHhEbjVSSzJHaXV3SDNmNGNCdGhvaUplUDJ3UnVpanpxN3NqT2ZvaDFhTWxsYXNOTHduUllLRm5UNjU0MEllZzVnMHMtcjhWdkgxa3luRQ?oc=5",
-      "published": "2026-06-02T22:13:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTFlMTHk4c3NPaGJUenFoNzBIZkdVV2FQSzRoMzd4cEhFS0ItLWlBS18wRW5QN1B5ODFGWmdPVjhTVmFnR1hXd2dSU3c5MmtuYUh2RFBmMmJxdTNnbE82LW1jRzhtdG5URjkySGlWa044S1hNV2sxbmNxRk5EakUybHlVSWRhdXpQSUladW85WTFUaGtBMHgyNGd3TXZ1ZEIwamhoVXJVcGtYV3VLOWJZOWNkdkQzZEho?oc=5",
+      "published": "2026-06-03T12:46:58+00:00",
       "image": null
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Marruecos va muy en serio: sale a goleada por partido",
-      "summary": "‘Los Leones del Atlas’ ganaron su segundo amistoso anotando cuatro goles",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/03/marruecos-golea-madagascar-espera-noruega-haaland.html",
-      "published": "2026-06-02T22:03:38+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a1f529dc3d23.jpeg"
+      "title": "Terzic dio el sí a la renovación de Yuri y ahora espera la respuesta del club",
+      "summary": "La continuidad del lateral parecía cantada, pero la negociación se ha extendido demasiado",
+      "url": "https://www.marca.com/futbol/athletic/2026/06/03/terzic-dio-renovacion-yuri-espera-respuesta-club.html",
+      "published": "2026-06-03T12:31:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/04/23/69e9ed8b62230.jpeg"
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Asciende a tres el número de fallecidos en las celebraciones por la Champions del PSG",
-      "summary": "Dos hombres perdieron la vida tras caer al río Sena, mientras que un tercero, el primero del que se informó, falleció en un accidente de motocicleta",
-      "url": "https://www.marca.com/futbol/champions-league/2026/06/02/asciende-tres-numero-fallecidos-celebraciones-champions-psg.html",
-      "published": "2026-06-02T21:53:15+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1f5026dce2e.jpeg"
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Qué son las \"zonas muertas\" que amenazan el mar Báltico, el área de agua salobre más grande del mundo",
+      "summary": "Los esfuerzos por recuperar este mar europeo se topan con los retos que suponen la contaminación, el cambio climático y la difícil relación con Rusia.",
+      "url": "https://www.bbc.com/mundo/articles/c1722jpde91o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-03T09:30:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/873e/live/b6c1fc10-592e-11f1-8b8c-6d33e1d5abb6.png"
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Rossy de Palma: \"No me gustan los artistas que se creen que son algo\"",
-      "summary": "La actriz balear ha sido la invitada de Pablo Motos este martes en 'El Hormiguero'",
-      "url": "https://www.marca.com/tiramillas/television/2026/06/02/rossy-palma-me-gustan-artistas-creen-son-enchufe-creyera-electricidad.html",
-      "published": "2026-06-02T21:22:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1f4990949a0.jpeg"
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "\"Solo hay una salida\": la odisea de los miles de marineros atrapados por el bloqueo del estrecho de Ormuz desde hace casi 100 días",
+      "summary": "La incertidumbre ha pesado gravemente sobre los 20.000 marineros varados en la zona de guerra.",
+      "url": "https://www.bbc.com/mundo/articles/c1j26lx341ko?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-03T03:38:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33d5/live/efac3be0-5e9b-11f1-89a3-d1f559421220.png"
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Guerra en Ucrania: al menos 23 muertos deja una gran ofensiva rusa contra Kiev y Dnipro",
-      "summary": "Un misil derrumbó por completo un edificio de viviendas en Dnipro, donde murieron 16 personas. El bombardeo dejó además siete muertos, un centenar de heridos y apagones en 140.000 hogares de Kiev, donde más de 40.000 personas buscaron refugio en el metro. El presidente Volodímir Zelenski reclamó...",
-      "url": "https://www.france24.com/es/europa/20260602-guerra-en-ucrania-al-menos-23-muertos-deja-una-gran-ofensiva-rusa-contra-kiev-y-dnipro",
-      "published": "2026-06-02T21:39:55+00:00",
-      "image": "https://s.france24.com/media/display/bc57b35c-5e4e-11f1-b59c-005056bf30b7/w:1024/p:16x9/2026-06-02T060216Z-1972507898-RC2ILLAT1OXD-RTRMADP-3-UKRAINE-CRISIS-ATTACK-DNIPRO.jpg"
+      "title": "Irán y EE. UU. intensifican las hostilidades en medio de un estancamiento de las conversaciones",
+      "summary": "Misiles balísticos y drones iraníes dirigidos a Bahrein, Kuwait y otros objetivos regionales fallaron o fueron interceptados, según el Comando Central de EE. UU., que informó a la vez de ataques de sus fuerzas a puntos de una isla de Irán en respuesta. Mientras, el acuerdo preliminar anunciado la...",
+      "url": "https://www.france24.com/es/medio-oriente/20260603-ir%C3%A1n-y-ee-uu-intensifican-las-hostilidades-en-medio-de-un-estancamiento-de-las-conversaciones",
+      "published": "2026-06-03T03:11:13+00:00",
+      "image": "https://s.france24.com/media/display/cef4fe78-3f15-11f1-9205-005056a90284/w:1024/p:16x9/000-A8M96NQ.jpg"
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Trump necesita que la guerra termine, pero Irán no se lo va a poner fácil\"",
-      "summary": "Bajo la presión de las encuestas y de sus aliados en el Golfo, el gobierno de Donald Trump está impulsando un acuerdo, pero Irán exige concesiones.",
-      "url": "https://www.bbc.com/mundo/articles/cj6pjgg4ne6o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-02T21:11:15+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08db/live/a5895d30-5db6-11f1-8b6d-5b89cbb85786.jpg"
+      "source": "France 24",
+      "title": "Israel ataca un hospital en la ciudad de Tiro, Líbano",
+      "summary": "Los escombros cubren calles y edificios en la ciudad de Tiro, Líbano. Los ataques israelíes han causado daños considerables y han dejado varios muertos y heridos. El hospital Jabal Amel quedó reducido a ruinas tras los bombardeos israelíes del 1 de junio. \"Aquí salvamos vidas, no destruimos a las...",
+      "url": "https://www.france24.com/es/video/20260603-israel-ataca-un-hospital-en-la-ciudad-de-tiro-l%C3%ADbano",
+      "published": "2026-06-03T02:07:54+00:00",
+      "image": "https://s.france24.com/media/display/c4c9235a-5eed-11f1-af3a-005056bfb2b6/w:1024/p:16x9/ES-20260602-180310-180436-CS.jpg"
     },
     {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "La ofensiva de China contra las \"cocinas fantasma\" que acaparan las aplicaciones de comida a domicilio",
-      "summary": "El hallazgo de 67.000 \"cocinas fantasma\" ha desatado preocupaciones sobre la seguridad alimentaria y la feroz competencia en el sector de la comida a domicilio.",
-      "url": "https://www.bbc.com/mundo/articles/cgepllprdxgo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-02T16:09:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/78fd/live/4e5530e0-5e95-11f1-89a3-d1f559421220.jpg"
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "La IA, un componente esencial de la guerra que sigue planteando dudas - Diario Libre",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Uruguay asciende en el ranking ICCA, 2025 - Expreso - Diario de viajes y turismo",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzlYR1MtVExjLXA3UG5wb25Lb1FnQkVvXzJoTkhkYlJGUWhOREtGanhXSkc0dC1zLWlVcWNxOWo2Uy1JNVZMVlJzcnNnX09xN0xjV0ZXNG5qY2ZJWG1TaGE3X1JZZlB1X2gyaUN5YlpQTWo2R0JBQ1gxa3lBZE9ONGtabVRYbDVXeVlvbVdXOGIwaElYODYwOXJZNkt3bFhMaHo5Vm9DTUtuRXdBTUZpZ202NHk2bTY4TnRBYU44WlE0NTNzakpWT9IBzgFBVV95cUxOZXBLVmdYZ0pYU3BEUzJsQW1VWUhKVkYzakVucGpvX05FSUR0U1FsZVE4WVlkT1VqdVNmLUx3dV9zeEVZZUVuTk9zVF9PdGE4OHdzeFNSbGFKVWxKUkczcGNqYVJmVm84MWZLbjdDZF9jQTQxbTc0Skc5QWliNm9KRElVWWwyclNkZTZOR0FXUTJSM1F1OVo5djJRSVFDdnVXal9tektfd0lHS192Yk1iVFdNZzA5eldnU1lmZ2xmV0Q4QTE1OFBoUVpuMG5JZw?oc=5",
-      "published": "2026-03-07T08:00:00+00:00",
-      "image": null
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Rusia habría dado información a Irán para atacar objetivos militares de EU en Medio Oriente, según AP - La Jornada de Oriente - Puebla",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVnBEa0pOMDhWZDd0TDdaTjY5Vko0bUJQMVdqSE5GMzh6TTNFVWtFZEZTcG55S05WQlVvOU1ZVENqYVZveERmMFNZOEZmaGplaXJzZXlOclUxZmRrZkVIRlBzQmZ6dnNhd1h2MS0xX1JpVy1FdjNtdGI2RXk1cDg3NWUzNUxFMXB2NmpXSVVWV3NpQ0E4anFTZWdXMkJzVWpmbHhsdm1vVEo1enZ1cnZtQ0RSVmxmZjBRalZiV2FKMWpreUJBbVBKaUE1azZ5MThiMGFCWEtnYVI0cDJ4d0l3?oc=5",
-      "published": "2026-03-06T08:00:00+00:00",
-      "image": null
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Qué aliados le quedan a Irán en la región en medio de su enfrentamiento con Estados Unidos e Israel - BBC",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE95ODkzRFg1ZFZSRndYUVR2SGNYLTlBRGJYSkExS1J5MFhacHhSbWhDZ0cxQVNWUGhQaWtsOFlURUc2TWN3U1l4YTFHZVpZNzJYNEh5SUJySzFfdknSAWBBVV95cUxOUTFkMXJQRnJ0c0Y1cUREMmdlR2RsMEQ5bF9aM1VpbWZqYWVjY09ZY1hUTTlEUXNaYjBhR2FUUlpwUXFXeFAxYnBDbGQ2ckphcW1OREJ0VFlab3NEZ0JvdFU?oc=5",
-      "published": "2026-03-01T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQXhHN1pXMElhZGpDRjc4MTBZYkpWN3hKd2JhaURYaFJoWXJjY19vUEhHNDlORGItRzlQdTRZT0l6R3VNUGl0WkZfVHYxcVdDT0gwcWwwWTNycEFadkF5cFRDX2NEbTY0TW5CLUVqcWlEcWVRS2owLVhvanZkZFN5cU1Bb3ZGSDBfRkVjYVVMV2ZoOWpaVkpTd2pLbw?oc=5",
+      "published": "2026-06-03T14:02:07+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Intendencia y ANEP pusieron fin a largo litigio por la propiedad de un padrón ubicado en El Jagüel",
-      "summary": "Las tierras se integrarán el Eco-Parque Metropolitano del Humedal, cuyo plan de manejo elabora la comuna junto con el Centro Universitario Regional Este.La Intendencia de Maldonado (IDM) logró desactivar un litigio judicial de casi una década con la Administración Nacional de Educación Pública...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/intendencia-y-anep-pusieron-fin-a-largo-litigio-por-la-propiedad-de-un-padron-ubicado-en-el-jaguel/",
-      "published": "2026-06-02T23:18:39+00:00",
+      "title": "Horacio Merlo: “La cultura siempre es la cenicienta, pero hay que salir y hacer”",
+      "summary": "Una de las figuras más reconocidas de la actividad cultural de Paysandú habló con la diaria sobre las dificultades de hacer teatro en el interior del país.Con medio siglo de trayectoria teatral, Horacio Merlo es una de las figuras más reconocidas de la actividad cultural de Paysandú. Actor,...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/horacio-merlo-la-cultura-siempre-es-la-cenicienta-pero-hay-que-salir-y-hacer/",
+      "published": "2026-06-03T13:11:07+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Rendición de Cuentas: si el gobierno “no pone plata en Fiscalía, no prioriza la seguridad”, afirmó Ojeda",
-      "summary": "Por su parte, la presidenta de la Asociación de Magistrados Fiscales sostuvo que, “si dotamos solo a la Policía y no a la Fiscalía y el Poder Judicial”, el sistema judicial “no funciona” porque “hay un lado de la balanza que pesa más que la otra”.El Poder Ejecutivo tiene hasta el 30 de junio para...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/rendicion-de-cuentas-si-el-gobierno-no-pone-plata-en-fiscalia-no-prioriza-la-seguridad-afirmo-ojeda/",
-      "published": "2026-06-02T23:10:17+00:00",
-      "image": null
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Yamandú Orsi resolvió donar su camioneta Hyundai a la ANEP",
-      "summary": "El presidente considera que no hubo ilicitud en la compra del vehículo; explicó que entregó como parte de pago su camioneta, un Renault donado a su campaña electoral y 15.000 dólares.El presidente Yamandú Orsi se refirió este martes a la polémica por la compra de su camioneta Hyundai Santa Fe...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/yamandu-orsi-resolvio-donar-su-camioneta-hyundai-a-la-anep/",
-      "published": "2026-06-02T23:00:54+00:00",
-      "image": null
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Sheinbaum le volvió a pedir a Estados Unidos que no se meta en los asuntos internos mexicanos",
-      "summary": "La mandataria lo hizo después que el embajador de Washington en México opinara sobre la lucha conjunta contra las organizaciones de narcotraficantes.La presidenta mexicana Claudia Sheinbaum reafirmó una vez la soberanía de su país y le reclamó al embajador estadounidense en Ciudad de México, Ronald...",
-      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/sheinbaum-le-volvio-a-pedir-a-estados-unidos-que-no-se-meta-en-los-asuntos-internos-mexicanos/",
-      "published": "2026-06-02T22:57:25+00:00",
-      "image": null
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Representante de la ONU manifestó su temor de que Israel cause en Líbano la misma destrucción que en Gaza",
-      "summary": "El gobierno de Netanyahu rechaza los llamados de Trump a no atacar Beirut, mientras que Washington se muestra optimista en cuanto a su negociación con Irán.La ofensiva israelí en Líbano, con la destrucción que está causando en ese país, debilita los discursos acerca de negociaciones que avanzan...",
-      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/representante-de-la-onu-manifesto-su-temor-de-que-israel-cause-en-libano-la-misma-destruccion-que-en-gaza/",
-      "published": "2026-06-02T22:42:56+00:00",
-      "image": null
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Liga Uruguaya: detalles confirmados para la primera final entre Peñarol y Aguada",
-      "summary": "Se llegó a un acuerdo entre los clubes y el Ministerio del Interior para habilitar la presencia de ambas parcialidades en el Antel Arena, y se pusieron las entradas a la venta.La Liga Uruguaya de Básquetbol (LUB) confirmó en la tarde de este martes que la primera final entre Peñarol y Aguada, en el...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/liga-uruguaya-detalles-confirmados-para-la-primera-final-entre-penarol-y-aguada/",
-      "published": "2026-06-02T22:29:12+00:00",
-      "image": null
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Giorgian de Arrascaeta sufrió una lesión muscular y podría quedar fuera del Mundial",
-      "summary": "El volante se sintió el gemelo en el entrenamiento matutino y está a la espera de los estudios para confirmar la entidad de la lesión.Giorgian de Arrascaeta se sintió el gemelo en el entrenamiento matutino del martes. Todo indica que sufrió un desgarro muscular. En información durante el día fue...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/giorgian-de-arrascaeta-sufrio-una-lesion-muscular-y-podria-quedar-fuera-del-mundial/",
-      "published": "2026-06-02T22:24:52+00:00",
+      "title": "Salto en alerta roja refuerza la respuesta en refugios y asistencia a personas en situación de calle",
+      "summary": "Con refugios al límite y nuevos dispositivos en marcha, el Mides coordina acciones para enfrentar el invierno.La declaración de alerta roja nacional por frío extremo, vigente desde el 6 de mayo, activó en todo el país un operativo especial destinado a proteger a las personas en situación de calle....",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/6/salto-en-alerta-roja-refuerza-la-respuesta-en-refugios-y-asistencia-a-personas-en-situacion-de-calle/",
+      "published": "2026-06-03T12:50:23+00:00",
       "image": null
     },
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "¿Cuál es el país más pequeño que ganó la Copa Mundial de Fútbol? - Telemundo Washington DC",
+      "title": "De Arrascaeta encendió las alarmas en Uruguay y Estudiantes sigue atento - OneFootball",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOR0tCSTBxX0VpbmpUNEphb1EwbFp5UDc2b21ON1J1YzNEVUV3MElzWWtoa0FrUnlPRHZzamY5aXVKLThsOC1rbEZRZ0F5V20wWHM0TWdqLVBWLURIa3ZQWnpwYW1reWh3aG13dnB1Y29tQVFYVHlQejExVTJjbnE4M2tiUXkxYlllR1doalJYLTVLQ3RmbW9fVFhtbVNEaldhYkFIaDByNU1vb3prb0tSeWNUcWpYeXZJejJZa0xTU3psSFJpUDBEbzdra1l5RWZCLUHSAdoBQVVfeXFMT2pGdWJYME9EemZuemstdTVoNE5aTVBFZ2Y0cGV4Wkk2ZUhIeFVJQUNsNlp4Vk9jTFczTnZuYmduY29tNE9FT1BFc1JPTlpNdGNxRFphcWpoNk9pQTFfdG81bFNrbnlyc2N2TGswby01QnlFR0lOWG9NVDBwUE9SUnlxY29PY2dHaTNnTEFQVHZ2UHZRa21FVi01YktnMUkyWi05MmpqWXJrc09kdWcwbEtpR2JNcEc1QlRURUkwWXJucWdYYUM2ekdUbTFpMXNhRThnVU82a0lDSnc?oc=5",
-      "published": "2026-06-02T22:09:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbUZ2aGdJRnVLZFBxbDVqeldKM3I1ZHFSTkhvMXVYLUlIaF9GaUhCN3hxcmM1Z19jT2ljLVZoMERiQ20welNGOWRFWTFESkk5aml4UzV3YVZNMlJGT1cyM3VJMEVnT2UyTS1pLTYza1lUbmRrTWhkOVBpZUFkV0xzQ3pFLVdnRWRqcUhkck1lcGdKVi01aU93RjVGYU11c2dCSlN2SHJ0bk5LTE5haEs1UGt3MV9GdWVO?oc=5",
+      "published": "2026-06-03T12:24:45+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Uruguay vs España en Guadalajara el partido más afectado por el calor extremo del Mundial 2026 según Climate Central - beIN SPORTS",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPY1ZmcThhOXlBWDRpNnMtLU1kZGcwbUZZTWNpclNRNXNHR296eDFFRmJtSHF3Uk1fWndDQ1g1d2lNNkJKZGFLN1ZXNW9VQWt0UjdYZWs4MThVZEY2SGkwT2RsQmVKV09OZjV6ODhEUWFIc0g4cVZ2eWJNZXpuLWMwOW5sdjZwUGg0LXdCN2ZQLTBHYlBIaThWdFlzZFQyTEZZVlVJakZEemZiRDF0Z1FUYXhSYmh3a2hXc1NqZWdmV0RRWTBZaFIxbkV5OURGWWMzdnpySEw4VlJBWU10bVR6cV95WFlOVGI3ellyZ2pGUm84WFgtcEFsaldMamttVEt5SzE3Q3Z5TGEtS3BaVmxscTBLamtHNm1rbzd1OTBYSTduYmlZOU5tTHdQbWUyUUpwZ0ZrVFFkWXlfcDQ4cWQ1RFBneVo?oc=5",
+      "published": "2026-06-03T12:16:55+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "El diseño sostenible de Gabriela Hearst para la selección de Uruguay en el Mundial de fútbol - Esquire",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdGtpZUhoMWM5NlVlZHVHcmNVUjQwd3o5cGxZNkNWdG5Ba0lQX0FlTlhDb2NHWGhSSXBqQWFncmxCWkxTVDlKbERiREh5LXh1Y1ZjcjJpR3Rfem1qdDRZck96NU55OGpDWnlTWktqR0ZIdDRaaWRYVmR6b01kTEFDYzlrVzBxUGdjc29YTHViWWNmc0V0cXk1VE1XUUhVcWlvbTI1MVkxMGlPcVBacnc?oc=5",
+      "published": "2026-06-03T08:46:45+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Orsi, que donará camioneta a la ANEP, reconoce que abonó US$ 25.000 menos y dice que pagó al FA por Renault - EL PAÍS Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQlg2M2VHTXVzc2g4aHdrNnZQR0NBMjFhNTJLb01IbDNQbG0tTDZaaFNBcDB1Wl9xRDJMVkdHekt2aWowalpnRGl4Y3RtRnFQVUszRnAtMTV0Y2ZiMG9mcDVTeWNWZGduM3ZlcGpreXpETmJyM1RxMW53V3JRWGVEZ1g3YVB2bFAwWDBsYWtMQ3d4U284OS1OaUQ3cGs2dGctUkFIbHhZODBkeXdKS2FjWlZvdFhfX1FFQ3BTcThRUDZCaElLQ2RSNGd4RXA2dkQyaEprNUVIQm9QNnlLZHJuSnI4bGY5dw?oc=5",
+      "published": "2026-06-03T07:09:10+00:00",
+      "image": null
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Los cuatro puestos que busca reforzar Nacional y la consulta por un defensa uruguayo en Europa que no llegará - EL PAÍS Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTFVBUXBTbDdzRU5fX3RUelFVd1dBSjhiSjhBbm5DamZxdzQxSm1YU2NrVHNGclh5WkxHZ21iODZxVWVVM3BaMWV0eC1VT3VXMWZOYl9abURvY0t0bDBNbzh0QkFWR3FzNTI4R0QzblR6SXd5OG84a2tNS2prT2NDdDI0TThnc1EwRTJ2eUtMMEgxRXYya0tXU2xJRW44ZDl2dlRncnJQanJaZWRFS2tySjM2NFhwVy1KS2xtQlZMTy15b1FpZUoxSG1KR0lCRTBreFAzTkZJdHotalJQTG5NbUJKYmo?oc=5",
+      "published": "2026-06-03T07:04:20+00:00",
       "image": null
     }
   ]
