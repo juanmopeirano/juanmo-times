@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-03T17:28:41.228707+00:00",
+  "updated_at": "2026-06-03T19:41:03.239092+00:00",
   "articles": [
     {
       "category": "internacional",
@@ -10,10 +10,24 @@
       "published": "2026-06-03T15:51:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1764/live/f1cf6d20-5f63-11f1-89a3-d1f559421220.jpg",
       "coverage": 2,
-      "relevance": 27.53,
+      "relevance": 27.3,
       "sources": [
         "BBC Mundo",
         "Google Internacional"
+      ]
+    },
+    {
+      "category": "internacional",
+      "source": "El País",
+      "title": "Trump cancela el fondo millonario destinado a sus aliados, pero conserva beneficios fiscales para él y su familia",
+      "summary": "El fiscal general de Estados Unidos sigue adelante con un plan que, según los demócratas, puede ahorrar al republicano multas por valor de 100 millones de dólares",
+      "url": "https://elpais.com/internacional/2026-06-03/trump-cancela-el-fondo-millonario-destinado-a-sus-aliados-pero-conserva-beneficios-fiscales-para-el-y-su-familia.html",
+      "published": "2026-06-03T19:01:51+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/TJPUUZT5SZJIZA66UOYP74536Q.jpg?auth=fa121c5c83cf34b817cdfb55dfa87cc171ef59c87b96f01ad08b33185e7ae4f0",
+      "coverage": 1,
+      "relevance": 17.33,
+      "sources": [
+        "El País"
       ]
     },
     {
@@ -25,9 +39,23 @@
       "published": "2026-06-03T16:07:34+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/33d5/live/efac3be0-5e9b-11f1-89a3-d1f559421220.png",
       "coverage": 1,
-      "relevance": 17.56,
+      "relevance": 17.33,
       "sources": [
         "BBC Mundo"
+      ]
+    },
+    {
+      "category": "internacional",
+      "source": "El País",
+      "title": "Mueren tres miembros de la Marina Real británica al estrellarse su helicóptero durante unas maniobras",
+      "summary": "La aeronave, un Merlin MK4, ha caído cerca de Sourton, al sur de Inglaterra",
+      "url": "https://elpais.com/internacional/2026-06-03/mueren-tres-miembros-de-la-marina-real-britanica-al-estrellarse-su-helicoptero-durante-unas-maniobras.html",
+      "published": "2026-06-03T17:48:56+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/AVQBKLTCIZBJ7G7KJMVLHYWQJQ.jpg?auth=10c06266545c623b5acb3780e128a0bc5f591ce91a7873ad2bf4f90c9d386083",
+      "coverage": 1,
+      "relevance": 17.21,
+      "sources": [
+        "El País"
       ]
     },
     {
@@ -39,7 +67,7 @@
       "published": "2026-06-03T16:54:43+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ETRP7YKYAZPXDJITJHNLIZ3TXM.jpg?auth=29c11f1167086cc638f4e159198afeb678eb0a5bced2a599cb41a56742f29cf4",
       "coverage": 1,
-      "relevance": 17.34,
+      "relevance": 17.11,
       "sources": [
         "El País"
       ]
@@ -53,7 +81,7 @@
       "published": "2026-06-03T12:49:10+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a2ca/live/20841970-5e0d-11f1-89a3-d1f559421220.png",
       "coverage": 1,
-      "relevance": 17.21,
+      "relevance": 16.98,
       "sources": [
         "BBC Mundo"
       ]
@@ -67,7 +95,7 @@
       "published": "2026-06-03T15:32:07+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ECIPNJTCWJK6ZIXJQ3FBAGUMUY.jpg?auth=0ffa404e2aeb0514acf375cc42a907c0895e027bd01593ee3f0569a0c2bfddef",
       "coverage": 1,
-      "relevance": 17.2,
+      "relevance": 16.97,
       "sources": [
         "El País"
       ]
@@ -75,43 +103,15 @@
     {
       "category": "internacional",
       "source": "El País",
-      "title": "Cuatro heridos por ataques de un oso en el noreste de Japón",
-      "summary": "Todas las víctimas fueron trasladadas al hospital y se cancelaron las clases en las escuelas del barrio donde ocurrió el incidente ante la sospecha de que el animal siga en la zona",
-      "url": "https://elpais.com/internacional/2026-06-03/cuatro-heridos-por-ataques-de-oso-en-el-noreste-de-japon.html",
-      "published": "2026-06-03T14:41:12+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5NTMPKD6D5H6ZOQWHOTW2OYNWY.jpg?auth=5003229db5a4b122d862b4b2e2c511ae335d4901cf11f32bbb082526cac5920b",
+      "title": "La agencia de la energía atómica ve más riesgo nuclear en Irán hoy que antes de la guerra",
+      "summary": "El organismo de la ONU advierte de que cuanto más tiempo permanezca el uranio fuera de su radar, mayor será el peligro",
+      "url": "https://elpais.com/internacional/2026-06-03/la-agencia-de-la-energia-atomica-ve-mas-riesgo-nuclear-en-iran-hoy-que-antes-de-la-guerra.html",
+      "published": "2026-06-03T14:46:52+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/WG64NEY3LZFD5CMVXFZX7PB63U.jpg?auth=f202047c93d222649a4b3ef2f7396303b0035d2b4ce5a96034e1a3125a56c776",
       "coverage": 1,
-      "relevance": 17.11,
+      "relevance": 16.89,
       "sources": [
         "El País"
-      ]
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "Por qué Venezuela llegó a tener uranio altamente enriquecido y cómo fue la reciente operación secreta para entregárselo a EE.UU.",
-      "summary": "A finales de abril, los gobiernos de Venezuela, Estados Unidos y Reino Unido realizaron una operación para llevarse de Venezuela una carga de uranio altamente enriquecido. BBC Mundo te cuenta cómo fue.",
-      "url": "https://www.bbc.com/mundo/articles/c78q25x7vy4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-03T11:18:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2010/live/c1f712d0-5ec1-11f1-b588-45cc931ea6f1.jpg",
-      "coverage": 1,
-      "relevance": 17.06,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "internacional",
-      "source": "BBC Mundo",
-      "title": "Las razones de Meliá, Iberostar y Blue Diamond, las mayores cadenas hoteleras de Cuba, para cesar operaciones en la isla \"con efecto inmediato\"",
-      "summary": "EE.UU. amenazó con sanciones a todas las compañías que tuvieran vínculos con el conglomerado empresarial de las Fuerzas Armadas cubanas.",
-      "url": "https://www.bbc.com/mundo/articles/cj0pl3yeg7no?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-03T11:13:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e193/live/e3914bf0-5f3d-11f1-b027-7de5029274c2.jpg",
-      "coverage": 1,
-      "relevance": 17.05,
-      "sources": [
-        "BBC Mundo"
       ]
     },
     {
@@ -123,7 +123,7 @@
       "published": "2026-06-03T16:19:33+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/Z5IJO2FRI5G63C5FNGB7ULT4XE.jpg?auth=7cad8514e9cb29860c66208a778dd62760131c93d850e906d838d5b9188586a2",
       "coverage": 1,
-      "relevance": 17.28,
+      "relevance": 17.05,
       "sources": [
         "El País Eco"
       ]
@@ -137,7 +137,7 @@
       "published": "2026-06-03T15:41:14+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/YDCH4TEYUNIPHFBYM7NPIQ55MA.jpg?auth=b58b20baa7f87305ee5268f0d05d51b97b43fe84bc924cda9dc952d54e659c14",
       "coverage": 1,
-      "relevance": 17.21,
+      "relevance": 16.98,
       "sources": [
         "El País Eco"
       ]
@@ -151,7 +151,7 @@
       "published": "2026-06-03T13:29:42+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/7FZ2VHZNABGT5HJJTAMTCWS2ZM.JPG?auth=9531cf9b281082194929dca59ae6351c7ac60eb4411cae948ea16f0df8665dae",
       "coverage": 1,
-      "relevance": 16.99,
+      "relevance": 16.76,
       "sources": [
         "El País Eco"
       ]
@@ -165,7 +165,7 @@
       "published": "2026-06-03T12:16:43+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XO7TUQRZMZEWTME2JCHF4S7BJ4.png?auth=829a04be33f70c306142f59f64901455f5e545a32638034e3efae825e85a075d",
       "coverage": 1,
-      "relevance": 16.86,
+      "relevance": 16.63,
       "sources": [
         "El País Eco"
       ]
@@ -179,7 +179,7 @@
       "published": "2026-06-03T11:00:06+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XLITZWPX75B5NNILDFJP3FGYE4.jpg?auth=f749ab8a6b2c6c3d7b1c43557528abbf8346e9ec2eaf42fe0f71801761365973",
       "coverage": 1,
-      "relevance": 16.73,
+      "relevance": 16.5,
       "sources": [
         "El País Eco"
       ]
@@ -193,7 +193,7 @@
       "published": "2026-06-03T08:38:19+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TGVT2AD4BJGABBKZ5HB5Q4WHNI.jpg?auth=fbc627167dccba6cdbaf2a5e22f52aa2889776d9c7d7b80f3be3df884703d168",
       "coverage": 1,
-      "relevance": 16.48,
+      "relevance": 16.25,
       "sources": [
         "El País Eco"
       ]
@@ -207,7 +207,7 @@
       "published": "2026-06-03T07:55:31+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/4QHXPX3XHBENJKWSTRPQPF7C6I.jpg?auth=dac2079d86c661924d3e8f26d0b78f960ea00f1e456d0ae2afcec2f9192565d8",
       "coverage": 1,
-      "relevance": 16.4,
+      "relevance": 16.18,
       "sources": [
         "El País Eco"
       ]
@@ -221,9 +221,23 @@
       "published": "2026-06-03T07:00:46+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/FLJALHYXVVNAJN5KTIN7JHTDKU.jpg?auth=af6a2cc88650dd8f05a596f76ea99a1bdf1275c05cba1b9875f77e40b64287c8",
       "coverage": 1,
-      "relevance": 16.31,
+      "relevance": 16.08,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Datos sanitarios: Gestión ética e intercambio equitativo en la investigación",
+      "summary": "Resultados de la Tercera Reunión de Expertos sobre la Revisión de la Declaración de Taipéi sobre la Conservación de la Información Sanitaria, celebrada del 1 al 2 de junio en el Vaticano y patrocinada por la Asociación Médica Mundial y la Academia Pontificia para la Vida. Pegoraro (APV): «Una...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/datos-sanitarios-gestion-etica-intercambio-equitativo-investigac.html",
+      "published": "2026-06-03T17:24:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/03/PAPA---pegoraro-2aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 16.56,
+      "sources": [
+        "Vatican News"
       ]
     },
     {
@@ -235,7 +249,7 @@
       "published": "2026-06-03T16:50:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/03/08/1780467062916.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.73,
+      "relevance": 16.5,
       "sources": [
         "Vatican News"
       ]
@@ -249,7 +263,7 @@
       "published": "2026-06-03T13:50:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/03/DSC_7908.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.42,
+      "relevance": 16.19,
       "sources": [
         "Vatican News"
       ]
@@ -263,7 +277,7 @@
       "published": "2026-06-03T12:42:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/02/geralt-artificial-intelligence-3382507aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.3,
+      "relevance": 16.07,
       "sources": [
         "Vatican News"
       ]
@@ -277,7 +291,7 @@
       "published": "2026-06-03T11:36:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/03/2026-06-03-delegazione-della--association-of-catholic-colleges-a/1780473964521.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.19,
+      "relevance": 15.96,
       "sources": [
         "Vatican News"
       ]
@@ -291,7 +305,7 @@
       "published": "2026-06-03T17:04:09+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.16,
+      "relevance": 15.93,
       "sources": [
         "Aleteia"
       ]
@@ -305,7 +319,7 @@
       "published": "2026-06-03T15:42:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.02,
+      "relevance": 15.79,
       "sources": [
         "Aleteia"
       ]
@@ -319,23 +333,9 @@
       "published": "2026-06-03T09:53:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/maggio/20/SP_181-FOTO-COPERTINA.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.01,
+      "relevance": 15.78,
       "sources": [
         "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "(VIDEO) Ya es la más alta y famosa en España y sigue creciendo",
-      "summary": "La Basílica de la Sagrada Familia en España no es solo uno de los monumentos más famosos del mundo; también es una de las obras religiosas más extraordinarias del arte moderno. Iniciada en el siglo XIX, y todavía en construcción, esta Basílica diseñada por Antoni Gaudí combina arte, fe, naturaleza...",
-      "url": "https://es.aleteia.org/2026/06/03/video-ya-es-la-mas-alta-y-famosa-en-espana-y-sigue-creciendo/",
-      "published": "2026-06-03T15:29:52+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.99,
-      "sources": [
-        "Aleteia"
       ]
     },
     {
@@ -347,7 +347,7 @@
       "published": "2026-06-03T14:00:56+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/DKKJHG3PE5E57DL3EZJ6F2BBAE.jpeg?auth=48926e2fa33daca2eace25314dee863f2b4e7b1f6c01e7f73b1935052ab61fa2",
       "coverage": 1,
-      "relevance": 17.04,
+      "relevance": 16.81,
       "sources": [
         "El País Tech"
       ]
@@ -355,11 +355,11 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Las marcas de cerveza más bebidas en cada comunidad autónoma de España, reunidas en este mapa",
-      "summary": "La cerveza no pasa por su mejor momento en España, pero eso no quita que el nuestro siga siendo un país de cañas en el que el consumo per cápita supera de media los 50 litros. Si bajamos al detalle y analizamos de qué marcan son esas cañas o botellines, sin embargo, la cosa cambia de una comunidad...",
-      "url": "https://www.xataka.com/magnet/marcas-cerveza-bebidas-cada-comunidad-autonoma-espana-reunidas-este-mapa",
-      "published": "2026-06-03T17:15:58+00:00",
-      "image": "https://i.blogs.es/9f0c14/1200_800-5-/1024_2000.jpeg",
+      "title": "Suiza está excavando un foso de 27 metros de profundidad y más largo que dos campos de fútbol: todo para una batería gigante",
+      "summary": "La transición energética nos ha acostumbrado a fijarnos en lo más visible: placas solares en tejados, aerogeneradores en montañas, parques renovables repartidos por el territorio. Pero una parte decisiva del futuro eléctrico no está solo en producir más, sino en gestionar mejor lo que ya...",
+      "url": "https://www.xataka.com/energia/suiza-esta-excavando-foso-27-metros-profundidad-largo-que-dos-campos-futbol-todo-para-bateria-gigante",
+      "published": "2026-06-03T19:31:58+00:00",
+      "image": "https://i.blogs.es/b5ea6d/suiza-bateria-gigante-subterranea.jpeg/1024_2000.jpeg",
       "coverage": 1,
       "relevance": 16.48,
       "sources": [
@@ -369,13 +369,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Uber va a poner robotaxis en Madrid este mismo año. La respuesta de la DGT: ya veremos",
-      "summary": "Los robotaxis llegarán a Madrid antes de que termine el año. Ese es el titular que puedes leer en la inmensa mayoría de los medios de comunicación. Así lo ha hecho saber Uber, que ha publicado el anuncio en su propia página web. Solo hay un pequeño problema: hay muy pocas cosas claras. El anuncio....",
-      "url": "https://www.xataka.com/movilidad/uber-asegura-que-ofrecera-robotaxis-madrid-este-ano-no-tenemos-dudas-tenemos-muchisimas-dudas",
-      "published": "2026-06-03T17:01:59+00:00",
-      "image": "https://i.blogs.es/be11f3/madrid-robotaxis-uber/1024_2000.jpeg",
+      "title": "Ya son oficiales: ocho portátiles que podrás comprar próximamente con el nuevo chip NVIDIA RTX Spark",
+      "summary": "El mercado de los procesadores para portátiles Windows parece que está más vivo que nunca. Tras el desembarco de Qualcomm con sus chips ARM, MediaTek y NVIDIA acaban de anunciar oficialmente su contraataque: NVIDIA RTX Spark. Se trata de una nueva generación de procesadores diseñados...",
+      "url": "https://www.xataka.com/seleccion/oficiales-ocho-portatiles-que-podras-comprar-proximamente-nuevo-chip-nvidia-rtx-spark",
+      "published": "2026-06-03T19:01:59+00:00",
+      "image": "https://i.blogs.es/a568a7/nvidia-rtx-spark/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.45,
+      "relevance": 16.43,
       "sources": [
         "Xataka"
       ]
@@ -383,13 +383,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Gabe Newell, CEO de Valve, cuando le preguntaron por el monopolio de Steam: \"los usuarios tienen muchas posibilidades de elección\"",
-      "summary": "La piratería es un problema de servicio, no un problema de precios. Algo así dijo Gabe Newell, mandamás de Valve, hace unos años. Newell comentaba que la forma más rápida de detener la piratería no era poner barreras más fuertes, sino dar a los usuarios un servicio mejor que el que recibirían por...",
-      "url": "https://www.xataka.com/videojuegos/gabe-newell-ceo-valve-cuando-le-preguntaron-monopolio-steam-usuarios-tienen-muchas-posibilidades-eleccion",
-      "published": "2026-06-03T16:35:39+00:00",
-      "image": "https://i.blogs.es/277beb/chatgpt-image-3-jun-2026-18_23_43/1024_2000.png",
+      "title": "El nuevo encargo de Renfe es también el más ambicioso: un puente de 4.500 millones sobre el Canal de Panamá",
+      "summary": "Panamá-David. Ese es el nombre del proyecto ferroviario más importante del país centroamericano. Una ruta de 450 kilómetros de longitud que aspira a conectar el país por tren atravesándolo a lo ancho con velocidades de hasta 180 km/h. Una ruta que también contempla vías para el traslado de...",
+      "url": "https://www.xataka.com/movilidad/proyecto-ferroviario-ambicioso-panama-pasa-puente-4-500-millones-visto-bueno-renfe",
+      "published": "2026-06-03T19:01:58+00:00",
+      "image": "https://i.blogs.es/ca1861/panama-tren-puente-renfe/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.41,
+      "relevance": 16.43,
       "sources": [
         "Xataka"
       ]
@@ -397,13 +397,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Bad Bunny canta contra la gentrificación y la turistificación. Su gira ha subido un 29% el precio de los hoteles en Madrid",
-      "summary": "Bad Bunny lleva año y medio de gira con un disco que critica el turismo de masas y el desplazamiento de los vecinos de Puerto Rico. Mientras tanto, su paso por Madrid ha disparado un 28,9% el precio medio de las habitaciones de hotel y su escenario más emblemático (La Casita, réplica de una...",
-      "url": "https://www.xataka.com/musica/bad-bunny-canta-gentrificacion-turistificacion-su-gira-ha-subido-29-precio-hoteles-madrid",
-      "published": "2026-06-03T16:31:59+00:00",
-      "image": "https://i.blogs.es/44d162/5694b502-e2ba-40b4-b7f8-17ae2850d5a5_16-9-discover-aspect-ratio_default_1144139/1024_2000.jpeg",
+      "title": "Abogados y notarios coinciden: \"al hacer testamento es un acierto dejar bienes concretos a cada hijo y la vivienda solo a uno\"",
+      "summary": "Hay pocas situaciones tan capaces de romper una familia como el reparto de una herencia. Lo saben los abogados. Lo saben los notarios. Y lo saben también, a veces demasiado tarde, los propios implicados, y eso que el siempre sabio refranero ya lo advertía: \"A los hermanos se los conoce cuando hay...",
+      "url": "https://www.xataka.com/magnet/abogados-notarios-coinciden-al-hacer-testamento-acierto-dejar-bienes-concretos-a-cada-hijo-vivienda-solo-a-uno",
+      "published": "2026-06-03T18:34:34+00:00",
+      "image": "https://i.blogs.es/9a807f/herencias-piso-entre-herederos/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.4,
+      "relevance": 16.38,
       "sources": [
         "Xataka"
       ]
@@ -411,13 +411,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Auriculares, Stream Deck e incluso memoria RAM: estas son las mejores ofertas de Corsair hoy, 3 de junio",
-      "summary": "Los periféricos que usamos a diario o incluso el mismo PC suelen durar mucho tiempo si los cuidamos bien, pero llega un momento en el que toca renovar alguno de ellos. Puede ser un teclado, puede ser la caja de tu ordenador o incluso su fuente de alimentación, ya sea por necesidad (se rompe algo) o...",
-      "url": "https://www.xataka.com/seleccion/auriculares-stream-deck-e-incluso-memoria-ram-estas-mejores-ofertas-corsair-hoy-3-junio",
-      "published": "2026-06-03T16:15:59+00:00",
-      "image": "https://i.blogs.es/2931a9/portada-corsair/1024_2000.jpeg",
+      "title": "En dos días llega a Prime Video el taquillazo internacional que ha devuelto el lustre al género de los thrillers eróticos",
+      "summary": "En diciembre de 2025, Lionsgate estrenó en cines un thriller psicológico basado en una novela autoeditada que se había vuelto viral en TikTok. Se encargó de dirigirla Paul Feig, conocido hasta entonces por comedias como 'La boda de mi mejor amiga' o 'Espías', y la película, protagonizada por Sydney...",
+      "url": "https://www.xataka.com/streaming/dos-dias-llega-a-prime-video-taquillazo-internacional-que-ha-devuelto-lustre-al-genero-thrillers-eroticos",
+      "published": "2026-06-03T18:15:58+00:00",
+      "image": "https://i.blogs.es/fcab73/la-asistenta/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.37,
+      "relevance": 16.35,
       "sources": [
         "Xataka"
       ]
@@ -425,13 +425,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "“El mercado está muy agresivo”: Samsung responde con 6K, OLED y hasta 330 Hz en su nuevos monitores Odyssey",
-      "summary": "Un monitor gaming no es el típico producto que renovamos cada año. Quienes jugamos en PC o consola solemos estirarlo durante bastante tiempo, y por eso la elección importa más de lo que parece. No se trata solo de comprar una pantalla para jugar hoy, sino de pensar en la experiencia que vamos a...",
-      "url": "https://www.xataka.com/perifericos/mercado-esta-muy-agresivo-samsung-responde-6k-oled-330-hz-su-nuevos-monitores-odyssey",
-      "published": "2026-06-03T16:15:59+00:00",
-      "image": "https://i.blogs.es/969316/samsung-odyssey/1024_2000.jpeg",
+      "title": "Stephan Winkelmann, CEO de Lamborghini: \"Invertir en el desarrollo de coches eléctricos completos sería un pasatiempo costoso\"",
+      "summary": "Algo así como le sucedió a Luca Cordero di Montezemolo le ha pasado a Stephan Winkelmann, CEO de Lamborghini. No quiso decir pero dijo cuando le preguntaron por el nuevo Ferrari Luce y toda la polémica que ha rodeado al primer lanzamiento completamente eléctrico de la compañía italiana. Y es que...",
+      "url": "https://www.xataka.com/movilidad/pasatiempo-costoso-ceo-lamborghini-tiene-claro-que-no-deben-lanzar-su-propio-ferrari-luce",
+      "published": "2026-06-03T18:01:59+00:00",
+      "image": "https://i.blogs.es/95e541/ceo-lamborghini-coche-electrico/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.37,
+      "relevance": 16.33,
       "sources": [
         "Xataka"
       ]
@@ -439,40 +439,39 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Con 3.500 toneladas y 15 metros de diámetro, China ya tiene la mayor tuneladora del mundo para trenes de alta velocidad",
-      "summary": "China acaba de presentar Jiaoping No.1, la tuneladora de equilibrio de presión de tierras (EPB) más grande del mundo diseñada específicamente para túneles de ferrocarril de alta velocidad. Según contaba recientemente la cadena estatal CGTN, se trata de un coloso de 3.500 toneladas con un diámetro...",
-      "url": "https://www.xataka.com/movilidad/3-500-toneladas-casi-15-metros-diametro-china-presenta-mayor-tuneladora-mundo-para-trenes-alta-velocidad",
-      "published": "2026-06-03T15:55:59+00:00",
-      "image": "https://i.blogs.es/aa291b/china-tuneladora/1024_2000.jpeg",
+      "title": "El reloj de la evolución humana se rompe: ya usábamos el fuego 800.000 años antes de lo que pensábamos",
+      "summary": "El dominio del fuego es, sin duda, el mayor punto de inflexión en la historia tecnológica y evolutiva de nuestro linaje. Nos dio calor, ahuyentó a los depredadores y, al permitirnos cocinar los alimentos, disparó el desarrollo de nuestros cerebros y también de nuestras propias vidas. Hasta ahora,...",
+      "url": "https://www.xataka.com/investigacion/reloj-evolucion-humana-se-rompe-homo-erectus-usaba-fuego-800-000-anos-pensabamos",
+      "published": "2026-06-03T17:31:58+00:00",
+      "image": "https://i.blogs.es/35b335/fuegoo/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 16.34,
+      "relevance": 16.28,
       "sources": [
         "Xataka"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Mundial 2026",
-      "title": "Se simuló el Mundial 2026: ¿qué probabilidades tiene Uruguay de ganarlo?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNU0NjUUVveTByZjhEeDhCNENnSnI3WTNaQktzOUx0aEZYN0liMkwzU1NUOGlEa3MyLU80MEt2RzE1M2c4NERXcTV1NWtiQl9zb3RZRDJnOXptV1plZVphemoyQ2dfX1ZpT1FtaUFodzJBdWJNaVN0ZElrR3pSdWlvbjVtODBtc25sdVhLb1U4VFdYRGxvU3dHUDgzZnI5b284TFBJaEE5THFkVGxJdzJpQS1Cd3VKdmxhMWJHcG5pLXFLeU82YUNXQVVEUEE?oc=5",
-      "published": "2026-06-03T16:04:00+00:00",
-      "image": null,
-      "coverage": 2,
-      "relevance": 24.85,
-      "sources": [
-        "Google Noticias UY",
-        "Mundial 2026"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Casillas: \"Ganar el Mundial fue cumplir el sueño de mucha gente\"",
-      "summary": "El campeón del mundo en 2010 habló sobre su etapa con la Roja en la presentación de LEGO Editions",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/03/casillas-ganar-mundial-cumplir-sueno-gente.html",
-      "published": "2026-06-03T17:13:05+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a20580a34c9b.jpeg",
+      "title": "\"Bernardo decidirá después del Mundial\"",
+      "summary": "El Barcelona gana tiempo con el portugués",
+      "url": "https://www.marca.com/futbol/barcelona/2026/06/03/bernardo-silva-decidira-mundial.html",
+      "published": "2026-06-03T19:28:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a207d0f9250e.jpeg",
+      "coverage": 1,
+      "relevance": 16.48,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Rahm vs. Scheffler: así los ve David Puig",
+      "summary": "El jugador español analiza a dos de los grandes jugadores de los últimos años",
+      "url": "https://www.marca.com/golf/liv-golf/2026/06/03/rahm-vs-scheffler-asi-ve-david-puig.html",
+      "published": "2026-06-03T19:22:15+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a203bbc76ec6.jpeg",
       "coverage": 1,
       "relevance": 16.47,
       "sources": [
@@ -482,13 +481,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Larrubia: \"En los 'playoffs' de 2019 contra el Dépor me quedé llorando en casa\"",
-      "summary": "El malagueño, uno de los jugadores más destacados del equipo, atiende a MARCA antes de jugar contra Las Palmas la semifinal por el ascenso",
-      "url": "https://www.marca.com/futbol/malaga/2026/06/03/larrubia-playoffs-2019-depor-me-quede-llorando-casa.html",
-      "published": "2026-06-03T17:07:19+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a205ee20eee8.jpeg",
+      "title": "La entrevista a Enrique Riquelme en 'El Hormiguero' donde va a anunciar su primer fichaje estrella, en directo",
+      "summary": "El candidato a la presidencia blanca tiene previsto anunciar su fichaje estrella para las elecciones",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/6a2050f9cf1a9beb61fc0c18.html",
+      "published": "2026-06-03T19:11:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/17805029568242.png",
       "coverage": 1,
-      "relevance": 16.46,
+      "relevance": 16.45,
       "sources": [
         "Marca"
       ]
@@ -496,13 +495,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El matemático que acertó los últimos tres campeones del mundo, apunta ahora a Holanda",
-      "summary": "Lo predice con un sistema matemático que él mismo ha creado",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/03/joachim-klement-matematico-acerto-ultimos-tres-campeones-mundo-apunta-holanda.html",
-      "published": "2026-06-03T16:54:12+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2051e570931.jpeg",
+      "title": "Topuria responde al padre de Gaethje: \"18-0, papá\"",
+      "summary": "'El Matador' ha escrito un mensaje a través de sus redes sociales augurando el mismo final para el estadounidense que sus anteriores rivales",
+      "url": "https://www.marca.com/combates-ufc/2026/06/03/topuria-responde-padre-gaethje-18-0-papa.html",
+      "published": "2026-06-03T18:26:04+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2024/07/05/17163705663831.jpeg",
       "coverage": 1,
-      "relevance": 16.44,
+      "relevance": 16.37,
       "sources": [
         "Marca"
       ]
@@ -510,13 +509,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Iker Luque, castigado con tres partidos de sanción, se perderá lo que queda de playoff",
-      "summary": "El futbolista del Madrileño fue expulsado en el choque de la ida (0-0) ante la Ponferradina",
-      "url": "https://www.marca.com/futbol/primera-rfef/2026/06/03/iker-luque-castigado-tres-partidos-sancion-perdera-queda-playoff.html",
-      "published": "2026-06-03T16:32:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/30/6a1b4ee5f0f04.jpeg",
+      "title": "España está de moda: la camiseta blanca, un impacto como no se recuerda",
+      "summary": "El atractivo y valr de la selección se dispara y une su camino con marcas referente en el mundo como Loewe y Google",
+      "url": "https://www.marca.com/futbol/seleccion/2026/06/03/espana-moda-da-salto-mundial.html",
+      "published": "2026-06-03T18:16:10+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/02/6a1e8c43daf8e.jpeg",
       "coverage": 1,
-      "relevance": 16.4,
+      "relevance": 16.35,
       "sources": [
         "Marca"
       ]
@@ -524,57 +523,43 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Madrid manda 10 al Mundial... ¡y no entra en el top 10!",
-      "summary": "El conjunto inglés será el club con más representantes en la Copa del Mundo",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/03/city-conquista-mundial-madrid-fuera-top-10.html",
-      "published": "2026-06-03T16:31:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a1fe33c23f94.jpeg",
-      "coverage": 1,
-      "relevance": 16.4,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Al Castilla le acecha un peligro",
-      "summary": "Ha protagonizado varias derrotas abultadas fuera de casa que lo dejarían sin final de 'playoff' de ascenso a Segunda",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/castilla-le-acecha-peligro.html",
-      "published": "2026-06-03T16:22:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a204a7937701.jpeg",
-      "coverage": 1,
-      "relevance": 16.39,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Scariolo... el último que eliminó al Madrid en cuartos",
-      "summary": "Los blancos llevan sin caer en esta fase del playoff desde hace 18 años, cuando el Unicaja de, precisamente, Scariolo les apeó a las primeras de cambio",
-      "url": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/03/final-madrid-evite-volver-pasado-tenebroso.html",
-      "published": "2026-06-03T16:18:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2040d84789f.jpeg",
-      "coverage": 1,
-      "relevance": 16.38,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Crisis global en imágenes: World Press Photo premia trabajos sobre guerra, hambre y migración",
+      "title": "El vídeo de los Celtics para resumir la primera temporada de Hugo González",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU1dVWktZaXBlVEZnYmU2X095NnpFREt6WmkzZXd1SFZueW1Vc0s0SUo5VG10TngzQTJHZ0JzVHdqaWdPRTI1OXJlbUlOZ2VFRHNIb1ZxYmROS3VITHdtLVZaWXdSQk5mTGQtSjM2OVVxNmx4THdnWDdYTnJsVHl0MDhpcmRzZXp1eVp6dnB1a0xoRm43M3gwdjlnX3BfWUZRUEFoOWNKcWplaFJkMV9nVVFuYXdsY25aVTV0MS0yQkhQWWlQYlFsN0lhbERaeUl3cks0VWk1QnRHRVhHZnBYbXVsY2xqMlV0WHfSAe8BQVVfeXFMUFBwLVV2VzZscjBxT0xMQmxtY2xCSXBNV0h3OU1FcjgxQWtnTzFCWHpjMC1VYUh4UERNUmc0QTF5eHhya1lmM1lDeHdmU04yUWEzQU1TeS1pb3k2N09nSjhQNE0xU1lteF85X2lZd3RWX0VCZjFMaUV1aGVEb21HVFlmWndfSjZWWFlVSUFrZmxHTl92T1BZWmx0VmxkZ3JLMW9HdklyODQxMEFreU5BaGhiaUlVUlNrSXUxY1YydE95QUgtd0xSd1JQb3VFNDJGeUg2d001Q0F0MVJTQXZNVThabkRHV3RNbXQxTUdjUUE?oc=5",
-      "published": "2026-04-09T07:00:00+00:00",
-      "image": null,
+      "url": "https://www.marca.com/baloncesto/nba/2026/06/03/video-celtics-resumir-primera-temporada-hugo-gonzalez-video.html",
+      "published": "2026-06-03T17:52:58+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/bLsqA1g86FqLuamXW.jpeg",
       "coverage": 1,
-      "relevance": 10.0,
+      "relevance": 16.31,
       "sources": [
-        "Google Noticias"
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El compromiso ante notario de Florentino: \"El Madrid será siempre de sus socios\"",
+      "summary": "El presidente en funciones sale al paso de las acusaciones de privatización del club",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/03/compromiso-notario-florentino-madrid-sera-siempre-socios.html",
+      "published": "2026-06-03T17:41:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a204c11c88b7.jpeg",
+      "coverage": 1,
+      "relevance": 16.29,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Un gran Attaoui gana los 1.500 de los Paavo Nurmi Games con marca personal",
+      "summary": "El mediofondista cántabro atacó como siempre en la última contrarrecta y mejoró casi un segundo su mejor registro",
+      "url": "https://www.marca.com/atletismo/2026/06/03/gran-attaoui-gana-1-500-paavo-nurmi-games-marca-personal.html",
+      "published": "2026-06-03T17:36:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2064bc17423.jpeg",
+      "coverage": 1,
+      "relevance": 16.28,
+      "sources": [
+        "Marca"
       ]
     },
     {
@@ -584,20 +569,6 @@
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQXzlYR1MtVExjLXA3UG5wb25Lb1FnQkVvXzJoTkhkYlJGUWhOREtGanhXSkc0dC1zLWlVcWNxOWo2Uy1JNVZMVlJzcnNnX09xN0xjV0ZXNG5qY2ZJWG1TaGE3X1JZZlB1X2gyaUN5YlpQTWo2R0JBQ1gxa3lBZE9ONGtabVRYbDVXeVlvbVdXOGIwaElYODYwOXJZNkt3bFhMaHo5Vm9DTUtuRXdBTUZpZ202NHk2bTY4TnRBYU44WlE0NTNzakpWT9IBzgFBVV95cUxOZXBLVmdYZ0pYU3BEUzJsQW1VWUhKVkYzakVucGpvX05FSUR0U1FsZVE4WVlkT1VqdVNmLUx3dV9zeEVZZUVuTk9zVF9PdGE4OHdzeFNSbGFKVWxKUkczcGNqYVJmVm84MWZLbjdDZF9jQTQxbTc0Skc5QWliNm9KRElVWWwyclNkZTZOR0FXUTJSM1F1OVo5djJRSVFDdnVXal9tektfd0lHS192Yk1iVFdNZzA5eldnU1lmZ2xmV0Q4QTE1OFBoUVpuMG5JZw?oc=5",
       "published": "2026-03-07T08:00:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 10.0,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "¿Quiénes apoyan a Irán? Los países clave en el enfrentamiento con Estados Unidos e Israel",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQUozQTBMelJSUzd5MXBPd0l6SXJUMjNYNFkyTTFIeWs0V3Q5eV82RlhOX2FBM1RvZlFXTDRhV3hpOVRBajVickJoSEJkMlZHOWptRkF2RFNTUm92UlF1VzZJYUk5Z2g2ZlQwSHlSM0xqSndONWJEamJ2aE1oT3UwQ1dyYUo5MVdhZUlHVVVXeEw1RzJPUXpNQnRlVmV5b3ZadGhiZ1VYQjYydXEzQUc1YldwclQzY2JhMElXQjMtc9IB0wFBVV95cUxOVzBIYmhHbFkwaXlRRUdSLVJTWUlXWVVGSXRfNGNEY1c1cGpzb2docjdrbTdXdmRmdTE2REpKV0ZLMV9fNE9HSWpTSEdLM3g1TW9Cd1dYdENtcHdwdDBmbXVDQk1YOHZaQkotMWNjeTdWSkIwczlob0R4TVNNckVLQ1QxVWx2NU1temFPbmxtS3lpaGNYTmVINmw5OEdPQU9ZdXQ1c21tb1lNVmN1OFBVYWFaZG5aUFNQR2pNd1BDNjc3NkdnQjdQQVpWNnVIYVBBM0JF?oc=5",
-      "published": "2026-03-04T08:00:00+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 10.0,
@@ -622,10 +593,10 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Mundo en guerra: los conflictos militares sin salida que le dieron forma a 2025",
+      "title": "¿Qué países son aliados de Irán y de Israel en su conflicto actual en Oriente Medio?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXkyQThGRHlZY2FocXNiNDExUzBZRWpBazVFQkFMZzVIU3VWRzcxeG8xX1RhNHdpV3otM1RXS2V4VWUtNkJrWkJYclFRTlQ2Q1d1SWxkcWhVVkthbFd4QWFNamJCM3Zpd1BzSHVZMHRKUHFrUFpaMW1LdFZONEU4NWNPamxGYjZKVmVmeEVOeUJpUHoxbzR1Y0J3cy0yVXNnSkRMUkM2QmhSRUdPYmRwUXR1Mmxad3BVVnfSAdQBQVVfeXFMTkJna3FYQnVueTRTUmdXTmNFTk04TFpWNWE2YmZVZEJmRmN2aVJzUFdMV1dqSkxKLTRleE5jdzBQZ0s0T0ExNlRUTWVBSWJoV2xsWlgxRnFmTEduZVZoVGR2MnVIMEk3endiaDVWbjV4Mm9UZ2YtaGdqczFjR1FENTlaRmkzdld5MmtUc0dxM09sd1d5eXY1bnJIZGJpaVZMWkxEaFhLcFF1dzZpRGVsY0hQaldpdHJKOVRYUWU5NXh5WHF5VUdUdWJCSnNMZE5iak1wWTk?oc=5",
-      "published": "2025-12-26T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMnl5c3lMM1pjUnM5N0xrUnhfdmhXT2cyQ0ZYanc5MVdGZHdrdUpoaEtEdkc4N2w1aGhjaHFNMVk2RnVTVFlYSVhQMzlKaTJEVDd4c0VGRTdXVDZuWHRud2ZSMHc4SGY0cE9mWU5JVF9KZ1IwelJPZ2NNdXkwNTFnWWlHUHdYMEJNUFlmWXgzRTFVa2NCakVRaXQ0NGdOR2RIS1HSAaIBQVVfeXFMUFhvYjNsZlBYTV9kVGktb3k2ZGtLMk1yZ1RyLXRMQ3JLSTZhbjNxYjY1SGlSdXBvM09vMUprbmYzTUNfaExQdlhVdHdXNU1ZWHdya0VONm5DMHB5T2dZcUQtb05yOUtqZUVkNi1qd1NsNnpvTDR0UFpBNm1TWGx5aTR5Y21RaTI4Qld6bk5CWjdPMWs3TmRZX0hENXV4Tk4xVjNB?oc=5",
+      "published": "2026-02-28T08:00:00+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 10.0,
@@ -636,10 +607,24 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Lo más destacado de 2025 - De combate en tierra a uso de IA: las mutaciones de las guerras del siglo XXI",
+      "title": "Irán lanza nuevos satélites en un gesto desafiante antes de la reunión entre Netanyahu y Trump",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVjFsb1dha01jcm4wblBJb0s3cDdnY0pkNjU5STYyUzd2ZnktZEVQMHF3bUthamZOS1gxUUVsS1JXVE16MHlMN1hpcWNtQklXcjhRLXpoTGpEWXctUWJ1eDFuRGZiZkZ6TEE1TWNLQ0Rhc1VHdHdBcnhyT3ZSQXJ6VXFBQ1U2eVVjVWxKVzFBRF81SV9GYnhNLU9Db3Q5bkl0bHRYZ3UwOG12Z1NDWmNrVHpFMDNPcHI1TnpLVWVZSUJhT0xkcVAyTjg4Tmhrb00tR3pPQUVBQlhXZVdmWElqSElkMDVDLVE2?oc=5",
-      "published": "2025-12-13T08:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBzczVUSWxZa0RRNGk3ZVZSdENfelpsRUM4UFdieGNfSDVpM0xCRmZObjJ1dmR3OHg0a0ppX0V0dmZCRU5FWjRRYzc4bkYwWW81RGZCUnJIVGRSWEtCaWdFTTJ6V0dHdjlteWR2M2ZKMnhOUlpvZV9YeEFuSQ?oc=5",
+      "published": "2025-12-29T08:00:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 10.0,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Mundo en guerra: los conflictos militares sin salida que le dieron forma a 2025",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMXkyQThGRHlZY2FocXNiNDExUzBZRWpBazVFQkFMZzVIU3VWRzcxeG8xX1RhNHdpV3otM1RXS2V4VWUtNkJrWkJYclFRTlQ2Q1d1SWxkcWhVVkthbFd4QWFNamJCM3Zpd1BzSHVZMHRKUHFrUFpaMW1LdFZONEU4NWNPamxGYjZKVmVmeEVOeUJpUHoxbzR1Y0J3cy0yVXNnSkRMUkM2QmhSRUdPYmRwUXR1Mmxad3BVVnfSAdQBQVVfeXFMTkJna3FYQnVueTRTUmdXTmNFTk04TFpWNWE2YmZVZEJmRmN2aVJzUFdMV1dqSkxKLTRleE5jdzBQZ0s0T0ExNlRUTWVBSWJoV2xsWlgxRnFmTEduZVZoVGR2MnVIMEk3endiaDVWbjV4Mm9UZ2YtaGdqczFjR1FENTlaRmkzdld5MmtUc0dxM09sd1d5eXY1bnJIZGJpaVZMWkxEaFhLcFF1dzZpRGVsY0hQaldpdHJKOVRYUWU5NXh5WHF5VUdUdWJCSnNMZE5iak1wWTk?oc=5",
+      "published": "2025-12-26T08:00:00+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 10.0,
@@ -676,6 +661,20 @@
       ]
     },
     {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Trump alardea haber resuelto la guerra en Gaza y afirma que Ucrania será la próxima",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWFVXNjFZUW05NFV6YWNlYVpIM0lMYTViVU95YlZ4dE1Gb0d1eWIzWHgzSXZyY09KeWphSGs1d0RYQUVpUkMtZG1UclZfd0FVWmtXUVBoZHQ0aWJjNnhWVzJ0M3pEdkJ6ZW9pdzZWTFY5R3NDbnZpamJEWGNFZFM5Y1Y3aENjVl83VWplSHdfSTR4WWd5c2c?oc=5",
+      "published": "2025-10-09T07:00:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 10.0,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
       "category": "uruguay",
       "source": "El País Uy",
       "title": "Recibió la eutanasia Pablo Cánepa, uno de los impulsores de la ley: “Se fue rodeado de familia y amigos”",
@@ -684,7 +683,7 @@
       "published": "2026-06-03T14:59:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.14,
+      "relevance": 16.91,
       "sources": [
         "El País Uy"
       ]
@@ -698,7 +697,21 @@
       "published": "2026-06-03T07:09:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.32,
+      "relevance": 16.09,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Proyecto del BCU obliga a bancos a informar a clientes que abran o tengan cuentas en dólares sobre \"riesgo de tipo de cambio\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUFBqSV9pWktiZXhDb0pMa21hSWJlZFEzUlRScWhTWmRZcm1HZ202aUxoWUFkQXJYS09Td2hjWG9oMkRxQzhiRE9GY0Exb0wwZDJSdGk5dm94SlBsSlNMdG1Hc3MySTRRTXk4UkRXZnkyNUZBcy10WG9Ydm5TQ0c4YjlEV01ROXRuMW9UZUs4d2ZtSUlHVlVqZGZheUZqYmltZ2JyanRpY2xHSEVOUEZiTTFxZlF2VjA3WFctWU1mZENjMVI4bG1YR25fMEVWRWh4dkVUaDlPcnBTRHktX0NSSEU4dE5Nd1Y2MXlEajA4TW56NDVoVGw0azNQZw?oc=5",
+      "published": "2026-06-03T06:41:56+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.05,
       "sources": [
         "El País Uy"
       ]
@@ -712,9 +725,37 @@
       "published": "2026-06-03T06:05:26+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.21,
+      "relevance": 15.98,
       "sources": [
         "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Fiscalía de Milán ratificó el indulto a la italiana Nicole Minetti",
+      "summary": "En la sentencia se indicó que “no se han detectado irregularidades en el proceso de adopción reconocido en Italia por el Juzgado de Menores de Venecia”La Fiscalía de Milán dispuso mantener el indulto a Nicole Minetti, exconsejera regional de Lombardía, y pareja del empresario Giuseppe Cipriani, que...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/6/fiscalia-de-milan-ratifico-el-indulto-a-la-italiana-nicole-minetti/",
+      "published": "2026-06-03T19:13:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.85,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Fracasó iniciativa vecinal para crear un municipio al este del arroyo Maldonado",
+      "summary": "La Junta de Maldonado rechazó la propuesta tras recibir un informe negativo del intendente Abella; vecinos de La Barra afirman que hay “razones políticas”.El plenario de la Junta Departamental de Maldonado rechazó por unanimidad, este martes, la iniciativa de vecinos que residen al este del arroyo...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/fracaso-iniciativa-vecinal-para-crear-un-municipio-al-este-del-arroyo-maldonado/",
+      "published": "2026-06-03T18:33:36+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.78,
+      "sources": [
+        "La Diaria"
       ]
     },
     {
@@ -726,7 +767,7 @@
       "published": "2026-06-03T04:05:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.01,
+      "relevance": 15.78,
       "sources": [
         "El País Uy"
       ]
@@ -740,51 +781,9 @@
       "published": "2026-06-03T04:03:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.0,
+      "relevance": 15.77,
       "sources": [
         "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Petit: comisionado para infancias implica “duplicar lo que ya existe” en la INDDHH y hay que encontrar un “camino del medio”",
-      "summary": "El director de la INDDHH subrayó que la institución tiene “no menos de 20 personas trabajando por la infancia en las distintas áreas, todos los días, permanentemente”El director de la Institución Nacional de Derechos Humanos y Defensoría del Pueblo (INDDHH) y excomisionado parlamentario para las...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/petit-comisionado-para-infancias-implica-duplicar-lo-que-ya-existe-en-la-inddhh-y-hay-que-encontrar-un-camino-del-medio/",
-      "published": "2026-06-03T16:20:31+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.78,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Senado solicitó al Poder Ejecutivo que en la próxima Rendición de Cuentas haya una reasignación tributaria para el Inale",
-      "summary": "La minuta de comunicación fue aprobada con votos de todos los partidos políticos; el senador del FA Óscar Andrade dijo que se trata de un compromiso que asumió en la discusión del presupuesto con las gremiales lecheras.Tal como estaba previsto, la Cámara de Senadores aprobó este miércoles con votos...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/senado-solicito-al-poder-ejecutivo-que-en-la-proxima-rendicion-de-cuentas-haya-una-reasignacion-tributaria-para-el-inale/",
-      "published": "2026-06-03T15:07:49+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.66,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Mundial 2026: 289 futbolistas jugarán por un país en el que no nacieron",
-      "summary": "Solamente ocho selecciones están conformadas íntegramente por jugadores nacidos en el suelo que representan; Fernando Muslera y Rodrigo Zalazar son los celestes que no nacieron en Uruguay.La globalización avanza a pasos agigantados y el deporte no es ajeno a esta situación. Las nacionalidades...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/mundial-2026-289-futbolistas-jugaran-por-un-pais-en-el-que-no-nacieron/",
-      "published": "2026-06-03T14:37:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.6,
-      "sources": [
-        "La Diaria"
       ]
     }
   ]
