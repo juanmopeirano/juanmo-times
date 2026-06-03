@@ -71,12 +71,6 @@ FEEDS = {
         {"source": "El País",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"},
         {"source": "CNN Español", "url": "https://cnnespanol.cnn.com/feed/"},
         {"source": "Google Internacional", "url": "https://news.google.com/rss/search?q=internacional+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
-        # Top-tier wires/outlets (publican en inglés). Reuters y AP ya no tienen
-        # RSS público fiable, así que se traen vía Google News.
-        {"source": "Reuters",         "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
-        {"source": "Associated Press", "url": "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
-        {"source": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
-        {"source": "Financial Times",  "url": "https://www.ft.com/rss/world"},
     ],
     "economia": [
         {"source": "Infobae",        "url": "https://www.infobae.com/feeds/rss/economia/"},
@@ -126,7 +120,6 @@ STOPWORDS = {
     "por","para","con","que","se","su","sus","al","lo","como",
 }
 SOURCE_RANKING = {
-    "Reuters": 1, "Associated Press": 1, "The New York Times": 1, "Financial Times": 1,
     "BBC Mundo": 1,
     "El País": 2, "El País Eco": 2, "El País Tech": 2, "El País Uy": 2,
     "CNN Español": 3,
