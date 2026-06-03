@@ -1,4 +1,4 @@
-const CACHE = 'juanmo-times-v24';
+const CACHE = 'juanmo-times-v25';
 const STATIC = ['/', '/index.html', '/styles.css', '/app.js', '/icon.svg'];
 
 self.addEventListener('install', e => {

@@ -71,6 +71,12 @@ FEEDS = {
         {"source": "El País",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"},
         {"source": "CNN Español", "url": "https://cnnespanol.cnn.com/feed/"},
         {"source": "Google Internacional", "url": "https://news.google.com/rss/search?q=internacional+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
+        # Top-tier wires/outlets (publican en inglés). Reuters y AP ya no tienen
+        # RSS público fiable, así que se traen vía Google News.
+        {"source": "Reuters",         "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
+        {"source": "Associated Press", "url": "https://news.google.com/rss/search?q=site:apnews.com+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
+        {"source": "The New York Times", "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"},
+        {"source": "Financial Times",  "url": "https://www.ft.com/rss/world"},
     ],
     "economia": [
         {"source": "Infobae",        "url": "https://www.infobae.com/feeds/rss/economia/"},
@@ -120,6 +126,7 @@ STOPWORDS = {
     "por","para","con","que","se","su","sus","al","lo","como",
 }
 SOURCE_RANKING = {
+    "Reuters": 1, "Associated Press": 1, "The New York Times": 1, "Financial Times": 1,
     "BBC Mundo": 1,
     "El País": 2, "El País Eco": 2, "El País Tech": 2, "El País Uy": 2,
     "CNN Español": 3,
@@ -312,8 +319,9 @@ def fetch_category(category, feeds):
                 title = strip_html(getattr(entry, 'title', ''))
                 # Google News appends " - Publisher" to every headline. Strip it:
                 # it's noise on the card AND it pollutes title-similarity matching,
-                # which is exactly what coverage counting relies on.
-                if "Google" in feed_info["source"]:
+                # which is exactly what coverage counting relies on. Detect by URL
+                # so it also covers outlets we pull *through* Google (Reuters, AP).
+                if "news.google.com" in feed_info["url"]:
                     title = re.sub(r'\s+-\s+[^-]+$', '', title).strip()
                 raw_summary = (
                     getattr(entry, 'summary', '')

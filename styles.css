@@ -594,6 +594,11 @@ main {
 }
 .badge-kw::before { display: none; }
 
+/* The [hidden] attribute must always win, even over components that set their
+   own display (.grid, .filter-chips, etc.). Without this, hiding the news grid
+   to show the Mercado panel leaves both visible. */
+[hidden] { display: none !important; }
+
 /* Coverage badge — a story corroborated by multiple outlets. The same signal
    that ranks it high in Destacadas, surfaced on the card. */
 .badge-coverage {
