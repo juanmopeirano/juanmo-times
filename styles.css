@@ -594,6 +594,24 @@ main {
 }
 .badge-kw::before { display: none; }
 
+/* Coverage badge — a story corroborated by multiple outlets. The same signal
+   that ranks it high in Destacadas, surfaced on the card. */
+.badge-coverage {
+  background: linear-gradient(135deg, #0ea5e9, #2563eb);
+  color: #fff;
+  border: none;
+  font-size: 0.58rem;
+  font-weight: 700;
+  padding: 0.2rem 0.5rem;
+  border-radius: var(--radius-sm);
+  letter-spacing: 0.03em;
+  white-space: nowrap;
+  display: inline-flex;
+  align-items: center;
+  gap: .25rem;
+}
+.badge-coverage::before { display: none; }
+
 .card-source {
   font-size: 0.78rem;
   color: var(--text-soft);

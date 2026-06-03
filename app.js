@@ -269,6 +269,11 @@ function cardHTML(a, idx) {
   const kwBadges = matchedKeywords(a)
     .map(kw => `<span class="badge-kw" title="Coincidencia con palabra clave">⚡ ${escHtml(kw)}</span>`)
     .join('');
+  // Coverage badge: signals a story corroborated by several outlets (the
+  // same signal that floats it to the top of Destacadas).
+  const coverageBadge = (a.coverage && a.coverage >= 2)
+    ? `<span class="badge-coverage" title="${a.coverage} fuentes cubren esta noticia: ${escHtml((a.sources || []).join(', '))}">📰 ${a.coverage} fuentes</span>`
+    : '';
   const mins = readTime(a);
 
   return `
@@ -282,6 +287,7 @@ function cardHTML(a, idx) {
       <div class="card-body">
         <div class="card-meta">
           <span class="badge badge-${escHtml(a.category)}">${escHtml(CATEGORY_LABELS[a.category] || a.category)}</span>
+          ${coverageBadge}
           ${newBadge}
           ${kwBadges}
           <button class="card-source" data-source="${escHtml(a.source)}" aria-label="Filtrar por ${escHtml(a.source)}">${escHtml(a.source)}</button>
@@ -450,15 +456,21 @@ function applyFilter(cat) {
   if (cat === 'todas') {
     filtered = allArticles.slice();
   } else if (cat === 'destacadas') {
-    // One per category, most recent first
-    const seen = new Set();
+    // Front-page curation: rank by server-computed `relevance`
+    // (cross-source coverage + source quality + recency). Soft cap of 2 per
+    // category so a single hot topic can't flood the cover, then take the top.
+    const ranked = allArticles.slice().sort((a, b) =>
+      (b.relevance || 0) - (a.relevance || 0) ||
+      new Date(b.published) - new Date(a.published)
+    );
+    const perCat = {};
     filtered = [];
-    const sorted = allArticles.slice().sort((a, b) => new Date(b.published) - new Date(a.published));
-    for (const a of sorted) {
-      if (!seen.has(a.category)) {
-        seen.add(a.category);
-        filtered.push(a);
-      }
+    for (const a of ranked) {
+      const n = perCat[a.category] || 0;
+      if (n >= 2) continue;
+      perCat[a.category] = n + 1;
+      filtered.push(a);
+      if (filtered.length >= 14) break;
     }
   } else {
     filtered = allArticles.filter(a => a.category === cat);

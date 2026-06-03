@@ -1,6 +1,7 @@
 import feedparser
 import json
 import re
+import sys
 import html as html_module
 import unicodedata
 from datetime import datetime, timezone
@@ -68,21 +69,26 @@ FEEDS = {
         {"source": "DW Español",  "url": "https://rss.dw.com/rdf/rss-es-all"},
         {"source": "France 24",   "url": "https://www.france24.com/es/rss"},
         {"source": "El País",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"},
+        {"source": "CNN Español", "url": "https://cnnespanol.cnn.com/feed/"},
+        {"source": "Google Internacional", "url": "https://news.google.com/rss/search?q=internacional+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
     ],
     "economia": [
         {"source": "Infobae",        "url": "https://www.infobae.com/feeds/rss/economia/"},
         {"source": "El Cronista",    "url": "https://www.cronista.com/rss/"},
         {"source": "El País Eco",    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada"},
         {"source": "El Observador",  "url": "https://www.elobservador.com.uy/rss/economia.xml"},
+        {"source": "Google Economía", "url": "https://news.google.com/rss/search?q=economia+mercados+dolar+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
     ],
     "iglesia": [
         {"source": "Vatican News", "url": "https://www.vaticannews.va/es.rss.xml"},
         {"source": "ACI Prensa",   "url": "https://www.aciprensa.com/rss/todas"},
+        {"source": "Aleteia",      "url": "https://es.aleteia.org/feed/"},
     ],
     "tecnologia": [
         {"source": "Xataka",       "url": "https://www.xataka.com/index.xml"},
         {"source": "Genbeta",      "url": "https://www.genbeta.com/index.xml"},
         {"source": "El País Tech", "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada"},
+        {"source": "Hipertextual", "url": "https://hipertextual.com/feed"},
     ],
     "deportes": [
         {"source": "Marca",           "url": "https://www.marca.com/rss/portada.xml"},
@@ -116,14 +122,23 @@ STOPWORDS = {
 SOURCE_RANKING = {
     "BBC Mundo": 1,
     "El País": 2, "El País Eco": 2, "El País Tech": 2, "El País Uy": 2,
+    "CNN Español": 3,
     "DW Español": 3,
     "France 24": 4,
     "Infobae": 5, "Infobae Dep.": 5,
     "Montevideo Portal": 6,
     "La Diaria": 7,
     "El Observador": 8,
+    "Xataka": 5, "Genbeta": 6, "Hipertextual": 6,
+    "Vatican News": 4, "ACI Prensa": 5, "Aleteia": 6,
+    "Marca": 5, "AS": 5,
+    # Google News aggregators rank low — they're great for *coverage counting*
+    # but their titles carry a " - Fuente" suffix, so prefer a real outlet as
+    # the representative whenever one exists.
+    "Google Internacional": 20, "Google Economía": 20, "Google Deportes": 20,
+    "Google Noticias": 20, "Google Noticias UY": 20, "Mundial 2026": 20,
 }
-DEDUP_THRESHOLD = 0.6
+DEDUP_THRESHOLD = 0.5
 DEDUP_WINDOW_HOURS = 24
 
 WAR_KEYWORDS = [
@@ -189,13 +204,22 @@ def normalize_title(t):
 def deduplicate(articles):
     """Collapse near-duplicate articles across sources using Jaccard similarity.
 
-    Keeps the entry with the best-ranked source (ties broken by most recent).
+    Instead of just discarding duplicates, we COUNT them: every source that
+    runs the same story is recorded on the surviving article as `coverage`
+    (distinct source count) + `sources` (their names). Cross-source corroboration
+    is the strongest "this matters right now" signal we have — same principle as
+    ranking a topic by how many outlets cover it.
+
+    The surviving entry uses the best-ranked source as its representative
+    (ties broken by most recent), but carries the full coverage of the cluster.
     """
     kept = []
-    removed = 0
+    merged = 0
     window_sec = DEDUP_WINDOW_HOURS * 3600
 
     for a in articles:
+        a.setdefault("coverage", 1)
+        a.setdefault("sources_set", {a["source"]})
         a_tokens = normalize_title(a["title"])
         if not a_tokens:
             kept.append(a)
@@ -224,6 +248,9 @@ def deduplicate(articles):
 
         if dup_idx >= 0:
             b = kept[dup_idx]
+            # Merge the two clusters' source sets — that's the coverage count.
+            merged_sources = set(b["sources_set"]) | set(a["sources_set"])
+            merged_coverage = len(merged_sources)
             a_rank = SOURCE_RANKING.get(a["source"], 99)
             b_rank = SOURCE_RANKING.get(b["source"], 99)
             replace = False
@@ -236,21 +263,58 @@ def deduplicate(articles):
                 except Exception:
                     pass
             if replace:
+                a["sources_set"] = merged_sources
+                a["coverage"] = merged_coverage
                 kept[dup_idx] = a
-            removed += 1
+            else:
+                b["sources_set"] = merged_sources
+                b["coverage"] = merged_coverage
+            merged += 1
         else:
             kept.append(a)
 
-    print(f"  Deduped: {removed} duplicates removed")
+    print(f"  Deduped: {merged} duplicates merged into coverage counts")
     return kept
+
+def score_relevance(articles):
+    """Assign each article a `relevance` score driving the Destacadas ranking.
+
+    relevance = coverage * 10  (how many outlets ran the story — main driver)
+              + recency_bonus(0..5)
+              + quality_bonus(0..3)  (a story from BBC/El País outranks a random
+                                      aggregator item all else equal)
+
+    We also flatten the internal `sources_set` into a JSON-serialisable
+    `sources` list and keep `coverage`.
+    """
+    now = datetime.now(timezone.utc)
+    for a in articles:
+        cov = a.get("coverage", 1)
+        try:
+            age_h = (now - datetime.fromisoformat(a["published"])).total_seconds() / 3600
+        except Exception:
+            age_h = 48.0
+        recency = max(0.0, 1.0 - age_h / 48.0)  # 1.0 just now → 0.0 at 48h+
+        rank = SOURCE_RANKING.get(a.get("source"), 99)
+        quality = max(0.0, (10 - min(rank, 10)) / 10.0)  # rank1→0.9, rank10+→0
+        a["relevance"] = round(cov * 10 + recency * 5 + quality * 3, 2)
+        srcs = a.pop("sources_set", None) or {a.get("source")}
+        a["sources"] = sorted(s for s in srcs if s)
+        a["coverage"] = cov
+    return articles
 
 def fetch_category(category, feeds):
     articles = []
     for feed_info in feeds:
         try:
             feed = feedparser.parse(feed_info["url"])
-            for entry in feed.entries[:10]:
+            for entry in feed.entries[:15]:
                 title = strip_html(getattr(entry, 'title', ''))
+                # Google News appends " - Publisher" to every headline. Strip it:
+                # it's noise on the card AND it pollutes title-similarity matching,
+                # which is exactly what coverage counting relies on.
+                if "Google" in feed_info["source"]:
+                    title = re.sub(r'\s+-\s+[^-]+$', '', title).strip()
                 raw_summary = (
                     getattr(entry, 'summary', '')
                     or getattr(entry, 'description', '')
@@ -277,10 +341,20 @@ def fetch_category(category, feeds):
         except Exception as e:
             print(f"  [!] Error en {feed_info['source']}: {e}")
 
+    # Return the FULL set (capped per feed above). Trimming to MAX_PER_CATEGORY
+    # happens after dedup so we don't throw away the cross-source overlap that
+    # coverage counting depends on.
     articles.sort(key=lambda x: x["published"], reverse=True)
-    return articles[:MAX_PER_CATEGORY]
+    return articles
 
 def main():
+    # Windows consoles default to cp1252 and choke on emoji/accents in our
+    # diagnostic prints. Force UTF-8 (replace anything unencodable) so logging
+    # never aborts the run. No-op on Linux (GitHub Actions is already UTF-8).
+    try:
+        sys.stdout.reconfigure(encoding='utf-8', errors='replace')
+    except Exception:
+        pass
     print(f"Iniciando fetch de noticias — {datetime.now().strftime('%Y-%m-%d %H:%M UTC')}")
     all_articles = []
     for category, feeds in FEEDS.items():
@@ -289,8 +363,28 @@ def main():
         all_articles.extend(articles)
         print(f"    {len(articles)} artículos")
 
-    print("Deduplicando entre fuentes...")
+    print(f"Total bruto: {len(all_articles)} artículos")
+    print("Deduplicando y midiendo cobertura entre fuentes...")
     all_articles = deduplicate(all_articles)
+    all_articles = score_relevance(all_articles)
+
+    # Trim each category to its MAX_PER_CATEGORY most relevant stories
+    # (coverage-weighted, recency as tiebreak) — now that coverage is counted.
+    by_cat = {}
+    for a in all_articles:
+        by_cat.setdefault(a["category"], []).append(a)
+    trimmed = []
+    for cat, items in by_cat.items():
+        items.sort(key=lambda x: (x["relevance"], x["published"]), reverse=True)
+        trimmed.extend(items[:MAX_PER_CATEGORY])
+    all_articles = trimmed
+
+    # Quick visibility into what the algorithm considers the top stories.
+    top = sorted(all_articles, key=lambda x: x["relevance"], reverse=True)[:8]
+    print("  Top por relevancia (lo que va a Destacadas):")
+    for a in top:
+        srcs = ", ".join(a["sources"][:4])
+        print(f"    [{a['relevance']:.0f}] {a['coverage']}x ({srcs}) — {a['title'][:60]}")
 
     output = {
         "updated_at": datetime.now(timezone.utc).isoformat(),
