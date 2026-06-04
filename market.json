@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-03T23:25:31.414804+00:00",
+  "updated_at": "2026-06-04T12:36:29.824490+00:00",
   "fx": [
     {
       "label": "USD/UYU",
-      "value": 40.18
+      "value": 40.23
     },
     {
       "label": "EUR/UYU",
-      "value": 46.73
+      "value": 46.7
     },
     {
       "label": "BRL/UYU",
-      "value": 8.01
+      "value": 8.0
     },
     {
       "label": "ARS/UYU",
@@ -58,15 +58,15 @@
   "stocks": [
     {
       "label": "AAPL",
-      "value": 310.28,
-      "change": -1.56,
+      "value": 310.26,
+      "change": -1.57,
       "_date": "2026-06-03",
       "_prev_close": 315.2
     },
     {
       "label": "MSFT",
-      "value": 427.61,
-      "change": -3.1,
+      "value": 427.34,
+      "change": -3.16,
       "_date": "2026-06-03",
       "_prev_close": 441.3
     },
@@ -86,8 +86,8 @@
     },
     {
       "label": "TSLA",
-      "value": 423.76,
-      "change": 0.0,
+      "value": 423.7,
+      "change": -0.01,
       "_date": "2026-06-03",
       "_prev_close": 423.74
     }
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 64328,
-      "change": -2.99,
+      "value": 63425,
+      "change": -5.12,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 1816.52,
-      "change": -1.54,
+      "value": 1771.61,
+      "change": -5.28,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 71.65,
-      "change": -1.9,
+      "value": 69.69,
+      "change": -7.08,
       "currency": "USD"
     }
   ]
