@@ -64,14 +64,6 @@ def extract_image(entry):
     return None
 
 FEEDS = {
-    "internacional": [
-        {"source": "BBC Mundo",   "url": "https://feeds.bbci.co.uk/mundo/rss.xml"},
-        {"source": "DW Español",  "url": "https://rss.dw.com/rdf/rss-es-all"},
-        {"source": "France 24",   "url": "https://www.france24.com/es/rss"},
-        {"source": "El País",     "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada"},
-        {"source": "CNN Español", "url": "https://cnnespanol.cnn.com/feed/"},
-        {"source": "Google Internacional", "url": "https://news.google.com/rss/search?q=internacional+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
-    ],
     "economia": [
         {"source": "Infobae",        "url": "https://www.infobae.com/feeds/rss/economia/"},
         {"source": "El Cronista",    "url": "https://www.cronista.com/rss/"},
