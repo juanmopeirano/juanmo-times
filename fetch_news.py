@@ -94,12 +94,11 @@ FEEDS = {
         {"source": "Marca",           "url": "https://www.marca.com/rss/portada.xml"},
         {"source": "AS",              "url": "https://as.com/rss/tags/ultimas_noticias.xml"},
         {"source": "Infobae Dep.",    "url": "https://www.infobae.com/feeds/rss/deportes/"},
-        {"source": "Google Deportes", "url": "https://news.google.com/rss/search?q=deporte+futbol+tenis+basket&hl=es-419&gl=US&ceid=US:es-419"},
-        {"source": "Mundial 2026",    "url": "https://news.google.com/rss/search?q=mundial+futbol+2026&hl=es-419&gl=US&ceid=US:es-419"},
+        {"source": "Google Deportes", "url": "https://news.google.com/rss/search?q=deporte+futbol+tenis+basket+when:1d&hl=es-419&gl=UY&ceid=UY:es-419"},
     ],
     "belico": [
-        {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=guerra+conflicto+ataque+militar+Gaza+Ucrania&hl=es-419&gl=US&ceid=US:es-419"},
-        {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=Medio+Oriente+Iran+Israel+Hamas+Rusia&hl=es-419&gl=US&ceid=US:es-419"},
+        {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=(guerra+OR+conflicto+OR+ataque+OR+ofensiva)+(Gaza+OR+Ucrania+OR+Israel+OR+Rusia)+when:2d&hl=es-419&gl=UY&ceid=UY:es-419"},
+        {"source": "Google Noticias", "url": "https://news.google.com/rss/search?q=(Medio+Oriente+OR+Iran+OR+Hamas+OR+Hezbollah)+(ataque+OR+bombardeo+OR+misil)+when:2d&hl=es-419&gl=UY&ceid=UY:es-419"},
         {"source": "BBC Mundo",       "url": "https://feeds.bbci.co.uk/mundo/rss.xml",  "keywords": True},
         {"source": "France 24",       "url": "https://www.france24.com/es/rss",          "keywords": True},
         {"source": "DW Español",      "url": "https://rss.dw.com/rdf/rss-es-all",       "keywords": True},
@@ -113,6 +112,12 @@ FEEDS = {
 }
 
 MAX_PER_CATEGORY = 8
+
+# Hard recency cutoff: anything older than this is dropped outright. This is the
+# single biggest guard against stale "evergreen" articles (especially from
+# Google News searches, which rank by relevance and happily return 6-month-old
+# explainers). News runs 3x/day, so 3 days is plenty of headroom.
+MAX_AGE_DAYS = 3
 
 # Dedup config
 STOPWORDS = {
@@ -280,7 +285,7 @@ def score_relevance(articles):
     """Assign each article a `relevance` score driving the Destacadas ranking.
 
     relevance = coverage * 10  (how many outlets ran the story — main driver)
-              + recency_bonus(0..5)
+              + recency_bonus(0..9)   (heavily favours the last 24h)
               + quality_bonus(0..3)  (a story from BBC/El País outranks a random
                                       aggregator item all else equal)
 
@@ -293,11 +298,11 @@ def score_relevance(articles):
         try:
             age_h = (now - datetime.fromisoformat(a["published"])).total_seconds() / 3600
         except Exception:
-            age_h = 48.0
-        recency = max(0.0, 1.0 - age_h / 48.0)  # 1.0 just now → 0.0 at 48h+
+            age_h = 24.0
+        recency = max(0.0, 1.0 - age_h / 24.0)  # 1.0 just now → 0.0 at 24h+
         rank = SOURCE_RANKING.get(a.get("source"), 99)
         quality = max(0.0, (10 - min(rank, 10)) / 10.0)  # rank1→0.9, rank10+→0
-        a["relevance"] = round(cov * 10 + recency * 5 + quality * 3, 2)
+        a["relevance"] = round(cov * 10 + recency * 9 + quality * 3, 2)
         srcs = a.pop("sources_set", None) or {a.get("source")}
         a["sources"] = sorted(s for s in srcs if s)
         a["coverage"] = cov
@@ -325,6 +330,16 @@ def fetch_category(category, feeds):
                 url = getattr(entry, 'link', '')
                 if not title or not url:
                     continue
+                published = parse_date(entry)
+                # Drop anything older than the recency cutoff. Items with no
+                # parseable date fall back to "now" and are kept.
+                try:
+                    age_days = (datetime.now(timezone.utc)
+                                - datetime.fromisoformat(published)).total_seconds() / 86400
+                    if age_days > MAX_AGE_DAYS:
+                        continue
+                except Exception:
+                    pass
                 if feed_info.get("keywords") and not matches_war_keywords(title, summary):
                     continue
                 # Drop summary when it's just the title (common in Google News)
@@ -336,7 +351,7 @@ def fetch_category(category, feeds):
                     "title": title,
                     "summary": summary,
                     "url": url,
-                    "published": parse_date(entry),
+                    "published": published,
                     "image": extract_image(entry),
                 })
         except Exception as e:
