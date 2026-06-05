@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T17:45:24.129943+00:00",
+  "updated_at": "2026-06-05T22:55:46.303087+00:00",
   "fx": [
     {
       "label": "USD/UYU",
@@ -58,57 +58,57 @@
   "stocks": [
     {
       "label": "AAPL",
-      "value": 311.23,
-      "change": 0.31,
-      "_date": "2026-06-04",
-      "_prev_close": 310.26
+      "value": 307.56,
+      "change": -1.18,
+      "_date": "2026-06-05",
+      "_prev_close": 311.23
     },
     {
       "label": "MSFT",
-      "value": 428.05,
-      "change": 0.17,
-      "_date": "2026-06-04",
-      "_prev_close": 427.34
+      "value": 416.69,
+      "change": -2.65,
+      "_date": "2026-06-05",
+      "_prev_close": 428.05
     },
     {
       "label": "GOOGL",
-      "value": 372.19,
-      "change": 3.68,
-      "_date": "2026-06-04",
-      "_prev_close": 358.99
+      "value": 368.8,
+      "change": -0.91,
+      "_date": "2026-06-05",
+      "_prev_close": 372.19
     },
     {
       "label": "AMZN",
-      "value": 253.79,
-      "change": 1.51,
-      "_date": "2026-06-04",
-      "_prev_close": 250.02
+      "value": 246.0,
+      "change": -3.07,
+      "_date": "2026-06-05",
+      "_prev_close": 253.79
     },
     {
       "label": "TSLA",
-      "value": 418.45,
-      "change": -1.24,
-      "_date": "2026-06-04",
-      "_prev_close": 423.7
+      "value": 390.81,
+      "change": -6.61,
+      "_date": "2026-06-05",
+      "_prev_close": 418.45
     }
   ],
   "crypto": [
     {
       "label": "BTC",
-      "value": 60926,
-      "change": -3.19,
+      "value": 61857,
+      "change": -2.69,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 1597.2,
-      "change": -8.94,
+      "value": 1599.53,
+      "change": -9.19,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 65.15,
-      "change": -4.98,
+      "value": 64.47,
+      "change": -5.18,
       "currency": "USD"
     }
   ]
