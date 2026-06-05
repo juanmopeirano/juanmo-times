@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T12:29:41.936351+00:00",
+  "updated_at": "2026-06-05T17:45:24.129943+00:00",
   "fx": [
     {
       "label": "USD/UYU",
@@ -21,38 +21,38 @@
   "indices": [
     {
       "label": "S&P 500",
-      "value": 7584.3,
-      "change": 0.41,
-      "_date": "2026-06-04",
-      "_prev_close": 7553.7
+      "value": 7450.3,
+      "change": -1.77,
+      "_date": "2026-06-05",
+      "_prev_close": 7584.3
     },
     {
       "label": "Dow Jones",
-      "value": 51561.9,
-      "change": 1.73,
-      "_date": "2026-06-04",
-      "_prev_close": 50687.1
+      "value": 51140.0,
+      "change": -0.82,
+      "_date": "2026-06-05",
+      "_prev_close": 51561.9
     },
     {
       "label": "Nasdaq 100",
-      "value": 30407.81,
-      "change": -0.53,
-      "_date": "2026-06-04",
-      "_prev_close": 30571.24
+      "value": 29360.6,
+      "change": -3.44,
+      "_date": "2026-06-05",
+      "_prev_close": 30407.81
     },
     {
       "label": "Bovespa",
-      "value": 170330.63,
-      "change": -2.22,
-      "_date": "2026-06-03",
-      "_prev_close": 174197.64
+      "value": 169118.39,
+      "change": -0.71,
+      "_date": "2026-06-05",
+      "_prev_close": 170330.63
     },
     {
       "label": "Merval",
-      "value": 3174511.25,
-      "change": 0.33,
-      "_date": "2026-06-04",
-      "_prev_close": 3164196.0
+      "value": 3120645.0,
+      "change": -1.7,
+      "_date": "2026-06-05",
+      "_prev_close": 3174511.25
     }
   ],
   "stocks": [
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 62187,
-      "change": -1.6,
+      "value": 60926,
+      "change": -3.19,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 1663.3,
-      "change": -5.73,
+      "value": 1597.2,
+      "change": -8.94,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 66.08,
-      "change": -4.53,
+      "value": 65.15,
+      "change": -4.98,
       "currency": "USD"
     }
   ]
