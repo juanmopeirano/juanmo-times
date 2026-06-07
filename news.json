@@ -1,408 +1,352 @@
 {
-  "updated_at": "2026-06-07T11:41:24.192017+00:00",
+  "updated_at": "2026-06-07T17:02:53.563698+00:00",
   "articles": [
     {
       "category": "economia",
+      "source": "El País Eco",
+      "title": "Bouygues, Free y Orange compran y se reparten SFR por 20.350 millones de euros",
+      "summary": "Orange ejecuta la operación días antes de adquirir el 100% de MasOrange, consolidando su liderazgo europeo",
+      "url": "https://cincodias.elpais.com/companias/2026-06-07/bouygues-free-y-orange-compran-y-se-reparten-sfr-por-20350-millones-de-euros.html",
+      "published": "2026-06-07T14:07:41+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/PKFJL2OKCBNCLNHTGSUDWC2YW4.jpg?auth=3711aebb5e818f3ecc7dccbfcbdf93684082a04fcd1c35bff6c359ad3b99758c",
+      "coverage": 1,
+      "relevance": 20.3,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
       "source": "Google Economía",
-      "title": "¿Conviene comprar o vender? El dólar paralelo cambia este domingo 7 de junio en Bolivia",
+      "title": "Adiós al dólar | Se prohibirán todas las transacciones y el uso de billetes en 11 países",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRldSN3BUNzdVNHhtVkpaOUl2SFVzRjF3ZlhuOUtWcTh3SzNVSUlBQWd1WHhiRzhvUHZBYVRkYW5nYUMydnFDZkdjQXRCbmx6TzgtbUp1M0Z0M3l2ckpXNEI5OHdNSlVoYWlGY2JoaURjWGJYZG9fYzFjeTdZaVl2MXJGTVZjQ19fUEU1bFlwbFRBSVV2anJWRjNIZ0gyNE1jVnQwM0tMSEZJZ0NDYjFCbGl6cVlRUDl0Q1kxamxsOVNhSjJneGc2XzFTcHA?oc=5",
-      "published": "2026-06-07T11:33:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLWkzeGZmY0hiaEtXVWJfckxrMUppd0NOdGhxaDYxai15V0h6aXZueWxyay1LVWlMdGNNdEEyYTdQcVFSTW5iZFgzX3JQLUxQY2dpblVNOWpJSGY5QXNTcU1oTHJpbG1xSWJwSlc0UUtRaVBDR2o1aVFsdW1wTm0tV2FWQXdLQ2JhZ3VlUF9reXgzS09XOE5VdWIwNXZkMzZnX1kzWDZYckRiSVBUaXBkU1QzVUZwRmlkWmJ2S2pOdHJ4UlB2UHo3WFNqdlZ4dUNubGc?oc=5",
+      "published": "2026-06-07T16:26:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.95,
+      "relevance": 18.77,
       "sources": [
         "Google Economía"
       ]
     },
     {
       "category": "economia",
-      "source": "El País Eco",
-      "title": "Inflación, poder adquisitivo y consumo de las familias",
-      "summary": "El impacto del conflicto en Oriente Próximo en las expectativas es la clave de bóveda de la coyuntura",
-      "url": "https://elpais.com/economia/negocios/2026-06-07/inflacion-poder-adquisitivo-y-consumo-de-las-familias.html",
-      "published": "2026-06-07T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KNWVNDRDWJALPL23AGO5HVQ23U.JPG?auth=b8e334ddfd7fd6f7bc37b27a1963ca7f5111b823c87eb8b373cccf5762612b5b",
-      "coverage": 1,
-      "relevance": 18.39,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Sanjay Mehrotra y Kwak Noh-jung, los reyes del chip cuyas empresas valen un billón de dólares",
-      "summary": "Las compañías que dirigen, Micron y SK Hynix, fabrican la pieza más escasa de la economía de la IA: la memoria HBM, que alimenta de datos a las GPU de Nvidia",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-07/sanjay-mehrotra-y-kwak-noh-jung-los-reyes-del-chip-cuyas-empresas-valen-un-billon-de-dolares.html",
-      "published": "2026-06-07T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/QLUAXMH3FREWDJVX22VZ6XNQHE.jpg?auth=0db84ba4cbf47698d22112e1033d976ec7decaba967c5c7b32eff6d72e9b9685",
-      "coverage": 1,
-      "relevance": 18.39,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Las claves: Airbnb se abre puertas de negocio ante la incertidumbre regulatoria del sector",
-      "summary": "La entrada del portal en la intermediación hotelera intensifica aún más la competencia en este ámbito",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-07/las-claves-airbnb-se-abre-puertas-de-negocio-ante-la-incertidumbre-regulatoria-del-sector.html",
-      "published": "2026-06-07T03:37:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/3DJNLPG7TZIPRE7UQM65AQELSA.jpg?auth=df3ea61bc896d02d5a4f7be9e8850084310a171f707d1f48f81b756ca3b8bf99",
-      "coverage": 1,
-      "relevance": 18.37,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Ángel Simón (Indra): “No vamos a comprar por comprar. Escribano se retiró de la negociación”",
-      "summary": "El nuevo presidente de la empresa de defensa y tecnología da por cerrada una etapa convulsa y asegura que la gobernanza ya está estabilizada",
-      "url": "https://elpais.com/economia/2026-06-07/angel-simon-indra-no-vamos-a-comprar-por-comprar-escribano-se-retiro-de-la-negociacion.html",
-      "published": "2026-06-07T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/PKU76A42NJL6NGMSOJBVC3KCJM.jpg?auth=10938fae6270e9fc2fc0c6cc9ed1696c00e9cf27169850ab71d050a52cd5776b",
-      "coverage": 1,
-      "relevance": 18.33,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Trump allana el camino para el desembarco de las compañías estadounidenses en Cuba",
-      "summary": "Marriott o Airbnb pueden ser las primeras en regresar al archipiélago, donde ya tuvieron operaciones aprovechando el deshielo durante la segunda legislatura de Barack Obama",
-      "url": "https://elpais.com/economia/2026-06-07/trump-allana-el-camino-para-el-desembarco-de-las-companias-estadounidenses-en-cuba.html",
-      "published": "2026-06-07T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/CBXVB3UC4VEDJNYUQM63DFBTE4.jpg?auth=284f06389cc9012b7b673946eef386748c0411e7f452f46c1209f8bca159fb8e",
-      "coverage": 1,
-      "relevance": 18.33,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Cuando Jonathan Andic estuvo al frente de Mango: entre la tormenta perfecta y la confianza intermitente de su padre",
-      "summary": "El periodo en el que el hijo del fundador tuvo responsabilidad ejecutiva en la compañía estuvo marcado por pérdidas millonarias y por la confusión en los roles",
-      "url": "https://elpais.com/espana/catalunya/2026-06-07/cuando-jonathan-andic-estuvo-al-frente-de-mango-entre-la-tormenta-perfecta-y-la-confianza-intermitente-de-su-padre.html",
-      "published": "2026-06-07T03:30:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ADLYWBGPVVCIRNXAIAVX2FAO7I.jpg?auth=c9504c48eb2bad8d6e9a1af726c41bf2b171a4b5aaa0056d98bdfc56d81f25c0",
-      "coverage": 1,
-      "relevance": 18.33,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Massimo Doris (Mediolanum): “Le puedes pedir a ChatGPT que te proponga una inversión que rente un 5% sin riesgo, ¡pero eso no existe!\"",
-      "summary": "El banquero italiano confía en su modelo de negocio basado en asesores personales en plena ofensiva de la inteligencia artificial en el negocio financiero",
-      "url": "https://elpais.com/economia/negocios/2026-06-07/massimo-doris-mediolanum-le-puedes-pedir-a-chatgpt-que-te-proponga-una-inversion-que-rente-un-5-sin-riesgo-pero-eso-no-existe.html",
-      "published": "2026-06-07T03:30:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/HWG3LXCAQBGZHGOGPHIGNDWZBE.jpg?auth=87b9fa166b60c0a3ad58418e073ff011a8340f80df903b8cc46f7cd69a462405",
-      "coverage": 1,
-      "relevance": 18.33,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Cuba, entre apagones y emergencia sanitaria: el compromiso de Sant’Egidio",
-      "summary": "En una entrevista concedida a los medios vaticanos, Giovanni Impagliazzo, responsable para Centroamérica de la Comunidad de Sant’Egidio, afirma que el embargo estadounidense que ya existía sobre la isla \"se ha endurecido\", impidiendo el abastecimiento de petróleo y generando un bloqueo casi total...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/cuba-entre-apagones-emergencia-sanitaria-alimentaria-santegidio.html",
-      "published": "2026-06-07T10:01:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/05/19/1780681286095.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 20.17,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Religiosidad popular y atención a los últimos",
-      "summary": "En las palabras a los fieles españoles León XIV ofrece una indicación para toda la Iglesia. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/religiosidad-popular-y-atencion-a-los-ultimos.html",
-      "published": "2026-06-07T09:40:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/07/2026-06-07-viaggio-apostolico-in-spagna---santa-messa-in-plaza-d/1780822863353.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 20.04,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Cobo: Madrid, una Iglesia llamada a construir una sociedad más fraterna",
-      "summary": "En la solemnidad del Corpus Christi, el cardenal Cobo da la bienvenida al sucesor de Pedro para renovar la fe y la esperanza de los fieles. El arzobispo invita a la comunidad a redescubrir la identidad cristiana desde el agua del Bautismo y a ser una Iglesia que sale a servir a los más pequeños....",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/cobo-misa-corpus-christi-espana-palabras-bienvenida-papa-leon.html",
-      "published": "2026-06-07T09:39:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/07/2026-06-07-viaggio-apostolico-in-spagna---santa-messa-in-plaza-d/1780823463455.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 20.03,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Día de la Caridad 2026 en España: “Alzar la mirada” para encontrarse con la paz",
-      "summary": "Los obispos de la Subcomisión Episcopal para la Acción Caritativa y Social de España invitan, con motivo del Día de la Caridad, a “alzar la mirada” para encontrarse con la paz de Cristo, que transforma el corazón para hacerse “pan” y saciar el hambre del más vulnerable, contribuyendo así a la...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/corpus-christi-caridad-2026-espana-pan-pobres-eucaristia.html",
-      "published": "2026-06-07T09:24:39+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/06/2026-06-06-viaggio-apostolico-in-spagna---cerimonia-di-benvenuto/1780739460415.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.95,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "León XIV pide redescubrir la fe viva en España: “No puede ser un museo del pasado que visitar”",
-      "summary": "El Papa León XIV preside en Madrid una multitudinaria celebración del Corpus Christi en la Plaza de Cibeles en la que llama a redescubrir la riqueza espiritual de las tradiciones religiosas españolas como una “escuela de fe viva” y no “un museo del pasado que visitar”. Destaca su exhortación a los...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-exhorta-en-madrid-a-redescubrir-la-fe-viva-en-espana.html",
-      "published": "2026-06-07T08:50:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/06/07/10/1780822295393.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.73,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Desde los “grandes de España” hasta los más humildes, León XIV en contacto con los contrastes de Madrid",
-      "summary": "Al son de salvas de cañón, el repique de las campanas de la cercana Catedral de la Almudena y música militar, el Papa, escoltado por guardias a caballo, llegó al Palacio Real de Madrid el sábado 6 de junio. La presencia policial en las calles aledañas fue tan imponente como el fasto desplegado para...",
-      "url": "https://es.aleteia.org/2026/06/07/desde-los-grandes-de-espana-hasta-los-mas-humildes-leon-xiv-en-contacto-con-los-contrastes-de-madrid/",
-      "published": "2026-06-06T23:42:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.71,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "El Papa da 3 claves para reconocer la voz de Dios durante su viaje a España",
-      "summary": "El 6 de junio de 2026, en la Plaza de Lima, en Madrid, el Papa León XIV se reunió con 600 mil personas para una vigilia de adoración. Durante el evento, seis jóvenes tuvieron la oportunidad de hacer preguntas al pontífice. Los jóvenes le preguntaron sobre sus años en Perú, los santos que lo...",
-      "url": "https://es.aleteia.org/2026/06/07/el-papa-da-3-claves-para-reconocer-la-voz-de-dios-durante-su-viaje-a-espana/",
-      "published": "2026-06-06T23:03:21+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.46,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "600 mil personas con León XIV: instó a los jóvenes a “transformar” la sociedad",
-      "summary": "Para concluir el primer día de su viaje apostólico a España, León XIV participó en una vigilia de oración ante cientos de miles de personas en la Plaza de Lima de Madrid el 6 de junio de 2026. Durante la velada, el Papa respondió a las preguntas de los fieles. En este encuentro, invitó a Leer más…...",
-      "url": "https://es.aleteia.org/2026/06/07/600-mil-personas-con-leon-xiv-insto-a-los-jovenes-a-transformar-la-sociedad/",
-      "published": "2026-06-06T22:24:16+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.22,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Una granja de Minnesota encontró la forma de producir energía solar y de crear algo más: el refugio perfecto para sus vacas",
-      "summary": "Tener una instalación solar en un terreno rural es algo que puede beneficiar tanto a humanos como a animales. Ya hemos contado en otras ocasiones cómo la agrivoltaica puede tener efectos positivos en los animales, como en las aves e insectos, o incluso en ovejas. Un equipo de la Universidad de...",
-      "url": "https://www.xataka.com/energia/granja-minnesota-encontro-forma-producir-energia-solar-paso-crear-refugio-perfecto-vacas-sobrevivan-al-verano",
-      "published": "2026-06-07T11:31:09+00:00",
-      "image": "https://i.blogs.es/1e3147/vacas-paneles/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.44,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La ropa del futuro la fabrican bacterias. Jeff Bezos acaba de invertir 34 millones para demostrarlo",
-      "summary": "Quien este libre de contradicciones que tire la primera piedra, pero es que Jeff Bezos juega en otra liga. Por un lado es el padre y fundador de una empresa que ha hecho de la logística de reparto su santo y seña (Amazon), del turismo espacial con Blue Origin o está detrás de AWS, una de las...",
-      "url": "https://www.xataka.com/empresas-y-economia/ropa-futuro-fabrican-bacterias-jeff-bezos-acaba-invertir-34-millones-para-demostrarlo",
-      "published": "2026-06-07T11:15:10+00:00",
-      "image": "https://i.blogs.es/7cada3/bezos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.34,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "En 1852 unos topógrafos concluyeron que el Everest medía justo 29.000 pies. Les pareció tan poco creíble que le añadieron dos pies",
-      "summary": "Dice el adagio que \"la mujer del César, además de ser honesta, debe parecerlo\". Con la topografía ocurre algo similar. Cuando a mediados del siglo XIX un grupo de investigadores de la Real Sociedad Geográfica Británica se dedicó a medir el Monte Everest llegó a la conclusión de que su punto más...",
-      "url": "https://www.xataka.com/magnet/1852-unos-topografos-concluyeron-que-everest-media-justo-29-000-pies-cifra-les-parecio-poco-creible-que-cambiaron",
-      "published": "2026-06-07T11:01:10+00:00",
-      "image": "https://i.blogs.es/83cd7d/michael-clarke-gvpab2mhwkw-unsplash-2-/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.25,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Renfe tiene entre manos un contrato de 4.000 millones de euros. Y ninguna empresa española le da los trenes que busca",
-      "summary": "Renfe se prepara para elegir a la empresa afortunada que le suministrará, al menos, 30 trenes de alta velocidad. Es la licitación más cara de la historia de la compañía, con unos 4.000 millones de euros en juego. También es la prueba de fuego para saber si España vuelve a posicionarse como un país...",
-      "url": "https://www.xataka.com/movilidad/su-busqueda-trenes-a-350-km-h-renfe-ofrece-4-000-millones-euros-empresas-espanolas-no-candidatas",
-      "published": "2026-06-07T10:31:09+00:00",
-      "image": "https://i.blogs.es/842702/jre_series-e657-k5_hitachi-6/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.06,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Cómo usar MAI-Code-1-Flash, la nueva IA de Microsoft para programar",
-      "summary": "Hace unos días, Microsoft presentó MAI-Code-1-Flash, su primer modelo de inteligencia artificial diseñado para ayudarte a programar más rápido y con mayor eficiencia. Este forma parte de una familia de siete modelos llamada MAI, la cual se anunció en Build 2026 y ya está disponible en Visual Studio...",
-      "url": "https://hipertextual.com/inteligencia-artificial/mai-code-1-flash-microsoft-github-copilot/",
-      "published": "2026-06-07T11:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/mai-code-flash-microsoft.jpg?fit=1024%2C575&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.94,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "China acaba de lanzar un cohete sin avisar a nadie. Resulta que es el más ambicioso de su historia",
-      "summary": "China se ha tomado en serio eso de “el que primero llega, se lo queda”. Aunque el Tratado del Espacio Exterior de 1967 establece que ningún Estado puede reclamar soberanía sobre la Luna, Marte o cualquier otro cuerpo celeste, lo que sí aplica es que las posiciones orbitales geoestacionarias y las...",
-      "url": "https://www.xataka.com/espacio/china-acaba-lanzar-cohete-avisar-a-nadie-resulta-que-ambicioso-su-historia",
-      "published": "2026-06-07T10:01:10+00:00",
-      "image": "https://i.blogs.es/4d2cd9/hjt7j82wyaysbal/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.87,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La IA ha provocado el colapso incluso de una industria no relacionada con la IA: las turbinas de gas",
-      "summary": "Cuando todo el mundo sale corriendo, el ex director de tecnología de Meta se queda. Mientras la mayoría de los inversores de Silicon Valley ha abandonado la tesis del Climate Tech —hastiados de promesas que no se convierten en negocio real—, Mike Schroepfer acaba de anunciar que ha captado 250...",
-      "url": "https://www.xataka.com/energia/cuando-todos-huyen-se-queda-ex-cto-meta-ex-vicepresidente-tesla-se-alian-para-evitar-que-ia-apague-mundo",
-      "published": "2026-06-07T09:31:09+00:00",
-      "image": "https://i.blogs.es/33e2fa/centro-de-datos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.69,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Ahora puedes hacer tus propias correas y accesorios para la Fitbit Air con ayuda de Google",
-      "summary": "La Fitbit Air tiene todo para ser uno de los productos más exitosos de Google de los últimos tiempos. La nueva pulsera de actividad sin pantalla, que compite de forma directa con la Whoop, destaca por su buen funcionamiento y por no requerir una costosa suscripción anual para funcionar. Y los de...",
-      "url": "https://hipertextual.com/tecnologia/ya-puedes-crear-tus-propias-correas-accesorios-fitbit-air/",
-      "published": "2026-06-07T10:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/fitbit-air-2-1.jpg?fit=1024%2C615&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.57,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Umakhan recupera el trono de WOW en una revancha legendaria",
-      "summary": "El dagestaní noqueó a Brian Hooi en el primer asalto con un croché de derecha para volver a ser campeón del peso ligero",
-      "url": "https://www.marca.com/combates-ufc/2026/06/07/umakhan-recupera-trono-wow-revancha-legendaria.html",
-      "published": "2026-06-07T11:14:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a25527d89ac8.jpeg",
-      "coverage": 1,
-      "relevance": 20.33,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "De la portería a la fotografía: así vivió el Dibu Martínez su partido amistoso contra Honduras",
+      "source": "Google Economía",
+      "title": "¿Se acabó la racha del peso? Así amanece el dólar este 7 de junio",
       "summary": "",
-      "url": "https://www.marca.com/futbol/argentina/2026/06/07/porteria-fotografia-asi-vivio-dibu-martinez-partido-amistoso-honduras-video.html",
-      "published": "2026-06-07T11:05:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/bQuEc1g9KsSM8GAI0.jpeg",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ0ZGQXhQNWlSZGtRQkdEUng2T0ZFaFE0N3FrWTI4MllFM3R0ODJnbUdmNS16R1d1ZUt1SjB0U1NnaGk1ZXVId3JVT0tZQ0x0ZG1RSEI5N0lITzl3NHdyaWhnMWZlVGFVaXhqRTZTVjNxU2JiWkJTZ3FsdEFNWWEySXYyUmI5dzY1TzZabmFiVmc0cDFoWTZSbHNSSlZLODVKSlNOS242VXN4ZkE1R080WjU3Ukg?oc=5",
+      "published": "2026-06-07T14:28:00+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.28,
+      "relevance": 18.03,
       "sources": [
-        "Marca"
+        "Google Economía"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Manu González, líder incontestable en Moto2",
-      "summary": "Tercera victoria seguida y ya tiene dos carreras de renta",
-      "url": "https://www.marca.com/motor/motogp/gp-hungria/2026/06/07/manu-gonzalez-lider-incontestable-moto2.html",
-      "published": "2026-06-07T11:02:08+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a254f84461b1.jpeg",
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Fondos de Wall Street entran al mercado local y las acciones lideran las ganancias del año",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOelliUVBkdjdCOWdvMHpzcHc3U01lMEk4Z3N6b1JNTXJ0bzdmWnEzUk1zUUY5YUpMZzRlUHNUZU5ueDB6a0k3Y2VzT19KVnJlM0hBSVdiQWJqVlNQNVhLVjV3M040T3VpYV84LW4yOHRMb0RVMkVSd0hyZUs0emZXSGRhWVRHZWE1M24xRTBLMWhuTmktb001cFJYNG16elZNTGpmeDN3VERjOWtRc3N5bTFXbDlpa3c4T2d5a9IBwgFBVV95cUxONi1wbWNKcVJyMjJTWUhsLTY1VmhCYzdCZ0NnZ3diblQ3bGo1LTN3TDZZQjVJOVdXMW1VZldIYnRzWG5jNW9lV1dCaUdCV29YVlY3ZV9JcXQwS3pnQXhZZm5UWkh1VHlpWFhaSWFzUVJ4UlVISVNpck9TdVBUbUFKaFgtU0otSC0yMVlWN2ZLekRIemxfSDRMZzVvV2lkcGZLZmFGOWM2Q0N4V0VWZGZPUHJtWk9zdmpVQUVKcjh5ZWptZw?oc=5",
+      "published": "2026-06-07T13:54:00+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.25,
+      "relevance": 17.82,
       "sources": [
-        "Marca"
+        "Google Economía"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La carrera de MotoGP, en directo",
-      "summary": "Sigue el minuto a minuto del Gran Premio de Hungría de MotoGP",
-      "url": "https://www.marca.com/motor/motogp/2026/06/07/05-0502-20260607-8-1.html",
-      "published": "2026-06-07T10:40:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/17808281024350.jpeg",
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar blue: a cuánto cotizan hoy en Córdoba 7 junio 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcklRUDAxaTdxcVFlY05fcnplRDlpTXFSNXQyQ0J1S1RPdDVQSEkwZWN5dmNGSzJhdVlqM1pOX2RvRWpIYXR6UllVR2pYcWZiOGY0Rm1yRmZwcmlHS1JSVUVvbXA1cEpLdW1kOU42bjNpT2hjbmtfWHN1NDdpb2w3RWNxaWtQMVRGMmpINA?oc=5",
+      "published": "2026-06-07T13:10:10+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.55,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Los primeros 100 días de Fujimori o Sánchez: las decisiones que marcarán el rumbo económico de Perú",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOQ05oRXkyZjJZZE92ZWVEd1FvcTVMUnd6aXRQSWgzeHNUdGxIVWxDNmY4d0xKZmhXQ1dWZTU0ZFotZjZiczVXY0IySFB3M2xKSklBNVBxcjJucFJOekZjZ0h5Q044ZU05ejYyZFhfRWNneFllVDhRZFNhdHluRVBNNlJTZ1JsQnY1VzdKcER5VlhQeXY2QTUwUFhwa0ZPMFdXemtQb0I3TkhBdFpNX2ZfNFIyMlNtbnE0YVlWaDZ2ZWgwTGNacmtCUFFvZ0dzcVJBZDNsbll2MUJ0VHdTYldxak5Nd9IB9wFBVV95cUxQY2pNWnlDYktyT2kxeWJLQkpzY3Z1NHRzUVNWQlZGMktwWk5sZENUQTNCUUFvNDd5dDJrSVdjMXg2RWE1MEh6eURheXltVllJQzZkY1VockxJNlhMUVNHN3c0TjNhUWhzR0VvZWZGVU4wZHBTUU5CVXg1LThlbXJRWHpnQ0ktU24zNlFXUTc4UkZEdHJNcUJ0VU81bFJmNWRjOWFmU21CTWRSMDlkZWg0SWJUYkFERmdVSEMxSDVGWGxHSmVZdVRhNldsaGxndG5YbUxBSkM2RmR2NWR5bzByYlhDTnhEcU1uakNrWXNGSlk4S0ZfVXRv?oc=5",
+      "published": "2026-06-07T13:00:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.48,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del dólar en casas de cambio: así se mueve este domingo 7 de junio en Colombia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZ3cwUEtMeEM1bDlTcjRUY3kzZFpMQnc5bkpPWEVyNVdFYTJsTkF4bGQyV0ZTNFN6R3I0MDBBTV9qb2VMU3BPVVlJZVU5ZGhwT2Y4QTgtc0E5VS1Sd0g2MTRWdDVGVUpQTmtaOWxMczZUWk5NT2UwM21fYk10Sk5lYUgwNkw3dERwZ2tWVFpHd2N4S3dEWEtLTmpJOXAxbmt4N0FJUHZDOEJBT0V6NU9JZDQtbDlmM0loZTJ1NG5vTVloVFllejZsZUtmMjNvc2ZfeDJyRExsenV5MWNDTEpfMNIB5gFBVV95cUxQWjVJSWhKZ3JsZ0MwR09hU0RRYnpKLU53OXFOc1ItcHpuZDBwRl9jRG1fakVna3drWWliU293bDB4dmlTZUNBbXRZWjIyemcxeGtwdkdUZFhUWE1PcFZXUV9ObU5yRUI2X0gyU2ZFQno4STBjRGpBRW1CemFNdjdZOUpJSG5FZXpPLTZtX1ZsZzYxcE1USGlBeGhMa2czYWF6WFI0X1V0QlJ5TkN1OHBkSkhuZmhrQWhvQ19XUFVEYmV6UTNwanRVN0g0LTc4SkRrODBFTEcybER6dU9ZTXVCM2NKWV8tUQ?oc=5",
+      "published": "2026-06-07T12:15:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.2,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Confirmaron el precio que tendrá el dólar para este lunes 8 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZGo2djI3dHVGRV80STJiT0kzN3NJNHA3b2RUUlRNd29PYy1sZEFiOGozSThqNEl6R1VNSDNydzVyVmFNWkhKUkRKNHZaR1haZTVTVmUzS3FrR3R4WGluSGgybUxYOWR1cXdpZFBTaldOMTVYTE5ycXBMUURFU0dXRFV6Q3BaaVVka3l1NXJmM2tOdldZX2dSVGlTZUU2bndZeHNVX3BLMG8wZw?oc=5",
+      "published": "2026-06-07T11:38:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.97,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa: La misericordia transforma vidas en medio de tanta violencia que destruye",
+      "summary": "La misericordia y su extraordinario poder de renovación centra el video mensaje de León XIV a los participantes en el Congreso Apostólico Mundial de la Misericordia que, desde hoy, 7 de junio y hasta el 12 de junio, se celebra en Vilna, bajo el lema “Construyamos la Ciudad de la Misericordia” Leer...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-videomensaje-congreso-misericordia-vilna-lituania.html",
+      "published": "2026-06-07T15:20:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/07/2026.06.07-VMSG-World-Apostolic-congress-on-Mercy_1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.16,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "En Madrid, una fuerte presencia latinoamericana con motivo de la visita del “Papa peruano”",
+      "summary": "Familias fervientes y alegres, a pesar de la falta de sueño, animan las calles de Madrid desde el amanecer, mientras la capital española vive su mayor concentración desde las JMJ de 2011, con una afluencia que alcanzará su punto álgido con más de 1,2 millones de fieles durante la procesión...",
+      "url": "https://es.aleteia.org/2026/06/07/en-madrid-una-fuerte-presencia-latinoamericana-con-motivo-de-la-visita-del-papa-peruano/",
+      "published": "2026-06-07T16:49:38+00:00",
+      "image": null,
       "coverage": 1,
       "relevance": 20.12,
       "sources": [
-        "Marca"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "La homilía de León XIV en la celebración de Corpus Christi en España (TEXTO)",
+      "summary": "En su segundo día de viaje, el Papa León XIV celebró la santa eucaristía ante 1 200 000 personas en las calles de Madrid. Este domingo, en España y en numerosos países, la Iglesia celebra la Festividad del Corpus Christi, una solemnidad dedicada a la presencia real de Cristo en la Eucaristía....",
+      "url": "https://es.aleteia.org/2026/06/07/la-homilia-de-leon-xiv-en-la-celebracion-de-corpus-christi-en-espana-texto/",
+      "published": "2026-06-07T16:25:16+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.96,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "León XIV celebra la fe con 1.2 millones de fieles",
+      "summary": "Para dar inicio a este segundo día de su viaje apostólico por España, el Papa celebró la santa misa, y en su homilía, recordó que el cristianismo ha “moldeado durante siglos la piedad, el arte, la música, la arquitectura y la vida del pueblo español”. En este día de la Festividad del Corpus...",
+      "url": "https://es.aleteia.org/2026/06/07/durante-la-misa-mas-multitudinaria-de-su-pontificado-leon-xiv-celebra-una-fe-en-el-corazon-de-la-historia-del-pueblo-espanol/",
+      "published": "2026-06-07T15:15:39+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.53,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Bazal: El Papa dialogará con empresarios y sindicatos por la dignidad laboral",
+      "summary": "Con la participación de la Hermandad Obrera de Acción Católica, HOAC, el encuentro de este domingo busca romper barreras. Según la organizadora María Bazal, el Papa hablará \"con cercanía\" a empresarios y sindicatos para recordar que el fin último de la economía debe ser siempre la dignidad humana....",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/tejer-redes-iglesia-abre-puertas-realidades-de-espana-papa-leon.html",
+      "published": "2026-06-07T13:21:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2023/08/13/WhatsApp-Image-2023-08-13-at-11.17.36--rsz.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.41,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cuando los Chatbots incitan a los niños a actos peligrosos",
+      "summary": "“Suena a aventura. Veamos a dónde nos lleva este camino”, respondió el Chatbot a una usuaria que confesó que estaba pensando en ir sola al bosque. El problema es que, momentos antes, la “chica” había admitido que oía voces en su cabeza. Sin embargo, no se trataba de una adolescente, sino de una...",
+      "url": "https://es.aleteia.org/2026/06/07/cuando-los-chatbots-incitan-a-los-ninos-a-actos-peligrosos/",
+      "published": "2026-06-07T14:46:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.34,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Este “santo de los dulces” era amigo del Padre Pío",
+      "summary": "Los católicos de todo el mundo conocen al santo Padre Pío, pero a menudo se olvida a los demás frailes franciscanos que colaboraron estrechamente con él durante su vida y que se inspiraron en su ejemplo de santidad. Tal fue el caso del P. Nazareno da Pula, un hermano laico cuyas virtudes heroicas...",
+      "url": "https://es.aleteia.org/2026/06/07/este-santo-de-los-dulces-era-amigo-del-padre-pio/",
+      "published": "2026-06-07T14:13:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.14,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa León XIV celebra el Corpus en Madrid participando en la procesión",
+      "summary": "Desde Plaza Cibeles, el Papa en el día que la Iglesia celebra el Corpus, envió un mensaje claro: La Eucaristía no es sólo tradición o una celebración religiosa, es la presencia viva de Jesús caminando con su pueblo Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-leon-xiv-corpus-procesion-misa-madrid-eucaristia.html",
+      "published": "2026-06-07T12:33:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/07/14/1780835174665.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.11,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Nissan lleva años dándole una segunda vida a las baterías de sus coches. En Melilla las aprovechan como sistema antiapagones",
+      "summary": "Nissan ha vuelto a poner el foco en uno de sus proyectos españoles más singulares. Y es que en una reciente nota de prensa, la compañía recuperaba el caso de Melilla como ejemplo de cómo está impulsando la \"segunda vida\" de las baterías de sus coches eléctricos. La instalación lleva ya varios años...",
+      "url": "https://www.xataka.com/movilidad/nissan-lleva-anos-dandole-segunda-vida-a-baterias-sus-coches-melilla-aprovechan-como-sistema-antiapagones",
+      "published": "2026-06-07T16:31:09+00:00",
+      "image": "https://i.blogs.es/0ab61b/baterias-nissan-melilla/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.3,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Si estás esperando al iPhone 18 tengo una recomendación para ti: no esperes y compra este modelo",
+      "summary": "No eres el único al que le pasa: mucha gente está dudando de si comprar un iPhone hoy o esperar a septiembre para hacerse con el iPhone 18. La pregunta es: ¿va a merecer la pena esperar? ¿El nuevo modelo tendrá algo verdaderamente novedoso? No es algo que un servidor pueda saber en estos momentos...",
+      "url": "https://hipertextual.com/apple/si-estas-esperando-al-iphone-18-tengo-una-recomendacion-para-ti-no-esperes-y-compra-este-modelo/",
+      "published": "2026-06-07T17:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/iPhone-18.jpg?fit=1024%2C631&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 20.18,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Cuatro drones de la NASA viajarán hasta donde no ha llegado nunca un astronauta: al polo sur de la Luna",
+      "summary": "La luna es una vieja conocida dentro de la exploración espacial humana, pero todavía hay partes pendientes de descubrir y de pisar. Tener una base espacial permanente en la luna simplificará esta exploración, pero antes la NASA tendrá que hacer check a una lista de requisitos y necesidades entre...",
+      "url": "https://www.xataka.com/espacio/cuatro-drones-nasa-viajaran-donde-no-ha-llegado-nunca-astronauta-al-polo-sur-luna",
+      "published": "2026-06-07T16:01:09+00:00",
+      "image": "https://i.blogs.es/308a78/nasa-drones/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.11,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Si la pregunta es cuál es el peor oficio de la historia, la respuesta está en la Inglaterra del siglo XVIII: los \"comepecados\"",
+      "summary": "¿Has tenido una vida pecaminosa, llena de vicios y excesos, pero no quieres que eso te condene al fuego eterno? Sin problema. Solo tienes que asegurarte de que, una vez mueras, tu familia contrate a un 'comepecados', un freelance que se dará un pequeño festín sobre tu ataúd el día de tu funeral....",
+      "url": "https://www.xataka.com/magnet/pregunta-cual-peor-oficio-historia-respuesta-esta-inglaterra-siglo-xviii-comepecados",
+      "published": "2026-06-07T15:31:09+00:00",
+      "image": "https://i.blogs.es/938ffa/jan_brueghel_triumph_des_todes/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.93,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En 1871 un granjero abandonó a su suerte a cinco vacas en una isla remota. Contra todo pronóstico, colonizaron la isla",
+      "summary": "Va un francés y suelta cinco vacas en una pequeña isla donde Cristo perdió el mechero. Suena a chiste, pero es verdad: pasó en 1871, el francés era un granjero de la isla de Reunión y la isla de destino se llama Ámsterdam, tiene solo 55 kilómetros cuadrados y está en el océano Índico meridional. Lo...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/1871-granjero-abandono-a-su-suerte-a-cinco-vacas-isla-remota-todo-pronostico-colonizaron-isla",
+      "published": "2026-06-07T15:15:10+00:00",
+      "image": "https://i.blogs.es/d8dedf/vaquis/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.83,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Activé esta función de Android y las apps que menos uso por fin dejaron de comerse la batería",
+      "summary": "Estirar al máximo posible la duración de la batería es uno de los desafíos más comunes entre los usuarios de móviles Android. Es cierto que existen trucos para tratar de exprimir al máximo posible la energía disponible en nuestro teléfono, pero también es una realidad que muchas veces no damos en...",
+      "url": "https://hipertextual.com/mobile/bateria-adaptable-android-como-activarla/",
+      "published": "2026-06-07T16:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Xiaomi-bateria.jpg?fit=1024%2C658&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.81,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hans Koenigsmann, ex ingeniero de SpaceX: \"Mi cicatriz del AMOS-6 empezó a picar cuando vi el vídeo de New Glenn\"",
+      "summary": "1 de septiembre de 2016. SpaceX se dispone a lanzar uno de sus cohete Falcon 9, cargado con el satélite AMOS-6. No era un procedimiento nuevo, pero algo fue mal y el cohete estalló en la plataforma de lanzamiento, causando un gran destrozo en la misma. 28 de mayo de 2026. Blue Origin comienza una...",
+      "url": "https://www.xataka.com/espacio/hans-koenigsmann-ex-ingeniero-spacex-mi-cicatriz-amos-6-empezo-a-picar-cuando-vi-video-new-glenn-expertos-opinan-explosion-blue-origin",
+      "published": "2026-06-07T15:01:09+00:00",
+      "image": "https://i.blogs.es/967887/new-glenn-y-falcon-9/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.74,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En 1987, un médico levantó con sus manos un castillo en plena Costa del Sol: un delirio con sorpresa para el libro Guinness",
+      "summary": "En 1990, el Libro Guinness se acercó hasta Málaga para registrar una iglesia católica nunca vista. Lo realmente insólito no era solo su tamaño, sino su ubicación: estaba escondida dentro de un castillo construido por un médico jubilado que había decidido dedicar años de su vida a una obsesión...",
+      "url": "https://www.xataka.com/magnet/1987-medico-levanto-sus-manos-castillo-plena-costa-sol-delirio-arquitectonico-sorpresa-para-libro-guinness",
+      "published": "2026-06-07T14:31:09+00:00",
+      "image": "https://i.blogs.es/a23efc/castillo_de_colomares_cerca_del_pueblo_de_benalmadena_-_provincia_de_malaga-_espana._-_panoramio/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.55,
+      "sources": [
+        "Xataka"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Kiko Rivera se encara con una persona del público en plena actuación: “Yo no soy cantante”",
-      "summary": "El DJ recibió críticas de un asistente a su sesión mientras estaba en el escenario",
-      "url": "https://www.marca.com/tiramillas/musica/2026/06/07/kiko-rivera-encara-persona-publico-plena-actuacion-cantante.html",
-      "published": "2026-06-07T10:39:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a253ede51aaf.jpeg",
+      "title": "Lamine Yamal: \"Un día jugando a la Play le di una torta a la tele y...\"",
+      "summary": "El azulgrana explica los motivos por los que lleva un vendaje",
+      "url": "https://www.marca.com/futbol/barcelona/2026/06/07/lamine-yamal-dia-jugando-play-le-di-torta-tele.html",
+      "published": "2026-06-07T16:50:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/bRGt61g9Q6fhddKXh.jpeg",
       "coverage": 1,
-      "relevance": 20.12,
+      "relevance": 20.42,
       "sources": [
         "Marca"
       ]
@@ -410,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Marta Sánchez y su secreto para mantenerse joven a los 60 años: “Dicen que cualquiera está así con lifting, pero no”",
-      "summary": "El día de su cumpleaños publicó un post en Instagram para celebrar sus 60 años",
-      "url": "https://www.marca.com/tiramillas/musica/2026/06/07/marta-sanchez-desvela-secreto-mantenerse-joven-60-anos-dicen-cualquiera-asi-lifting.html",
-      "published": "2026-06-07T10:33:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a2545f2b8ee8.jpeg",
+      "title": "Sorpresón: ¡Duplantis pierde una competición tres años después y lo hace en casa!",
+      "summary": "El pertiguista sueco hace dos nulos sobre seis metros y una más sobre 6,05 en la Bauhaus-Galan de Estocolmo y acaba segundo tras el australiano Kurtis Marschall",
+      "url": "https://www.marca.com/atletismo/2026/06/07/duplantis-pierde-competicion-tres-anos-despues-casa.html",
+      "published": "2026-06-07T16:42:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a259f0b38486.jpeg",
       "coverage": 1,
-      "relevance": 20.07,
+      "relevance": 20.37,
       "sources": [
         "Marca"
       ]
@@ -424,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Mundial más duro de la historia: las cinco amenazas invisibles",
-      "summary": "Viajes, altitud, calor extremo, contaminación y alergias",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/07/mundial-duro-historia-cinco-amenazas-invisibles.html",
-      "published": "2026-06-07T10:30:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/03/6a2079c91a516.jpeg",
+      "title": "El mejor Alonso del año: \"Mejor no digo nada... que después sale en todos los sitios\"",
+      "summary": "El asturiano finalizó 11º y espera a las decisiones de los comisarios vinculadas a Hadjar y Pérez que podrían darle puntos",
+      "url": "https://www.marca.com/motor/formula1/gp-monaco/2026/06/07/mejor-alonso-ano-mejor-digo-despues-sale-todos-sitios.html",
+      "published": "2026-06-07T16:38:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a259e55445df.jpeg",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 20.35,
       "sources": [
         "Marca"
       ]
@@ -438,13 +382,69 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Jan Torrella, oro, y el equipo, bronce en el Up&Down del Europeo de Off-Road",
-      "summary": "El atleta, de 22 años, firma una soberbia carrera para ganar en la prueba más explosiva de esta cita continental",
-      "url": "https://www.marca.com/atletismo/2026/06/07/jan-torrella-oro-equipo-bronce-up-down-europeo-off-road.html",
-      "published": "2026-06-07T10:26:09+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a25537a89f2d.jpeg",
+      "title": "Sainz muy crítico: \"No sé como todavía hay gente que se juega la vida por dentro en Loews\"",
+      "summary": "Fue sacado por Ocon en la resalida, cuando iba noveno en la carrera y podía haber puntuado de nuevo",
+      "url": "https://www.marca.com/motor/formula1/gp-monaco/2026/06/07/sainz-critico-todavia-hay-gente-juega-vida-loews.html",
+      "published": "2026-06-07T16:26:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a25972b2e573.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 20.27,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Acosta: \"Marc Márquez nunca se rinde y yo, tampoco\"",
+      "summary": "Satisfecho con su lucha y su segundo lugar y cree que la victoria acabará llegando",
+      "url": "https://www.marca.com/motor/motogp/gp-hungria/2026/06/07/acosta-marc-marquez-nunca-rinde-tampoco.html",
+      "published": "2026-06-07T16:25:58+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a259a2c91629.jpeg",
+      "coverage": 1,
+      "relevance": 20.27,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "¡Varapalo para Brasil a 4 días del Mundial!",
+      "summary": "La baja del lateral de la Roma obliga a Ancelotti a modificar la lista y llamar a Éderson para el Mundial",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/07/varapalo-brasil-wesley-pierde-mundial-lesion-muscular.html",
+      "published": "2026-06-07T16:24:47+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a259a06f35d5.png",
+      "coverage": 1,
+      "relevance": 20.26,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Deco dio en el clavo: Joan García ya es el portero con mayor valor de mercado",
+      "summary": "Según la web especializada Transfermarkt",
+      "url": "https://www.marca.com/futbol/barcelona/2026/06/07/deco-dio-clavo-joan-garcia-portero-mayor-valor-mercado.html",
+      "published": "2026-06-07T16:18:24+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a2597c563180.jpeg",
+      "coverage": 1,
+      "relevance": 20.22,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Hatton evita la remontada de Jon Rahm y Sergio García en Valderrama",
+      "summary": "El inglés se corona en el LIV Golf Andalucía en un mano a mano con los españoles",
+      "url": "https://www.marca.com/golf/liv-golf/2026/06/07/hatton-evita-remontada-jon-rahm-sergio-garcia-valderrama.html",
+      "published": "2026-06-07T16:11:03+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/07/6a259278584f1.jpeg",
+      "coverage": 1,
+      "relevance": 20.18,
       "sources": [
         "Marca"
       ]
@@ -452,28 +452,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Irán lanza misiles y drones contra Bahrein y Kuwait tras ataques de EE. UU. a sus estaciones de radar",
-      "summary": "Irán lanzó este sábado 5 de junio misiles balísticos y drones contra Bahrein y Kuwait, aliados de Estados Unidos, horas después de que fuerzas de la nación norteamericana atacara estaciones de radar de vigilancia costera iraníes. Bahrein, sede de la Quinta Flota de la Armada estadounidense, condenó...",
-      "url": "https://www.france24.com/es/medio-oriente/20260606-ir%C3%A1n-lanza-misiles-y-drones-contra-bahrein-y-kuwait-tras-los-ataques-de-ee-uu-a-sus-estaciones-de-radar",
-      "published": "2026-06-06T21:53:24+00:00",
-      "image": "https://s.france24.com/media/display/a4e82194-61d6-11f1-afd1-005056bfb2b6/w:1024/p:16x9/000-B4ZD34U.jpg",
+      "title": "Zelenski desata una tormenta diplomática al homenajear a combatientes de la 2ª GM vinculados a matanzas de polacos y judíos",
+      "summary": "La decisión del presidente ucraniano Volodímir Zelenski de otorgar a una unidad militar el título honorífico de «Héroes del Ejército Insurgente Ucraniano» (UPA) ha provocado una fuerte escalada de tensiones entre Kiev y Varsovia. La controversia gira en torno al legado de una organización...",
+      "url": "https://www.france24.com/es/europa/20260607-zelenski-desata-una-tormenta-diplom%C3%A1tica-al-homenajear-a-combatientes-de-la-2%C2%AA-gm-vinculados-a-matanzas-de-polacos-y-jud%C3%ADos",
+      "published": "2026-06-07T13:41:33+00:00",
+      "image": "https://s.france24.com/media/display/3c8cb606-60f9-11f1-a3ca-005056a90284/w:1024/p:16x9/000-B3Y9967.jpg",
       "coverage": 2,
-      "relevance": 25.62,
-      "sources": [
-        "France 24",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Israel califica de \"error\" ataque contra Líbano en el que murieron tres soldados",
-      "summary": "Israel calificó de \"error\" un ataque contra Líbano que dejó tres militares libaneses muertos. Las autoridades israelíes justificaron el bombardeo asegurando que atacaron un automóvil que se desplazaba de forma sospechosa hacia sus tropas, pero el Ejército libanés denunció el ataque como \"violento\"...",
-      "url": "https://www.france24.com/es/video/20260606-israel-califica-de-error-ataque-contra-l%C3%ADbano-en-el-que-murieron-tres-soldados",
-      "published": "2026-06-06T19:35:28+00:00",
-      "image": "https://s.france24.com/media/display/34380e26-61dd-11f1-ad52-005056bfb2b6/w:1024/p:16x9/ES-20260606-123452-123642-CS.jpg",
-      "coverage": 2,
-      "relevance": 24.76,
+      "relevance": 29.54,
       "sources": [
         "France 24",
         "Google Noticias"
@@ -488,10 +473,80 @@
       "published": "2026-06-06T15:20:47+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0d1/live/c2fb25a0-6190-11f1-89a3-d1f559421220.png",
       "coverage": 2,
-      "relevance": 24.07,
+      "relevance": 22.7,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Corea del Norte: Xi Jinping viaja a Pyongyang para seducir a Kim Jong-un",
+      "summary": "",
+      "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260607-corea-del-norte-xi-jinping-viaja-a-pyongyang-para-seducir-a-kim-jong-un",
+      "published": "2026-06-07T16:12:53+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 20.49,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Antonelli gana GP de Mónaco de F1 y se escapa en liderato del campeonato",
+      "summary": "El piloto italiano Kimi Antonelli (Mercedes) ganó este domingo el Gran Premio de Mónaco de Fórmula 1, logrando una quinta victoria consecutiva gracias a la cual se escapa en el liderato del campeonato del mundo.",
+      "url": "https://www.france24.com/es/deportes/20260607-antonelli-gana-gp-de-m%C3%B3naco-de-f1-y-se-escapa-en-liderato-del-campeonato",
+      "published": "2026-06-07T16:01:12+00:00",
+      "image": "https://s.france24.com/media/display/1a87052e-628a-11f1-8fbe-005056a90284/w:1024/p:16x9/e198888cfec96eb9bfc991f2e30daec1c86d8cc5.jpg",
+      "coverage": 1,
+      "relevance": 20.41,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "El presidente de Bolivia podrá recurrir al Ejército para desbloquear rutas en las protestas",
+      "summary": "El Congreso de Bolivia aprobó este domingo una ley que da luz verde al presidente centroderechista Rodrigo Paz para utilizar a militares en el desbloqueo de carreteras controladas desde hace un mes por manifestantes que exigen su renuncia.",
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260607-el-presidente-de-bolivia-podr%C3%A1-recurrir-al-ej%C3%A9rcito-para-desbloquear-rutas-en-las-protestas",
+      "published": "2026-06-07T15:21:13+00:00",
+      "image": "https://s.france24.com/media/display/850f1eb4-6284-11f1-9f79-005056bfb2b6/w:1024/p:16x9/a8855614d8f73f067dbb7f3bb773b67050d03f77.jpg",
+      "coverage": 1,
+      "relevance": 20.16,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Donald Trump aboga por ataques “quirúrgicos” contra Hezbolá; Israel bombardea el sur de Beirut",
+      "summary": "",
+      "url": "https://www.france24.com/es/medio-oriente/20260607-israel-afirma-haber-atacado-centros-de-mando-de-terroristas-en-beirut",
+      "published": "2026-06-07T15:03:44+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 20.06,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Irán amenaza con ataques de represalia sobre Israel y bases de EE. UU. por la escalada en Líbano",
+      "summary": "En una entrevista con el canal estadounidense ‘NBC’, Donald Trump defendió la idea de ataques “quirúrgicos” contra Hezbolá. El domingo, Israel atacó centros de mando “terroristas” en los suburbios del sur de Beirut en represalia por disparos del grupo chiíta hacia el norte de Israel, según declaró...",
+      "url": "https://www.france24.com/es/medio-oriente/20260607-israel-afirma-haber-atacado-centros-de-mando-de-terroristas-en-beirut",
+      "published": "2026-06-07T14:03:45+00:00",
+      "image": "https://s.france24.com/media/display/968626b8-6281-11f1-afee-005056bfb2b6/w:1024/p:16x9/AP26158507932097.jpg",
+      "coverage": 1,
+      "relevance": 19.68,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -503,65 +558,93 @@
       "published": "2026-06-07T11:28:56+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c5df/live/30fb42c0-61f9-11f1-84e9-173a64a8e10a.jpg",
       "coverage": 1,
-      "relevance": 21.62,
+      "relevance": 19.61,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Presunto ataque terrorista en el centro de Israel deja al menos un muerto y varios heridos",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Giménez, tras la despedida de Uruguay en Las Piedras: \"Uno de los días más bonitos que el fútbol me ha regalado\"",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSjVNaVBqZ2Y1blJsVi10Qk9VRThka0tDOXNHcXYwQ3QyT25rNEpBODd4SDZpZ3dPYUNoMW1Sc1Mwa3lvOHpZTXFITnNaTnNZQmZKRmZIQTBiQjZCU204UlBRWmxaekRTaDBiaWRCSTRUMGgzMVJoa3JwdFJkUE1MNHBSekJvSUJRMmdKbU1QR2xBbms?oc=5",
-      "published": "2026-06-07T10:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNnhvaTZnclc2YmNMUlEtS2h4NjQ4TS13MWpLclN4RTZDMm5OZHY3V2FZQzFERzhsZlZEa0tILUhRZENIVUs4MnNjaHlHQWcyel9MSzB3SWJHc1cxTGFBNEZSekl5aU55LUVnUVEyM1J5alRIZC15Ml9pc2tLMHdQSUZoSmllZzZGTGttemNPbWlqb1JZeU5NR1VxcnRPN0M2NUdqTVF5c01JTy13YlJjbVBZNnRsX29WWlhvWFlIcEtvWmtULWgzYWV2V1VEVTNobWRWLXdZdnAtVlFpT1oybzhB?oc=5",
+      "published": "2026-06-07T16:45:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.54,
+      "relevance": 18.89,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Clima hoy en EEUU: temperaturas para Nueva York este 7 de junio",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "El día que Uruguay jugó ante Peñarol en un partido de despedida",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQXZwdkZtT3YzUk16NU5ZVGhINzJxMlZsR3VoLTRkZTlTMW1CTl96Q2d5eFl1RXR4Q1JZc0pOa0E1ZjYySktlZVBZSHJZZm0wejlvMndvRDNPc01lWXJ3OVVVTjhUN0pVTkFNWUk1WE8yVkkxa1ZCc3dYT2hNbTdvWHpBdzM5WmExTFhhVko2eXlOQUl3cnktMmRRTWVOdzA5RDAtRmxtZHVISWvSAcYBQVVfeXFMTmE5cm54UXluSU83UGFyYmN5S1g5Vml4N1czWExjLVNTbVdIZThNTVZuOVRuVXFZX0Z2dk9sQUx0ak4xRXc4ak9hM2Z3OE8yV25qa1BnNnhOUF8wYUNmbHRyd0JiUjdaTmF1eW9zWUtMZFdLam1RLTNuamtIRURzVXAxYXVPQW1kMzhDVUtub3FqLTdTZDFnWmRSVDRJMElYaldFMzdHTHllM1YtSVdjdVJlNG1faUs5VkxVUkZGU0J3U1NnMktn?oc=5",
-      "published": "2026-06-07T10:24:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOY3JCMENmUk9MTWZDOTVzS1pCMDR1Q2ZWb2xhUldIUWNkVkhHc2xiazRtTXl3YURGX0hhWmtNSUNTZlpLSWhJU1g2OUFGMFBaMDROT1VmR2k3N3ZIYUxoMmxtZkF5NFZ5S2xOU3k2djV4NmNkQXhrejd0UHBKYmZwV3ZVYXowaTZQOGpCV2J0Y1BsT2Z4NVNXTERGSzBUdExEUHlINW05ZjFvZjVqT2NvTlZfSXlZRDFPTWtlQmNzM0VCOThhX2RVZE9QQjk?oc=5",
+      "published": "2026-06-07T15:35:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.52,
+      "relevance": 18.45,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Israel mata a un hombre a bordo de una barca pesquera en la costa de Gaza - EFE",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Bielsa sorprendió con un peculiar convocado a la selección de Uruguay para el Mundial",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83UEZKalBtdmxveXZLRDBxWjBmVDNzYjQ0MWVNaGVjOTh3ZERKLTlrTE9DdHQ4V3cwU0x6M0xQaWtvWVVqNDBPMlpiNVFLTTZ5SzR4emZGc19xZWlKbUEyYWpZeTNMZ3c0aS0ySXUxbw?oc=5",
-      "published": "2026-06-07T09:01:49+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXBUX0JCNm5ZTUJMRGRKa1hiRmdYa1VmTnJuMkJYNnBzTjYxWlhrZTJjLWEtQmZGcF9HTXZfSnc0UjJ2eXR3cklKNENVcFh5dWhET2lYMEJGN0tEVURTLUZMcTlvb1NQbndhaWFBWXRoYXoyS2ZSQkYyRU1Cdml3WXlIbFplVXR3aE40bFdVSElUNU1ERkZTLUZBTDI2SnJ3NkxmZVpUbnB5dUxpc05sMklzM3AxdnRBSDJSLUJ4SldVMlY0RlJGZ0930gHkAUFVX3lxTE9tWHQ5dEZULWdydFBXRnhUbUllRWN4OWl3ZE5jb0VBOFNaWS04aDRyRzdyM0xoZTdjVlF5b2FNc1U5U3VVaDRQX2tyOWRyQkxPbE1XbjdwX05oRUt2cUJaaWNKYWRpTXRLdFgxZVZDMXpxN3FZZXl1MjdyYkRYRllyMk16TnIxMWlHRy1td3M3ejRaU1o2RHdLUVd1cnpabkZqT1BoVUluc3NIWDVUZnAzdTBfVHY5bEw3TEJhaUlacWhUNVVhMl9TSmpjZF9EZ0FMeHJaYWFrbGN4cFJaNGdnTkhWaA?oc=5",
+      "published": "2026-06-07T14:16:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.0,
+      "relevance": 17.96,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Los mortales ataques de Ucrania llevan la guerra al hogar de los rusos, y el descontento está surgiendo - News Channel 3-12",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Pellistri: cómo afronta el Mundial 2026 con Uruguay, y por qué le decían \"Rusito Pérez\" de niño",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONkZMdjY1UGtxWXFQaVNtaVFqV0FBZ05uaHJqMklFVmdTWE0yc1hSYjQ3aHB6aFQ3MVJ6OEQ1ZnJJaGhiQ1g5UVV4RzQ4bHE4Q0F5WThiTVlKRm52bXVZblJBZTQ1Q0VfSGxsSmJfaTN4LUpOXy1DdVhjcGU1OUJEM3MwcmNrS2NJM1ptZ29NWjhFcXlhX09yQ2s5d3RReExqYS13QXFGdjhieE96aEdIaTF5MzVISFM2VGIwUWplMUExX2l3VGtpMDFlUkNWRmt6NVFCcTJpUkh6NGhOMlBxT3ZrSHU?oc=5",
-      "published": "2026-06-07T08:23:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQmFSakJDNHdGbEdGRi1ESlg4dVpxTHJtMjRrV0RPWE1MMTdMUXY5dkNheDFweXVRSHZTY0U2X3N3VUNNdm40dnlDWUlaMGpHMXRaUEpBWjVkQ0R2TFdFdUVxdWF3WUxVZG9HVzgtazVIVHJLNzhPMEhMT1RnNlctUTlkM1hyaXE3REpGM3FGRm1US3Jmb0R5MkVMVHZ1b0RRRzB2WHFyeTI3cEU0TldBanNYT21OVTVicWloc0tVRWtiOFVpdGF2YjdaVU5wM0ZtbVVlQTFWdElOTUxNQnQ4TlVjY3VxSDVkWGtvZ29ybw?oc=5",
+      "published": "2026-06-07T13:53:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.76,
+      "relevance": 17.81,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "US$ 100 millones invertidos en el futuro de la ganadería",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3VrdU1TelFRZEtaU2tlLVhUdDFtN253R1FON2ptSnFLUnhXVldfVVU2VFdCS045akVWZTdhTjhBUUN5V1BrOHgweFRHcHJ3ZmRoNmpla1c1NGdOTHJUYVlVajhlNFN1Nm45NEZiSE50bmdhWDVycG1tQVZmdWVweVZiaDdFMDR3YVhPQTJZSTNrQzlqU25tUTFiMA?oc=5",
+      "published": "2026-06-07T07:15:07+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.73,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El Observador",
+      "title": "Fuerte sacudida en el mercados de granos con caídas de precios entre 5% y 6%",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOXozWThuakszdW5hTVBTek9CZ21pWW5GY2VrX0NzUTRrcEM1cGdCQTA2VHh5U0ZXcDAxUzk4UDJZaEF5cUNKZTZ2UjQ5MkhiNGtLcHdTLWdscEh5bUxHOHBRT19JbWN3SDJhb2RYeXlsSXNHSFZaYWZZTDFQU09BRG9wSEtpbVJQV3BUT2tKOFZ5VWVMMk14Ylk3X3lRLTJuSXow0gGoAUFVX3lxTE9wd25MWWw3ZTBYY1BCRGVMNXRIXy1SbVlxRUhISFhsQzZFd0RIR2wxZGIyZml3eF8wMi1lVlA2MlpCZVpUZ1NvaWtYeU9hYlJpR1BQR3B0eGdSR3pOdm0zWXplUWcwb3NldTlaV2pCcC0yRjc1elR4YW9SN0xocWQzUm5yYl9SMFF0YzhicHRabV9iTm9nTHR3QlFKUWk1OG1Rd0hsRExjNQ?oc=5",
+      "published": "2026-06-07T08:00:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.21,
+      "sources": [
+        "El Observador"
       ]
     },
     {
@@ -573,35 +656,7 @@
       "published": "2026-06-07T07:17:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.35,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Uruguay escaló en el Ranking FIFA pese a no jugar amistosos antes del Mundial 2026: la razón y en qué puesto está",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOXlOOG5TTmdwTmJCME43Tmpmc2dFY0VEYXlWcGxNUGRCNHYzN01TNGpxYnZ4OUcwZU9OTG5GamlpTnNydUZyRmRxSU9xaGlDRWNfTzhBWFNxUFIyM3JLb2h1NngxU04za1ZhNElIWHRSV3hMVmUtSUFWQzV3bGMzUVhGM0FGd2FEN2JzZHJWcU1TTFlFcXUyWmVkOTcyZUNuQlk2ZGVBV1ZjU2VOVmQzVk4zS19udnZWTjVSV1FzT3pBRWdxUnpzYUpYYXI2dFMzY2NjRnE5MFlrN01EOWNLZDEwOGp3dw?oc=5",
-      "published": "2026-06-06T21:51:06+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.21,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay reglamentó la ley sobre endometriosis: “Estoy 15 días del mes internada”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3cxTGxRRzhWYndBTlpzREt0QkFHVFdzcy1tbmNmb2JhYTQwa2laMjUySEgxUnA2WXoySmlQQjUtd2h6TkgtZURtX0VzN1E3Wjlkdi02Y1BEdURoT3RoR0YwSm8xNTNRYzNkNXp5UGR0bzFldTNXSS1fUUkzcFcxQ3o2VXNXZEJ5QnM1MlhUVGtOR3daTHNUb3RZV1BvbGtaelJzT19SRWIzQ2pUZzZNZm05Nm1pTGNjQnRvaWRpQVJ0WTRlMEHSAdoBQVVfeXFMTmJUVHZCQWRTeDZGaUZhSnl1UXY5T2V1RlQwaENmUmZKWlNILWU4YjVzQzQ0VHhTMUh0TXFIb3FQMmk5bkxRUWRwWDBKY3Z0ZzFjQ0ZTYlp1UHdGamdDbnNaRW11RldPZ1BBLUZ3OTU4enZiYmpjZ2FZQTAxWHNpVEl2YkZxUW9SMFZNakJKbzRoVjRpSmEwSmVDQkJPME5aOFlyVGRjeVdCdTlMVFpIQUI0dDNyaGwtSGsxbXpLcHZTa0Q0THJwcTE0UmVFb2dqOWw1RFdFNFVMT0E?oc=5",
-      "published": "2026-06-07T03:45:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.02,
+      "relevance": 15.34,
       "sources": [
         "Google Noticias UY"
       ]
@@ -609,69 +664,13 @@
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "Entre Miami y Guadalajara, las sedes de Uruguay en fase de grupos",
+      "title": "El \"Tornado Verde\" de Uruguay en el Mundial de 2026: la apuesta de Marcelo Bielsa y la importancia de Federico Valverde.",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb1FvYjdUWGpzdGg1WFRtcWpmZkhJSnFrbk9xeE1pMWRpeXVfZlk4dlc2ZUpLZkJQbVNDbXlmM3hqTzdMSko1X19KSTFqb3pnNWc5NlZFZnlXcmRpMlV3eG9MVzBmVDhfRTVTdFRLN2FhNEFGMEE3VGlhUjNfVDBEanlQc1pfZ3pub2w4NVJNN1lPbXlrOUVzNkpqeGhBVm0wSEc4?oc=5",
-      "published": "2026-06-07T03:06:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTkhEMm9VNnFFUF84S2FLcFlJMXNxNEE5LUMwNWpGSnVUSjlXUF9oazdoNjZpeEdocGFDY2I1MXAxeVA2YURkaGxKYWR0SDNnRG9QX09lTzRrVVdfSXVaS2c4b2x6RjEwcTdERUhOQTd2dHFsS0tNYUQ3dlBVNnQyWFF6YnpkOWlLbVVuUEc0b0Ryc09taDJHeGx1b1MxdjNaSi1CYXhPYW5iUTEzS0plVnRIcEF5SjQtSlgtSzU2bw?oc=5",
+      "published": "2026-06-07T07:11:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 15.78,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Respira el tricolor: con un hombre menos, Nacional se lo dio vuelta a Juventud",
-      "summary": "El equipo de Jorge Bava jugaba mal, perdía y tenía un jugador menos por la expulsión de Tomás Viera, cuando encontró dos goles salvadores.Nacional le ganó este sábado 2-1 a Juventud de Las Piedras en el Gran Parque Central por la cuarta fecha del Intermedio. Los goles de Emiliano Ancheta y Luciano...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/respira-el-tricolor-con-un-hombre-menos-nacional-se-lo-dio-vuelta-a-juventud/",
-      "published": "2026-06-07T00:41:02+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.77,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "¿Qué estabas haciendo cuando murió el Indio? Crónica de las manifestaciones populares en Buenos Aires",
-      "summary": "Concentraciones espontáneas en Plaza de Mayo y el microcentro porteño, en la previa del velorio del artista.Bang! Bang!... Estás liquidado. Durante esta jornada extraña, de esas con deriva y sin manual, un aire de Gulp! sobrevuela el microcentro porteño y sus alrededores. El paisaje de oficinas y...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/que-estabas-haciendo-cuando-murio-el-indio-cronica-de-las-manifestaciones-populares-en-buenos-aires/",
-      "published": "2026-06-06T22:05:39+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 14.8,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Atento Bielsa: Arabia Saudita goleó a Puerto Rico en un amistoso",
-      "summary": "El primer rival mundialista de Uruguay endereza su rumbo con nuevo director técnico, en un partido que estuvo detenido dos horas por tormentas eléctricas.Arabia Saudita venció 3-0 a Puerto Rico en un amistoso disputado este viernes en Austin, Texas, la ciudad estadounidense en la que la selección...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/atento-bielsa-arabia-saudita-goleo-a-puerto-rico-en-un-amistoso/",
-      "published": "2026-06-06T21:14:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 14.48,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Cuál es la “quinta estrella” que una gloria de Uruguay pide sumar como título del Mundo: el trofeo que ganó en 1981",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTI2ZFVWVjRPV0xLb3lWSmRhRVd6RVJDUVlsV3V3bjRMRkdMNEU0bEhlSmZhRDNrbTBVa2hWWURrT0JXd3hBSEJIamJNdHZqTWZBdWhBMWpHYlg1YmlOYTh2dXV1eFpic3hqa1RJdll6RnpYbWxNYlBqdTU2VGZfN3d1NVd3VzZNOEwwTG9iOTRBVDJYdXZtREt2VzE5N1J2enEtLWZ4dExDU2VQRlZnMHVYM3hMWnFEa3kyUmZGT1ZxY3Jhb1VpaU5DX3N6anQ0TzZ6dm1xSmRPNkZYS0g3ZURsWmFBTy1JejVjQ09n0gGIAkFVX3lxTE5vaHdpSU1mLUdObVRTSWlid1kyRjV6T3k4VUNvMjc1M25lMkpiNXF1dzAybXUtVy1obEo2WEVqMTAtRGF3VUJVRlpwTUdwelR3UHk1OF9Yb1Bna19KMGVsTlB1MnhGZElhOFc1OXZYdjdPeXc0VEU5d21LekJRbzRjQmhmTDFDV045eUNuZzJJbkl1d3Rxd0ZvY09sMkJtWmJOOG5GZDNLZjVleVc4UDRTN2hLdnF5ZHNhTFhEWm45bE5OVmFjb2xQRVFQaS1xWHAxOW5fZmRodm9IWnJxaVEtYU1PTXpfLWRlb1ZJWU5xNmYtU0h3VGU1eTZDZ0lnQThxalBydWY2cg?oc=5",
-      "published": "2026-06-06T22:14:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 13.95,
+      "relevance": 15.3,
       "sources": [
         "Google Noticias UY"
       ]
