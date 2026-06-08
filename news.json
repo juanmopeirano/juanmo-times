@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-06-08T18:16:22.304103+00:00",
+  "updated_at": "2026-06-08T23:06:16.837308+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Orange cierra la compra de MasOrange y toma su control total",
+      "summary": "El grupo francés formaliza la adquisición del 50% restante a los fondos de capital riesgo por 4.250 millones, un día después de absorber SFR en Francia",
+      "url": "https://cincodias.elpais.com/companias/2026-06-08/orange-cierra-la-compra-de-masorange.html",
+      "published": "2026-06-08T16:54:47+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/JDLBHEPOZZHRHLVFI47IQQCCQA.png?auth=a7cb6a2b81909aa16e7abc76e9b97a9023e187d812d4d06ec0c39fd8323f6af8",
+      "coverage": 1,
+      "relevance": 19.08,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +24,7 @@
       "published": "2026-06-08T16:34:45+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/SGTVP5LHYK7GXEOREPIKBRHLVQ.jpg?auth=1cd91c03cffb217ad652217032b69484c59a9e76f30d9b637850476ad9e6e0c8",
       "coverage": 1,
-      "relevance": 20.76,
+      "relevance": 18.95,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +38,23 @@
       "published": "2026-06-08T16:02:10+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/2R64FQUDCNEM5P3KMKHWG7ND7I.jpg?auth=cdefe489680bb5edb1442497ff19c3b33df6adf2791a34d3192e3aab0669bf46",
       "coverage": 1,
-      "relevance": 20.56,
+      "relevance": 18.75,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este lunes 8 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0FuS3pUekItejEzN3dVYnBxSTNGYXBQMTdSamVmYVptdWdXeUdHTHlfWlcxdkZIQlZyLXNFM3BWNHNMLUVUcEVRU3hrRDNSWEF4WWxCX3VYNWFraVpCUjlkUlpSQ29qQUJUVVJ2cy1MckNCVXZIM3hLQXBWUTJ4bUxaUURhUFlBWWVUdlYwWng1YWlSdjhpbmEtejJLZjVrN1N3ZG82bDlsMG9zWFVuaWxKV3R0OW5vam530gHWAUFVX3lxTE9kdG1iRGlOcndVZ0o2Ry1KcFg5NEJKSFNTWWU1WFFlZ1BlWmVKSk04X1lYUFRkaGY3X2QzdHEtYU9TSGEzNHRjUG9nVlQ0RFJwWXROMlRWZTBVSVpiVnFETlltQ3ZoTW1VcVY4VnRHN2hPRm9TZWVjVk1KUzlMM1ZLckJVbnVQZVFMZmNqSS03WWpiUFBzaDhKYWI4a1ZvaGRJQ0V5aGVWc1ppRUxUX0tqdWN4cDB3czhjQjhRT3NHYkR3SDZmekpJb1Q3WHUyVkk5UlVYUkE?oc=5",
+      "published": "2026-06-08T22:00:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.59,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,21 +66,7 @@
       "published": "2026-06-08T14:38:49+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ZH6ZIOKYJBBPDIXXHQJ2RNJGAI.jpg?auth=86ab730727f006108e88cafef6201f2e49f879eae99c30b6434c7ee47aff3695",
       "coverage": 1,
-      "relevance": 20.04,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Los sindicatos piden equiparar las condiciones laborales de los bomberos forestales que se enfrentan a los incendios en España",
-      "summary": "UGT y CC OO reclaman una ley estatal que coordine mejor a los servicios de emergencias de las comunidades autónomas que intervienen en los desastres naturales",
-      "url": "https://elpais.com/economia/2026-06-08/los-sindicatos-piden-equiparar-las-condiciones-laborales-de-los-bomberos-forestales-que-se-enfrentan-a-los-incendios-en-espana.html",
-      "published": "2026-06-08T10:58:35+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/BKDBVIOKCVDKTDH4PTE2AKODHM.jpg?auth=a961d02f1236adc6a4270e2c7ad31b559af3f0183130bb2ca7d46ddbb09ddf89",
-      "coverage": 1,
-      "relevance": 18.66,
+      "relevance": 18.23,
       "sources": [
         "El País Eco"
       ]
@@ -60,13 +74,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "La bomba del Gurú del Blue sobre el dólar: “No hay por qué pensar en una devaluación”",
+      "title": "Precio del dólar hoy en República Dominicana: cotización de cierre del 8 de junio",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdzVFU01ucTUyWEdKZE9FX0JiRjJsRnBBZm85OFF6RWtRQ201aF9zTUk2aHlQR2N0d1p3aXhkTWpqUUFwNjZTaUZXanEyN3dfa1ZRWkVaSW1sdVlBanFHaDJFUkhwSkx3X2o3cnRrQlQ5Tm5kUFVSNkRtVHpSeE5SNmJXRDR6VDFfZUZTak00MVpydlNRN05zekdkQVJZSjJSMk1BTmwya1k4RkNEdHZMRGo5bEcwWF95d01oa0NqNDVPeVZWMUVaUG5aZWdiZC1qbzY0UFVMNndUbFZDUGtj0gHfAUFVX3lxTE53NUVTTW5xNTJYR0pkT0VfQmJGMmxGcEFmbzk4UXpFa1FDbTVoX3NNSTZoeVBHY3R3WndpeGRNampRQXA2NlNpRldqcTI3d19rVlFaRVpJbWx1WUFqcUdoMkVSSHBKTHdfajdydGtCVDlObmRQVVI2RG1UelJ4TlI2YldENHpUMV9lRlNqTTQxWnJ2U1E3TnN6R2RBUllKMlIyTUFObDJrWThGQ0R0dkxEajlsRzBYX3l3TWhrQ2o0NU95VlYxRVpQblplZ2JkLWpvNjRQVUw2d1RsVkNQa2M?oc=5",
-      "published": "2026-06-08T16:17:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGtMc2R2TFdtSFFidFdYTEUxWGZodnlOdm9ZQ0VuVktqSG5VOGhPWlNaVGNVclFUVHB5NEQzNnRCRE82bzVqXy1ONnBWSkpLdGtFak40WHFlZU5Idk1oSk52bWVkZzIxUzZfTEJpOUtORVIzUXZXNkxCS3pmNExfTGhGN2xRNTZlQnl1T1RjdGUxRjY5Tk9FbkFJblM0ZVk3LU9PVGlxVWotRHQyM3NPTDRmVlhTQ2E3dlhWeG8zV1BpZVHSAd4BQVVfeXFMUC15MmxjZUFZRHNRTkpWMm85ZVVreWQ2SlFlNmtlb3RRM04zVlIxdXM5eGZqOU5LYS04X0ZVS2tia3A4UUp2RG9ha0tnZVFlX05ZU2FNQVZsLWtpNWwtRFdNejZzNGE3LTlaOW4zdF9VMGxJeDdQdkprb2drSDdpLTNFaWJ2cUE2eldHY2YyR3hWcmRLcnlJMVFCWjVjdjJ5dGNrZWxNTWJVLVFvWWtVMjVZRGFpUk43MTNfQ1RWdE91NkNmVmt0cjh6aC11TFBXVlpXTVdhTTE0TFpJcE9R?oc=5",
+      "published": "2026-06-08T19:20:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.26,
+      "relevance": 17.59,
       "sources": [
         "Google Economía"
       ]
@@ -74,13 +88,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Precio del dólar al alza tras segunda vuelta: ¿En cuánto está este lunes?",
+      "title": "Precio del dólar tras segunda vuelta: ¿En cuánto cerró este lunes?",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOQWVaWDRsRDNKV01VWDEtM0ljODB4WGhTSDB2ZW12LW1ualBhN3hVd3VzWC1PMmxnS3VaVVU4T2x0c2lYVkNGbGY1TXFBeHZpb01Id0xwa3dxTElPQXRIbHRlQ3E5c2w3aFpsWGJVaW41Skx6YVlzYWtneXk5UEJnNnBfWWFXTWlSOXY3alBia0FxSXIxaklUUkVrX0FHcFk2VTNlYjVaNXpaLTlaZy0wR1E0dUVSdW81SDBiSmlqbUpOeFpFRGNjRXZVNGtkZlAtMWh3ci1mTmlzLU9hNHhRNWpvZkZ2dS16bTVqSlU4cmt0b1VDNTdjZmZLUzhFOHlaT3laZjd5UXJfSWhLblFzNm52T2dWdS1HODBlR2RlX2ZxRk1OVGkyNFRabUgxcHhFanhBVlh2NTRtZw?oc=5",
-      "published": "2026-06-08T15:27:29+00:00",
+      "published": "2026-06-08T19:04:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.94,
+      "relevance": 17.49,
       "sources": [
         "Google Economía"
       ]
@@ -88,41 +102,97 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Atención: Dólar referencial del BCB vuelve a superar al paralelo en la cotización",
+      "title": "Dólar y granos hoy: precios del campo al 8 de junio",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQkNGQ1dBYV9BZWZOa0U1SWs1cGwtNXdKVHJYcHlGQWZwRjVoZGF2NEpuV3VMNTFuanB6VGJMbU1WbHdEQ0NIZ2hRNFdOTE8xd0UzOWpkM1hQUFl6bnpON3NzdnlYMnZaQjdFUl8zMzNNYThoZ3cyZjNRXzhXTGZGUEZGU2lWZlZJdzNzMDFEN2EyVzFtRDM0LW82OWljbVRuTDZUODNlbmFZYkZXeGVpUGpZSU9lSy1NT2c?oc=5",
-      "published": "2026-06-08T15:25:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kbXhhcW1rTTVyMDRRaFRUMzVuRm1FYmYzTnpKR0poanFPRlY3b1FyRXpyY1pSb0tmSEtRdjJqNEsyVV9Sd0xyQ3NoZ3ZqM0ttUUlNLUZJQ2JRTUktTUE0SFJnVjM?oc=5",
+      "published": "2026-06-08T18:39:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.93,
+      "relevance": 17.33,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Vodafone e Iberdrola firman una alianza comercial cruzada para sumar clientes comunes",
-      "summary": "La operadora venderá energía y la eléctrica promoverá servicios de telecomunicaciones, replicando el acuerdo entre MasOrange y Endesa",
-      "url": "https://cincodias.elpais.com/companias/2026-06-08/vodafone-e-iberdrola-firman-una-alianza-comercial-cruzada-para-sumar-clientes-comunes.html",
-      "published": "2026-06-08T08:47:55+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/NGV6BUCLO5F7PPF3BUYT3BMOVM.png?auth=64da2689be6ca8afb4f9a19f594228cc9ebd7a7657b5006dbfd2ec31ae35992b",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo acompañar a tu hijo en su proceso terapéutico",
+      "summary": "La salud mental de los hijos debe ser siempre una prioridad, por lo que es imprescindible estar pendiente de cualquier situación o señal en su comportamiento que demuestre la necesidad de inciar un proceso terapéutico. Una especialista en terapia infantil nos explica cuándo es momento de llevar al...",
+      "url": "https://es.aleteia.org/2026/06/08/como-acompanar-a-tu-hijo-en-su-proceso-terapeutico/",
+      "published": "2026-06-08T21:32:07+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 17.85,
+      "relevance": 19.61,
       "sources": [
-        "El País Eco"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo Dios nos responde a todos los asuntos cotidianos",
+      "summary": "A veces pensamos que la intervención divina tendría que llegar con señales extraordinarias, como si Dios necesitara romper el cielo para hacerse presente en nuestra vidas con milagros. Sin embargo, más bien parece que muchas veces su modo de operar es más discreto, más íntimo, más parecido a una...",
+      "url": "https://es.aleteia.org/2026/06/08/como-dios-nos-responde-a-todos-los-asuntos-cotidianos/",
+      "published": "2026-06-08T21:25:25+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.57,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Por qué la Iglesia defiende la vida y la familia?",
+      "summary": "Una esperada visita por los católicos de España es la que están viviendo con el Papa León XIV. Por supuesto, para nadie es una sorpresa que en su discurso toque temas que se han discutido hasta el cansancio en Europa y gran parte del mundo: la vida, la familia y el matrimonio. En los sitios Leer...",
+      "url": "https://es.aleteia.org/2026/06/08/por-que-la-iglesia-defiende-la-vida-y-la-familia/",
+      "published": "2026-06-08T21:22:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.55,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "(VIDEO) ¿Qué Iglesia sueña el Papa para Madrid?",
+      "summary": "En sus distintos encuentros durante el viaje apostólico a España, León XIV ha ido trazando una hoja de ruta para la Iglesia del siglo XXI. Ante políticos, obispos, fieles y comunidades diocesanas, el Pontífice ha repetido un mensaje que atraviesa todas sus intervenciones: la fe no puede encerrarse...",
+      "url": "https://es.aleteia.org/2026/06/08/video-que-iglesia-suena-el-papa-para-madrid/",
+      "published": "2026-06-08T21:15:02+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.5,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "En el estadio Bernabéu, León XIV con 80 mil fieles",
+      "summary": "En un estadio Bernabéu ensordecedor, León XIV pidió a los católicos de Madrid que consideraran la acogida de los catecúmenos “no como una excepción, sino como la norma de la misión”, el 8 de junio de 2026. “La bondad, incluso de unos pocos, puede vencer el miedo de muchos”, aseguró, abogando...",
+      "url": "https://es.aleteia.org/2026/06/08/en-el-estadio-bernabeu-leon-xiv-con-80-mil-fieles/",
+      "published": "2026-06-08T21:11:21+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.48,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "León XIV a la Virgen de la Almudena: Ayúdanos a ser constructores de paz",
-      "summary": "El Pontífice presidió la oración y homenaje a la Virgen de la Almudena en la catedral madrileña, donde evocó la historia de la patrona de Madrid para invitar a los fieles a reconstruir la esperanza y fortalecer la unidad frente a los desafíos del mundo actual. Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-leon-oracion-homenaje-virgen-almudena-catedral-madrid.html",
-      "published": "2026-06-08T16:30:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---preghiera-e-omaggio-al/1780936866036.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "El Papa a la Comunidad diocesana: La bondad de pocos puede vencer el miedo de muchos",
+      "summary": "La tarde de este lunes, 8 de junio, el Papa León XIV encontró a la Comunidad diocesana de Madrid, en el Estadio Santiago Bernabéu. A los representantes de esta Iglesia particular, el Pontífice les recordó que, “hay que volver a aprender el arte espiritual de ser cordiales, sin el cual incluso el...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-leon-xiv-encuentro-comunidad-diocesana-madrid-8-junio.html",
+      "published": "2026-06-08T18:15:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---seconda-parte-incontro/1780943761839.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.14,
+      "relevance": 18.98,
       "sources": [
         "Vatican News"
       ]
@@ -130,41 +200,13 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "León XIV habló durante una hora con víctimas de abusos cometidos por el clero en España",
-      "summary": "El Papa León XIV se reunió la tarde del 8 de junio de 2026 con seis víctimas de abusos cometidos por miembros del clero y de la Iglesia en España. El encuentro tuvo lugar en la Nunciatura Apostólica de Madrid, en presencia de personas que brindan apoyo a las víctimas. Sin embargo, algunas...",
-      "url": "https://es.aleteia.org/2026/06/08/leon-xiv-hablo-durante-una-hora-con-victimas-de-abusos-cometidos-por-el-clero-en-espana/",
-      "published": "2026-06-08T17:50:20+00:00",
+      "title": "León XIII fue el primero en consagrar el mundo al Sagrado Corazón",
+      "summary": "Fue durante el siglo XIX cuando la devoción al Sagrado Corazón se extendió realmente y llegó hasta el Papa León XIII, quien reconoció su importancia, y aunque la devoción al Sagrado Corazón de Jesús se institucionalizó y comenzó a extenderse en el mundo durante los siglos XVII y XVIII, no se...",
+      "url": "https://es.aleteia.org/2026/06/08/leon-xiii-fue-el-primero-en-consagrar-el-mundo-al-sagrado-corazon/",
+      "published": "2026-06-08T18:41:12+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.04,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa se reúne con víctimas de abusos en Madrid",
-      "summary": "La tarde de este 8 de junio, en la Nunciatura Apostólica de Madrid, el Papa León XIV se reunió con seis víctimas de abusos cometidos por miembros del clero y de la Iglesia en España. El Pontífice “escuchó con afecto y atención” las propuestas para que “la respuesta de la Iglesia ante estos trágicos...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-se-reune-con-victimas-de-abusos-en-madrid-8-junio-2026.html",
-      "published": "2026-06-08T16:04:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna-incontro-privato-con-alc/1780935061881.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.97,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Un carrito de golf para los traslados del Papa en España?",
-      "summary": "El Papa León XIV se trasladará en un carrito de golf, pero la visita a España no será la primera vez en que los use. El Santo Padre ya utilizó uno en Castel Gandolfo durante su recorrido previo a la Misa por el Cuidado de la Creación. El Vaticano apeló a un carrito de este Leer más… The post ¿Un...",
-      "url": "https://es.aleteia.org/2026/06/08/un-carrito-de-golf-para-los-traslados-del-papa-en-espana/",
-      "published": "2026-06-08T16:06:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.39,
+      "relevance": 18.54,
       "sources": [
         "Aleteia"
       ]
@@ -172,125 +214,55 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "El Papa a los obispos españoles: evangelización, migración y vocaciones",
-      "summary": "En su tercer día de viaje apostólico, el Papa León XIV se reunió con miembros de la Conferencia Episcopal Española el 8 de junio de 2026 en Madrid, animando a los obispos del país a encontrar “nuevos lenguajes” para dialogar con la sociedad. En un extenso discurso, hizo un llamamiento a compartir...",
-      "url": "https://es.aleteia.org/2026/06/08/el-papa-a-los-obispos-espanoles-evangelizacion-migracion-y-vocaciones/",
-      "published": "2026-06-08T14:49:46+00:00",
+      "title": "León XIV ofrece una rosa de oro a la Virgen de la Almudena",
+      "summary": "Durante una visita a la Catedral de la Almudena en Madrid, León XIV pidió el derribo de los muros que “dividen, separan y aíslan” en el tercer día de su viaje a España, el 8 de junio de 2026. Ante varios cientos de fieles, presentó una rosa de oro a la patrona de la capital Leer más… The post León...",
+      "url": "https://es.aleteia.org/2026/06/08/leon-xiv-ofrece-una-rosa-de-oro-a-la-virgen-de-la-almudena/",
+      "published": "2026-06-08T18:28:55+00:00",
       "image": null,
-      "coverage": 1,
-      "relevance": 18.91,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Armengol: Con el Papa por la paz y el respeto a la dignidad humana",
-      "summary": "La presidenta del Congreso de los Diputados, Francina Armengol interviene antes del discurso de León XIV, centrándose en la actualidad internacional y expresando su preocupación por aquellos que, aparentando fortaleza, «imponen la masacre de miles de débiles con total impunidad». Hace un...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/presidente-congreso-diputados-espana-saludo-al-papa.html",
-      "published": "2026-06-08T12:03:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---incontro-con-i-membri-/1780909860605.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
       "relevance": 18.47,
       "sources": [
-        "Vatican News"
+        "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Argüello: el Papa invita a la Iglesia a ser fermento en el mundo",
-      "summary": "El presidente de la Conferencia Episcopal Española, en su saludo a León XIV, subraya que la presencia del Pontífice es un signo concreto de la comunión con la Iglesia, destaca luego las dificultades para evangelizar y reitera el compromiso de promover la vida. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/arguello-saludo-encuentro-papa-obispos-espana-cee-viaje.html",
-      "published": "2026-06-08T11:36:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---incontro-con-i-vescovi/1780913463244.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "NotebookLM ya puede crear PDFs, Excel y presentaciones con un solo prompt",
+      "summary": "NotebookLM acaba de recibir una de sus mejores actualizaciones en mucho tiempo. Google lanzó una nueva versión de su herramienta de IA que amplía sus capacidades de investigación y análisis. Si usas esta herramienta para organizar información o estudiar documentos, hay novedades que vale la pena...",
+      "url": "https://hipertextual.com/inteligencia-artificial/notebooklm-nuevas-funciones-ia-gemini-3-5/",
+      "published": "2026-06-08T22:48:42+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Google-Gemini-NotebookLM.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.3,
+      "relevance": 20.09,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa León XIV pide a los obispos españoles ser “testimonio de unidad”",
-      "summary": "En el encuentro con los obispos de España, celebrado el lunes, 8 de junio en la Sede de la Conferencia Episcopal en Madrid, el Pontífice pidió a los prelados custodiar la unidad, afrontar la crisis de vocaciones y a responder a los casos de abusos con escucha, verdad y reparación. Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-leon-xiv-pide-a-los-obispos-espanoles-ser-testimonio.html",
-      "published": "2026-06-08T11:30:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---incontro-con-i-vescovi/1780915863284.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "El País Tech",
+      "title": "WWDC 2026: Apple presenta una Siri renovada con IA generativa que no podrán usar los iPhone y iPads en Europa",
+      "summary": "El popular asistente de voz inteligente tendrá este otoño, solo en inglés, las funciones de inteligencia artificial ya prometidas hace dos años por la empresa tecnológica, que no ha aclarado si llegarán a ser compatibles con la normativa europea",
+      "url": "https://elpais.com/tecnologia/2026-06-08/wwdc-2026-tim-cook-presenta-una-siri-renovada-con-ia-generativa-en-su-despedida-al-frente-de-apple.html",
+      "published": "2026-06-08T19:11:10+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/4YMKESXWKNB53MN34FJ3ZXQSHI.jpg?auth=1df66fba2fc6b320a023b4b2cfa40f0fc34d5acb64b802c827b3015322e0fda6",
       "coverage": 1,
-      "relevance": 18.26,
+      "relevance": 19.93,
       "sources": [
-        "Vatican News"
+        "El País Tech"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Todas las novedades de iOS 27: la nueva Siri al frente de una actualización más grande de lo que parece",
-      "summary": "iOS 27 tiene una protagonista clara: la nueva Siri. Después de años de quedarse por detrás de lo que muchos esperaban de un asistente integrado en el iPhone, Apple ha enseñado en la WWDC26 una versión mucho más ambiciosa, pensada para entender mejor lo que hacemos, ayudarnos dentro de las apps y...",
-      "url": "https://www.xataka.com/aplicaciones/todas-novedades-ios-27-nueva-siri-al-frente-actualizacion-grande-que-parece",
-      "published": "2026-06-08T17:46:35+00:00",
-      "image": "https://i.blogs.es/e4143f/ios-27-novedades/1024_2000.jpeg",
+      "title": "La NASA acaba de superar un hito con el X-59. Lo que viene después apunta a cambiar la aviación comercial",
+      "summary": "La aviación comercial lleva décadas persiguiendo una promesa difícil: volar más rápido que el sonido sin convertir ese avance en un problema para quienes están en tierra. El obstáculo no es solo la velocidad, sino las ondas de choque que genera un avión supersónico y que pueden percibirse como un...",
+      "url": "https://www.xataka.com/movilidad/nasa-acaba-superar-hito-x-59-que-viene-despues-apunta-a-cambiar-aviacion-comercial",
+      "published": "2026-06-08T21:01:39+00:00",
+      "image": "https://i.blogs.es/ca22a4/x59-vuelo-supersonico-portada/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.31,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La nueva Siri AI ya está aquí: dos años después y con la ayuda de Google, esto es lo que hace el asistente con IA de Apple",
-      "summary": "Apple prometió en 2024 una Siri radicalmente nueva. No llegó. La prometió de nuevo en 2025. Y tampoco llegó. Hoy, en el último keynote de Tim Cook como director general, por fin ha presentado la revisión completa de este asistente, que ahora corre sobre los modelos de inteligencia artificial (IA)...",
-      "url": "https://www.xataka.com/robotica-e-ia/nueva-siri-ai-esta-aqui-dos-anos-despues-ayuda-google-esto-que-hace-asistente-ia-apple",
-      "published": "2026-06-08T17:45:18+00:00",
-      "image": "https://i.blogs.es/48c6d7/iphone-siri/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.31,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Actualización de iOS 27: a qué iPhones llega, cómo prepararte y cómo actualizar",
-      "summary": "Vamos a decirte todo lo que necesitas saber para actualizar tu móvil a iOS 27. Ahora que Apple ha anunciado oficialmente iOS 27, también tenemos otros datos importantes como los modelos que son compatibles. Y esto es en lo que te vamos a centrar. Vamos a empezar diciéndote todos los modelos de...",
-      "url": "https://www.xataka.com/basics/actualizacion-ios-27-a-que-iphones-llega-como-prepararte-como-actualizar",
-      "published": "2026-06-08T17:35:10+00:00",
-      "image": "https://i.blogs.es/589a91/ios-27/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.24,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los autónomos pueden cobrar dos pensiones de jubilación juntas. La letra pequeña es que tienen que haber cotizado por ambas",
-      "summary": "Hay una cosa que cualquier trabajador que cotice a la Seguridad Social espera: cobrar una pensión de jubilación cuando termine su vida laboral. Lo que no mucha gente sabe es que se pueden cobrar hasta dos pensiones de jubilación: una si has cotizado como autónomo y otra si lo has hecho en el...",
-      "url": "https://www.xataka.com/empresas-y-economia/autonomos-pueden-cobrar-dos-pensiones-jubilacion-juntas-letra-pequena-que-tienen-que-haber-cotizado-ambas",
-      "published": "2026-06-08T17:19:53+00:00",
-      "image": "https://i.blogs.es/baf082/matt-bennett-78htqvjyms4-unsplash/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.15,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Solo hasta mañana: todavía quedan móviles, Nintendo Switch 2 y más a buen precio en la mejor promo veraniega de AliExpress",
-      "summary": "Todo lo bueno se acaba, algo que podemos aplicar también a los eventos cargados de ofertas que van sucediendo todo el año. Quedan poco más de 24 horas para que acabe la Promo de Verano de AliExpress, una campaña que empezó la pasada semana y en la que hemos visto precios brutales para consolas,...",
-      "url": "https://www.xataka.com/seleccion/solo-manana-todavia-quedan-moviles-nintendo-switch-2-a-buen-precio-mejor-promo-veraniega-aliexpress",
-      "published": "2026-06-08T17:16:16+00:00",
-      "image": "https://i.blogs.es/08cc2c/huawei-watch-gt-6-pro-nintendo-switch-2/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
+      "relevance": 19.72,
       "sources": [
         "Xataka"
       ]
@@ -298,13 +270,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Apple lanza su propio ChatGPT: se llama Siri AI y es un antes y un después para el iPhone",
-      "summary": "Se hizo esperar un par de años más de lo que Apple hubiera deseado, pero la nueva Siri es una realidad. Los de Cupertino acaban de presentar la versión renovada de su asistente virtual, que ahora es mucho más inteligente y llega con varias características con las que busca convertirse en una...",
-      "url": "https://hipertextual.com/apple/nueva-siri-inteligencia-artificial-wwdc-2026/",
-      "published": "2026-06-08T17:47:48+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Siri-AI-2.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Apple ahora puede cambiar tus contraseñas filtradas de forma automática usando IA",
+      "summary": "Con la llegada de una nueva versión de Apple Intelligence impulsada por modelos fundacionales basados en Gemini, nuevas funciones muy interesantes van a llegar a iOS 27 y demás sistemas operativos de la manzana. Una de las más novedosas (y que ha pasado casi desapercibida) es una herramienta que...",
+      "url": "https://hipertextual.com/apple/app-contrasenas-apple-inteligencia-artificial/",
+      "published": "2026-06-08T21:33:24+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/06/passwords-app-apple-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.02,
+      "relevance": 19.62,
       "sources": [
         "Hipertextual"
       ]
@@ -312,41 +284,69 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "iOS 27 cambia tu iPhone por completo: nueva Siri, nuevo diseño y novedades que llevamos años pidiendo",
-      "summary": "Hoy es el día. Apple ha comenzado hace escasos minutos la WWDC 2026, su conferencia para desarrolladores donde nos tenía preparadas varias sorpresas. Entre todas ellas destaca el nuevo sistema operativo del iPhone, iOS 27. Ya es oficial. De hecho, se ha dejado ver su nuevo diseño, varias de las...",
-      "url": "https://hipertextual.com/apple/ios-27-cambia-tu-iphone-por-completo-nueva-siri-nuevo-diseno-y-novedades-que-llevamos-anos-pidiendo/",
-      "published": "2026-06-08T17:22:28+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ios-27-1.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Olvídate de Claude Code: Apple reinventa Xcode 27 y da el salto hacia la programación con IA",
+      "summary": "Apple se ha volcado de lleno hacia el desarrollo de software impulsado por inteligencia artificial. El gigante tecnológico presentó Xcode 27, la nueva versión de su entorno de desarrollo integrado que debutó en la WWDC 2026 con un rediseño enfocado a la IA. El rediseño aprovecha las capacidades de...",
+      "url": "https://hipertextual.com/apple/xcode-27-ia-agentica-wwdc-2026/",
+      "published": "2026-06-08T21:25:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/xcode-27-apple-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.86,
+      "relevance": 19.57,
       "sources": [
         "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "macOS 27 Golden Gate cambia tu Mac para siempre: se llena de IA y cambios que llevamos años pidiendo",
-      "summary": "Apple ha empezado la WWDC 2026, su conferencia para desarrolladores, presentando las nuevas versiones de sus sistemas operativos. Entre ellos, por supuesto, está macOS 27, la nueva actualización para el Mac que trae cambios muy importantes, incluyendo mejoras en cuanto a IA, la tan esperada nueva...",
-      "url": "https://hipertextual.com/apple/macos-27-golden-gate-cambia-tu-mac-para-siempre-se-llena-de-ia-y-cambios-que-llevamos-anos-pidiendo/",
-      "published": "2026-06-08T17:21:21+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/macos-27-1.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "source": "Xataka",
+      "title": "Panini, sobre la escasez de cromos del Mundial: \"Se compran cajas enteras, hay falta de producto y estamos produciendo las 24 horas\"",
+      "summary": "\"Soy la típica millennial nostálgica, lo reconozco\". Así encabeza nuestra compañera Laura Sacristán de Xataka Móvil el artículo en el que narra su experiencia completando el álbum de cromos del Mundial... de forma digital. Es una frase que podría resumir todo el texto que está por venir. Y es que...",
+      "url": "https://www.xataka.com/magnet/panini-escasez-cromos-mundial-se-compran-cajas-enteras-hay-falta-producto-estamos-produciendo-24-horas",
+      "published": "2026-06-08T20:00:17+00:00",
+      "image": "https://i.blogs.es/599960/panini-cajas-enteras-trabajamos-24-horas/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.86,
+      "relevance": 19.34,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "La nueva Siri AI tiene lista de espera: así puedes unirte desde iOS 27",
+      "summary": "Apple acaba de presentar Siri AI en la apertura de la WWDC 2026, con varias novedades en materia de inteligencia artificial. El nuevo asistente llega impulsado por modelos de lenguaje basados en Gemini, de Google, y presume de nuevas funciones que prometen hacerlo verdaderamente útil. Además,...",
+      "url": "https://hipertextual.com/apple/siri-ai-unirse-lista-de-esperar-beta-ios-27/",
+      "published": "2026-06-08T20:20:10+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Siri-AI-lista-de-espera.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.16,
       "sources": [
         "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "La nueva Siri AI no llegará inicialmente a iOS 27 en la Unión Europea: Apple carga contra la regulación en un duro mensaje",
+      "summary": "En el WWDC 2026 celebrado hoy, Apple ha presentado Siri AI, la versión más ambiciosa de su asistente hasta la fecha. El asistente es ahora capaz de mantener conversaciones fluidas, buscar en el correo o las fotos del usuario, actuar dentro de aplicaciones de terceros y entender lo que hay en...",
+      "url": "https://www.xataka.com/legislacion-y-derechos/nueva-siri-ai-no-llegara-inicialmente-a-ios-27-union-europea-apple-carga-regulacion-duro-mensaje",
+      "published": "2026-06-08T19:26:16+00:00",
+      "image": "https://i.blogs.es/76fcff/siri-apple/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.12,
+      "sources": [
+        "Xataka"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Duro golpe para Países Bajos: Jurrien Timber se baja del Mundial",
-      "summary": "La federación neerlandesa ha informado que será reemplazado por Lutsharel Geertruida",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/08/duro-golpe-paises-bajos-jurrien-timber-baja-mundial.html",
-      "published": "2026-06-08T18:01:33+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a2702f848163.jpeg",
+      "title": "Rendidos a Olise: \"Está radiante, todo le resulta fácil\"",
+      "summary": "El extremo del Bayern acapara los focos y los elogios en el último amistoso de Francia",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/09/rendidos-olise-radiante-le-resulta-facil.html",
+      "published": "2026-06-08T22:54:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a2747e527326.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 20.43,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Villarreal presenta su nueva piel con el agua y Mikautadze como protagonistas",
-      "summary": "Bajo el lema 'Feta per a fluir' el club arriesga con un innovador diseño en jacquard inspirado en el movimiento del agua y con protagonismo del azul",
-      "url": "https://www.marca.com/futbol/villarreal/2026/06/08/villarreal-presenta-nueva-piel-agua-mikautadze-protagonistas.html",
-      "published": "2026-06-08T17:42:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a26fe790247e.jpeg",
+      "title": "Ilia Topuria estalla contra Gaethje por hablar de su divorcio: \"Ya no estamos juntos, pero ella es la madre de mi hija...\"",
+      "summary": "El 'Matador' contestó a las palabras de su rival sobre su divorcio",
+      "url": "https://www.marca.com/combates-ufc/2026/06/09/ilia-topuria-estalla-justin-gaethje-madre-mi-hija.html",
+      "published": "2026-06-08T22:41:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a2743e266e84.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 20.35,
       "sources": [
         "Marca"
       ]
@@ -368,11 +368,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Sigue en directo el programa 'Colgados del Aro by Endesa'",
-      "summary": "No te pierdas en Radio MARCA y MARCA.com el programa referente del baloncesto, presentado por Juanma Iturriaga, Toñín Llorente, Noelia Gómez y Pablo Lolaso",
-      "url": "https://www.marca.com/baloncesto/acb/2026/06/08/sigue-directo-programa-colgados-aro-by-endesa.html",
-      "published": "2026-06-08T17:19:14+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/XtvPmf3AG1w.jpeg",
+      "title": "El primer español en un Mundial",
+      "summary": "España no aceptó la invitación de la FIFA para acudir a Uruguay 1930. el barcelonés paco bru fue seleccionador de Perú en la primera Copa del Mundo",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/09/primer-espanol-mundial.html",
+      "published": "2026-06-08T22:08:43+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a273b26060a5.jpeg",
       "coverage": 1,
       "relevance": 20.14,
       "sources": [
@@ -382,69 +382,69 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Francia sale con todo",
+      "title": "Un jugador como para tirar la casa por la ventana",
+      "summary": "Un 'hat-trick' del jugador del Bayern aniquilia a Irlanda del Norte en el último ensayo de Francia",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/08/olise-vale-150-millones.html",
+      "published": "2026-06-08T21:18:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/06/08/6a2731863e508.r_d.1224-341-0.jpeg",
+      "coverage": 1,
+      "relevance": 19.82,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Mario Vaquerizo se rinde a León XIV: \"El mensaje del Papa es muy necesario en estos momentos de crispación\"",
+      "summary": "La banda Nancys Rubias ha sido la invitada de Pablo Motos este lunes en 'El Hormiguero'",
+      "url": "https://www.marca.com/tiramillas/television/2026/06/08/mario-vaquerizo-rinde-leon-xiv-creo-mensaje-papa-necesario-momentos-crispacion.html",
+      "published": "2026-06-08T20:57:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a272cc3ca2bb.jpeg",
+      "coverage": 1,
+      "relevance": 19.7,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Cannavaro le mete un susto a Países Bajos",
+      "summary": "Gakpo salvó los muebles ante Uzbekistán (2-1) convirtiendo un doblete de penalti",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/08/cannavaro-le-mete-susto-paises-bajos.html",
+      "published": "2026-06-08T20:53:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a272b9e79be8.jpeg",
+      "coverage": 1,
+      "relevance": 19.67,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "\"Sólo sale una virtuosa como Audrey cada 25 años\"",
+      "summary": "Desde que llegó a la Fundación También con casi 11 años vimos su potencial y su fortaleza mental",
+      "url": "https://www.marca.com/premios/adn/opinion/2026/06/08/sale-virtuosa-audrey-25-anos.html",
+      "published": "2026-06-08T20:45:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a26d57e26023.jpeg",
+      "coverage": 1,
+      "relevance": 19.62,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Premio MARCA Leyenda: Johannes Klaebo",
       "summary": "",
-      "url": "https://www.marca.com/futbol/2026/06/08/01-0112-20260608-368-117.html",
-      "published": "2026-06-08T17:15:23+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/17809381313873.jpeg",
+      "url": "https://www.marca.com/premios/adn/2026/06/08/premio-marca-leyenda-johannes-klaeb-video.html",
+      "published": "2026-06-08T20:40:16+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a2728a6b0499.jpeg",
       "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Alex Pereira se 'cuela' en la fiesta de Topuria: \"Si gana, se convierte en el más grande de todos los tiempos\"",
-      "summary": "Dana White cree que 'Poatan' podría superar a Jon Jones si consigue su tercer cinturón de la UFC en la Casa Blanca",
-      "url": "https://www.marca.com/combates-ufc/2026/06/08/alex-pereira-cuela-fiesta-topuria-gana-convierte-grande-todos-tiempos.html",
-      "published": "2026-06-08T17:15:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a26f755cfe90.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Las nuevas botas de Lamine, Bellingham, Pedri y Raphinha",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/08/nuevas-botas-lamine-bellingham-pedri-raphinha-video.html",
-      "published": "2026-06-08T16:45:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/bSUA21g9l536em1oL.jpeg",
-      "coverage": 1,
-      "relevance": 19.93,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Jódar, en la gala MARCA: \"Debuto en hierba... y quiero mejorar rápido\"",
-      "summary": "Te contamos todos los detalles sobre los Premios MARCA ADN del deporte, una gala llena de personalidades reconocidas del mundo del deporte",
-      "url": "https://www.marca.com/premios/2026/06/08/6a26eec7cf1a9beb613fcef4.html",
-      "published": "2026-06-08T16:45:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/8Arv9wRJpkw.jpeg",
-      "coverage": 1,
-      "relevance": 19.93,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Javier Tebas: “Florentino ha salido ganador, pero de las elecciones ha salido otro Real Madrid”",
-      "summary": "El presidente de LaLiga estuvo en Vigo y repasó diferente asuntos de actualidad",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/08/javier-tebas-florentino-salido-ganador-elecciones-salido-real-madrid.html",
-      "published": "2026-06-08T16:40:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/08/6a26f04c86a95.jpeg",
-      "coverage": 1,
-      "relevance": 19.9,
+      "relevance": 19.59,
       "sources": [
         "Marca"
       ]
@@ -458,7 +458,7 @@
       "published": "2026-06-08T17:42:04+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/613b/live/87b0f110-635b-11f1-8b15-6100cfbc3083.jpg",
       "coverage": 2,
-      "relevance": 31.49,
+      "relevance": 29.67,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -473,7 +473,7 @@
       "published": "2026-06-08T16:07:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/839a/live/500334d0-6310-11f1-b905-f1e56b8ebe4d.jpg",
       "coverage": 2,
-      "relevance": 30.9,
+      "relevance": 29.09,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -482,16 +482,57 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "\"Cómo Hezbolá se reconstruyó para una guerra de desgaste con Israel\": 'Middle East Eye'",
-      "summary": "En Revista de Prensa repasamos el análisis del portal 'Middle East Eye' sobre cómo Hezbolá se reconstruyó para una guerra de desgaste con Israel. Su estructura de mando y comunicación, así como su doctrina de combate, se modificaron después del conflicto entre 2023 y 2024 y ahora prioriza infligir...",
-      "url": "https://www.france24.com/es/programas/revista-de-prensa/20260608-c%C3%B3mo-hezbol%C3%A1-se-reconstruy%C3%B3-para-una-guerra-de-desgaste-con-israel-middle-east-eye",
-      "published": "2026-06-08T14:55:08+00:00",
-      "image": "https://s.france24.com/media/display/7ffb0418-633f-11f1-95c8-005056a97e36/w:1024/p:16x9/ES-20260608-081310-082120-CS.jpg",
-      "coverage": 2,
-      "relevance": 29.54,
+      "title": "La geopolítica del Mundial 2026: ¿inciden en el torneo las tensiones entre EE. UU. e Irán?",
+      "summary": "En nuestra sección En Contexto, revisamos la manera en la que inciden en la Copa Mundial de la FIFA 2026 factores como la guerra en Medio Oriente y el conflicto en Ucrania. También revisamos el impacto del llamado \"factor Donald Trump\" de cara al inicio del certamen deportivo que acapara las...",
+      "url": "https://www.france24.com/es/programas/en-contexto/20260608-la-geopol%C3%ADtica-del-mundial-2026-inciden-en-el-torneo-las-tensiones-entre-ee-uu-e-ir%C3%A1n",
+      "published": "2026-06-08T19:52:40+00:00",
+      "image": "https://s.france24.com/media/display/fe162092-5a40-11f1-9774-005056bfb2b6/w:1024/p:16x9/2026-05-19T231054Z-189704068-RC2TXKAC6UQP-RTRMADP-3-SOCCER-WORLDCUP-NYC-HOTELS.jpg",
+      "coverage": 1,
+      "relevance": 19.59,
       "sources": [
-        "France 24",
-        "Google Noticias"
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Directo Latam y las medidas de seguridad de México para proteger a Irán en el Mundial 2026",
+      "summary": "A pocos días del inicio del Mundial de fútbol 2026, una de las sedes en México refuerza sus medidas de seguridad, tanto para la ceremonia inaugural como para garantizar la protección de la selección de Irán. Unos 700 funcionarios han sido desplegados para resguardar al equipo iraní. Por otro lado,...",
+      "url": "https://www.france24.com/es/video/20260608-directo-latam-y-las-medidas-de-seguridad-de-m%C3%A9xico-para-proteger-a-ir%C3%A1n-en-el-mundial-2026",
+      "published": "2026-06-08T19:15:28+00:00",
+      "image": "https://s.france24.com/media/display/88e91da2-6368-11f1-bca4-005056a97e36/w:1024/p:16x9/ES-20260608-074120-074758-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.36,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "\"Un sentimiento especial de cercanía\": Xi Jinping promete estrechar lazos con Corea del Norte",
+      "summary": "El presidente chino, Xi Jinping, manifestó este lunes 8 de junio que su Gobierno no se alejará de su compromiso de salvaguardar los intereses comunes con Corea del Norte ni vacilará en su apoyo a Kim Jong-un, durante una cumbre excepcional celebrada entre ambos líderes en Pyongyang. El encuentro se...",
+      "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260608-un-sentimiento-especial-de-cercan%C3%ADa-xi-jinping-promete-estrechar-lazos-con-corea-del-norte",
+      "published": "2026-06-08T19:02:53+00:00",
+      "image": "https://s.france24.com/media/display/fb91de42-6350-11f1-b0c7-005056a90284/w:1024/p:16x9/AP26159443035931.jpg",
+      "coverage": 1,
+      "relevance": 19.28,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Avión de la OTAN francés derriba un dron sobre Letonia, mientras otro explota en Moldavia",
+      "summary": "Un dron que entró en el espacio aéreo de Letonia, país miembro de la OTAN, procedente de Rusia este lunes 8 de junio, fue derribado por un avión de combate militar francés. Fragmentos de otro dron fueron encontrados en un campo de Moldavia tras haber entrado desde Ucrania. La presencia de drones en...",
+      "url": "https://www.france24.com/es/europa/20260608-avi%C3%B3n-de-la-otan-franc%C3%A9s-derriba-un-dron-sobre-letonia-mientras-otro-explota-en-moldavia",
+      "published": "2026-06-08T18:59:38+00:00",
+      "image": "https://s.france24.com/media/display/7a421c18-6354-11f1-a563-005056bf30b7/w:1024/p:16x9/2026-06-04T131716Z-1828840188-RC2YMLAR5AUV-RTRMADP-3-SLOVAKIA-DEFENCE-DRILL.jpg",
+      "coverage": 1,
+      "relevance": 19.26,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -503,77 +544,63 @@
       "published": "2026-06-08T15:46:04+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/179d/live/5435d1a0-6105-11f1-9134-bfd933b9750c.jpg",
       "coverage": 1,
-      "relevance": 20.76,
+      "relevance": 18.95,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Xi Jinping visita a Kim Jong-un: cuál es el origen de la relación amor-odio entre China y Corea del Norte",
-      "summary": "Pekín intenta reafirmar su influencia sobre un socio estratégicamente vital, pero que también es profundamente impredecible.",
-      "url": "https://www.bbc.com/mundo/articles/cp9l511524mo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-08T14:42:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dac4/live/f068d3c0-633e-11f1-81a3-11c500fa26e7.png",
+      "source": "Google Noticias",
+      "title": "Costa Rica condena el ataque balístico de Irán a Israel y reitera su rechazo a la violencia en Ucrania",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTXBVcVhnekhDTmcwbkUtWDByNF8wVmNzZW5kLVRrcmxOV1NwX0xnOXNPQ1A0aWN1VnlGdlpmSlZYZjNLMlY2MUZmR3ozNnlBSFlfT0lrNUtYbk1qRktBRUt2d2dEa01weWtSRjNNT1U5WjF6LTI3dnlWMlU4cUJkRGNYOWgwSEV2MzNkWVY1OWtpWFE1bW1XMWdibmVWSzJFdFlzOW1WQzk1TXNweDY2T18xUmZLMVFReTRrdG5VZG9BTE0yUjloWEVsSjdPMk0tMXpMVGZMRjZXQ3ZiaGI2ZHd1d9IB_gFBVV95cUxNaHpWQnVFVVFad01UQVFsVkVoczVPc3RmNENRRnBXMkdPYTNKdGc3OVBpOHlIVms5UWUzOElxaEpTRkpTZ3VDVkxpUHAxY1BzT2hGSk5BSGtoUHg3VTRxcWZtZXd5M0htb0VkRkF6T2dYVG5PWDJYRmJWNzlQSm1ENG5CMWhOYVpNMHZxZ2o3SkVsaXc5d3RBUXMzZjNnaThJOGtOd2lVVFVvMXU2YUtlQjREUnlxSWxPVWgwYk02cFdraDlVS3RQSWZ1OHRBcmNrRElia3NJTWs2M1lucmdfVzl4dE9NMWMyNFBYMjRZRHBQVnZIUHYyem1mLUxCZw?oc=5",
+      "published": "2026-06-08T22:11:49+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.36,
+      "relevance": 18.66,
       "sources": [
-        "BBC Mundo"
+        "Google Noticias"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Armenia apuesta por Occidente con la elección de Nikol Pashinian; Rusia denuncia \"injerencia\" europea",
-      "summary": "El partido europeísta Contrato Civil sumó el 49 % de los votos en los comicios legislativos en Armenia, confirmaron las autoridades electorales este lunes 8 de junio. La bancada del primer ministro, Nikol Pashinian, se impuso así sobre el movimiento prorruso Armenia Fuerte, que obtuvo el 23 % de...",
-      "url": "https://www.france24.com/es/europa/20260608-armenia-apuesta-por-occidente-con-la-elecci%C3%B3n-de-nikol-pashinian-rusia-denuncia-injerencia-europea",
-      "published": "2026-06-08T15:53:16+00:00",
-      "image": "https://s.france24.com/media/display/c7307cd2-62fe-11f1-8136-005056a97e36/w:1024/p:16x9/AP26158820971541.jpg",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Las incertidumbres mundialistas de Uruguay",
+      "summary": "La situación sanitaria de Ronald Araújo y Giorgian de Arrascaeta ya tiene antecedentes en otros jugadores y otros mundiales.La situación de Ronald Araújo, y hace unos días la de Giorgian de Arrascaeta, nos impulsa a pensar por qué se nos rompen los cracks en el fútbol de élite o ante una gran...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/las-incertidumbres-mundialistas-de-uruguay/",
+      "published": "2026-06-08T22:44:02+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.91,
+      "relevance": 19.76,
       "sources": [
-        "France 24"
+        "La Diaria"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Medio Oriente: Irán lanza nuevos misiles e Israel responde con bombardeos",
-      "summary": "⚠️ Tras el nuevo cruce de ataques entre #Irán e #Israel, las dos partes declararon este lunes 8 de junio que los detienen, pero advierten una posible reanudación. Teherán exige que el Estado de mayoría judía detenga las embestidas contra Líbano, mientras la Administración de Benjamin Netanyahu...",
-      "url": "https://www.france24.com/es/video/20260608-medio-oriente-ir%C3%A1n-lanza-nuevos-misiles-e-ir%C3%A1n-responde-con-bombardeos",
-      "published": "2026-06-08T15:35:56+00:00",
-      "image": "https://s.france24.com/media/display/b770eea2-634f-11f1-a487-005056a97e36/w:1024/p:16x9/IRA%CC%81N.png",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "El presidente boliviano Rodrigo Paz promulgó una ley que le permite decretar el estado de excepción",
+      "summary": "La aprobación de la nueva norma fue criticada por el expresidente Evo Morales, quien acusó que el mecanismo “debilita las garantías democráticas y la protección de los derechos humanos”.Este lunes, luego de más de un mes de conflicto, con movilizaciones y cortes de ruta que aún persisten en varias...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/el-presidente-boliviano-rodrigo-paz-promulgo-una-ley-que-le-permite-decretar-el-estado-de-excepcion/",
+      "published": "2026-06-08T22:31:04+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.8,
+      "relevance": 19.68,
       "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "La Unión Europea anuncia sanciones contra Irán por bloqueo del estrecho de Ormuz",
-      "summary": "El bloque de 27 países reveló que la medida aplica a dos ciudadanos iraníes y a una unidad del Cuerpo de la Guardia Revolucionaria Islámica por “atentar contra la libertad de navegación” en el paso fluvial clave, por donde transita aproximadamente una quinta parte del petróleo mundial. Tras la...",
-      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260608-la-uni%C3%B3n-europea-anuncia-sanciones-contra-ir%C3%A1n-por-bloqueo-del-estrecho-de-ormuz",
-      "published": "2026-06-08T13:52:44+00:00",
-      "image": "https://s.france24.com/media/display/6ddf0bc0-6340-11f1-b448-005056bfb2b6/w:1024/p:16x9/2026-06-08T105808Z-1981818524-RC2HPLAENOED-RTRMADP-3-IRAN-CRISIS.jpg",
-      "coverage": 1,
-      "relevance": 19.15,
-      "sources": [
-        "France 24"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
       "title": "Las pruebas de Marcelo Bielsa y el equipo con posible cambio de sistema",
-      "summary": "El entrenador rosarino viene probando con una oncena parada en 4-4-2, con Federico Valverde por derecha.A una semana del debut de Uruguay en el Mundial ante Arabia Saudita en Miami, Marcelo Bielsa está entrenando con un equipo que comienza a vislumbrarse como titular para salir a la cancha a las...",
+      "summary": "El entrenador rosarino viene probando con una oncena parada en 4-4-2, con Federico Valverde por la derecha.A una semana del debut de Uruguay en el Mundial, ante Arabia Saudita en Miami, Marcelo Bielsa entrena con un equipo que comienza a vislumbrarse como titular para salir a la cancha a las 19.00...",
       "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/las-pruebas-de-marcelo-bielsa-y-el-equipo-con-posible-cambio-de-sistema/",
-      "published": "2026-06-08T18:01:11+00:00",
+      "published": "2026-06-08T21:49:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 19.42,
       "sources": [
         "La Diaria"
       ]
@@ -581,13 +608,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Hubo varios homicidios durante el fin de semana: tres en Montevideo, uno en Durazno y otro en San José",
-      "summary": "En la capital, dos ocurrieron en distintas locaciones del barrio Punta de Rieles y el otro en Carrasco Norte.Este domingo, la Jefatura de Policía de Montevideo (JPM) informó sobre varios homicidios que ocurrieron el fin de semana en la capital del país. Durante la madrugada del sábado, personal...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/6/hubo-varios-homicidios-durante-el-fin-de-semana-tres-en-montevideo-uno-en-durazno-y-otro-en-san-jose/",
-      "published": "2026-06-08T17:59:00+00:00",
+      "title": "Unión Vecinal de Punta Ballena impulsa plantación de árboles junto a la ruta 93 para “transformarla en un paisaje más blando”",
+      "summary": "Preocupa “el deterioro de la identidad del bosque” debido a la tala de árboles asociada al rápido crecimiento de la zona, dijo la directiva Adriana Bértola.La Unión Vecinal de Punta Ballena (UVPB) impulsa un proyecto para plantar árboles junto a la ruta 93, con el objetivo de “integrarla al bosque...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/union-vecinal-de-punta-ballena-impulsa-plantacion-de-arboles-junto-a-la-ruta-93-para-transformarla-en-un-paisaje-mas-blando/",
+      "published": "2026-06-08T21:27:08+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.79,
+      "relevance": 19.28,
       "sources": [
         "La Diaria"
       ]
@@ -595,13 +622,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Mayo: mucha memoria y algunas provocaciones",
-      "summary": "Mayo en Uruguay significa memoria. La creatividad se multiplica en margaritas, huellas, fotografías, música. Cada año la Marcha del Silencio suma nuevas generaciones. Lejos de diluirse con el tiempo, ha devenido en el encuentro democrático más imponente de la sociedad uruguaya. Cada 20 de mayo, esa...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/6/mayo-mucha-memoria-y-algunas-provocaciones/",
-      "published": "2026-06-08T17:32:28+00:00",
+      "title": "El izquierdista Roberto Sánchez pasó en el conteo de las elecciones peruanas a Keiko Fujimori y se encamina a la presidencia",
+      "summary": "Con el cómputo aún en curso, el izquierdista supera a su oponente por menos de un punto porcentual.Continúa el escrutinio de los votos emitidos en la segunda vuelta del proceso electoral que se celebró en Perú el domingo, y de acuerdo con los últimos datos de la Oficina Nacional de Procesos...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/el-izquierdista-roberto-sanchez-paso-en-el-conteo-de-las-elecciones-peruanas-a-keiko-fujimori-y-se-encamina-a-la-presidencia/",
+      "published": "2026-06-08T20:47:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.63,
+      "relevance": 19.03,
       "sources": [
         "La Diaria"
       ]
@@ -609,13 +636,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Helen Velando recibió el reconocimiento a la trayectoria en los premios Bartolomé Hidalgo Infantil y Juvenil",
-      "summary": "La ceremonia de entrega de los premios en las ocho categorías se realizó el sábado; la Feria continúa esta semana.El sábado, en plena Feria del Libro Infantil y Juvenil de Montevideo, se conocieron los ganadores de la segunda entrega del Bartolomé Hidalgo Infantil y Juvenil, que desde 2025 se...",
-      "url": "https://ladiaria.com.uy/libros/articulo/2026/6/helen-velando-recibio-el-reconocimiento-a-la-trayectoria-en-los-premios-bartolome-hidalgo-infantil-y-juvenil/",
-      "published": "2026-06-08T17:24:43+00:00",
+      "title": "Trabajadores de Ambev continúan en la incertidumbre: crece la preocupación por el futuro de la planta",
+      "summary": "La paralización de las actividades está prevista hasta el 31 de julio.Eduardo Alza, representante del Sindicato de Obreros y Empleados de Norteña, manifestó a la diaria que no existen definiciones concretas de la empresa con relación a la continuidad de la operativa a partir de agosto. Según relató...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/trabajadores-de-ambev-continuan-en-la-incertidumbre-crece-la-preocupacion-por-el-futuro-de-la-planta/",
+      "published": "2026-06-08T20:25:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.58,
+      "relevance": 18.9,
       "sources": [
         "La Diaria"
       ]
@@ -623,13 +650,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Cátedra y candombe: crónica de las dos noches de Jorge Drexler en el Antel Arena",
-      "summary": "Con una banda española e invitados locales, el cantautor uruguayo presentó su último disco y reevisitó su cancionero con nuevas versiones.De punta a punta, Jorge Drexler interpretó las canciones de su último disco, Taracá, y se dio otros muchos gustos, acompañado de amigos y colegas, locales y...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/catedra-y-candombe-cronica-de-las-dos-noches-de-jorge-drexler-en-el-antel-arena/",
-      "published": "2026-06-08T17:20:39+00:00",
+      "title": "Transportistas se movilizaron en Nueva Palmira contra la guía electrónica de carga y reclamaron una rebaja del gasoil",
+      "summary": "Los manifestantes cuestionan que la nueva herramienta fue diseñada sin consultar al sector y advierten que generará más burocracia; el gobierno asegura que la guía busca mejorar los controles y que todavía no se aplicarán sanciones.Decenas de transportistas, productores rurales y contratistas se...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/6/transportistas-se-movilizaron-en-nueva-palmira-contra-la-guia-electronica-de-carga-y-reclamaron-una-rebaja-del-gasoil/",
+      "published": "2026-06-08T19:58:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.55,
+      "relevance": 18.73,
       "sources": [
         "La Diaria"
       ]
@@ -637,41 +664,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Liga Uruguaya: Peñarol recibe a Aguada en el Palacio buscando extender la ventaja",
-      "summary": "La segunda final será el martes a las 21.15 y tiene todos los detalles confirmados, quedan pocas entradas a la venta.Peñarol le ganó la primera final a Aguada en el Antel Arena, el segundo partido de la llave al mejor de siete encuentros será el martes a las 21.15 en el Palacio Peñarol Los clubes...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/liga-uruguaya-penarol-recibe-a-aguada-en-el-palacio-buscando-extender-la-ventaja/",
-      "published": "2026-06-08T17:15:34+00:00",
+      "title": "Investigadores del CURE presentarán líneas de trabajo en ecología y gestión ambiental en el este",
+      "summary": "Las ponencias abordarán temas como la exploración de fondos marinos, el monitoreo de ecosistemas antárticos, la ecoacústica, la gestión del agua y la diversidad vegetal, adelantó la docente Mariana Meerhoff.En el marco del Mes del Medio Ambiente, el Departamento de Ecología y Gestión Ambiental...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/investigadores-del-cure-presentaran-lineas-de-trabajo-en-ecologia-y-gestion-ambiental-en-el-este/",
+      "published": "2026-06-08T19:47:25+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.52,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Todo rock es político: pequeño homenaje al único héroe en este lío",
-      "summary": "Intentar resumir lo que significó el Indio Solari para millones de personas es una tarea imposible. Su obra, sus canciones y sus palabras forman parte de la identidad de varias generaciones que encontraron en ellas preguntas, rebeldía, refugio y también esperanza. Leí por ahí que todavía hoy se...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/6/todo-rock-es-politico-pequeno-homenaje-al-unico-heroe-en-este-lio/",
-      "published": "2026-06-08T17:12:51+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.5,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Fideicomisos: Bergara reconoció la “tesitura de diálogo y negociación” que tuvieron los ediles opositores que votaron tres planes",
-      "summary": "El intendente de Montevideo valoró que además de “compartir esta visión de que ahora es tiempo de hacer, las elecciones vendrán dentro de cuatro años y no se puede estar cuatro años con el juego político electoral”, tuvieron “coraje político” para aportar sus votos.El intendente de Montevideo Mario...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/fideicomisos-bergara-reconocio-la-tesitura-de-dialogo-y-negociacion-que-tuvieron-los-ediles-opositores-que-votaron-tres-planes/",
-      "published": "2026-06-08T16:34:52+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.27,
+      "relevance": 18.66,
       "sources": [
         "La Diaria"
       ]
