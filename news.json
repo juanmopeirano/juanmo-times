@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-06-09T17:50:42.546995+00:00",
+  "updated_at": "2026-06-09T23:08:10.599329+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Solo una de cada cuatro empresas tiene planes de jubilación para empleados",
+      "summary": "Las compañías culpan del estancamiento al aumento de costes laborales, según un estudio de KPMG",
+      "url": "https://elpais.com/economia/2026-06-09/solo-una-de-cada-cuatro-empresas-tiene-planes-de-jubilacion-para-empleados.html",
+      "published": "2026-06-09T17:19:06+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/EC77WPVQG5FWHMM2SPXMGUNSIE.jpg?auth=f090089d2a8d169fba8eb5e6450d160ab1c55d7b849b0d3740c48723f232f918",
+      "coverage": 1,
+      "relevance": 19.22,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este martes 9 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeW1rZXkxZ2dKbFBpWDc5NXBZYWRaRUZONXFPXzFidkxiNy0yUTB4Vm5oVlJDNzdtdDlBQ0RPdlVubU9zQ2JhYV8zLU9BVThQekEyczd3V2RWNjFpZG9hTkVncTRfaFFpMkJMdnd2QjQ2N0tVQ1RFSzh6dEhMZVdReFdWSHozQWZLcFAtYUtNRGRKZXRlSmROamhfUUI3U21ucDZSalRVeTlfbUJXeG0wVXBkM010cXNZbzMzStIB1wFBVV95cUxPU043VTlEVVpRWEtoYkxPNzk5VFVVaUdETEVsTTlVRWJQNXhrd1d2WDBSdE0zZ2s4OEVuQWRCN3RDVXNpa2JsemtqRlg0U3VvdXVJUXBzQVc5WjgxaHV5VVBrbk1DdGdYdlh2bHU3WW1jYldqT0t0Ty1lMVB3Z1NRRHVQdUxZc2RQTjZMMXNaUy1ET2ltVlpiZ2dHRjZTV1g2d2t6cHNzOUhoNVdhR1c2aEZwRkxEcmVGbkJTT0E4OVVwdC1SMmJKWUs1bjhwSlRQdWZrZFIxOA?oc=5",
+      "published": "2026-06-09T22:00:38+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.58,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,9 +38,65 @@
       "published": "2026-06-09T15:37:07+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/IHSLAUNPDFBM3EXCA2YSPW3PJA.jpg?auth=b9708cec4dec8ccca38ac740b306d3a3ce69b4559b6a3b750b005ae4da74129a",
       "coverage": 1,
-      "relevance": 20.57,
+      "relevance": 18.58,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este martes 9 de junio?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHo3THB5UVNGTXZIamtTbGFtdTFSTXIzT1lwckp1VVhGelQ2TW9lOGdkUy1pRzJGMTFjSTZ4WUlaT3dBQW1TWWttOWRvTWJGd0xWVnhSOVd2dnpiY2p3N191aG1iYXg0V1NQSW5JdnRlcF9uejVDbnItVVBvOUZnSFVPTFNCdEJOMFJoMTJqb2VXVE52a3hyY0JQb0FPVGVLUkc5clhnM196c1JCUUFDNzZJSms5SDZsYmcwTlpsdmx2T2hQMkloN3N1Rko0ZzBDR2NtM2x2VGtyaUM3Q0Y4SGVzQmZNZHc4clRndm9FUnR0eG8wdHVRQ01uTGVodw?oc=5",
+      "published": "2026-06-09T21:38:11+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.44,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El dólar oficial del Banco Nación bajó, pero el blue subió y se empardaron: a cuánto cerró en San Juan",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcGtKM01PS3pjWC04Ti1XN0xEcWdhS2l6aE5HdHc5WXFkV3ZIWnpCQjJiM0Y1Q3E1dzRxeG9UOGVTa3lOZHRyZ1BGOUhzVzFHZXRaNm9tM2ZuWmh6WEdfbW5oa3EwX1M1b2xfQ1pIcTlwZHktUmd1OXJaZmFyYURyb1k3YW1qWXcwdmxLS1YwTVpYMUFYWllTdmt6LUJ1TjZtYW9QSlhVdTF0Q2x0Vk1SVnktbEQtaEFkdk5ySEhTbnhvNmhRdW1JOVM3ckd1YVJVRmZpS25ocHdmQk5NS0pCUFBqNA?oc=5",
+      "published": "2026-06-09T21:25:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.36,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar y trigo: mercados del 9 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pUTktS2wtVXRNYnUyQzVraXBhQkNBUWcwNlI2ZE1WY210c3UwQ1p5ZHc3dm1NeTR3WEVjdGRFU3J5V0l5TDZfZElfRS1fc1hmOW1lME9Yd2FSUzg?oc=5",
+      "published": "2026-06-09T21:15:47+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.3,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "🔴🔵¿Subió el precio del dólar HOY en Perú? 💵💰 Así cotiza el tipo de cambio tras avance de resultados de la ONPE 👇",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQT2JzNEU3UFJ4ZkpRTl9URjM2eUhyX0NabW5OSjB1N3F5ZmR5SVNlXzZfR1RmTHY2UlNvUVIxRDBFeUFVbVdOYWg5YTlDWGQ4YXFVREd2TUFJS2xndWViZ3N3aXpyRmlkRTJ2VF9DY3FMcTAwTjRud1daZlo4RU8teGV0MHRaSl9hZkNOYUN2Si1jZjBJSVFYN3NBNHFOZkRHaWVNbVBvYlBpUU9sSXpxMVFCM3FoTnpLNFRaajZVWTR1VmVkT0JpWEwwUEJWR3R3RGpIMGtURkI2aW5qX3ZZUkh5U0Vsdk1IeDZNRy0tSEUwYngzTmIwUA?oc=5",
+      "published": "2026-06-09T20:39:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.07,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,105 +108,21 @@
       "published": "2026-06-09T13:38:51+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/AP7TCSBR2JLAFDZQAZOTPBNQZU.jpg?auth=5db6b2cbebc7b48859cd9918e6f4a2297fbd0e4889d0619a39ce96f0dd89679b",
       "coverage": 1,
-      "relevance": 19.83,
+      "relevance": 17.84,
       "sources": [
         "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El Gobierno lanza el programa Verano Joven con descuentos de hasta el 90% para viajes en autobús y tren",
-      "summary": "Los servicios ferroviarios de larga distancia y alta velocidad de Renfe, Iryo y Ouigo tienen una rebaja del 50%, con un tope de 30 euros por billete",
-      "url": "https://elpais.com/economia/2026-06-09/el-gobierno-lanza-el-programa-verano-joven-con-descuentos-de-hasta-el-90-para-viajes-en-autobus-y-tren.html",
-      "published": "2026-06-09T11:39:48+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/4V5K7N22TBCSNKEK334FHQBUJE.JPG?auth=e431726470fe89ccb28fa2e446a44c92afe66bf78b3ebd07bd79bc5e37311ddb",
-      "coverage": 1,
-      "relevance": 19.08,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Inspección refuerza la vigilancia en los trabajos más expuestos al calor, como el campo o la construcción",
-      "summary": "El Consejo de Ministros aprueba varias medidas ante el aumento de las temperaturas, con más información a empresas y seguimiento de las denuncias por estrés térmico",
-      "url": "https://elpais.com/economia/2026-06-09/inspeccion-refuerza-la-vigilancia-en-los-trabajos-mas-expuestos-al-calor-como-el-campo-o-la-construccion.html",
-      "published": "2026-06-09T11:23:52+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/JE4UQTQRKLSIOI5UUQ53LLXIFE.jpg?auth=18f71bf40df0175a5f329587d77e9f741a039b8f39b9fa0da6c706cc355915b9",
-      "coverage": 1,
-      "relevance": 18.98,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La SEPI defiende que tardó casi un año en constatar el conflicto de interés en la fusión de Indra y Escribano",
-      "summary": "La presidenta de la sociedad pública asegura que la primera ocasión que tuvo de pronunciarse fue en diciembre, cuando votó a favor del “encaje estratégico” de una operación que saltó a los medios en abril de 2025",
-      "url": "https://elpais.com/economia/2026-06-09/la-sepi-defiende-que-tardo-casi-un-ano-en-constatar-el-conflicto-de-interes-en-la-fusion-de-indra-y-escribano.html",
-      "published": "2026-06-09T10:26:19+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KGMLLFFB3JORTDCZIKYSJTFJ4E.jpg?auth=dacbc656f4059ed0d18554ebe3f10438acc8290a16283d14e7aa87a08e66ed12",
-      "coverage": 1,
-      "relevance": 18.62,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado contra la realidad”",
-      "summary": "El ministro de Defensa germano alude a problemas desde su concepción: “Con lo que sabemos hoy, ya no lo pondríamos en marcha tal y como se hizo en su momento”",
-      "url": "https://elpais.com/economia/2026-06-09/alemania-se-resigna-ante-el-fin-del-caza-europeo-el-proyecto-se-ha-estrellado-contra-la-realidad.html",
-      "published": "2026-06-09T10:18:36+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/U3OJ65GMLVD5PG4F4QI7L7LLGU.jpg?auth=b0dfc45115c9775835ab7043299d78f2be437f4cb91072a5634c383ad0c65794",
-      "coverage": 1,
-      "relevance": 18.57,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿Cuánto está el dólar este martes 9 de junio?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcHo3THB5UVNGTXZIamtTbGFtdTFSTXIzT1lwckp1VVhGelQ2TW9lOGdkUy1pRzJGMTFjSTZ4WUlaT3dBQW1TWWttOWRvTWJGd0xWVnhSOVd2dnpiY2p3N191aG1iYXg0V1NQSW5JdnRlcF9uejVDbnItVVBvOUZnSFVPTFNCdEJOMFJoMTJqb2VXVE52a3hyY0JQb0FPVGVLUkc5clhnM196c1JCUUFDNzZJSms5SDZsYmcwTlpsdmx2T2hQMkloN3N1Rko0ZzBDR2NtM2x2VGtyaUM3Q0Y4SGVzQmZNZHc4clRndm9FUnR0eG8wdHVRQ01uTGVodw?oc=5",
-      "published": "2026-06-09T15:45:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.21,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Cambió el mercado de ONs: cómo son las nuevas reglas de juego de las emisiones de deuda",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcWY0aEZkaU02eFZxSWtpZ09MVXA4bmRpTnlsUVJ0RUNNck1ORXBNWUtWbnhqZkh4d1dPZ3ZIRjB4RlNGWE9nWFFhMG55dXpzbi1DM0pfQjNiakxYV0pWRmdvcERuTUhFemRWY1ZIV1NLbWRkbG9WNHp3V0d1V01GQ2lwLVByQzdjYlFmaXVDeXZkcFJDcEJyaDcyc293aGJBMVVqajYwaGg4WEVTRHlFS3c4RXJTQ03SAdIBQVVfeXFMUGZCdWx4alFLLXNtazRPbWk5WlpOalEyQTVLMGY1dWk2UDl6SEVhZ1NPSm41Mm1WLWk3ZEpvcmdNS2k2eHBNLVRxRjFydi1RMHRydExLWHFRSVNGWnp3bFFYcDNpQmRlcHBaYktjYW5aS3AxY0taRmlNTmdrYnlVUFNqRklZb0FxZ2VDbktCNTVWWnUxTC1CNXljQzRPYnRzc1dwZXNzWlBPdWxwNlVXY2dWczFVQzF4VGZkU3pHbHJiWFZyek5GckZoa0d2UWhleFVR?oc=5",
-      "published": "2026-06-09T15:11:53+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.01,
-      "sources": [
-        "Google Economía"
       ]
     },
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "El padre Kevin, el sacerdote que evangeliza con una llave inglesa en la mano",
-      "summary": "A primera vista, el garaje de la casa parroquial quizá no sea el lugar donde uno esperaría encontrar una forma particular de acompañamiento pastoral. Sin embargo, para Kevin Schroeder, sacerdote estadounidense de Chesterfield, en Misuri, se ha convertido en un lugar de encuentro, de ayuda mutua y...",
-      "url": "https://es.aleteia.org/2026/06/09/el-padre-kevin-el-sacerdote-que-evangeliza-con-una-llave-inglesa-en-la-mano/",
-      "published": "2026-06-09T16:53:28+00:00",
+      "title": "La trampa de creer que los demás son más felices que uno",
+      "summary": "En una época donde vemos diariamente fotografías de viajes, relaciones aparentemente perfectas, logros profesionales y vidas “ideales” en redes sociales, resulta fácil caer en la trampa de que otros viven mejor, tienen una relación amorosa perfecta, éxito o disfrutan más la vida que nosotros. Pero...",
+      "url": "https://es.aleteia.org/2026/06/09/la-trampa-de-creer-que-los-demas-son-mas-felices-que-uno/",
+      "published": "2026-06-09T21:20:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.84,
+      "relevance": 19.53,
       "sources": [
         "Aleteia"
       ]
@@ -130,41 +130,13 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "El himno que acompaña la cálida acogida del Papa en España",
-      "summary": "Como una banda sonora original, el himno oficial de la visita del Papa a España, “Alza la mirada”, está sonando una y otra vez enlazando actos, uniendo voces y levantando corazones. Distintos músicos compusieron juntos el canto, entre ellos integrantes de Hakuna y del grupo TUYO, Marcos Ricbour,...",
-      "url": "https://es.aleteia.org/2026/06/09/el-himno-que-acompana-la-calida-acogida-del-papa-en-espana/",
-      "published": "2026-06-09T16:04:49+00:00",
+      "title": "Cuatro santos que nos invitan a orar por los sacerdotes",
+      "summary": "Escuchamos decir que la Iglesia atraviesa por una crisis de vocaciones, y, ciertamente, encontramos que los jóvenes tienen muchos distractores que les impiden ver con claridad cuál vocación específica es la que Dios les está regalando. Ya sea en el matrimonio, la vida consagrada, la soltería o el...",
+      "url": "https://es.aleteia.org/2026/06/09/cuatro-santos-que-nos-invitan-a-orar-por-los-sacerdotes/",
+      "published": "2026-06-09T21:06:58+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.54,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "El Papa León XIV se ríe de que la IA “olvida” que él es el pontífice",
-      "summary": "Exactamente dos semanas después de la publicación de su encíclica Magnifica Humanitas, que destacaba las oportunidades y los riesgos de la Inteligencia Artificial, el Papa León XIV aprovechó su viaje a Madrid para ofrecer un ejemplo revelador —aunque con un toque de humor— de sus peligros. El...",
-      "url": "https://es.aleteia.org/2026/06/09/el-papa-leon-xiv-se-rie-de-que-la-ia-olvida-que-el-es-el-pontifice/",
-      "published": "2026-06-09T15:29:23+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.32,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Cataluña: León XIV predicó la “unidad” en la catedral de Barcelona",
-      "summary": "León XIV, que llegó a Barcelona al mediodía, se dirigió a la Catedral de la Santa Cruz y Santa Eulalia para celebrar la Liturgia de las Horas el 9 de junio de 2026. En este cuarto día de su viaje apostólico a España, el Papa elogió la “gran tradición eclesial” de la capital catalana y Leer más… The...",
-      "url": "https://es.aleteia.org/2026/06/09/cataluna-leon-xiv-predico-la-unidad-en-la-catedral-de-barcelona/",
-      "published": "2026-06-09T15:11:38+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.21,
+      "relevance": 19.44,
       "sources": [
         "Aleteia"
       ]
@@ -172,13 +144,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Mozambique, la Iglesia expresa sus condolencias y oraciones por el Obispo asesinado",
-      "summary": "La violenta muerte de monseñor Afonso Osório, el Prelado asesinado el sábado en su residencia, ha sumido a la Iglesia mozambiqueña en el dolor. El presidente de la Conferencia Episcopal invita a los fieles a la oración y la esperanza, y anuncia el programa del funeral. El superior general de los...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/mozambique-la-iglesia-expresa-sus-condolencias-y-oraciones-por.html",
-      "published": "2026-06-09T13:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/6/Dom-Osorio-Citora-Afonso.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "León XIV: En las \"noches\" de nuestra vida no dejemos de buscar y dialogar con Dios",
+      "summary": "En la Vigilia con los jóvenes en el Estadio Olímpico “Lluís Companys” de Barcelona, el Papa advierte que, en una sociedad que pide, rendimiento, vencedores y el culto de la propia imagen, como \"anestéticos\" a la inquietud por dar respuestas a los vacíos y derrotas, al hambre y la sed de amor,...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-vigilia-oracion-estadio-barcelona-buscar-dialogar-con-dios.html",
+      "published": "2026-06-09T18:36:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/09/2026-06-09-viaggio-apostolico-in-spagna---veglia-di-preghiera-al/1781034961874.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.98,
+      "relevance": 19.1,
       "sources": [
         "Vatican News"
       ]
@@ -186,13 +158,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Se inauguró el Congreso Apostólico Mundial de la Misericordia en Vilna",
-      "summary": "Con la concelebración Eucarística presidida por el arzobispo Gintaras Grušas, seguida de una procesión por las calles de la capital lituana, se inauguró el domingo la sexta edición, dedicada al tema \"Construyamos la ciudad de la misericordia\". No está hecha de ladrillos y edificios, sino de...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/inauguro-congreso-apostolico-mundial-misericordia-en-vilna.html",
-      "published": "2026-06-09T12:27:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/08/Il-Congresso-apostolico-mondiale-della-misericordia-a-Vilnius.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "León XIV a los agustinos de Cataluña: Compartan su riqueza espiritual",
+      "summary": "Esta tarde, 9 de junio, el Papa se reunió con un grupo de religiosos y religiosas agustinos de diversas partes de España en la residencia arzobispal de Barcelona, ​​donde, en un ambiente cálido y cordial, pasó aproximadamente media hora con ellos. También estuvieron presentes sus hermanos de la...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-agustinos-de-cataluna-compartan-su-riqueza-espiritual.html",
+      "published": "2026-06-09T17:54:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/09/2026-06-09-viaggio-apostolico-in-spagna---incontro-con-i-membri-/1781026264551.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.78,
+      "relevance": 18.84,
       "sources": [
         "Vatican News"
       ]
@@ -200,13 +172,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "El Papa en Barcelona: Ser testigos y profetas de unidad, acogida, concordia y paz",
-      "summary": "El primer encuentro del León XIV en Barcelona ha tenido lugar en la catedral de la Santa Cruz y de Santa Eulalia para la oración de la Hora Media. En su homilía, el Pontífice recordó que, en la riqueza de los dones recibidos, somos fuertes porque estamos unidos, y estamos unidos porque estamos...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-en-barcelona-ser-testigos-y-profetas-de-unidad-acogida.html",
-      "published": "2026-06-09T12:23:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/09/2026-06-09-viaggio-apostolico-in-spagna---preghiera-dellora-medi/1781007360779.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "El Papa a los delegados de MED26: numerosos retos en el Mediterráneo",
+      "summary": "Tarde de encuentros para León XIV en la ciudad catalana: desde reuniones institucionales hasta encuentros con obispos, jóvenes y diversos agentes sociales que animan el Encuentro Mediterráneo MED26. También se ha confirmado el saludo del Papa al cantante puertorriqueño Bad Bunny. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-se-reune-con-los-delegados-de-med26-bad-bunny.html",
+      "published": "2026-06-09T17:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/09/2026-06-09-viaggio-apostolico-in-spagna---partecipanti-allincont/1781025368741.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.75,
+      "relevance": 18.69,
       "sources": [
         "Vatican News"
       ]
@@ -214,27 +186,97 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "León XIV explica ante los voluntarios el don de la gratuidad",
-      "summary": "“Los cristianos estamos llamados a llevar al mundo la levadura de la generosidad”, dijo el Papa León XIV a los voluntarios en Madrid el 9 de junio de 2026, cuarto día de su visita a España. Antes de partir hacia Barcelona al mediodía, agradeció efusivamente a los donantes y voluntarios que habían...",
-      "url": "https://es.aleteia.org/2026/06/09/leon-xiv-explica-ante-los-voluntarios-el-don-de-la-gratuidad/",
-      "published": "2026-06-09T12:15:30+00:00",
+      "title": "(VIDEO) Europa: herencia de fe que ha marcado su historia",
+      "summary": "¿Puede Europa comprender su identidad sin la fe cristiana que ha inspirado su historia durante siglos? Esa fue una de las preguntas que planteó el Papa León XIV durante un encuentro con representantes del mundo del arte, el deporte y los negocios en Madrid. En un contexto marcado por cambios...",
+      "url": "https://es.aleteia.org/2026/06/09/video-europa-herencia-de-fe-que-ha-marcado-su-historia/",
+      "published": "2026-06-09T19:02:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.1,
+      "relevance": 18.66,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "La lección del abad Serapión para acompañar una conversión",
+      "summary": "He aquí una aventura bastante escabrosa, que conviene no imitar, pues no todo el mundo es Serapión y es recomendable no jugar con fuego. El abad Serapión el Sindonita vivió en el desierto de Egipto entre los años 350 y 400 d. C. El relato recogido en los Apoftegmas de los Padres del desierto evoca...",
+      "url": "https://es.aleteia.org/2026/06/09/la-leccion-del-abad-serapion-para-acompanar-una-conversion/",
+      "published": "2026-06-09T18:27:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.45,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Bad Bunny se reúne con el Papa León XIV en Madrid",
+      "summary": "Una coincidencia de fechas ha despertado la curiosidad desde que el dato se dio a conocer: en Madrid, dos eventos simultáneos atraían la atención del pueblo español, especialmente de los jóvenes: la visita del Papa León XIV y el concierto de Bad Bunny. El cantante puertorriqueño se encontraba a la...",
+      "url": "https://es.aleteia.org/2026/06/09/bad-bunny-se-reune-con-el-papa-leon-xiv-en-madrid/",
+      "published": "2026-06-09T18:12:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.35,
       "sources": [
         "Aleteia"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Eso no es una opción\": la Comisión Europea responde a las críticas de Apple y marca distancias con su relato sobre Siri AI",
-      "summary": "Puede que las novedades de Apple Intelligence nos convenzan más o menos, y puede que Siri AI todavía tenga mucho que demostrar cuando llegue a los dispositivos. Pero hay una realidad bastante concreta para los usuarios europeos: si tienen un iPhone o un iPad, no podrán probar de salida una de las...",
-      "url": "https://www.xataka.com/legislacion-y-derechos/eso-no-opcion-comision-europea-responde-a-criticas-apple-marca-distancias-su-relato-siri-ai",
-      "published": "2026-06-09T17:30:17+00:00",
-      "image": "https://i.blogs.es/86c639/apple-ue-nueva-siri/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Anthropic duplica los límites de Claude por un mes (pero hay truco)",
+      "summary": "Anthropic acaba de anunciar una ampliación temporal de los límites de uso de Claude Cowork, su herramienta de automatización de tareas de trabajo. La medida estará activa durante un mes exacto y afecta únicamente a los planes de pago de la plataforma. Aunque el aumento de los límites de uso es...",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-duplica-limites-claude-cowork/",
+      "published": "2026-06-09T22:14:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/claude-cowork-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 19.86,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "El avión civil más rápido desde el Concorde acaba de firmar su primer récord. La velocidad es solo una parte de la historia",
+      "summary": "Durante años hemos dado por hecho que la aviación civil había dejado de colocar la velocidad en el centro del discurso. La industria se movió hacia otros terrenos: ser más eficiente, alcanzar mayor autonomía y mejorar el confort de los ocupantes, sobre todo en vuelos largos. El Concorde quedó como...",
+      "url": "https://www.xataka.com/movilidad/avion-civil-rapido-concorde-acaba-firmar-su-primer-record-velocidad-solo-parte-historia",
+      "published": "2026-06-09T20:30:17+00:00",
+      "image": "https://i.blogs.es/e8ddde/bombardier-global-8000/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.51,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "La nueva Xbox no se salva de la crisis de la RAM y obliga a Microsoft a «replantearse» Project Helix",
+      "summary": "El desarrollo de Project Helix, la Xbox de próxima generación, se ha topado con un obstáculo complejo y que hoy afecta a toda la electrónica de consumo. Nos referimos a la crisis de la RAM, que se consigue en cantidades muy limitadas y a precios exorbitantes debido a la gran demanda para servidores...",
+      "url": "https://hipertextual.com/videojuegos/xbox-project-helix-crisis-de-ram/",
+      "published": "2026-06-09T21:10:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Project-Helix.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.46,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "España produce tanta energía solar que es la envidia de Europa. Y aun así importa el 70% de la que consume",
+      "summary": "En junio, cuando el sol castiga con más fuerza, la red eléctrica española registra picos de demanda superiores a los 36.800 MW que las renovables cubren con holgura. Somos, en generación eléctrica, la envidia de Europa. Y sin embargo, en este mismo momento, el 70% de la energía que consume nuestra...",
+      "url": "https://www.xataka.com/energia/espana-produce-tanta-energia-solar-que-envidia-europa-asi-importa-70-que-consume",
+      "published": "2026-06-09T20:00:17+00:00",
+      "image": "https://i.blogs.es/9c29de/paneles-solares/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.33,
       "sources": [
         "Xataka"
       ]
@@ -242,13 +284,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Detrás del rey enmascarado en 'El Reino de los Cielos' había una superestrella. Y ni siquiera apareció en los créditos",
-      "summary": "Si te metes en Google y buscas 'El Reino de los Cielos', la película estrenada en 2005 por Rydley Scott, lo primero que encontrarás es una lista con su elenco. En ella hay unas cuentas superestrellas (actores y actrices) que quizás recuerdes de la cinta y una que no te sonará de nada. Y es lógico....",
-      "url": "https://www.xataka.com/cine-y-tv/detras-rey-enmascarado-reino-cielos-habia-superestrella-siquiera-aparecio-creditos",
-      "published": "2026-06-09T17:16:16+00:00",
-      "image": "https://i.blogs.es/f1cccd/rey2/1024_2000.jpeg",
+      "title": "“El chat ha muerto”: OpenAI quiere convertir ChatGPT en una superapp. Los usuarios temen lo peor",
+      "summary": "Declaraciones internas citadas en The Financial Times revelan cómo en OpenAI están preparando el que podría ser el mayor cambio para ChatGPT desde su lanzamiento en noviembre de 2022. La empresa tiene ya 1.000 millones de usuarios de la versión gratuita de sus modelos, pero quiere aumentar el...",
+      "url": "https://www.xataka.com/robotica-e-ia/chat-ha-muerto-openai-quiere-convertir-chatgpt-superapp-usuarios-temen-peor",
+      "published": "2026-06-09T19:30:16+00:00",
+      "image": "https://i.blogs.es/a54654/sam-altman-openai/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.28,
+      "relevance": 19.14,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Meta borra la evidencia de que sus gafas Ray-Ban usarían reconocimiento facial",
+      "summary": "Las gafas inteligentes de Meta llevan meses en el centro de una polémica que la compañía ha intentado minimizar. Un sistema de reconocimiento facial llamado NameTag apareció en el código de la app Meta AI desde febrero sin que nadie lo anunciara ni lo activara. Un día después de que se publicara un...",
+      "url": "https://hipertextual.com/privacidad/meta-gafas-inteligentes-nametag-reconocimiento-facial/",
+      "published": "2026-06-09T20:12:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/ray-ban-meta-mark-zuckerberg.jpg?fit=1024%2C658&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.1,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "La firma que revolucionó el bolso de nylon ahora quiere revolucionar los trajes espaciales",
+      "summary": "La NASA acaba de presentar los trajes que llevarán los astronautas del Programa Artemis en futuros viajes a la Luna. Lo ha hecho junto a las dos compañías encargadas de su diseño: Axiom y Prada. Sí, los del famoso bolso Galleria. Aunque esta vez no han fabricado un elegante bolso de cuero Saffiano...",
+      "url": "https://www.xataka.com/espacio/firma-que-revoluciono-bolso-nylon-ahora-quiere-revolucionar-trajes-espaciales",
+      "published": "2026-06-09T19:00:17+00:00",
+      "image": "https://i.blogs.es/4515cb/traje-artemis-axiom/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.95,
       "sources": [
         "Xataka"
       ]
@@ -256,139 +326,55 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Artemis III nos recuerda a las misiones Apolo de las que tanto se quería resarcir la NASA: ninguna mujer en la tripulación",
-      "summary": "La NASA ha anunciado hoy la tripulación que viajará a bordo de Artemis III y nos hemos encontrado con una sorpresa agradable y otra bastante desagradable. Por un lado, en Artemis II se criticó que no hubiese ningún astronauta europeo, a pesar del importantísimo papel de la Agencia Espacial Europea...",
-      "url": "https://www.xataka.com/espacio/artemis-iii-nos-recuerda-a-misiones-apolo-que-se-queria-resarcir-nasa-ninguna-mujer-tripulacion",
-      "published": "2026-06-09T17:00:17+00:00",
-      "image": "https://i.blogs.es/f7537b/tripulacion-artemis-iii/1024_2000.jpeg",
+      "title": "La gasolina está cara nivel: una app de citas se ha puesto a regalarla para que sus usuarios puedan quedar en persona",
+      "summary": "Las apps de citas están en declive. Tras el boom de la pandemia, apps como Tinder han ido perdiendo usuarios. No ayuda que las apps estén plagadas de bots y que cada vez nos dé más pereza ligar, pero es que ahora se suma un nuevo problema: todo está tan caro que tener citas se ha convertido en un...",
+      "url": "https://www.xataka.com/magnet/gasolina-esta-cara-nivel-app-citas-se-ha-puesto-a-regalarla-sus-usuarios-puedan-quedar-persona",
+      "published": "2026-06-09T18:30:17+00:00",
+      "image": "https://i.blogs.es/40ff5f/magnific_a-hand-holds-a-green-gas-_3gjdjwzrey/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.76,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El cabezazo salvador de Dzodic en el 94' para firmar por fin una final",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/segunda-division/2026/06/10/cabezazo-salvador-dzodic-94-firmar-final-video.html",
+      "published": "2026-06-09T22:18:13+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a28911f77392.jpeg",
+      "coverage": 1,
+      "relevance": 20.19,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Almería 3-2 Castellón | Resumen LaLiga Hypermotion",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/06/10/almeria-3-2-castellon-resumen-laliga-hypermotion-video.html",
+      "published": "2026-06-09T22:16:22+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a2890af55203.jpeg",
       "coverage": 1,
       "relevance": 20.18,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Nintendo revive ‘The Legend of Zelda: Ocarina of Time’ con un remake exclusivo para Switch 2",
-      "summary": "Tras meses de rumores y especulaciones, Nintendo confirmó que The Legend of Zelda: Ocarina of Time tendrá un remake exclusivo para Nintendo Switch 2. El gigante japonés aprovechó su Nintendo Direct más reciente para soltar la bomba junto con otros juegos que llegarán a la consola. El remake de...",
-      "url": "https://hipertextual.com/videojuegos/zelda-ocarina-of-time-remake-switch-2/",
-      "published": "2026-06-09T17:22:32+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/zelda-ocarina-remake-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 20.02,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Contra el calor extremo, los agentes de la Guardia Civil quieren elegir entre la moto o el coche. Y que no lo decidan sus jefes",
-      "summary": "Ha llegado y se ha colocado en el centro del debate. El calor y qué hacer para remediarlo es uno de los temas candentes cada año. Aplicar o no nuevas medidas contra un verano que cada vez llega antes y se marcha más tarde empieza a ser parte recurrente de la conversación general. Desde las aulas y...",
-      "url": "https://www.xataka.com/movilidad/calor-extremo-agentes-guardia-civil-quieren-poder-elegir-moto-coche-que-no-decidan-sus-jefes",
-      "published": "2026-06-09T16:30:17+00:00",
-      "image": "https://i.blogs.es/4ed689/gc-operacion-retorno-700x.jpg_651501337/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.0,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Xataka es Media Partner de VivaTech, el mayor evento de tecnología de Francia con más de 14.000 startups",
-      "summary": "VivaTech es uno de los mayores eventos de tecnología de Europa en general y de Francia en particular. Su próxima entrega, VivaTech 2026, tendrá lugar entre el 17 y el 20 de junio en París, la capital gala, y desde Xataka tenemos el placer de ser Media Partner de esta edición. Va a ser un evento...",
-      "url": "https://www.xataka.com/xataka/xataka-media-partner-vivatech-mayor-evento-tecnologia-francia-14-000-startups",
-      "published": "2026-06-09T16:30:17+00:00",
-      "image": "https://i.blogs.es/36d99f/img_7433/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.0,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Oppo Find X9 Ultra vs Vivo X300 Ultra, dos titanes en fotografía con muchas diferencias en sus cámaras",
-      "summary": "¿En qué te basas a la hora de comprar un móvil? Muchas personas lo hacen priorizando el apartado fotográfico y en la actualidad hay propuestas tan atractivas como el Oppo Find X9 Ultra o el Vivo X300 Ultra. Pero... ¿cuál es mejor? En este artículo los vamos a poner frente a frente para aclarar...",
-      "url": "https://www.xataka.com/seleccion/oppo-find-x9-ultra-vs-vivo-x300-ultra-dos-titanes-fotografia-muchas-diferencias-sus-camaras",
-      "published": "2026-06-09T16:16:16+00:00",
-      "image": "https://i.blogs.es/03b077/moviles-3/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.91,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "NASA anuncia la tripulación de Artemis III: la misión crítica para el regreso a la Luna tiene presencia europea",
-      "summary": "La NASA acaba de dar a conocer quiénes son los astronautas de Artemis III, el paso previo crítico para el regreso de los humanos a la Luna. Un italiano y tres estadounidenses conformarán la tripulación de una misión que intentará asombrar al mundo tanto como lo logró Artemis II poco tiempo atrás....",
-      "url": "https://hipertextual.com/ciencia/nasa-anuncia-tripulacion-artemis-iii/",
-      "published": "2026-06-09T16:51:12+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Artemis-III-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.83,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El Madrid comunica que Arbeloa deja el club",
-      "summary": "El club hace oficial lo que el técnico ya había comunicado",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/09/madrid-comunica-arbeloa-seguira-proxima-temporada.html",
-      "published": "2026-06-09T17:44:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/11/6a0212afde8df.jpeg",
-      "coverage": 1,
-      "relevance": 20.46,
-      "sources": [
         "Marca"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El City prepara una oferta por Balde",
-      "summary": "Medios ingleses aseguran que el canterano está en la órbita del equipo de Manchester",
-      "url": "https://www.marca.com/futbol/barcelona/2026/06/09/barca-expectativa-city-prepara-oferta-balde.html",
-      "published": "2026-06-09T17:22:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/03/28/69c7f0d794505.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El Atlético rechaza 150 millones del Madrid por Julián: se remite a la cláusula",
-      "summary": "El argentino era el 'galáctico' elegido por Florentino y, tras realizarse la oferta por parte del club blanco, los rojiblancos la han denegado",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/09/galactico-150-millones-julian-alvarez.html",
-      "published": "2026-06-09T17:17:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a284a8555cb6.jpeg",
-      "coverage": 1,
-      "relevance": 20.29,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El nuevo 'Duralavita': lo que te perdiste del Gran Premio de Hungría",
+      "title": "Movistar e Inter separan sus caminos: el final a 20 años de éxitos",
       "summary": "",
-      "url": "https://www.marca.com/motor/motogp/2026/06/09/nuevo-dura-vita-te-perdiste-gran-premio-hungria-video.html",
-      "published": "2026-06-09T17:08:24+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/25hhSuvvqHg.jpeg",
+      "url": "https://www.marca.com/futbol/futbol-sala/2026/06/09/movistar-e-inter-separan-caminos-final-20-anos-exitos.html",
+      "published": "2026-06-09T21:46:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a2888c1aafe8.jpeg",
       "coverage": 1,
-      "relevance": 20.24,
+      "relevance": 19.99,
       "sources": [
         "Marca"
       ]
@@ -396,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Una familia ofrece casi 70.000 euros de sueldo al año y alojamiento gratuito por cuidar de su perro",
-      "summary": "La singular oferta de empleo, publicada en Reino Unido, incluye vivienda dentro de una finca en Surrey y busca una persona con experiencia en el cuidado de animales y gestión doméstica",
-      "url": "https://www.marca.com/tiramillas/sociedad/2026/06/09/familia-ofrece-70-000-euros-sueldo-ano-alojamiento-gratuito-cuidar-perro.html",
-      "published": "2026-06-09T16:54:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a28452785b97.jpeg",
+      "title": "Vicky López coge galones en la selección: \"Clasificarse para un Mundial hay que celebrarlo...\"",
+      "summary": "La jugadora del Barcelona anotó dos goles ante Islandia y disputará en Brasil su primer Mundial absoluto",
+      "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/06/09/vicky-lopez-coge-galones-seleccion-clasificarse-mundial-hay-celebrarlo.html",
+      "published": "2026-06-09T21:45:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a2888bba0c07.jpeg",
       "coverage": 1,
-      "relevance": 20.15,
+      "relevance": 19.98,
       "sources": [
         "Marca"
       ]
@@ -410,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Papa León XIV recibió a Bad Bunny y a su familia en el Santiago Bernabéu",
-      "summary": "Este encuentro se había mantenido en secreto hasta ahora",
-      "url": "https://www.marca.com/tiramillas/musica/2026/06/09/papa-leon-xiv-recibio-bad-bunny-familia-santiago-bernabeu-conversaron-tomaron-fotografias.html",
-      "published": "2026-06-09T16:53:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a28417a115b3.jpeg",
+      "title": "Oficial: \"El Madrid pagará la cláusula de Mourinho\"",
+      "summary": "El club comunica que el club blanco pagará los 15 millones de la clásula",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/06/09/benfica-oficial-salida-mourinho-real-madrid.html",
+      "published": "2026-06-09T21:18:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a2882cdcf185.jpeg",
       "coverage": 1,
-      "relevance": 20.14,
+      "relevance": 19.81,
       "sources": [
         "Marca"
       ]
@@ -424,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Antonio Martín: \"Ricky Rubio es una suerte para la Liga Endesa\"",
-      "summary": "El presidente de la ACB repasa la temporada con satisfacción, valora la creación de la Liga U y se siente en deuda con los clubes por el partido televisado en abierto",
-      "url": "https://www.marca.com/baloncesto/acb/2026/06/09/antonio-martin-ricky-rubio-suerte-liga-endesa.html",
-      "published": "2026-06-09T16:24:40+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/l8Inw2wF4Vk.jpeg",
+      "title": "El Almería se mete en la final con un gol agónico de Dzodic",
+      "summary": "Los indálicos, que habían caído en semis en sus últimos tres 'playoffs', remontan y evitan la prórroga con un gol de Dzodic en el 94'",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/06/09/almeria-final.html",
+      "published": "2026-06-09T21:01:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a287dc521d2d.jpeg",
       "coverage": 1,
-      "relevance": 19.96,
+      "relevance": 19.71,
       "sources": [
         "Marca"
       ]
@@ -438,43 +424,43 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Amenazan con reventar el Mundial... y el mercado",
-      "summary": "Una guía para identificar al jugador que, en cada selección, puede convertirse en la sensación del Mundial 2026",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/09/libro-scouting-mundial-2026-48-jugadores-podrian-animar-mercado.html",
-      "published": "2026-06-09T16:22:59+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/06/6a24378d5b6ec.png",
+      "title": "Set y Mundial para España",
+      "summary": "España gana con autoridad a Islandia en Reikiavik y defenderá su corona en Brasil 2027",
+      "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/cronica/2026/06/09/goleada-directas-mundial.html",
+      "published": "2026-06-09T20:48:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a288a2c70aa1.jpeg",
       "coverage": 1,
-      "relevance": 19.95,
+      "relevance": 19.63,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Un gran Barcelona deja seca La Laguna y se adelanta en la semifinal",
+      "summary": "Laprovittola, Shengelia y Brizuela lideran la exhibición ofensiva de los azulgranas, que borraron con su defensa a unos tinerfeños desconocidos",
+      "url": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/09/gran-barcelona-deja-seca-laguna-adelanta-semifinal.html",
+      "published": "2026-06-09T20:13:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a28713beb126.jpeg",
+      "coverage": 1,
+      "relevance": 19.41,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Irán e Israel vuelven a atacarse: ¿chocan Trump y Netanyahu?",
-      "summary": "La relativa calma entre Irán e Israel volvió a romperse con una nueva serie de ataques que amenaza con reactivar uno de los focos de tensión más peligrosos de Oriente Medio. La escalada llega en un momento especialmente delicado, cuando Donald Trump intenta avanzar en una vía diplomática con...",
-      "url": "https://www.france24.com/es/programas/el-debate/20260609-ir%C3%A1n-e-israel-vuelven-a-atacarse-chocan-trump-y-netanyahu",
-      "published": "2026-06-09T15:57:52+00:00",
-      "image": "https://s.france24.com/media/display/b53ca666-2471-11f1-b030-005056bf30b7/w:1024/p:16x9/main-trump-netanyahu-war-v2.jpg",
-      "coverage": 2,
-      "relevance": 30.09,
+      "source": "BBC Mundo",
+      "title": "EE.UU. lanza ataques contra Irán como represalia por el derribo de un helicóptero militar",
+      "summary": "Dos miembros de la tripulación del helicóptero Apache que se estrelló en el mar fueron rescatados por un dron marítimo estadounidense.",
+      "url": "https://www.bbc.com/mundo/articles/c70y4w32y9yo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-09T22:23:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7183/live/2182cba0-642a-11f1-a08b-a904eba6340c.jpg",
+      "coverage": 3,
+      "relevance": 41.42,
       "sources": [
-        "France 24",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Está Líbano en el centro de una nueva escalada bélica entre Israel, Hezbolá e Irán?",
-      "summary": "Líbano es ahora el epicentro del conflicto en Medio Oriente, tras los enfrentamientos entre Israel y Hezbolá, además de las amenazas iraníes de recrudecer sus ataques contra el Estado de mayoría judía si el primer ministro Benjamín Netanyahu sigue atacando a su país vecino. Entretanto, el...",
-      "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260609-est%C3%A1-l%C3%ADbano-en-el-centro-de-una-nueva-escalada-b%C3%A9lica-entre-israel-hezbol%C3%A1-e-ir%C3%A1n",
-      "published": "2026-06-09T14:50:56+00:00",
-      "image": "https://s.france24.com/media/display/893ed3be-6412-11f1-a631-005056a90284/w:1024/p:16x9/capture-6438547256a28282b8d8496-07543877.jpg",
-      "coverage": 2,
-      "relevance": 29.68,
-      "sources": [
+        "BBC Mundo",
         "France 24",
         "Google Noticias"
       ]
@@ -488,7 +474,7 @@
       "published": "2026-06-09T07:37:59+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/613b/live/87b0f110-635b-11f1-8b15-6100cfbc3083.jpg",
       "coverage": 2,
-      "relevance": 27.87,
+      "relevance": 25.89,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -496,28 +482,14 @@
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Trump acusa a Irán de derribar un helicóptero Apache de EE.UU. y promete \"responder\"",
-      "summary": "Dos miembros de la tripulación del helicóptero Apache que se estrelló en el mar fueron rescatados por un dron marítimo estadounidense.",
-      "url": "https://www.bbc.com/mundo/articles/c70y4w32y9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-09T17:41:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7183/live/2182cba0-642a-11f1-a08b-a904eba6340c.jpg",
-      "coverage": 1,
-      "relevance": 21.64,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "France 24",
-      "title": "Trump y Netanyahu: la alianza con una guerra compartida, que expone una creciente fractura",
-      "summary": "La alianza entre Donald Trump y Benjamin Netanyahu fue durante meses el principal motor de la ofensiva militar contra Irán y sus aliados regionales. Sin embargo, los acontecimientos de las últimas semanas han puesto de manifiesto una realidad cada vez más evidente: ambos líderes ya no persiguen los...",
-      "url": "https://www.france24.com/es/medio-oriente/20260609-trump-y-netanyahu-la-alianza-con-una-guerra-compartida-que-expone-una-creciente-fractura",
-      "published": "2026-06-09T16:56:19+00:00",
-      "image": "https://s.france24.com/media/display/fedfab8a-5ec1-11f1-9279-005056a97e36/w:1024/p:16x9/1536ff01a9786729ba646c74d3452a590c64bc6c.jpg",
+      "title": "🔴En vivo: EE. UU. ataca Irán tras el derribo de un helicóptero militar en Ormuz",
+      "summary": "",
+      "url": "https://www.france24.com/es/medio-oriente/20260609-ataques-israel%C3%ADes-dejan-14-muertos-en-el-sur-de-l%C3%ADbano-pese-a-amenazas-de-ir%C3%A1n",
+      "published": "2026-06-09T22:01:33+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.46,
+      "relevance": 20.38,
       "sources": [
         "France 24"
       ]
@@ -525,13 +497,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "¿Cómo opera el ejército de hackers que financia el programa nuclear de Corea del Norte?",
-      "summary": "Durante casi dos décadas, Corea del Norte ha desarrollado una sofisticada red de ciberoperaciones que, según gobiernos occidentales y expertos en seguridad, le permite obtener recursos para financiar su programa nuclear y de misiles. Detrás de estas actividades estarían grupos como Lazarus Group,...",
-      "url": "https://www.france24.com/es/programas/historia/20260609-c%C3%B3mo-opera-el-ej%C3%A9rcito-de-hackers-que-financia-el-programa-nuclear-de-corea-del-norte",
-      "published": "2026-06-09T16:28:43+00:00",
-      "image": "https://s.france24.com/media/display/7279b0e8-6351-11f1-8d73-005056a97e36/w:1024/p:16x9/Image-17.jpeg",
+      "title": "Reino Unido: crece la tensión antiinmigrante tras un brutal ataque con cuchillo en Belfast",
+      "summary": "Autoridades británicas pidieron este martes 9 de junio mantener la calma después de que grupos y figuras de extrema derecha convocaran manifestaciones antiinmigrantes en todo el Reino Unido para condenar un intento de degollamiento en Belfast, Irlanda del Norte. Las protestas estallaron tras la...",
+      "url": "https://www.france24.com/es/europa/20260609-reino-unido-crece-la-tensi%C3%B3n-antiinmigrante-tras-un-brutal-ataque-con-cuchillo-en-belfast",
+      "published": "2026-06-09T21:29:17+00:00",
+      "image": "https://s.france24.com/media/display/76bcf526-6440-11f1-b4fa-005056a97e36/w:1024/p:16x9/AP26160709961466.jpg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 20.18,
       "sources": [
         "France 24"
       ]
@@ -539,13 +511,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "León XIV se estrena en catalán y lleva a Barcelona su mensaje de unidad en segunda etapa de su visita a España",
-      "summary": "La visita del papa León XIV a España entró este martes 9 de junio en una nueva fase con su llegada a Barcelona, donde el pontífice combinó gestos de reconocimiento a la identidad catalana con un renovado llamado a la unidad en un contexto internacional marcado por conflictos, divisiones y desafíos...",
-      "url": "https://www.france24.com/es/europa/20260609-le%C3%B3n-xiv-se-estrena-en-catal%C3%A1n-y-lleva-a-barcelona-su-mensaje-de-unidad-en-segunda-etapa-de-su-visita-a-espa%C3%B1a",
-      "published": "2026-06-09T16:06:24+00:00",
-      "image": "https://s.france24.com/media/display/4996fc14-641c-11f1-ab44-005056a90284/w:1024/p:16x9/2026-06-09T123014Z-2084508891-RC2CQLAQ0S2X-RTRMADP-3-POPE-SPAIN.jpg",
+      "title": "Nuevos ataques rusos en Járkiv; Zelenski celebra acuerdos de cooperación con los países nórdicos",
+      "summary": "Las autoridades ucranianas reportaron nuevos ataques de Moscú contra la región de Járkiv, en el noreste del país. Las hostilidades dejaron zonas con edificios destruidos, vidrios rotos e infraestructuras gravemente afectadas. Entretanto, el presidente ucraniano, Volodímir Zelenski, se reunió en...",
+      "url": "https://www.france24.com/es/video/20260609-nuevos-ataques-rusos-en-j%C3%A1rkiv-zelenski-celebra-acuerdos-de-cooperaci%C3%B3n-con-los-pa%C3%ADses-n%C3%B3rdicos",
+      "published": "2026-06-09T20:41:17+00:00",
+      "image": "https://s.france24.com/media/display/44e5af1a-6441-11f1-abd4-005056bfb2b6/w:1024/p:16x9/ES-20260609-130940-131124-CS.jpg",
       "coverage": 1,
-      "relevance": 20.15,
+      "relevance": 19.88,
       "sources": [
         "France 24"
       ]
@@ -553,13 +525,41 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Irán pone en duda negociaciones con Estados Unidos; Trump asegura que pronto llegarán a un acuerdo",
-      "summary": "Tras el intercambio de ataques entre Irán e Israel durante el 8 de junio, la República Islámica aseguró que esa ofensiva ha supuesto un revés en las negociaciones que llevaba a cabo con Estados Unidos. Irán dice que Israel nunca ha actuado por sí sola y que, a pesar de que el mandatario...",
-      "url": "https://www.france24.com/es/video/20260609-ir%C3%A1n-pone-en-duda-negociaciones-con-estados-unidos-trump-asegura-que-pronto-llegar%C3%A1n-a-un-acuerdo",
-      "published": "2026-06-09T15:40:10+00:00",
-      "image": "https://s.france24.com/media/display/835e6090-6412-11f1-8dad-005056bfb2b6/w:1024/p:16x9/ES-20260609-070322-070737-CS.jpg",
+      "title": "¿Cuál es la importancia de Tiro, uno de los focos de los ataques de Israel en Líbano?",
+      "summary": "Este 9 de junio, el Ejército israelí arremetió nuevamente contra Tiro, la ciudad ubicada a unos 35 kilómetros de la frontera, dejando muertos y heridos. Israel pidió a los residentes desalojar la urbe, que antes de la guerra tenía 200.000 habitantes. Al igual que en la mayoría del sur del país, la...",
+      "url": "https://www.france24.com/es/video/20260609-cu%C3%A1l-es-la-importancia-de-tiro-uno-de-los-focos-de-los-ataques-de-israel-en-l%C3%ADbano",
+      "published": "2026-06-09T20:39:34+00:00",
+      "image": "https://s.france24.com/media/display/5d0253ec-6440-11f1-8ca5-005056a90284/w:1024/p:16x9/ES-20260609-130206-130348-CS.jpg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 19.87,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Directo a… Jerusalén y a las sanciones de Francia y Reino Unido contra Smotrich y grupos de colonos",
+      "summary": "Francia sancionó y vetó la entrada del ministro de Finanzas de Israel y colono Bezalel Smotrich, así como de otros 21 colonos y cuatro líderes de organizaciones colonas, por promover la anexión de Cisjordania ocupada y los asentamientos, además de abogar por la colonización de Gaza y promover una...",
+      "url": "https://www.france24.com/es/video/20260609-directo-a-jerusal%C3%A9n-y-a-las-sanciones-de-francia-y-reino-unido-contra-smotrich-y-grupos-de-colonos",
+      "published": "2026-06-09T20:37:54+00:00",
+      "image": "https://s.france24.com/media/display/e8b1f696-643f-11f1-8fa7-005056a90284/w:1024/p:16x9/ES-20260609-124337-125211-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.86,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Francia veta al ministro de Finanzas israelí por promover la \"recolonización\" de Gaza",
+      "summary": "El canciller francés, Jean-Noël Barrot, anunció este martes 9 de junio que el ministro israelí Bezalel Smotrich tiene prohibido el ingreso al país por impulsar la anexión de Cisjordania y nuevos asentamientos. La medida, coordinada con otros cinco países, incluye también a líderes de organizaciones...",
+      "url": "https://www.france24.com/es/medio-oriente/20260609-francia-veta-al-ministro-de-finanzas-israel%C3%AD-por-promover-la-recolonizaci%C3%B3n-de-gaza",
+      "published": "2026-06-09T20:08:44+00:00",
+      "image": "https://s.france24.com/media/display/506c5c90-53a6-11f1-baac-005056bf30b7/w:1024/p:16x9/1feb1bf88f68a5c6d11dc83105ae24f4a434c5c3.jpg",
+      "coverage": 1,
+      "relevance": 19.68,
       "sources": [
         "France 24"
       ]
@@ -567,10 +567,10 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Uruguay y el último adiós: el recorrido del ómnibus hasta el aeropuerto",
-      "summary": "La delegación partirá a las 23.00 en vuelo chárter rumbo a Cancún.La Asociación Uruguaya de Fútbol (AUF) anunció el recorrido que tomará el ómnibus de la selección, que saldrá desde el Complejo Celeste a las 21.45 rumbo al Aeropuerto Internacional de Carrasco, donde partirá el vuelo chárter con la...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/uruguay-y-el-ultimo-adios-el-recorrido-del-omnibus-hasta-el-aeropuerto/",
-      "published": "2026-06-09T17:44:37+00:00",
+      "title": "Fiscal Carlos Mota: “Hay algo de verdad” cuando se dice que se persiguen más los delitos cometidos por pobres",
+      "summary": "En entrevista con_ la diaria_ el fiscal agregó que aumentaron los delitos, excepto el abigeato.El fiscal Carlos Mota ingresó a la Fiscalía en 1998, por concurso. Actualmente, es titular de la fiscalía de tercer turno en Paysandú. Su periplo hizo que “ingresara como abogado en agosto del año 98. Por...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/fiscal-carlos-mota-hay-algo-de-verdad-cuando-se-dice-que-se-persiguen-mas-los-delitos-cometidos-por-pobres/",
+      "published": "2026-06-09T23:02:06+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.86,
@@ -581,13 +581,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El PIT-CNT hará un paro general parcial este miércoles",
-      "summary": "La consigna es “Por un Uruguay de transformaciones profundas: por justicia social, trabajo y salario”.El PIT-CNT ejecutará este miércoles un paro general parcial, de 9.00 a 13.00, y estará acompañado de una movilización que se concentrará en el Cerro. Los trabajadores de los distintos sindicatos...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/el-pit-cnt-hara-un-paro-general-parcial-este-miercoles/",
-      "published": "2026-06-09T17:03:41+00:00",
+      "title": "Ceremonia de inauguración del Mundial 2026: tres ciudades, varios artistas y después el fútbol",
+      "summary": "El partido entre México y Sudáfrica, en el histórico Estadio Azteca, da inicio a la competencia oficial de una Copa del Mundo inédita, pero antes habrá espectáculos en cada estadio y en cada país anfitrión.Este jueves 11 de junio la cuenta regresiva llega a su fin y se pone en marcha el Mundial de...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/ceremonia-de-inauguracion-del-mundial-2026-tres-ciudades-varios-artistas-y-despues-el-futbol/",
+      "published": "2026-06-09T22:51:38+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.61,
+      "relevance": 19.8,
       "sources": [
         "La Diaria"
       ]
@@ -595,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Ignacio Alonso: “El tratamiento que hizo Araújo ayuda a que sea más rápida su recuperación”",
-      "summary": "El presidente de la Asociación Uruguaya de Fútbol habló sobre el viaje del zaguero del Barcelona a España.Ignacio Alonso habló en el programa Minuto 1 de Carve Deportiva sobre el viaje de Ronald Araújo a realizarse un tratamiento en España. El jugador retornó en la mañana del martes y...Continuar...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/ignacio-alonso-el-tratamiento-que-hizo-araujo-ayuda-a-que-sea-mas-rapida-su-recuperacion/",
-      "published": "2026-06-09T16:57:38+00:00",
+      "title": "La suerte del principiante no puede fallar",
+      "summary": "Empieza la historia de Uruguay en el Mundial 2026 | Redacción al margen, desde Playa del Carmen, México.En el aeropuerto de Cancún, donde hay que aterrizar para luego trasladarse a Playa del Carmen –la gracia de todo esto, porque Uruguay concentrará acá–, la cartelería habla de fútbol, entre el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/la-suerte-del-principiante-no-puede-fallar/",
+      "published": "2026-06-09T22:44:01+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.57,
+      "relevance": 19.75,
       "sources": [
         "La Diaria"
       ]
@@ -609,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La “murga en filarmónica” vuelve al teatro Solís con tres nuevas funciones",
-      "summary": "Los directores Edú Pitufo Lombardo y Martín García reestrenan el espectáculo Celebrar con más de 50 artistas en escena.La primera temporada de Celebrar: la murga en filarmónica ocupó una semana cerca de la primavera del 2025 en el teatro Solís y significó, como sucede cada vez más seguido, un...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/la-murga-en-filarmonica-vuelve-al-teatro-solis-con-tres-nuevas-funciones/",
-      "published": "2026-06-09T16:54:59+00:00",
+      "title": "Mundial 2026: Irán denuncia que se le retiró la cuota de entradas asignada para sus hinchas",
+      "summary": "En un comunicado oficial, la federación iraní plantea dudas sobre “injerencias extradeportivas y consideraciones políticas” en la organización del mundial.La Federación de Fútbol de Irán (FFIRI) publicó este martes un comunicado para denunciar que la organización del Mundial le retiró la cuota de...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/mundial-2026-iran-denuncia-que-se-le-retiro-la-cuota-de-entradas-asignada-para-sus-hinchas/",
+      "published": "2026-06-09T22:30:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.55,
+      "relevance": 19.66,
       "sources": [
         "La Diaria"
       ]
@@ -623,13 +623,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Atento, Bielsa: España derrotó a Perú en el último amistoso antes del Mundial",
-      "summary": "Los europeos ganaron con autoridad 3-1; este martes Arabia Saudita disputará su último encuentro previo.Los rivales de Uruguay ultiman detalles con la disputa de los últimos encuentros amistosos previos a la competencia. En Puebla, México, España le ganó 3-1 a Perú mejorando la imagen que mostró en...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/atento-bielsa-espana-derroto-a-peru-en-el-ultimo-amistoso-antes-del-mundial/",
-      "published": "2026-06-09T15:43:27+00:00",
+      "title": "Parche dorado y cuatro estrellas de verdad",
+      "summary": "La celeste parte al Mundial en el día de su primer título y del nacimiento de la vuelta olímpica, lo que valió que se conmemore el día del fútbol sudamericano.Este 9 de junio, en el Día del Fútbol Sudamericano, la selección uruguaya viajará a México para participar por decimoquinta vez de la fase...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/parche-dorado-y-cuatro-estrellas-de-verdad/",
+      "published": "2026-06-09T21:59:57+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.1,
+      "relevance": 19.47,
       "sources": [
         "La Diaria"
       ]
@@ -637,13 +637,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Sofía Olivera: “Mi padre me dijo que me metiera en el fútbol porque me veía muy felíz”",
-      "summary": "El presente futbolístico de la delantera que pasó de jugar a la pelota por diversión a ser la estrella del clásico femenino.En una época en la que las jugadoras del medio local que más se destacan tienen la posibilidad de salir al exterior, las juveniles son diamantes en bruto para los distintos...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/sofia-olivera-mi-padre-me-dijo-que-me-metiera-en-el-futbol-porque-me-veia-muy-feliz/",
-      "published": "2026-06-09T15:36:32+00:00",
+      "title": "Playa del Carmen, entre el sargazo y la fiebre mundialista",
+      "summary": "Con una de las temporadas bajas más duras de los últimos años, con hoteles que apenas rozan el 30% de ocupación, la ciudad deposita sus esperanzas en el impacto turístico del Mundial 2026.Playa del Carmen atraviesa en junio uno de sus momentos más tranquilos. La baja temporada pegó más fuerte de lo...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/playa-del-carmen-entre-el-sargazo-y-la-fiebre-mundialista/",
+      "published": "2026-06-09T21:51:42+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.06,
+      "relevance": 19.42,
       "sources": [
         "La Diaria"
       ]
@@ -651,29 +651,29 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Héctor Cancela dijo que el reclamo de 6+1 “sigue plenamente vigente” y lo sustenta “la evidencia internacional”",
-      "summary": "El rector de la Udelar apuntó que el incremento de la matrícula pone sobre la mesa que “no importa solo que mucha gente acceda a la universidad”, sino que “también es muy importante la permanencia, la transición entre los sistemas y la protección de las trayectorias educativas”.El gobierno prepara...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/6/hector-cancela-dijo-que-el-reclamo-de-61-sigue-plenamente-vigente-y-lo-sustenta-la-evidencia-internacional/",
-      "published": "2026-06-09T15:22:48+00:00",
+      "title": "Tres militares fueron procesados por la desaparición forzada de Luis Eduardo Chiqui González, ocurrida en diciembre de 1974",
+      "summary": "”Hace 41 años que presentamos la causa, pensé que no lo iba a ver”, dijo la esposa de Luis Eduardo González, Elena Zaffaroni.La jueza en lo penal de 27º turno, Isaura Tórtora, dispuso el procesamiento con prisión de los militares en situación de reforma Glauco Yanone, Mario Aguerrondo y Gustavo...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/6/tres-militares-fueron-procesados-por-la-desaparicion-forzada-de-luis-eduardo-chiqui-gonzalez-ocurrida-en-diciembre-de-1974/",
+      "published": "2026-06-09T21:37:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.98,
+      "relevance": 19.33,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay arriesga a Araujo: viaje exprés para tratar su lesión",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWXhacjZQbzlZTy1KMjk1T21SUUxvd25zVG9DVzJBTlFrX0FjcDNFZ1lWTkFyRXJaVkZGajZvb0dwSUh6NnAzS0NmSHFxVXRqeHVIdkl5SG1aN3VLM0ptWDV0LXlraHl6a1hmZlBXMVdrcFhxNWZnLW9RTWtyWm0tSUVqdWREY3lrVmxMNTVtYjc2ZWg5YkFrVHk3Zk9RRjRwR3ZFRGtvQXRFSF85Q0dPUFpwZjZJY0poSlVjWEltbkhHbU9hRTI3aXBuSkNXcE9k?oc=5",
-      "published": "2026-06-09T17:10:57+00:00",
+      "source": "La Diaria",
+      "title": "El dramaturgo español Juan Mayorga fue declarado Visitante Ilustre de Montevideo",
+      "summary": "“Desde hace mucho tiempo la gente de esta ciudad no ha dejado de abrigarme”, dijo el autor de Reikiavik, actualmente en cartel.El lunes la Intendencia de Montevideo galardonó al dramaturgo español Juan Antonio Mayorga nombrándolo Visitante Ilustre de la ciudad. El director teatral y escritor se...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/el-dramaturgo-espanol-juan-mayorga-fue-declarado-visitante-ilustre-de-montevideo/",
+      "published": "2026-06-09T21:35:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.75,
+      "relevance": 19.32,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     }
   ]
