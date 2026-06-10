@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-10T18:22:59.390449+00:00",
+  "updated_at": "2026-06-10T23:17:47.328468+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,9 +10,23 @@
       "published": "2026-06-10T15:54:43+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/RY7IX35JNVL6FNB6IWWG24E4EY.jpg?auth=cdd806ab1f880205f0c0e778172c44a78f68d7a7e1d1764654d459eea7676029",
       "coverage": 1,
-      "relevance": 20.47,
+      "relevance": 18.63,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Petróleo Brent supera los USD 93: dólar y trigo firmes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNQ0lWeWdFQUZyNklhOHBtaVF4cjU4S3NCcmh0LXdGUFdyN29ScVBBc2VjZUpxdXB5endwNWVLb1BHX2ViMU5KUnc1N2s3T1g0d3lVQmp5SlR1NHZRWEUtOTI4aFdhVGM?oc=5",
+      "published": "2026-06-10T21:11:24+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.21,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,9 +38,37 @@
       "published": "2026-06-10T14:09:22+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/NQJCN5UOG5DN7FTCWFFZ4SYLIA.jpg?auth=66936176eff27e1fc2735bf2cecee5662223896180b1f4801f6bfbcac6ad450c",
       "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 17.97,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La inflación escala hasta el 4,2% en Estados Unidos, la más alta en más de tres años",
+      "summary": "La inflación subyacente repunta una décima en mayo hasta el 2,9%",
+      "url": "https://elpais.com/economia/2026-06-10/la-inflacion-escala-hasta-el-42-en-estados-unidos-la-mas-alta-en-mas-de-tres-anos.html",
+      "published": "2026-06-10T13:10:20+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/NKNPRCTMK5MRLGJIHF2MZKSR4Q.jpg?auth=c5710ed9b0dc502377f029aed8f413c083525552f6075990172cbc328797eea3",
+      "coverage": 1,
+      "relevance": 17.6,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Tipo de cambio hoy en Perú: ¿Cuánto cerró el dólar este miércoles 10 de junio?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNRXVNWUthWnpyZDVhbUtucHc2d0lPM3UzaUIyakhPWl9HNktreHFOZ1JpNm5WNkxrWEtCNFFoNU4zZ1c5NjA5YmpBSkgtbHVZX0dqcTBoclNIODRvUERqOHdQbWVwQ2dWdmp0SmlaSVdHalFXbEVCQVB3eGJFRkE0NnpQakVfbWpWaE9ONnFlZzhwVkFrMDRTZ2VtOXpKR0tfcHlTWnBNZ0oxRlBzS0ZpbDRBTERFNFBYN1I3MmMwODJPZVJFaDVmZzN5RXRZV1djMHZCVnB5bllKd3podGdHNXZMNXhxcDRrblotOGhQbVlRdlgtRWNCOEJqVFF6YXhxeVZR?oc=5",
+      "published": "2026-06-10T19:07:53+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.44,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,23 +80,9 @@
       "published": "2026-06-10T12:16:27+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/6ZXP75WM7ROIPISBGWD5JHUNSY.jpg?auth=f8fed2b659979937f1c49fb04a787be19009f1bdef2da714c6bf5f00610195a9",
       "coverage": 1,
-      "relevance": 19.11,
+      "relevance": 17.27,
       "sources": [
         "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Peso mexicano gana terreno frente al dólar tras moderación de la inflación en Estados Unidos",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZDNvT3F0SzFlMElPd09QVGk4NlB3QnYyWi1KUTRLVVd3SG9SWnNXNE42VmttZi1zQ0ZhbDEtR3hRNEJaZjBRU1hBMHI3M01MdFl6STlYbmtYbjB5WThPNng1Zkg0WnZUNDQtRmRBdXpEVFZobVcxeTdJQ0ZqVDZaMHcxQ1JrLXdwdWZjSTVDb25JSTNDbVV1eFpGVUlmbko0UENzZGZadVZjeHhoVHZ0ZGVFWkNPcVVaQ0YzTGFOQUpnZUI1U294OVlOdmFEZw?oc=5",
-      "published": "2026-06-10T18:09:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.91,
-      "sources": [
-        "Google Economía"
       ]
     },
     {
@@ -66,7 +94,7 @@
       "published": "2026-06-10T17:27:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.65,
+      "relevance": 16.81,
       "sources": [
         "Google Economía"
       ]
@@ -80,263 +108,177 @@
       "published": "2026-06-10T10:20:30+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/VH4TCF2AQVHZBAIXWAMU53J6XQ.jpg?auth=7284275e8c43e0ba333a1790057666ece7cce72b049ffd4c49d46e6cad5b0163",
       "coverage": 1,
-      "relevance": 18.38,
+      "relevance": 16.54,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Las jornadas parciales explican la mitad de la brecha salarial entre hombres y mujeres",
-      "summary": "Un estudio de CC OO indica que el segundo elemento clave es la posible discriminación por sexo y el tercero, la mayor presencia de trabajadoras en los sectores peor remunerados",
-      "url": "https://elpais.com/economia/2026-06-10/las-jornadas-parciales-explican-la-mitad-de-la-brecha-salarial-entre-hombres-y-mujeres.html",
-      "published": "2026-06-10T10:12:36+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KZR7CZQCG5CEXMQWXTLZS5CS4I.jpg?auth=67fb9fb70ef5be937d84e6fb135d00ef03e7b04d8ee43e51a6c92d48305dc170",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "(VIDEO) El sueño de Gaudí que unió a Benedicto XVI y León XIV",
+      "summary": "La historia de la Basílica de la Sagrada Familia queda marcada por dos momentos que ya forman parte de la memoria de la Iglesia. En 2010, Benedicto XVI dedicó el templo y lo elevó a la categoría de Basílica. Dieciséis años después, León XIV regresó al corazón espiritual de la obra de Antoni Gaudí...",
+      "url": "https://es.aleteia.org/2026/06/11/video-el-sueno-de-gaudi-que-unio-a-benedicto-xvi-y-leon-xiv/",
+      "published": "2026-06-10T22:01:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.72,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Por qué una persona es infiel? Y, sobre todo, ¿se puede dejar de serlo?",
+      "summary": "La infidelidad suele considerarse una de las experiencias más dolorosas dentro de una relación de pareja. Cuando ocurre, surgen preguntas difíciles: ¿por qué alguien engaña a quien ama?, ¿la infidelidad es una decisión aislada o un patrón repetitivo?, ¿una persona infiel puede cambiar? Aunque...",
+      "url": "https://es.aleteia.org/2026/06/10/por-que-una-persona-es-infiel-y-sobre-todo-se-puede-dejar-de-serlo/",
+      "published": "2026-06-10T21:57:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.7,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Estas imágenes estarán en las Misas del Papa en Canarias",
+      "summary": "Las Canarias esperan con emoción el momento en que se encontrarán con el papa León XIV, que celebrará dos Misas en donde estarán las imágenes de los santos patronos de Gran Canaria y Santa Cruz de Tenerife: Nuestra Señora del Pino y el Santísimo Cristo de La Laguna. Esta es su historia. La...",
+      "url": "https://es.aleteia.org/2026/06/10/estas-imagenes-estaran-en-las-misas-del-papa-en-canarias/",
+      "published": "2026-06-10T21:40:54+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.59,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "La Sagrada Familia, expresión de una “Biblia de los pobres” para León XIV",
+      "summary": "La Sagrada Familia, un edificio emblemático y suntuoso cuya construcción se prevé que continúe durante unos diez años más, es fruto del genio arquitectónico de Antoni Gaudí, de quien este año 2026 se cumple el centenario de su muerte. Así pues, desde hace un siglo, miles de artesanos, obreros y...",
+      "url": "https://es.aleteia.org/2026/06/10/la-sagrada-familia-expresion-de-una-biblia-de-los-pobres-para-leon-xiv/",
+      "published": "2026-06-10T21:39:26+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.59,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Med26, Czerny: Elevemos la mirada para contemplar un horizonte de paz",
+      "summary": "En su saludo, en nombre de León XIV, a los participantes del encuentro que se celebra hasta el 12 de junio en Barcelona, ​​el Cardenal Prefecto del Dicasterio para el Servicio del Desarrollo Humano Integral destacó cómo el Mediterráneo, cuna de civilizaciones, se ve marcado por conflictos de una...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/med26-czerny-elevemos-la-mirada-para-contemplar-un-horizonte.html",
+      "published": "2026-06-10T19:07:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/10/Card-Czerny-MED26.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.23,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Padre Luispo, cantautor relata su emoción al cantar ante el Papa León XIV",
+      "summary": "El \"golazo\" de la Iglesia de Madrid: Lo dijo el Papa en el Santiago Bernabéu donde no solo vibra con el fútbol; también el lunes se convirtió en el escenario de profundas experiencias de fe, 80 mil personas en una sola ovación de ¡viva el Papa! y en donde, antes del discurso del Papa, hubo un...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/golazo-iglesia-madrid-padre-luispo-relata-emocion-cantar-papa.html",
+      "published": "2026-06-10T18:56:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---seconda-parte-incontro/1780944063154.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.16,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa en la Sagrada Familia: Levantemos el rostro de quienes yacen en el polvo",
+      "summary": "La tarde de este miércoles, 10 de junio, tras la oración ante el Santísimo y la tumba de Gaudí, el Papa León XIV celebró la Eucaristía en la Basílica de la Sagrada Familia de Barcelona y bendijo la torre de Jesucristo. En su homilía alentó dijo que, “como arquitecto ardiente de fe, el venerable...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-leon-xiv-misa-basilica-sagrada-familia-barcelona-10-junio.html",
+      "published": "2026-06-10T18:40:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/10/2026-06-10-viaggio-apostolico-in-spagna---arrivo-alla-sagrada-fa/1781115061898.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.06,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "León XIV en la Sagrada Familia, “símbolo de unidad y concordia para toda España”",
+      "summary": "El momento culminante del quinto día del viaje apostólico del Papa León XIV a España fue la celebración de la Misa en la basílica de la Sagrada Familia el 10 de junio de 2026, centenario de la muerte de Antoni Gaudí. En su homilía, el sucesor de Pedro la aclamó como una “obra maestra...",
+      "url": "https://es.aleteia.org/2026/06/10/leon-xiv-en-la-sagrada-familia-simbolo-de-unidad-y-concordia-para-toda-espana/",
+      "published": "2026-06-10T19:32:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.79,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Microsoft rompe de nuevo Windows 11: la actualización de junio bloquea miles de PCs",
+      "summary": "Microsoft ha confirmado que algunos equipos con Windows 11 tienen problemas para instalar las actualizaciones de seguridad de junio de 2026. El gigante tecnológico reveló un fallo que afecta a los usuarios que migraron desde Windows 10 a la versión más reciente del sistema operativo. Aunque el...",
+      "url": "https://hipertextual.com/software/microsoft-rompe-de-nuevo-windows-11-la-actualizacion-de-junio-bloquea-miles-de-pcs/",
+      "published": "2026-06-10T21:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/Windows-11-problemas-scaled.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.53,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Ubisoft profundiza sus recortes: cierra otros dos estudios y prepara despidos en Barcelona",
+      "summary": "En medio de una reestructuración que parece eterna, Ubisoft continúa con recortes. Según reportan The Game Business y IGN, la firma francesa cierra los estudios de Winnipeg y Belgrado. Las sedes en Canadá y Serbia se suman a las de Leamington, Estocolmo y Halifax, que también bajaron las persianas...",
+      "url": "https://hipertextual.com/videojuegos/ubisoft-cierra-estudios-prepara-despidos-barcelona/",
+      "published": "2026-06-10T20:15:56+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/03/ubisoft.jpg?fit=1024%2C596&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.06,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Windows 11 tiene una función que te ahorrará los peores dolores de cabeza con tu impresora",
+      "summary": "Microsoft ha decidido cambiar de estrategia para solucionar uno de los problemas más desesperantes que han acompañado a Windows durante décadas. La gestión de impresoras siempre ha estado llena de errores, fallos de compatibilidad y configuraciones que frustran a miles de usuarios. Debido a ello,...",
+      "url": "https://hipertextual.com/tecnologia/windows-ready-print-impresoras-windows-11/",
+      "published": "2026-06-10T19:29:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/09/impresora-01.jpg?fit=1024%2C768&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.77,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Google lanza una IA que genera texto diez veces más rápido que ChatGPT (y es gratis)",
+      "summary": "Google ha presentado DiffusionGemma, un modelo experimental de inteligencia artificial que cambia la forma como se genera el texto. A diferencia de los modelos actuales, este no construye las respuestas palabra por palabra, sino que lo hace en bloques completos, y eso lo vuelve mucho más rápido. De...",
+      "url": "https://hipertextual.com/inteligencia-artificial/diffusiongemma-modelo-ia-google-generacion-texto-rapida/",
+      "published": "2026-06-10T18:20:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/diffusion-gemma-google.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
       "relevance": 18.34,
       "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar en Perú rebota tras desplome y el resultado electoral mantiene en vilo al mercado",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdW9HVmNKUzBHc0k0bWhoRm1wZzEwdXlBNmIwdFNXc2ltcERwZXV2Z1ozNTlvMkl4aFNKNUpIYVNKT3pnUFFQSjZob2NOZTdxZ3Z2R3VUUl9GVFpJSUJEMWRSTkJtcUdRV1ZES182UTVVdDR2V0dOcEhBdmozc3E0UWY3WnU1SV9TeVIwQ25kaDVMR21BNmdaZVk3TkZ0QXI0ZGUwNFpQN0hLZ2NsZElMbWRXNnhpdkQzV0EwYXh3em5uWUdFN3BKaTZWQ2g1ajhjbnFPb2YyMy1uMUHSAdsBQVVfeXFMT3VvR1ZjSlMwR3NJNG1oaEZtcGcxMHV5QTZiMHRTV3NpbXBEcGV1dmdaMzU5bzJJeGhTSjVKSGFTSk96Z1BRUEo2aG9jTmU3cWd2dkd1VFJfRlRaSUlCRDFkUk5CbXFHUVdWREtfNlE1VXQ0dldHTnBIQXZqM3NxNFFmN1p1NUlfU3lSMENuZGg1TEdtQTZnWmVZN05GdEFyNGRlMDRaUDdIS2djbGRJTG1kVzZ4aXZEM1dBMGF4d3publlHRTdwSmk2VkNoNWo4Y25xT29mMjMtbjFB?oc=5",
-      "published": "2026-06-10T14:50:19+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.67,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Vamos a golpearles con fuerza de nuevo\": Trump amenaza a Teherán después de que EE.UU. e Irán intercambiaran nuevos ataques",
-      "summary": "Dos miembros de la tripulación del helicóptero Apache que se estrelló en el mar fueron rescatados por un dron marítimo estadounidense.",
-      "url": "https://www.bbc.com/mundo/articles/c70y4w32y9yo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T17:25:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/127b/live/d754c2e0-64c4-11f1-8f51-b550443b533b.jpg",
-      "coverage": 2,
-      "relevance": 31.34,
-      "sources": [
-        "BBC Mundo",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "La inflación se dispara en EE.UU. hasta el 4,2%, la más alta de los últimos tres años",
-      "summary": "Los consumidores sienten cada vez más la presión de la guerra entre Estados Unidos e Israel en Irán",
-      "url": "https://www.bbc.com/mundo/articles/c5yzrj7gwero?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T15:37:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bbd/live/729d0bb0-64e1-11f1-bac9-d90357f227c3.jpg",
-      "coverage": 2,
-      "relevance": 30.66,
-      "sources": [
-        "BBC Mundo",
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Las costuras sueltas del Mundial 2026: entre tiroteos, requisas, promesas de redadas, visas negadas y tensiones con Irán",
-      "summary": "Se esperaba que el Mundial de fútbol 2026 en Norteamérica fuera un torneo lleno de polémicas, pero la acumulación de pequeños y grandes escándalos cuando faltan apenas horas para el puntapié inicial está superando cualquier predicción. Desde las restricciones a la selección de Irán hasta una...",
-      "url": "https://www.france24.com/es/deportes/20260610-las-costuras-sueltas-del-mundial-2026-entre-tiroteos-requisas-promesas-de-redadas-visas-negadas-y-tensiones-con-ir%C3%A1n",
-      "published": "2026-06-10T18:21:13+00:00",
-      "image": "https://s.france24.com/media/display/22d4186e-64f3-11f1-b60d-005056a90284/w:1024/p:16x9/AP26158480084666.jpg",
-      "coverage": 1,
-      "relevance": 20.79,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Netanyahu confirma su candidatura a comicios israelíes, mientras mantiene abiertos sus frentes de guerra",
-      "summary": "El primer ministro de Israel, Benjamin Netanyahu, se postulará para un nuevo mandato este año, anunció su partido político Likud este miércoles 10 de junio. La confirmación llega después de que el mandatario estadounidense, Donald Trump, junto a quien lanzó la guerra contra Teherán que mantiene en...",
-      "url": "https://www.france24.com/es/medio-oriente/20260610-netanyahu-confirma-su-candidatura-a-comicios-israel%C3%ADes-mientras-mantiene-abiertos-sus-frentes-de-guerra",
-      "published": "2026-06-10T17:53:26+00:00",
-      "image": "https://s.france24.com/media/display/afd8eaf4-6256-11f1-a6ce-005056bfb2b6/w:1024/p:16x9/36a8489f5a3b17a5ee5f78c7e1454d91b5f4c67e.jpg",
-      "coverage": 1,
-      "relevance": 20.62,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Belfast en llamas: familia de víctima de apuñalamiento pide no usar su tragedia para discurso antimigratorio",
-      "summary": "La familia de Stephen Ogilvie, quien perdió el ojo izquierdo tras un ataque por apuñalamiento, llamó a la calma tras los disturbios antiinmigrantes que sacuden Belfast y otras zonas de Irlanda del Norte. Entretanto, el sospechoso, Hadi Alodid, compareció ante la Justicia y las autoridades refuerzan...",
-      "url": "https://www.france24.com/es/europa/20260610-belfast-en-llamas-familia-de-v%C3%ADctima-de-apu%C3%B1alamiento-pide-no-usar-su-tragedia-para-discurso-antimigratorio",
-      "published": "2026-06-10T17:12:36+00:00",
-      "image": "https://s.france24.com/media/display/b84a783a-64d9-11f1-b619-005056a90284/w:1024/p:16x9/AP26160759107802.jpg",
-      "coverage": 1,
-      "relevance": 20.36,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Un escenario apocalíptico\": el brutal ataque con cuchillo a un hombre que desató violentas protestas en Belfast",
-      "summary": "Un brutal ataque con cuchillo del que se acusa a un refugiado sudanés desató una violenta oleada de protestas en Irlanda del Norte, en las que familias enteras se vieron obligadas a huir aterrorizadas de sus hogares.",
-      "url": "https://www.bbc.com/mundo/articles/cjwg09lpe57o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-10T14:47:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg",
-      "coverage": 1,
-      "relevance": 20.35,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Inflación sin techo en EE. UU.: en mayo se trepa al 4,2% por alzas en combustibles",
-      "summary": "La variación del índice de precios al consumidor en Estados Unidos se aceleró en mayo a su ritmo más rápido en tres años, debido a que el conflicto en Medio Oriente elevó el precio de la gasolina y otros productos energéticos, lo que complica los planes del nuevo presidente de la Reserva Federal en...",
-      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260610-inflaci%C3%B3n-sin-techo-en-ee-uu-en-mayo-se-trepa-al-4-2-por-alzas-en-combustibles",
-      "published": "2026-06-10T16:41:24+00:00",
-      "image": "https://s.france24.com/media/display/6bb66982-64e0-11f1-aa17-005056bf30b7/w:1024/p:16x9/AP26134758912560.jpg",
-      "coverage": 1,
-      "relevance": 20.17,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "La FIFA retira el 8% de las entradas a Irán a horas del inicio del Mundial 2026",
-      "summary": "El Mundial 2026 aún no ha empezado y el camino de Irán ya está plagado de obstáculos. Varios integrantes del cuerpo técnico no han podido viajar por falta de visado y ahora los aficionados también están viviendo dificultades. Al igual que todos los equipos participantes, la federación iraní tenía...",
-      "url": "https://www.france24.com/es/video/20260610-la-fifa-retira-el-8-de-las-entradas-a-ir%C3%A1n-a-horas-del-inicio-del-mundial-2026",
-      "published": "2026-06-10T16:11:32+00:00",
-      "image": "https://s.france24.com/media/display/0629ca12-64d8-11f1-8cd3-005056bf30b7/w:1024/p:16x9/ES-20260610-070506-070630-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.98,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "León XIV: La vida no es una carrera en solitario, se juega en equipo",
-      "summary": "En el encuentro con las realidades diocesanes de caridad y asistencia, el Papa, además de recalcar su afición al tenis, que no hay que abandonar a los abuelos o que hay que aprender a perdonar, recordó que el cristiano además de ser bondadoso, compasivo y desinteresado, debe ser consciente de que...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-barcelona-pastoral-social-iglesia-de-san-agustin.html",
-      "published": "2026-06-10T17:17:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/10/2026-06-10-viaggio-apostolico-in-spagna---incontro-con-le-realta/1781106064777.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 20.39,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "7 razones católicas para ver el Mundial 2026",
-      "summary": "Para muchos, la llegada de la Copa Mundial provoca la misma reacción cada cuatro años. ¿Qué es lo que nos emociona tanto? Aquí hay unas razones católicas para llevar el espíritu futbolero, pues la Copa del Mundo tiene bastante en común con la fe. Si necesitabas el respaldo papal, el Papa Francisco...",
-      "url": "https://es.aleteia.org/2026/06/10/7-razones-catolicas-para-ver-el-mundial-2026/",
-      "published": "2026-06-10T16:47:49+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.61,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Sudán, República Democrática del Congo, Colombia: la otra geografía de las guerras",
-      "summary": "Según el Consejo Noruego para los Refugiados, las crisis de desplazamiento más ignoradas del mundo no se reparten al azar por el planeta: siguen una trayectoria precisa, cruel y repetitiva. Sudán ocupa el primer puesto de esta clasificación poco envidiable, como una herida abierta que no parece...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/sudan-republica-democratica-del-congo-colombia-guerra.html",
-      "published": "2026-06-10T14:10:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/04/30/09/1777533413847.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.22,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "5 mitos sobre el culto al Sagrado Corazón de Jesús",
-      "summary": "Junio es el mes del Sagrado Corazón de Jesús. Cada día rezamos la letanía y contemplamos su amor por nosotros. Pero, ¿estamos seguros de que entendemos bien este culto? He aquí cinco mitos sobre el culto al Sagrado Corazón de Jesús. Parece que el culto al Corazón consiste en rezar al… corazón, como...",
-      "url": "https://es.aleteia.org/2026/06/10/5-mitos-sobre-el-culto-al-sagrado-corazon-de-jesus/",
-      "published": "2026-06-10T15:44:57+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.21,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Los pilotos comparten su experiencia tras recibir al Papa en la cabina de mando",
-      "summary": "El Papa León XIV pasó parte de su vuelo a Barcelona en un asiento inusual: la cabina de mando. Invitado por el capitán a pasar al frente, el Pontífice presenció el despegue junto a la tripulación y observó cómo un F-18 de la Fuerza Aérea Española, pilotado por el jefe del Escuadrón 151 del Ala Leer...",
-      "url": "https://es.aleteia.org/2026/06/10/los-pilotos-comparten-su-experiencia-tras-recibir-al-papa-en-la-cabina-de-mando/",
-      "published": "2026-06-10T15:37:34+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.17,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "León XIV confía su pontificado a la Virgen de Montserrat",
-      "summary": "León XIV visitó el santuario catalán de Nuestra Señora de Montserrat y rindió homenaje a su Virgen Negra, la Moreneta , el 10 de junio de 2026. “Depositemos hoy a sus pies la armadura que poco a poco ha endurecido nuestros corazones”, exhortó, encomendando su propia misión a esta Virgen considerada...",
-      "url": "https://es.aleteia.org/2026/06/10/leon-xiv-confia-su-pontificado-a-la-virgen-de-montserrat/",
-      "published": "2026-06-10T14:05:53+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.59,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Párroco de San Agustín: “Será una alegría recibir al Papa en esta parroquia humilde”",
-      "summary": "La visita del Papa León XIV a la parroquia de San Agustín, en el barrio barcelonés del Raval, tendrá un significado especial para el párroco, Faustin John Mlelwa, quien conoció al Pontífice hace más de dos décadas durante una visita pastoral a Tanzania y ahora espera reencontrarse con él en una de...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/parroco-san-agustin-alegria-visita-papa-leon-barcelona.html",
-      "published": "2026-06-10T12:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/09/DSC02247.JPG.jpeg.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.41,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa pide en Montserrat que la comunión sea más fuerte que toda división",
-      "summary": "León XIV ha visitado la Abadía de Nuestra Señora de Montserrat y reza el Rosario con los fieles allí reunidos. En su discurso, el Pontífice ha recordado que Jesús “nos muestra el camino de la misericordia, la reconciliación, la verdad y la mansedumbre”. Al mismo tiempo que “desenmascara la...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-pide-en-montserrat-que-la-comunion-sea-mas-fuerte.html",
-      "published": "2026-06-10T11:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/10/2026-06-10-viaggio-apostolico-in-spagna---preghiera-de-santo-ros/1781093466290.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.16,
-      "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
@@ -348,7 +290,7 @@
       "published": "2026-06-10T17:39:46+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Moana-remake.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.93,
+      "relevance": 18.09,
       "sources": [
         "Hipertextual"
       ]
@@ -362,7 +304,7 @@
       "published": "2026-06-10T15:41:11+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/09/Samsung-Galaxy-Watch-Ultra-3.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.19,
+      "relevance": 17.35,
       "sources": [
         "Hipertextual"
       ]
@@ -376,7 +318,7 @@
       "published": "2026-06-10T14:42:14+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/byd-dolphin-g-01.jpg?fit=1024%2C682&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.82,
+      "relevance": 16.98,
       "sources": [
         "Hipertextual"
       ]
@@ -390,63 +332,7 @@
       "published": "2026-06-10T13:56:33+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/MacBook-Air-M5-11-scaled.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.53,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Xbox explora nuevas opciones para que su próxima consola sea más asequible",
-      "summary": "Los detalles sobre Project Helix, la Xbox de próxima generación, todavía son escasos. Sin embargo, por estos días ha quedado claro que la sucesora de las Xbox Series X|S no es inmune a la crisis de componentes que golpea a toda la electrónica de consumo. Y desde Microsoft sostienen que van a atacar...",
-      "url": "https://hipertextual.com/videojuegos/xbox-explora-nuevas-opciones-project-helix-sea-mas-asequible/",
-      "published": "2026-06-10T13:54:04+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/01/Xbox-ahorro-energetico.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 18.52,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Mira el sorprendente tráiler de ‘The Social Reckoning’, la secuela de ‘La red social’ con Jeremy Strong (‘Succession’) como Mark Zuckerberg",
-      "summary": "El primer tráiler de la esperada The Social Reckoning (La red social 2) acaba de salir a la luz. La secuela del éxito de 2010 llegará este mismo año a los cines para seguir indagando en la historia de Facebook y de Mark Zuckerberg. De nuevo, el objetivo pasa por ser una de las grandes […] Seguir...",
-      "url": "https://hipertextual.com/cine-television/mira-el-sorprendente-trailer-de-the-social-reckoning-la-secuela-de-la-red-social-con-jeremy-strong-succession-como-mark-zuckerberg/",
-      "published": "2026-06-10T13:42:19+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/La-red-social-2.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 18.45,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "La nueva IA de Google para traducir en tiempo real es una locura: se integra con tus apps y habla igual que tú",
-      "summary": "Google acaba de lanzar una nueva IA que no vas a dejar de usar. La compañía ha presentado Gemini 3.5 Live Translate, una versión de su modelo de lenguaje capaz de traducir en tiempo real y que, además, se integra a la perfección en algunas de las plataformas de la marca, como Google Meet o […]...",
-      "url": "https://hipertextual.com/tecnologia/la-nueva-ia-de-google-para-traducir-en-tiempo-real-es-una-locura-se-integra-con-tus-apps-y-habla-igual-que-tu/",
-      "published": "2026-06-10T11:25:46+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/3-5_Live_Translate.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 17.59,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Nuevo miedo desbloqueado con ChatGPT. Por su culpa te pueden robar mientras compras en Amazon o cualquier tienda",
-      "summary": "ChatGPT tiene un nuevo problema. Y no es pequeño, precisamente. El chatbot de OpenAI ha sido cazado haciendo recomendaciones fraudulentas, haciendo que muchos usuarios expongan sus datos bancarios y pierdan incluso dinero con algunas compras. ¿Cómo? Los delincuentes han encontrado la forma de no...",
-      "url": "https://hipertextual.com/inteligencia-artificial/nuevo-miedo-desbloqueado-con-chatgpt-por-su-culpa-te-pueden-robar-mientras-compras-en-amazon-o-cualquier-tienda/",
-      "published": "2026-06-10T10:31:10+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/chatgpt.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 17.25,
+      "relevance": 16.69,
       "sources": [
         "Hipertextual"
       ]
@@ -454,13 +340,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Los 'Hispanos' se medirán con Croacia, Chile y Turquía en la primera fase del Mundial 2027",
-      "summary": "La selección española disputará los encuentros de la primera ronda en el SAP Garden de Múnich",
-      "url": "https://www.marca.com/balonmano/mundial/2026/06/10/hispanos-mediran-croacia-chile-turquia-primera-fase-mundial-2027.html",
-      "published": "2026-06-10T18:03:15+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29a5446e5b9.jpeg",
+      "title": "Gordon escampa el 'nubarrón' de Inglaterra",
+      "summary": "El flamante fichaje del Barcelona asistió a Rice y marcó de penalti en el discreto triunfo ante Costa Rica (3-0) que cerró la preparación mundialista de los 'Three Lions'",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/11/gordon-escampa-nubarron-inglaterra.html",
+      "published": "2026-06-10T23:04:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/11/6a29eac71d35c.jpeg",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 20.42,
       "sources": [
         "Marca"
       ]
@@ -468,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Me planté en mi presentación con el Milan medicado, sin saber qué hacía\"",
-      "summary": "El delantero habla sin tapujos con Mario Suárez de su pasado, presente y futuro",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/10/entrevista-sincera-morata-llamada-luis-fuente-fichaje-frustrado-barca.html",
-      "published": "2026-06-10T17:49:14+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29a30a11cfc.jpeg",
+      "title": "Málaga 1-1 Las Palmas | Resumen LaLiga Hypermotion",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/06/11/malaga-1-1-palmas-resumen-laliga-hypermotion-video.html",
+      "published": "2026-06-10T22:01:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/11/6a29dea837693.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 20.02,
       "sources": [
         "Marca"
       ]
@@ -482,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ramis: \"Un vestuario necesita liderazgo y energía\"",
-      "summary": "\"No vamos a ser un equipo defensivo pero sí un equipo que defienda bien\", aseguró el nuevo técnico rojillo en su presentación",
-      "url": "https://www.marca.com/futbol/osasuna/2026/06/10/ramis-vestuario-necesita-liderazgo-energia.html",
-      "published": "2026-06-10T17:49:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29a376333d8.jpeg",
+      "title": "Conceiçao saca brillo a Portugal",
+      "summary": "Un golazo del jugador de la Juve resuelve el último ensayo luso antes del Mundial",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/10/conceicao-saca-brillo-portugal.html",
+      "published": "2026-06-10T21:45:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29d816c8927.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 19.92,
       "sources": [
         "Marca"
       ]
@@ -496,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Fin al lío: la FIA y los equipos cambian el reparto de los motores de la F1",
-      "summary": "No se llegará al objetivo del 60/40 hasta 2028, pero comprende de un cambio progresivo",
-      "url": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/10/lio-fia-equipos-cambian-reparto-motores-f1.html",
-      "published": "2026-06-10T17:47:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29a30c4dc19.jpeg",
+      "title": "El Mundial se topa con la realidad",
+      "summary": "Tiroteos, restricciones migratorias, problemas en las concentraciones y advertencias por fauna peligrosa alimentan las dudas en la cuenta atrás del torneo",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/10/mundial-topa-realidad-problemas-preocupan-selecciones.html",
+      "published": "2026-06-10T21:43:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a28726bf0adf.png",
       "coverage": 1,
-      "relevance": 20.28,
+      "relevance": 19.91,
       "sources": [
         "Marca"
       ]
@@ -510,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Mundial del dinero: el triple que en 2006, Francia y Lamine los más caros y el exceso de minutos de España",
-      "summary": "El Big 5 acapara más de un tercio del valor total, mientras que la Premier League aporta casi el doble de jugadores que cualquier otra liga",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/10/mundial-dinero-triple-2006-francia-lamine-caros-exceso-minutos-espana.html",
-      "published": "2026-06-10T17:44:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/09/6a28284f9bdad.png",
+      "title": "Aguirre, a MARCA antes del debut de México: \"Tengo muchos amigos en España y siento su apoyo\"",
+      "summary": "El seleccionador del Tri contestó a nuestra inquietud en la rueda de Prensa previa al inaugural de mañana",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/10/aguirre-marca-debut-mexico-amigos-espana-siento-apoyo.html",
+      "published": "2026-06-10T21:37:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29d5d466189.jpeg",
       "coverage": 1,
-      "relevance": 20.26,
+      "relevance": 19.87,
       "sources": [
         "Marca"
       ]
@@ -524,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Valencia - Joventut, en directo",
-      "summary": "Sigue el partido y consulta cómo va el Valencia Basket contra el Asisa Joventut",
-      "url": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/10/6a2994dbcf1a9beb615f19d3.html",
-      "published": "2026-06-10T17:42:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29a543e98d7.jpeg",
+      "title": "\"No le voy a dar la mano a Justin\"",
+      "summary": "El 'Matador' habló con MARCA y otros medios españoles en el Media Day de UFC Casa Blanca",
+      "url": "https://www.marca.com/combates-ufc/2026/06/10/ilia-topuria-le-dar-mano-justin-gaethje.html",
+      "published": "2026-06-10T21:34:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29d70e9cb87.jpeg",
       "coverage": 1,
-      "relevance": 20.25,
+      "relevance": 19.86,
       "sources": [
         "Marca"
       ]
@@ -538,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Getafe cambia el 'Día del padre' para anunciar la renovación de Bordalás",
-      "summary": "El alicantino firma para las próximas dos temporadas",
-      "url": "https://www.marca.com/futbol/getafe/2026/06/10/getafe-cambia-dia-padre-anunciar-renovacion-jose-bordalas.html",
-      "published": "2026-06-10T17:32:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a299f9761a63.jpeg",
+      "title": "El Málaga quiere viajar en Primera",
+      "summary": "Supera a la UD al neutralizar Joaquín el tempranero gol de Jesé y jugará la final del ascenso ante el Almería",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/06/10/malaga-quiere-viajar-primera.html",
+      "published": "2026-06-10T20:57:18+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29d0a87c67f.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 19.62,
       "sources": [
         "Marca"
       ]
@@ -552,27 +438,139 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ambientazo en La Rosaleda y onces confirmados",
-      "summary": "Sigue el partido y consulta cómo va el Málaga contra Las Palmas",
-      "url": "https://www.marca.com/futbol/segunda-division/2026/06/10/01-0102-20260610-182-407.html",
-      "published": "2026-06-10T17:30:00+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/17811135861770.jpeg",
+      "title": "“Si tengo que demostrarle algo a alguien, es a mí mismo, a mis padres, a mi esposa y a mi hijo”",
+      "summary": "El jugador brasileño compareció en rueda de prensa",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/10/raphinha-demostrarle-alguien-mi-mis-padres-mi-esposa-mi-hijo.html",
+      "published": "2026-06-10T20:56:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/10/6a29ce9b67214.jpeg",
       "coverage": 1,
-      "relevance": 20.17,
+      "relevance": 19.62,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "EE.UU. lanza nuevos ataques contra Irán después de que Trump amenazara con \"golpear con fuerza\" al país ante la falta de acuerdo",
+      "summary": "El Mando Central de EE.UU. (Centcom) dijo que los ataques son \"en respuesta a la agresión injustificada y continuada de Irán\".",
+      "url": "https://www.bbc.com/mundo/articles/cx23n125658o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T22:17:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab1a/live/eeb250c0-6518-11f1-b280-8babe0ebcc6b.jpg",
+      "coverage": 1,
+      "relevance": 21.32,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "\"Un escenario apocalíptico\": el brutal ataque con cuchillo a un hombre que desató violentas protestas en Belfast",
+      "summary": "Un brutal ataque con cuchillo del que se acusa a un refugiado sudanés desató una violenta oleada de protestas en Irlanda del Norte, en las que familias enteras se vieron obligadas a huir aterrorizadas de sus hogares.",
+      "url": "https://www.bbc.com/mundo/articles/cjwg09lpe57o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-10T21:27:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/558b/live/8cc28120-644e-11f1-b1db-af71d47507d6.jpg",
+      "coverage": 1,
+      "relevance": 21.01,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Netanyahu busca un nuevo mandato en Israel en plena guerra y pese a las dudas de Trump",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdlNueWdSVFczbEhyRUt5bHVjaU5sVHdvUWp4VHdsaFFDMFhZMjg4NmFjekZmMEE2ckZiLXZRd2h5Ylo2dXNzTlItT0libGVMMEw4LVF0S1Z4YTBSeElTYjZXWG9oY1dxYlJmbnZraTc0STRwSUdBRUY0UFh3X2hvV2FQT05zV202LVZjMg?oc=5",
+      "published": "2026-06-10T21:46:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.43,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Irán lanza «poderoso ataque» contra bases EU Oriente Medio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOVZwbTk1Wk5MeU53MlgxSzlteWgzaEdHa3VoaDhyNUtBTU0yVmkwa1J0cVJvakpfRnZZQUNjNHp2TlVwZFIzUkVnbkFBd2ZyZHgwWXRpN1gyVTV3TE9lSW9oMmgyN1FjUWRfcVpBNFlmNWwxQ0RaZnVSekdtS203X0VaUkcxQQ?oc=5",
+      "published": "2026-06-10T20:57:23+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.12,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Lumberto Campbell, el hombre que Estados Unidos coloca en el centro del escándalo por la muerte de Brooklyn Rivera",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPY0dDWE1fSzhZdnBZOG5HazRiVlNnZ2p5NEowY3N1UUlFMlRSUDlOZm1XVXJKUHBqTl9PYU9Kc3lCTVgyMWowQk1uSTB0Q3NlYjRhUmJHSVJpWVdrbktPZEFIS3dsMnFuTno3R2Vfd1NEQXBGWWdRa0lzU0NFM0JoT08xRW5pOGhUaElYY29WMXpWd1pLTi10NUxITFdzS084Sl9EUC03TWcyWktPQVVNUjZvLURaQzE4c2NqUXZwVUMySF9EOGFQUmlLMTdldTRNWjRCQVM0UHg4NXdxeTNoZ0pTcmwtYndEVDdCdnpjYmbSAYsCQVVfeXFMTXVHS05TdXZ3UGVsaWpmLVhOb1pBY3A3TDJrSlh3NEZYR0VlM3QwMHQxTXF4R3RXWmRReVBXRmNpY1BxRGR3QlduNFhZNERjRUFyMG95eDVqS1Z3bzlxenNFUUh1TGhfcjQ0YnVrcnd5M0c5LS12aHRtRkFDeHRNbW1yOVQ0ZUlPb1ZjTERPSV9wRS1mVGg1VkwzN3ZpdTMycTh0ZkRzdkphZG4wb1pQbXpxS3FyTmZpZU1Tb25jUU1OcjltVFZwdjRMTHEzS0RqVEFORnZKY3l4c1o5T0U1dDlYY3FqRGZIaVI3VkNXWkdZbFQ2aGpkVEwwYlJ5SC1JREJjWmxrRkR3RmZr?oc=5",
+      "published": "2026-06-10T20:04:56+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.79,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Cómo la guerra en Ucrania está cambiando la sociedad rusa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcF9GQVpaalZ1TmlmU0ZTZmdSYkRxSnhETjZsaXlyWVV5Vk1xQ3JmTlJrN3BtbXVsandXWV82SlVUQ0J1aHJ6WHFMb2h3TXVvYnA4Wi05b0NOb0V2MUM2U3dRaDduQUFUMlBFcUwxUjZxZ204WHZQdXQwVlV4VG85TWhjV3l4OExVVEJQNUFmUDdSdnpGWGV0THozZFViOUdmMkxDSV9Od9IBpwFBVV95cUxPUGNORTlKTFAyczFja0JEci1MTHFZMGR0ZzNFVDBIcVA2ZE53RWZidXNRZDJuOUVqV0lOVlJCbU5nOVR6RDhWLXl0alM1dnpoTWdGUUZmMEIzR2VlOWtzWkVxb2I2VUU1N2VsVGJieW93STR3UlYtdXFTVmRhLV9aUXNzN290Yzl1cVJKclA5Zk1jd1NyQzFmM0pieFE4eFhZMFRpdVJIRQ?oc=5",
+      "published": "2026-06-10T19:57:55+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.75,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Guterres advierte de una \"guerra total\" en Medio Oriente",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQlVpRUZYMXM5d1Iyc3E3TzRsNlZ1U3l6em1GYnVCeThlQWtwRTlzTEF4NWdsOF9uWGJvVVN5TElLTmdNY1pQNkk2aklJUUtzc1BnMHVLOXJQQTdiSW5RSkktQ1kzNm02M05RMEZxNUI0UjR1eWpCc0c4NWNyMUtpUTduNFh1cWxEZmQyb0JycmpHRXVm?oc=5",
+      "published": "2026-06-10T18:56:15+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.37,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Estados Unidos e Irán intercambian ataques; Donald Trump presiona a Teherán por las conversaciones estancadas",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQVhQVjNQTFRqVnFPaXZMMkpiM2NLb28xRG9XNUtoMFFpVFd5SWdkbzJKQmw2TzZzQ0ZIa1VGTU1TV01ob2Q5V2hZYlAtTnBNTE5adlVIWmthWUxZX003SFVwVURmR19lY25pYU9KeDNuUTBoWW1WMzJKQWhQRnU0QXByNDNPeGZVdldJd0FxSXpuMnUtUWtCVDZVRlRrMExBVkpxM09nNkpwZ2t1c015RjhQSjFib2JBUVppbE1ENE1Kd3N6dlJpVU4wRHVMNlZPOEHSAdcBQVVfeXFMUFFGOTBtNG81dHZibFk0QzJPcVRuNjdxbE05TGMtZGdQV1dXSGZjUmVsd1pDRXJtckxPZW4xVUhrbTdaWVlBbFpPN01YcmtCQ2pVdy1ubjBtWVN4NmNLT3l0eW1wejdqbm8zUFVBdnBBNTdocllpa2pDLVpZSm56d1BKY0ZObHhpcFdwdmJYSGxEUVE2NjJTTE5JT094elZhMTRUX1JHUXdKRE85bVdPQkJiUUV1WjVQcndjVTJROWxZb0lwbGQ0aklDbWEtTHF3RWtESTJucGs?oc=5",
+      "published": "2026-06-10T18:53:54+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Alcalde de Gallinal destacó que el Municipio cuente con médico residente después de muchos años",
-      "summary": "Para el alcalde Gerald Vázquez, la descentralización real tiene que ver con la igualdad de oportunidades y en ese sentido valoró la llegada de la fibra óptica al interior profundo.En el marco de una actividad vinculada a la expansión de la fibra óptica en pueblo Porvenir que permitió la llegada de...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/alcalde-de-gallinal-destaco-que-el-municipio-cuente-con-medico-residente-despues-de-muchos-anos/",
-      "published": "2026-06-10T18:08:40+00:00",
+      "title": "Agroland consiguió excepciones a la normativa para construir un hotel de campo de lujo en Garzón",
+      "summary": "La Junta de Maldonado aprobó por unanimidad la viabilidad del proyecto, que estará integrado al complejo Bodegas de Garzón.Agroland S.A. consiguió, este martes 9, la viabilidad de la Junta de Maldonado para desarrollar un hotel de campo, con excepciones a la normativa edilicia, vinculado con el...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/agroland-consiguio-excepciones-a-la-normativa-para-construir-un-hotel-de-campo-de-lujo-en-garzon/",
+      "published": "2026-06-10T23:10:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 19.85,
       "sources": [
         "La Diaria"
       ]
@@ -580,24 +578,10 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Ignacio Alonso habló con los medios tras el arribo de Uruguay a Playa del Carmen",
-      "summary": "El presidente de la AUF se refirió a circunstancias del vuelo, a la emoción de la salida y a una frase de Maxi Araújo que da para ilusionarse.El presidente de la Asociación Uruguaya de Fútbol (AUF), Ignacio Alonso, bajó del avión con la sensación de que el viaje salió como estaba previsto. Tras su...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/ignacio-alonso-hablo-con-los-medios-tras-el-arribo-de-uruguay-a-playa-del-carmen/",
-      "published": "2026-06-10T18:03:35+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.78,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Mayakoba, la “aldea sobre el agua” donde se esconde la celeste",
-      "summary": "Entre manglares, canales y resorts de lujo, la celeste se instala en un complejo cerrado que ofrece intimidad total, seguridad extrema y cancha a metros de las habitaciones.Mayakoba no es solo el apellido del hotel donde Uruguay tendrá la concentración de cara al Mundial 2026. Mayakoba, que suena...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/mayakoba-la-aldea-sobre-el-agua-donde-se-esconde-la-celeste/",
-      "published": "2026-06-10T18:00:12+00:00",
+      "title": "María Dolores: la coalición y Salle piden llevar el tema a Fiscalía, mientras Perrone no detectó “elementos de corrupción”",
+      "summary": "Para el oficialismo, del trabajo de la comisión investigadora “no surge elemento objetivo que permita sostener la existencia de irregularidad”Este miércoles terminó el trabajo de la comisión investigadora de la cámara baja que estudia la compra de la estancia María Dolores por parte del Instituto...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/maria-dolores-la-coalicion-y-salle-piden-llevar-el-tema-a-fiscalia-mientras-perrone-no-detecto-elementos-de-corrupcion/",
+      "published": "2026-06-10T22:54:42+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.76,
@@ -608,13 +592,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Cemento, el documental rescata el legendario recinto en el que actuaron los Redonditos de Ricota y Sumo",
-      "summary": "Exhibición y charla con su director, Lisandro Carcavallo, este sábado en Cine Universitario.No habían pasado dos meses desde la apertura de Cemento cuando Patricio Rey y sus Redonditos de Ricota, obligados por el éxito de Valeria Lynch y sus funciones continuadas en el Teatro Astros, tuvieron que...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/cemento-el-documental-rescata-el-legendario-recinto-en-el-que-actuaron-los-redonditos-de-ricota-y-sumo/",
-      "published": "2026-06-10T17:56:57+00:00",
+      "title": "Amnistía Internacional responsabilizó al gobierno de Netanyahu de implementar una “campaña de limpieza étnica” en Cisjordania",
+      "summary": "La organización expresó que el gobierno israelí busca “acelerar la agenda anexionista” y la expansión de los asentamientos en el territorio más grande de Palestina.La organización Amnistía Internacional (AI) publicó este miércoles un informe que denuncia el desplazamiento étnico de ciudadanos...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/amnistia-internacional-responsabilizo-al-gobierno-de-netanyahu-de-implementar-una-campana-de-limpieza-etnica-en-cisjordania/",
+      "published": "2026-06-10T22:39:38+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.74,
+      "relevance": 19.66,
       "sources": [
         "La Diaria"
       ]
@@ -622,13 +606,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Cecilia Ce: “El paraguas de desinformación, prejuicios y guiones sexuales heteronormativos nos abarca a todos”",
-      "summary": "La sexóloga presenta su show “Encendé tu motor” en tres funciones en el Teatro Movie.La sexóloga argentina Cecilia Ce estuvo en Segunda mañana de la diaria Radio en el marco de su visita a Uruguay, donde ofrecerá tres funciones, el 11, 12 y 13 de junio a las 21.30 en el Teatro Movie. Presenta su...",
-      "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/6/cecilia-ce-el-paraguas-de-desinformacion-prejuicios-y-guiones-sexuales-heteronormativos-nos-abarca-a-todos/",
-      "published": "2026-06-10T16:55:22+00:00",
+      "title": "Siguen los incidentes racistas y xenófobos en Irlanda del Norte, tras un apuñalamiento perpetrado por un refugiado sudanés",
+      "summary": "“No hay justificación alguna para la violencia y los disturbios que hemos visto amenazar a nuestras comunidades”, expresó el primer ministro británico, Keir Starmer, sobre las manifestaciones, apoyadas por Elon Musk.Por segunda noche consecutiva, los incidentes prosiguieron este miércoles en...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/6/siguen-los-incidentes-racistas-y-xenofobos-en-irlanda-del-norte-tras-un-apunalamiento-perpetrado-por-un-refugiado-sudanes/",
+      "published": "2026-06-10T22:11:18+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 19.48,
       "sources": [
         "La Diaria"
       ]
@@ -636,13 +620,41 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Paro parcial del PIT-CNT: “Hay de dónde sacar, lo que falta es voluntad política del gobierno”, afirmó Alejandra Pereira",
-      "summary": "La secretaria general de la central sindical y dirigente de FUM-TEP sostuvo que el presupuesto de la educación “no puede ser un tema relevante solo en la campaña electoral, porque los trabajadores tenemos memoria”.Bajo la consigna “Por un Uruguay de transformaciones profundas: por justicia social,...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/paro-parcial-del-pit-cnt-hay-de-donde-sacar-lo-que-falta-es-voluntad-politica-del-gobierno-afirmo-alejandra-pereira/",
-      "published": "2026-06-10T15:50:24+00:00",
+      "title": "PIT-CNT reclamó más recursos para la educación y defendió la realización del cuarto Congreso Nacional de Educación",
+      "summary": "Durante el acto de la central sindical se criticó la decisión de sectores de la oposición de no participar del Congreso y se reclamó por que sus resoluciones sean vinculantes.En el marco del paro parcial llevado adelante por el PIT-CNT este miércoles, los sindicatos de la educación decidieron...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/6/pit-cnt-reclamo-mas-recursos-para-la-educacion-y-defendio-la-realizacion-del-cuarto-congreso-nacional-de-educacion/",
+      "published": "2026-06-10T22:09:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.95,
+      "relevance": 19.47,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "\"El pueblo siente vergüenza del presidente\": acalorada discusión en Diputados obligó a suspender la sesión",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNNHc5V2RKT25xYVlxdFV5c2dKajlDeGRJNUFpWktNVU82UTBRYW8wTzJXSEFqOVI0ZTZsMmRKYUlqQlV4WURreFVNNkFRU2hqdl9CY29yVEhHWncwZTFiQ1dWdW1qZEh4OEtyQjFxT1dMSk5kS1M1c3JtajFZMnZTQk0zNmhMVXNraU5yY0c5WW5ybW9DbHh4eW5OcTVnTVowc0tNY2FhYm9GTjRaaVl6djNhNmkyRWxnVHJRcFY5UVI0TThmNkc2ZkgyQnZQUjZZc0VHb0FVbFRDR090UnY4QzBic2s?oc=5",
+      "published": "2026-06-10T18:02:16+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.43,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Organizaciones piden “veda cautelar” sobre seis proyectos de urbanización en Piriápolis y Solís Grande",
+      "summary": "La “ausencia de un estudio de impacto ambiental acumulativo” exige un principio precautorio sobre los Programas de Actuación Integrada y una revisión técnica, afirmaron en una carta dirigida al gobierno departamental.16 agrupaciones civiles de la Zona Oeste de Maldonado solicitaron declarar una...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/organizaciones-piden-veda-cautelar-sobre-seis-proyectos-de-urbanizacion-en-piriapolis-y-solis-grande/",
+      "published": "2026-06-10T21:43:46+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.31,
       "sources": [
         "La Diaria"
       ]
@@ -650,27 +662,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Celeste en Mayakoba: Uruguay ya tiene su hogar mundialista",
-      "summary": "Muslera abrió camino, Bielsa cerró la fila y, del otro lado de la puerta, un hotel tuneado a pedido de Uruguay, un ritual maya y un riverense al mando de los detalles marcaron la primera postal del Mundial.La expectativa es total. La selección uruguaya ya está instalada en el Fairmont Mayakoba, su...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/celeste-en-mayakoba-uruguay-ya-tiene-su-hogar-mundialista/",
-      "published": "2026-06-10T15:40:25+00:00",
+      "title": "Primera práctica de Uruguay en Playa del Carmen",
+      "summary": "La celeste y sus movimientos en suelo mexicano con vistas al debut con Arabia Saudita.A las 18.00 de México, las 20.00 de Uruguay, por primera vez desde que la selección llegó a la Riviera Maya habrá acceso al Mayakoba Training Center, el corazón deportivo de la concentración. Hasta ahora, el lugar...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/primera-practica-de-uruguay-en-playa-del-carmen/",
+      "published": "2026-06-10T21:35:29+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.88,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Lionel Messi y Kylian Mbappé pueden pasar a ser los máximos goleadores en la historia de los mundiales",
-      "summary": "El polaco nacionalizado alemán Miroslav Klose resiste en la cima de la tabla histórica con 16 tantos.El inicio del Mundial 2026 está a la vuelta de la esquina con la ceremonia de inauguración palpitando en tierras mexicanas, donde [Playa del Carmen esperó la llegada de Uruguay con sargazo y fiebre...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/lionel-messi-y-kylian-mbappe-pueden-pasar-a-ser-los-maximos-goleadores-en-la-historia-de-los-mundiales/",
-      "published": "2026-06-10T15:36:02+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.86,
+      "relevance": 19.26,
       "sources": [
         "La Diaria"
       ]
