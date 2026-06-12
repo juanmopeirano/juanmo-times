@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T17:57:30.131396+00:00",
+  "updated_at": "2026-06-12T23:05:54.785587+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,10 +10,24 @@
       "published": "2026-06-12T03:45:01+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/73622AK6KVAGBDA7OB2DE5TIVY.jpg?auth=4ef4a50abfff833fe1a3acd5c69cf65a716ea89bf12088ddcd4a1d08c35eff4a",
       "coverage": 2,
-      "relevance": 26.07,
+      "relevance": 24.14,
       "sources": [
         "El País Eco",
         "Hipertextual"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "SpaceX se estrena en Bolsa con una subida del 19% y 2,1 billones de valoración",
+      "summary": "La acción repunta tras marcar su primer cambio en 150 dólares. “SpaceX trata de sacar la ficción de la ciencia ficción y crear un futuro emocionante”, asegura Elon Musk, que se convierte en el primer billonario",
+      "url": "https://elpais.com/economia/2026-06-12/spacex-protagoniza-un-historico-estreno-en-bolsa.html",
+      "published": "2026-06-12T20:21:55+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/DKSCB3VMMVBPJPCNARS3P7DNME.jpg?auth=9ad785f49e403abbef340e4d3248ca7e75fd731ae06ca9b6c111173a3b885796",
+      "coverage": 1,
+      "relevance": 20.38,
+      "sources": [
+        "El País Eco"
       ]
     },
     {
@@ -25,7 +39,7 @@
       "published": "2026-06-12T17:25:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/CM43ZTR7PZMZHDQIWPBRLOVBRM.jpg?auth=79523cce36e8df9e9ff371abbf3d543dc5e1aee51613155d1b148b09c7ecc426",
       "coverage": 1,
-      "relevance": 21.2,
+      "relevance": 19.27,
       "sources": [
         "El País Eco"
       ]
@@ -39,23 +53,51 @@
       "published": "2026-06-12T16:44:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TN63XIXPWKU33IIN22MD52S4I4.jpg?auth=f9bc73eb42c8e0c3961499dfda98247fcfa263ef7a124ef88479318bb6fcf4a2",
       "coverage": 1,
-      "relevance": 20.94,
+      "relevance": 19.01,
       "sources": [
         "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "El País Eco",
-      "title": "SpaceX se estrena en Bolsa con una subida del 20% y dos billones de valoración",
-      "summary": "La acción repunta tras marcar su primer cambio en 150 dólares. “SpaceX trata de sacar la ficción de la ciencia ficción y crear un futuro emocionante”, asegura Elon Musk, que se convierte en el primer billonario",
-      "url": "https://elpais.com/economia/2026-06-12/spacex-protagoniza-un-historico-estreno-en-bolsa.html",
-      "published": "2026-06-12T15:52:04+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/DKSCB3VMMVBPJPCNARS3P7DNME.jpg?auth=9ad785f49e403abbef340e4d3248ca7e75fd731ae06ca9b6c111173a3b885796",
+      "source": "Google Economía",
+      "title": "Dólar podría bajar hasta S/ 3,30 en un eventual gobierno de Keiko Fujimori, según los expertos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWU3YzliNlg2NmdmVUJsekhNaV9EckJ1LU5nSlh5MVpBNGo0akJTU0YxS3FHTlMySWxQdWtEOEo4eGdmTkVUWUJrNXNvcjBCTjhEWXdQM1dDRU50Q2NCWHBTSkhjZnVqX0tiSVJ4T1prN1RJLUtNUXB4bkJrODY0RGZEZjFUMTVxOXBfNFR2QXFQRmJWTUx6ZGpmSFZtdGh0LVdFOWR0V3NaU2t4a2pVTkJlcks5YWwxbUkwZGs3QUNXYlNvdGRKMDhRWGPSAecBQVVfeXFMTVVDbF9zbkFHU25XM0l0cnRpbncxazREUUdLaENoOGluWnRPVzlzMXFaWmNLR0RjR2FJMHdCV0JscGQ2X05HTGhoMnVaUVdVMjRubE5RekRPUVVzN3R1XzlMdlVrZ3NHUEJ3czBuRS1EYng4VHBBdVJhOHRlamdxbVhhR3l3NGMzNGpLV0RjbTAzWk91ZXlvQmd4V0ZDNUFxMnpiejFLUVlUZTNnME5JRmR3WGpCQUZia1B1UUtSNkpYQ3BfV3NsM29iMWtEbVBaTVhwcUtIUHQ1b1ZTdmRiV1NGbW53NkZB?oc=5",
+      "published": "2026-06-12T22:31:51+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.62,
+      "relevance": 18.79,
       "sources": [
-        "El País Eco"
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este viernes 12 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEo3SDRqWDZ1X3VyM1hJYUVaQkhyZ3VzeVg1ekw3b0JyVUxzUTc0U1hzZWJBRmlIYlRqNGk2YkFESm1wR0lUNXptb3FfZllxQ2xFc0xnX1FFMmt3RFdaeW84aFZBLXc5UERVZlVOY3g5OWdzU1FUMW4zY3VsWEVvTDd4Z3pYMTY3U1hnNXBjMnRzekNtMURrb1g5UFp0WTB3WGVwUWh0M1QzQ2d60gHHAUFVX3lxTE1nTlBTVkwycndJWnhnYWIxY0Y3THF2VWswTDJNU1NiT2dCbHVhcGtBT1I2Mi1XNEppUFRsbzl0YnRMZEMybTFTOWREeDNUWWgyWmgyVm5mdUVDV0pQTERWN3AzRzZaVWFkWW1CdzM0Z3UzeHZFUmRWeEdqMEl4QXdGbldwallSVF9NX21XZHZuYVItMzhDOHkxOFFjaktDam5IMDd4b3Zybk03Wk5FVEJEVW9NUXMzdDlrcXZWZ252MzRiU1JOam8?oc=5",
+      "published": "2026-06-12T22:01:07+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.6,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este viernes 12 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS0xSZVpvX1A4Nktuck84SmtTaFAwbWc4UW1ZVU1hcE9PMDNEMlRJNWhDLU1sTGJPTnFKVm8ydm5tU2hJUlZGYi1hdkVYR2pfTnFlN0cyUXZkNFF5VWw1NUV1N2RBQS0yci01Qi1XUElsZEJXbnpmMUl5VG5aZktWb2hEek0zWmJydzhiQ0FxaG5Mc2FNZ0VzXzNmbUp5aE1VR0NzQ2xBYVotMzNHeU03ckd4V2dsWXdCbjFlTWp1SQ?oc=5",
+      "published": "2026-06-12T22:01:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.59,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -67,91 +109,21 @@
       "published": "2026-06-12T14:23:15+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ZFEL5TDRVJLRZGS25NLP7KEKCA.jpg?auth=da10e30bcf5e45dfb03871674baff1ef4b9773ff41ee0f95f14bdee968226a14",
       "coverage": 1,
-      "relevance": 20.06,
+      "relevance": 18.13,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio: dólar abre la sesión de este viernes 12 de junio en S/3,38",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWGR3UWZWNVcwdS1UMDR6b0VLVmF2RmZBSkZhc2hCOU5aVUMyNnNhcUZzSjNIY0o0X1NadnpxVDdYaE0xcE94dmVzQlBSdnRNV2tXUG5WVzdQbDAycVZ4RDBKeHg5RmNrMjJ3a2pObFFmYU01bkc1Mnp2Zl9uYWduMnJlQi1lRld3TWtqdTNDNzRWYnFFNnozTmpZNXl0NlRGM0VJT3FpNjJKRXFSd21kWjZZUE9LRERQM083VkVwbjNVZXhGQ0YwRmgtTjFnbGRicFVoNEZ2LU1sanJOaWZ0WEVuVzdZdw?oc=5",
-      "published": "2026-06-12T16:24:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.42,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El riesgo país baja por segundo día consecutivo: qué pasa con el dólar y las acciones argentinas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ1VwYm9nOWFiZUwzUzFYZ2p2QV9pTW01YWlPb3prSmxCVUlBSEg2YVRLLWxkb2RTaVVPVnJaVElhNEprMVV0VDZLeGx3bXZHNHFhcDlmLVhua3VWVjBVZVo5Mk9xTUNaUjVQWU5XekZqRzBaMHdpTHdjV211cm1iOVJRaFAzMXNPZjRDX1lkWEZyclNjWUZfMXFwUlVZanNXN0VkUjA5RkJjQmhGNF9ZZU1PR0VMamp1cFNKSGM1OGlLMknSAcgBQVVfeXFMT3pwTlgxTjd5WWY2Y0JsQU9jZ1FBZVhBTmx1RjlPYjEzRjFoT25mNFZtNUtwbmFQRWhEQnN2RFh2dWNrWDNaWlY0cHdndjBtMDVjQ0hSVFZ0S09leTNHWDVuMUs1bU1EMWVpMDBHaDl2Q05wSlVUX3l2d2g4V3k5QkpWVU9RNjlKWWhrRWltZFI5SUoxX25XWTN2ZUlKUlN2Qk1fdkVUZzQzVEU4NUFMQ0duTER1MWNPWmtGa0FKeHQ1SWVGYkpRMV8?oc=5",
-      "published": "2026-06-12T15:38:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.13,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Cotización dólar blue EN VIVO | Dólar oficial, CCL y MEP hoy viernes 12 de junio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZUtYLTJyemFiMmN5ZHVHRUVLRzdTT0tpUGxVZk90ZjhJMmNyVVFlVWVNQ2dQSHVrR2tzZ1hfSl9VRzRCY1NNSFhrSWp6ak45NERjVjFoZm9aTVE5VWlGUjJzRnB2N0pIM0VtcUpOdlRlV04taE1rRVRwX2xvdHRMYkM3M0hLZnRnVUFvSG0zcFpRc3lTMVZWSmdnOGlDT25ZTXl0UDJQaVRSemN3YUtvUlNwMWYwM0VVb1I4cXEwTTdtMXo5SkV1bGIwWlVkZnNCWmx2Sktrb2hDZ9IB3wFBVV95cUxORDVub3V3aG9Qa3BQVzluTXI2Z3k0RTNvV0hjaXRGMlJCN2lmd3FfZzVhTWNGbVU3WFBEX282LThHQjNqcWQtdW9kU2hUMUsxeUNkeWYzOGs5Z244WW5JektXendfZXBYS2RzMXZVSGdUcndraWxJY1YyM1RFY0Y5MWhjb2t6RUo3UlVydm1kUHBxTlRVbEpiQ3l2bzRVZXlLTVlNVER5bFNXYkJPM0xRVkxwR0FHa21QVkFsbUVkWHVrQkFDdXFuTV9VQmlJaXFxNHNQcmYxZWsyaUVjS3RF?oc=5",
-      "published": "2026-06-12T15:34:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.1,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "América fue consagrada al Sagrado Corazón de Jesús",
-      "summary": "¡Qué año para los estadounidenses! Un Papa estadounidense en 2025, el 250 aniversario de la independencia de la nación en 2026 y la consagración al Sagrado Corazón de Jesús. El 11 de junio de 2026, como parte de la celebración del 250 aniversario de la firma de la Declaración de Independencia, los...",
-      "url": "https://es.aleteia.org/2026/06/12/america-fue-consagrada-al-sagrado-corazon-de-jesus/",
-      "published": "2026-06-12T16:44:39+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.74,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Argüello: \"Nos toca acoger el impulso del Papa y hacerlo anuncio\"",
-      "summary": "Tras la intensa visita apostólica del Papa León XIV a España, el presidente de la Conferencia Episcopal Española, Monseñor Luis Argüello, reflexiona sobre el impacto de este encuentro. El prelado destaca el fuerte llamado del pontífice a la espiritualidad eucarística y a la comunión, e insta a la...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/arguello-toca-acoger-impulso-papa-convertir-anuncio-propuestas.html",
-      "published": "2026-06-12T15:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/08/2026-06-08-viaggio-apostolico-in-spagna---incontro-con-i-vescovi/1780915866124.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "En un minuto: la séptima jornada de León XIV en España",
+      "summary": "Imágenes exclusivas de Vatican Media que recogen la llegada y las actividades del Papa a la isla de Tenerife, en España, en el séptimo día de su viaje apostólico Leer todo",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/en-un-minuto-la-septima-jornada-de-leon-xiv-en-espana.html",
+      "published": "2026-06-12T20:25:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/12/2026-06-12-viaggio-apostolico-in-spagna---incontro-con-i-migrant/1781257565901.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.69,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Obispo de Tenerife: El Papa es también canario y en estas islas tiene su casa",
-      "summary": "En su saludo al Santo Padre, al concluir la Misa en el Puerto de Santa Cruz de Tenerife, el obispo de San Cristóbal de La Laguna, se hizo eco de todos los pueblos que conforman el arquipíelago de las Islas Canarias, al agradecer su visita, la primera de un Pontífice a esas tierras enclavadas en el...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/obispo-de-tenerife-el-papa-es-tambien-canario-y-en-estas-islas.html",
-      "published": "2026-06-12T14:45:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/12/2026-06-12-viaggio-apostolico-in-spagna---santa-messa-al-porto-d/1781272262063.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 19.79,
       "sources": [
         "Vatican News"
       ]
@@ -159,13 +131,41 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "En Canarias, una Iglesia multilingüe en la encrucijada de los sufrimientos del mundo (REPORTAJE)",
-      "summary": "“Lo he seguido por internet y quería verlo. ¡Es tan amable, tan bueno!”. Para Aliu, de 16 años, originario de Gambia y llegado a Canarias hace un mes, la visita del Papa León XIV es una sorpresa divina. “A él no le importa si somos blancos o negros, cristianos o musulmanes… Quiere ayudarnos”,...",
-      "url": "https://es.aleteia.org/2026/06/12/en-canarias-una-iglesia-multilingue-en-la-encrucijada-de-los-sufrimientos-del-mundo-reportaje/",
-      "published": "2026-06-12T16:03:00+00:00",
+      "title": "León XIV: Dios te ama como eres, pero te sueña mejor",
+      "summary": "Muchas enseñanzas quedan para el mundo con lo que ha ocurrido en España en los últimos días, durante la visita apostólica del Papa León XIV. Sin embargo, el mensaje dado por el Papa León XIV en el centro penitenciario femenino de Brians 1, en Barcelona, puede hacernos cambiarnos de opinión, porque...",
+      "url": "https://es.aleteia.org/2026/06/12/leon-xiv-dios-te-ama-como-eres-pero-te-suena-mejor/",
+      "published": "2026-06-12T20:59:39+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 19.41,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "De la enfermedad a la música: sobrevivió a la leucemia y ofreció su vida a Dios",
+      "summary": "Hay historias que permiten percibir el amor de Dios de forma casi tangible, especialmente cuando, en medio del dolor, aparece una luz que transforma todo alrededor. Así sucedió en la vida de Jesús Cabello, un músico español que apenas con 18 meses de nacido le detectaron una leucemia linfoblástica...",
+      "url": "https://es.aleteia.org/2026/06/12/de-la-enfermedad-a-la-musica-sobrevivio-a-la-leucemia-y-ofrecio-su-vida-a-dios/",
+      "published": "2026-06-12T20:00:21+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.04,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Santos futboleros: ejemplos de fe dentro y fuera del campo",
+      "summary": "Para muchos, el fútbol es mucho más que un deporte: es amistad, trabajo en equipo, esfuerzo y pasión. Lo que pocos saben es que varios santos y futuros santos también disfrutaban correr detrás de un balón. Desde pontífices, hasta jóvenes santos. Y es que lejos de considerar el deporte un hobbie, lo...",
+      "url": "https://es.aleteia.org/2026/06/12/santos-futboleros-ejemplos-de-fe-dentro-y-fuera-del-campo/",
+      "published": "2026-06-12T19:33:44+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.87,
       "sources": [
         "Aleteia"
       ]
@@ -173,13 +173,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "León XIV: ¡Abran a todos este mar de amor! El ser humano no es una isla, nacimos para el encuentro",
-      "summary": "En la Solemnidad del Sagrado Corazón de Jesús, en el Puerto de Santa Cruz de Tenerife, el Papa exhortó a los isleños a cultivar su vocación a la acogida, pero no solo de aquellos que llegan por turismo, reduciendo todo a un mero comercio y beneficio, sino de quienes con su bagaje de pobreza y dolor...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-tenerife-santa-misa-viaje-apostolico-a-espana.html",
-      "published": "2026-06-12T13:10:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/12/2026-06-12-viaggio-apostolico-in-spagna---santa-messa-al-porto-d/1781267760422.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "La Santa Sede en la ONU: \"No existe una solución militar a la crisis de Oriente Medio\"",
+      "summary": "Durante el debate del Consejo de Seguridad de las Naciones Unidas, la Delegación de la Santa Sede pidió el cese inmediato de la escalada de violencia en el Líbano, una solución a la crisis humanitaria en Gaza, un camino hacia un Estado palestino y atención a la situación en Irán. Leer todo",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/santa-sede-onu-no-existe-solucion-militar-a-crisis-medio-oriente.html",
+      "published": "2026-06-12T17:52:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/10/18/1781109382769.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.0,
+      "relevance": 18.84,
       "sources": [
         "Vatican News"
       ]
@@ -187,13 +187,13 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "León XIV cierra su viaje por España en un Misa con 40 mil fieles",
-      "summary": "“Ya sea permaneciendo en el mismo lugar toda la vida, o eligiendo, o incluso viéndose obligados, a marcharse, nadie permanece inmóvil”, declaró León XIV durante la misa celebrada el 12 de junio de 2026 en el puerto de Santa Cruz de Tenerife, última parada de su viaje de una semana a España. Tras...",
-      "url": "https://es.aleteia.org/2026/06/12/leon-xiv-cierra-su-viaje-por-espana-en-un-misa-con-40-mil-fieles/",
-      "published": "2026-06-12T14:40:54+00:00",
+      "title": "El retraso del vuelo del Papa León y la emergencia de Juan Pablo II",
+      "summary": "Cuando las personalidades más importantes del mundo viajan por el planeta, no suelen tener problemas técnicos. Pero de vez en cuando, recordamos que incluso reyes y reinas, presidentes y primeros ministros —e incluso papas — tienen que lidiar con los inconvenientes propios de la vida cotidiana,...",
+      "url": "https://es.aleteia.org/2026/06/12/el-retraso-del-vuelo-del-papa-leon-y-la-emergencia-de-juan-pablo-ii/",
+      "published": "2026-06-12T19:23:29+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.97,
+      "relevance": 18.81,
       "sources": [
         "Aleteia"
       ]
@@ -201,13 +201,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Retraso en el vuelo papal: León XIV regresa a Roma en el avión de Felipe VI",
-      "summary": "Dos horas más tarde de lo previsto, debido a una incidencia técnica en el avión que debía conducirlo de regreso a Roma, el vuelo papal despegó finalmente de Tenerife a las 18:08 (hora local), las 19:08 en Roma, en un aeronave ofrecida por Su Majestad el Rey de España Felipe VI. Leer todo",
+      "title": "León XIV regresa a Roma en el avión de Felipe VI: finaliza su viaje apostólico a España",
+      "summary": "Dos horas más tarde de lo previsto, debido a una incidencia técnica en el avión que debía conducirlo de regreso a Roma, el vuelo papal despegó finalmente de Tenerife a las 18:08 (hora local), las 19:08 en Roma, en una aeronave ofrecida por Su Majestad el Rey de España Felipe VI. Aterrizando luego a...",
       "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-concluye-viaje-apostolico-espana-regreso-roma.html",
-      "published": "2026-06-12T13:00:00+00:00",
+      "published": "2026-06-12T17:23:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/12/2026-06-12-viaggio-apostolico-in-spagna---partenza-per-roma-/1781283667386.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.94,
+      "relevance": 18.66,
       "sources": [
         "Vatican News"
       ]
@@ -215,27 +215,97 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "(VIDEO) ¿Existían cristianos no bautizados en la Iglesia antigua?",
-      "summary": "Hoy, en muchos lugares, el Bautismo suele celebrarse poco tiempo después del nacimiento. Sin embargo, en los primeros siglos del cristianismo la situación era muy distinta. Existían personas que ya vivían la fe, cristianos que participaban en la comunidad… aunque todavía no estuvieran bautizadas....",
-      "url": "https://es.aleteia.org/2026/06/12/video-existian-cristianos-no-bautizados-en-la-iglesia-antigua/",
-      "published": "2026-06-12T14:35:00+00:00",
+      "title": "Los santos Carmelitas Descalzos en el corazón y voz del Papa León XIV",
+      "summary": "En su viaje apostólico a España, el Santo Padre abundó en menciones a santos españoles; san Ignacio de Loyola, santo Tomás de Villanueva, Santo Toribio de Mogrovejo, san Manuel González, san Juan de Ávila, santa Eulalia de Barcelona, Venerable Antonio Vicente González, san Pedro de San José...",
+      "url": "https://es.aleteia.org/2026/06/12/los-santos-carmelitas-descalzos-en-el-corazon-y-voz-del-papa-leon-xiv/",
+      "published": "2026-06-12T18:36:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.93,
+      "relevance": 18.52,
       "sources": [
         "Aleteia"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Catalunya tiene una idea para que sus funcionarios abandonen el teletrabajo: pagarles un extra por volver a la oficina",
-      "summary": "Una de las ventajas que ofrecía trabajar en la Administración pública era que, si el puesto lo permitía, se habilitaba la opción de teletrabajo. Sin embargo, eso está a punto de cambiar para todos aquellos funcionarios que dependan de la Generalitat de Cataluña. El Govern no prohíbe el teletrabajo,...",
-      "url": "https://www.xataka.com/empresas-y-economia/catalunya-tiene-idea-sus-funcionarios-abandonen-teletrabajo-pagarles-extra-volver-a-oficina",
-      "published": "2026-06-12T17:46:56+00:00",
-      "image": "https://i.blogs.es/aff7a1/teletrabajo-generalitat/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "China alerta sobre el verdadero peligro de la IA (y no es Skynet)",
+      "summary": "Desde hace décadas que Hollywood y los autores de ciencia ficción han visualizado una guerra de los humanos contra las máquinas. Aunque la idea de una IA que supera la capacidad humana y se mejore a sí misma suena terrorífica, lo cierto es que hay otro peligro que pocos o nadie ha considerado: la...",
+      "url": "https://hipertextual.com/inteligencia-artificial/china-alerta-sobre-el-verdadero-peligro-de-la-ia-y-no-es-skynet/",
+      "published": "2026-06-12T21:40:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/chatgpt-phone.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.43,
+      "relevance": 19.66,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "China tiene dos ideas para ganar la carrera de la IA: invertir un dineral y dejar a NVIDIA casi sin margen",
+      "summary": "Hay pocas dudas de que la carrera de la inteligencia artificial tiene hoy dos grandes protagonistas: Estados Unidos y China. No son los únicos países que están moviendo ficha, pero sí los dos que están marcando el ritmo, cada uno con sus propias herramientas y con una idea muy distinta de cómo...",
+      "url": "https://www.xataka.com/robotica-e-ia/china-tiene-dos-ideas-para-ganar-carrera-ia-invertir-dineral-dejar-a-nvidia-casi-margen",
+      "published": "2026-06-12T20:00:17+00:00",
+      "image": "https://i.blogs.es/e291cb/ia-china-chips-nacionales/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.34,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Microsoft podría independizar Xbox para que, dado el caso, sea más fácil venderla",
+      "summary": "El futuro de Xbox lleva varios días dando que hablar, y pronto podríamos darnos noticias rutilantes. Según reporta The Information, Microsoft está planeando la reestructuración de su división dedicada a los videojuegos. La misma podría incluir nuevas inversiones para el desarrollo de títulos de...",
+      "url": "https://hipertextual.com/videojuegos/xbox-posible-independizacion-microsoft/",
+      "published": "2026-06-12T20:19:45+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/10/Microsoft-Xbox-Cloud-Gaming.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.16,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Un helicóptero Apache de 25 millones cayó cerca de Omán: la explicación apunta a un dron iraní barato",
+      "summary": "Si ponemos en escena un AH-64 Apache de unos 25 millones de dólares y, al otro lado, un dron iraní Shahed de unos 35.000 dólares, la respuesta parece escrita antes de empezar. Uno es un helicóptero de ataque concebido para operar en escenarios hostiles; el otro, una munición de bajo coste asociada...",
+      "url": "https://www.xataka.com/magnet/helicoptero-apache-25-millones-cayo-cerca-oman-explicacion-apunta-a-dron-irani-barato",
+      "published": "2026-06-12T19:00:17+00:00",
+      "image": "https://i.blogs.es/219102/ah-64-apache/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.96,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Tu Windows 11 está a punto de recibir nuevas funciones de IA, pero solo si cumples con este requisito",
+      "summary": "Microsoft acaba de matar la única característica que hacía atractivas a las Copilot+ PC. La compañía confirmó que pronto podremos ejecutar funciones de IA directamente en nuestro ordenador con Windows 11 sin necesidad de comprar hardware nuevo. El único requisito es que tengas una tarjeta de video...",
+      "url": "https://hipertextual.com/inteligencia-artificial/windows-11-ia-local-gpu-nvidia-copilot/",
+      "published": "2026-06-12T19:20:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/Windows-11.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.79,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Aún no sabemos cómo curar la ceguera. Así que nos vamos a ir al espacio para intentar solucionarlo de una vez por todas",
+      "summary": "A menudo nos preguntamos para qué sirve la investigación espacial. ¿Vale la pena invertir ingentes cantidades de dinero en explorar más allá de nuestro planeta? Según con quién hablemos, puede que nos dé una respuesta distinta, pero si hay algo que está claro es que parte de la investigación que se...",
+      "url": "https://www.xataka.com/espacio/pregunta-sirven-viajes-espaciales-respuesta-para-curar-ceguera-al-vamos-a-intentar",
+      "published": "2026-06-12T18:30:17+00:00",
+      "image": "https://i.blogs.es/34d1d0/retinas-artificiales-espaciales/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.78,
       "sources": [
         "Xataka"
       ]
@@ -243,13 +313,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Una playa de Cerdeña ha prohibido las sombrillas a la gente entre 10 y 65 años. El motivo es sencillo: fuego",
-      "summary": "Verano sí, verano también, los dermatólogos insisten en la importancia de que nos protejamos de los rayos de sol con cremas, gorras y sombrillas. En Punta Molentis, una de las playas más populares de Cerdeña, los bañistas tendrán que conformarse sin embargo con las dos primeras herramientas. Si...",
-      "url": "https://www.xataka.com/magnet/cerdena-han-tenido-idea-para-proteger-sus-playas-nada-sombrillas-verano-tienes-10-65-anos",
-      "published": "2026-06-12T17:30:17+00:00",
-      "image": "https://i.blogs.es/e08b46/2803613146_5ddcc1faa6_k/1024_2000.jpeg",
+      "title": "Dos pelis nominadas a los Oscar llegan a Movistar Plus: el Plan Libre por 4,99 euros tiene cada vez mejor pinta (y se puede compartir)",
+      "summary": "Durante todo el año, os hemos hablado de Movistar Plus cuando, por ejemplo, ha emitido en directo algún partido de fútbol importante, como el último Clásico. Es cierto que LaLiga y la Champions ya han terminado, pero siguen llegando estrenos a esta plataforma que merecen la pena. De hecho, entre...",
+      "url": "https://www.xataka.com/seleccion/dos-pelis-nominadas-a-oscar-llegan-a-movistar-plus-plan-libre-4-99-euros-tiene-cada-vez-mejor-pinta-se-puede-compartir",
+      "published": "2026-06-12T18:16:16+00:00",
+      "image": "https://i.blogs.es/69f9d8/portada-movistar-plus/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 18.69,
       "sources": [
         "Xataka"
       ]
@@ -257,97 +327,55 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Matt Damon, sobre el rodaje de 'La Odisea': \"¿A quién coño se le ha ocurrido que aquí se podía rodar una película?\"",
-      "summary": "Cuando el equipo de 'La Odisea' llegó a los estudios de Universal en Los Ángeles tras meses rodando en Marruecos, Grecia, Islandia y Escocia, alguien dijo: \"¿Qué dificultad va a tener ahora rodar en un estudio?\". Poco después estaban soportando que Nolan les pusiera muy cerca unos motores a...",
-      "url": "https://www.xataka.com/cine-y-tv/matt-damon-pensaba-a-quien-cono-se-le-ha-ocurrido-que-aqui-se-podia-rodar-pelicula-cada-dia-odisea-nolan",
-      "published": "2026-06-12T17:16:16+00:00",
-      "image": "https://i.blogs.es/b42579/captura-de-pantalla-2026-06-12-a-las-12.38.41/1024_2000.jpeg",
+      "title": "León quiere encender una macroplanta de biomasa para calentar 28.000 hogares. Los vecinos le temen a algo: el viento",
+      "summary": "\"¡Alcalde! ¿Dónde estás?\". El grito retumbó este miércoles en la céntrica plaza de San Marcelo. Según las crónicas locales, cientos de personas acudieron a la llamada de la Asociación de Vecinos Barrio de la Lastra para intentar detener la construcción de la gigantesca planta de biomasa proyectada...",
+      "url": "https://www.xataka.com/energia/leon-quiere-encender-macroplanta-biomasa-para-calentar-28-000-hogares-vecinos-tienen-advertencia-cuando-cambie-viento",
+      "published": "2026-06-12T18:00:17+00:00",
+      "image": "https://i.blogs.es/763730/leon-biomasa/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.24,
+      "relevance": 18.59,
       "sources": [
         "Xataka"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "EEUU tiene un sistema que rastrea matrículas: el problema es que hay policías usándolo para acosar a sus ex",
-      "summary": "Las autoridades estadounidenses tienen una potente herramienta que lee matrículas y les permite reconstruir los movimientos de cualquier vehículo. Esta tecnología, llamada Flock, ha sido clave en la resolución de cientos de crímenes, pero también está siendo usada por algunos policías para vigilar...",
-      "url": "https://www.xataka.com/privacidad/eeuu-tiene-sistema-que-rastrea-matriculas-orden-judicial-problema-que-hay-policias-usandolo-para-acosar-a-sus-ex",
-      "published": "2026-06-12T17:00:17+00:00",
-      "image": "https://i.blogs.es/0e3a1a/jonathan-lim-tcd3zcdhrse-unsplash/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Lukic se impone en el Power Ranking",
+      "summary": "El delantero bosnio, clave en el empate de su selección ante Canadá",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/lukic-impone-power-ranking.html",
+      "published": "2026-06-12T21:42:16+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c5c8338d84.jpeg",
       "coverage": 1,
-      "relevance": 20.14,
+      "relevance": 19.98,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Un piloto de Air Canada ha estado volando 16 años sin cometer un solo fallo. Y lo han detenido por un detalle: no tenía licencia",
-      "summary": "Casi 20 años dan para mucho, seas o no piloto de avión. Pero si además lo eres, habrás tenido tiempo para acumular casi un millar de vuelos internacionales, tomar los mandos de diferentes tipos de aviones y acumular un buen dinero. Es el resumen que podría hacer de su vida Geoffrey Wall cuando, una...",
-      "url": "https://www.xataka.com/movilidad/piloto-air-canada-ha-estado-volando-16-anos-cometer-solo-fallo-han-detenido-solo-detalle-no-tenia-licencia",
-      "published": "2026-06-12T16:30:17+00:00",
-      "image": "https://i.blogs.es/3e99c9/david-syphers-hqlcregxz28-unsplash/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.95,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Galaxy S25+ con descuentazo (y 512 GB), Xiaomi 17T, Google Pixel 10 y más: MediaMarkt tiene rebajados varios móviles de gama alta",
-      "summary": "Cualquier excusa es buena para renovar móvil, pero es mucho mejor cuando podemos hacerlo ahorrando dinero. Estamos ante una muy buena oportunidad de hacernos con un nuevo teléfono, especialmente si buscamos algo de gama alta: MediaMarkt tiene varios de estos móviles Android mucho más baratos. Te...",
-      "url": "https://www.xataka.com/seleccion/galaxy-s25-descuentazo-512-gb-xiaomi-17t-google-pixel-10-mediamarkt-tiene-rebajados-varios-moviles-gama-alta",
-      "published": "2026-06-12T16:16:16+00:00",
-      "image": "https://i.blogs.es/855c67/ps---plantilla-portadas-xtk/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Achraf: \"Nos llaman los brasileños de África\"",
+      "summary": "El capitán de los Leones del Atlas habló ante la prensa antes del debut frente a Brasil",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/achraf-llaman-brasilenos-africa-listos-lograr-grande.html",
+      "published": "2026-06-12T21:24:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c75ebf22a3.jpeg",
       "coverage": 1,
       "relevance": 19.87,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Llevamos 100 días temiendo el Apocalipsis por el cierre de Ormuz. El golpe nos lo va a dar una ola de calor en China",
-      "summary": "A finales de febrero, los relojes de los mercados financieros parecieron detenerse. El cierre del Estrecho de Ormuz no era una simple escaramuza geopolítica; suponía amputar, de un día para otro, la principal arteria energética del planeta. Los manuales de economía clásica dictaban que la...",
-      "url": "https://www.xataka.com/energia/llevamos-100-dias-esperando-apocalipsis-cierre-ormuz-verdadero-golpe-nos-va-a-dar-ola-calor-china",
-      "published": "2026-06-12T16:00:17+00:00",
-      "image": "https://i.blogs.es/8afb96/luz-iran/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.77,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "2.000 millones de euros y 3.000 estaciones: el plan de BYD para que cargar tu eléctrico tarde lo mismo que parar a echar gasolina",
-      "summary": "En los últimos años hemos visto cómo las marcas chinas han comenzado a conquistar Europa con el acelerador pisado, con BYD como principal protagonista. No obstante, recordemos que BYD no solamente es un fabricante de coches: también lo es de baterías y de tecnología de carga. Por eso va a sacar...",
-      "url": "https://www.xataka.com/movilidad/2-000-millones-euros-3-000-estaciones-plan-byd-cargar-tu-electrico-tarde-parar-a-echar-gasolina",
-      "published": "2026-06-12T15:30:16+00:00",
-      "image": "https://i.blogs.es/68348b/photo_2026-06-12_10-54-08/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.58,
-      "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Laura Heredia hace historia con un bronce en la Copa del Mundo de Budapest",
-      "summary": "La catalana remonta de la duodécima a la tercera plaza en un espectacular Láser Run y entra llorando en meta",
-      "url": "https://www.marca.com/otros-deportes/2026/06/12/laura-heredia-historia-bronce-copa-mundo-budapest.html",
-      "published": "2026-06-12T17:34:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c4320643e0.jpeg",
+      "title": "Kolasinac, 'verdugo' de Jesé y 'ángel' de Bosnia",
+      "summary": "El bosnio cuajó una completa actuación en el empate ante Bosnia",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/cara-cruz-kolasinac-verdugo-jese-angel-bosnia-asistencia-milagro-lesion.html",
+      "published": "2026-06-12T21:21:04+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c7802c4b6b.jpeg",
       "coverage": 1,
-      "relevance": 20.36,
+      "relevance": 19.84,
       "sources": [
         "Marca"
       ]
@@ -355,27 +383,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Quiñones, el goleador mexicano 'made in Míchel': \"Julián es un portento\"",
-      "summary": "El delantero de Javier Aguirre nació en Colombia y fue modelado por el técnico español en Arabia Saudí",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/12/quinones-goleador-mexicano-made-in-michel-julian-portento.html",
-      "published": "2026-06-12T17:30:39+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c1ef9c2450.jpeg",
-      "coverage": 1,
-      "relevance": 20.33,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Valencia Basket - Joventut, en directo",
+      "title": "Canadá 1 - 1 Bosnia Herzegovina | Resumen Mundial 2026",
       "summary": "",
-      "url": "https://www.marca.com/baloncesto/acb/2026/06/12/02-0201-20260612-6206-6204.html",
-      "published": "2026-06-12T17:28:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c47a425a8b.jpeg",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/canada-1-1-bosnia-herzegovina-resumen-mundial-2026-video.html",
+      "published": "2026-06-12T21:13:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/o1gB7PnVog8Br.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 19.8,
       "sources": [
         "Marca"
       ]
@@ -383,13 +397,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Borja Iglesias: \"Yo tampoco tendría problema en tatuarme la cara de Luis de la Fuente\"",
-      "summary": "Oyarzabal y Borja Iglesias atendieron a los medios de comunicación durante un acto publicitario.",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/12/borja-iglesias-tampoco-tendria-problema-tatuarme-cara-luis-fuente.html",
-      "published": "2026-06-12T17:23:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c40a090a11.jpeg",
+      "title": "Canadá ya sabe sumar al fútbol",
+      "summary": "Larin firma un gol histórico para su selección, que logra su primer empate en un Mundial",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/12/canada-sumar-futbol.html",
+      "published": "2026-06-12T21:05:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c73f7ac1fc.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 19.75,
       "sources": [
         "Marca"
       ]
@@ -397,13 +411,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Canadá impide la entrada de Thomas Partey",
-      "summary": "El país norteamericano ha denegado el visado al jugador del Villarreal",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/12/canada-impide-entrada-thomas-partey-perdera-debut-ghana.html",
-      "published": "2026-06-12T17:23:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c405da33ff.jpeg",
+      "title": "\"Si no tienes miedo y te aparece un león, te puedes creer que es un gato\"",
+      "summary": "El seleccionador de Brasil atendió a los medios en la previa del partido frente a",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/ancelotti-tienes-miedo-te-aparece-leon-te-puedes-creer-gato.html",
+      "published": "2026-06-12T20:56:47+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c728235bd8.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 19.69,
       "sources": [
         "Marca"
       ]
@@ -411,13 +425,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Onces confirmados: ni Davies ni Dzeko",
-      "summary": "Canadá, ante su Mundial",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/12/01-0117-20260612-597-537.html",
-      "published": "2026-06-12T17:19:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c46b387fca.jpeg",
+      "title": "\"Todo lo relacionado con el Madrid se hablará cuando acabe el Mundial\"",
+      "summary": "El 7 de la Canarinha atendió a los medios en la previa del debut de Brasil",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/12/vinicius-ancelotti-me-da-libertad-confianza-necesito-pida.html",
+      "published": "2026-06-12T20:48:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c702a0aa0d.jpeg",
       "coverage": 1,
-      "relevance": 20.26,
+      "relevance": 19.64,
       "sources": [
         "Marca"
       ]
@@ -425,27 +439,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Helguera y su sincera reflexión sobre el Mundial: “Me parece una barbaridad, es excesivo\"",
-      "summary": "\"Mourinho siempre ha sido un gran entrenador y lo ha demostrado en muchos equipos\", comentó sobre la actualidad madridista",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/12/ivan-helguera-sincera-reflexion-sobre-mundial-me-parece-barbaridad-excesivo.html",
-      "published": "2026-06-12T17:11:02+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c3d7436648.jpeg",
+      "title": "El Valencia se pone en modo 'naranja mecánica', tritura al Joventut y otea la final",
+      "summary": "Los taronjas contienen mejor el caudal ofensivo de Ricky Rubio, se desmelenan en ataque y están a un solo triunfo de la final",
+      "url": "https://www.marca.com/baloncesto/acb/playoffs/2026/06/12/valencia-pone-naranja-mecanica-tritura-joventut.html",
+      "published": "2026-06-12T20:26:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c68ac62dcb.r_d.1006-319-0.jpeg",
       "coverage": 1,
-      "relevance": 20.21,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Sainz tras el 14º: \"Cuando he visto el ritmo... muy sorprendente\"",
-      "summary": "El de Williams sufrió, pese a una gran vuelta de qualy, y cree que están más lejos de lo que pensaban, también para el domingo",
-      "url": "https://www.marca.com/motor/formula1/gp-barcelona-catalunya/2026/06/12/carlos-sainz-14-he-visto-ritmo-sorprendente.html",
-      "published": "2026-06-12T17:04:27+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/6a2c3bccf3375.jpeg",
-      "coverage": 1,
-      "relevance": 20.17,
+      "relevance": 19.5,
       "sources": [
         "Marca"
       ]
@@ -458,36 +458,23 @@
       "url": "https://www.bbc.com/mundo/articles/c5yz87lp5pyo?at_medium=RSS&at_campaign=rss",
       "published": "2026-06-12T17:53:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e84/live/ffd73a80-6678-11f1-b44a-dfe6fe570742.png",
-      "coverage": 1,
-      "relevance": 21.67,
+      "coverage": 2,
+      "relevance": 29.75,
       "sources": [
-        "BBC Mundo"
+        "BBC Mundo",
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Crónica de una foto: el deterioro del doctor gazatí Abu Safiya, expuesto en el Supremo de Israel",
-      "summary": "El médico más célebre de Gaza lleva preso sin cargos más de 530 días y casi dos semanas en aislamiento, en una celda tan diminuta que solo puede sentarse. Esta primera imagen desde inicios de 2025 –tomada por varios medios, entre ellos France 24– ha reactivado la preocupación por su estado de salud...",
-      "url": "https://www.france24.com/es/medio-oriente/20260612-cr%C3%B3nica-de-una-foto-el-deterioro-del-doctor-gazat%C3%AD-abu-safiya-expuesto-en-el-supremo-de-israel",
-      "published": "2026-06-12T17:44:11+00:00",
-      "image": "https://s.france24.com/media/display/c88e8350-6662-11f1-b476-005056a90284/w:1024/p:16x9/PORTADA-DOCTOR-ABU-SAFIYA-JUNIO-2026-JANIRA-GOMEZ.jpg",
+      "title": "¿Un acuerdo \"inminente\" con Irán? Los constantes giros de Trump siembran confusión",
+      "summary": "Tras afirmar la víspera que un acuerdo con Irán podría firmarse en los próximos días para poner fin a la guerra, el presidente Donald Trump cambió de tono el viernes 12 de junio y acusó a Teherán de mentir. Un giro que resume por sí solo las profundas incertidumbres que rodean las negociaciones y...",
+      "url": "https://www.france24.com/es/medio-oriente/20260612-un-acuerdo-inminente-con-ir%C3%A1n-los-constantes-giros-de-trump-siembran-confusi%C3%B3n",
+      "published": "2026-06-12T20:57:01+00:00",
+      "image": "https://s.france24.com/media/display/8aa62f48-66a3-11f1-ae13-005056bfb2b6/w:1024/p:16x9/2026-06-09T051153Z-1934998091-RC23QLAYEU01-RTRMADP-3-IRAN-CRISIS-HORMUZ-USA.jpg",
       "coverage": 1,
-      "relevance": 20.72,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "La ley que ayudó a Italia a romper el poder de la mafia",
-      "summary": "Durante décadas, la mafia siciliana sembró el miedo en Italia mediante asesinatos, extorsiones y una poderosa red de influencias. Frente a esa amenaza, el Estado italiano impulsó a comienzos de los años noventa una legislación pionera que ofrecía protección y beneficios judiciales a mafiosos...",
-      "url": "https://www.france24.com/es/programas/enlace/20260612-la-ley-que-ayud%C3%B3-a-italia-a-romper-el-poder-de-la-mafia",
-      "published": "2026-06-12T16:50:06+00:00",
-      "image": "https://s.france24.com/media/display/7d4ec9aa-667a-11f1-a5c6-005056bf30b7/w:1024/p:16x9/capture-3271150286a2c31917624d5-35146842.jpg",
-      "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 19.99,
       "sources": [
         "France 24"
       ]
@@ -495,80 +482,109 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Pakistán afirma que se ha alcanzado \"un texto definitivo\" para un acuerdo entre EE. UU. e Irán",
+      "title": "Francia: Lecornu advierte sobre riesgo de posible injerencia rusa e israelí en elecciones",
+      "summary": "A 10 meses de las elecciones, el primer ministro francés, Sébastien Lecornu, alertó sobre el riesgo de injerencia extranjera, proveniente principalmente de Rusia e Israel. El premier aseguró que se han identificado varias operaciones en redes que buscarían desprestigiar a candidatos de la Francia...",
+      "url": "https://www.france24.com/es/video/20260612-francia-lecornu-advierte-sobre-riesgo-de-posible-injerencia-rusa-e-israel%C3%AD-en-elecciones",
+      "published": "2026-06-12T20:55:59+00:00",
+      "image": "https://s.france24.com/media/display/32a62f08-66a0-11f1-b255-005056a90284/w:1024/p:16x9/ES-20260612-110824-111019-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.99,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "EE.UU. espera firmar acuerdo con Irán \"en los próximos días\"",
       "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20260612-ir%C3%A1n-confirma-memorando-de-entendimiento-con-ee-uu-pero-aclara-que-no-hay-acuerdo-sobre-ormuz-irna",
-      "published": "2026-06-12T16:47:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdUZZTDloanpOU21Nb09mUnJFdFdZTnBoUkppbHZZMnBaSVU4dUFsWE1EY0R0TnlrVWtJRmdFcHI0NTA2d3F4azBILVgyNUplNzdvMGdPcjc5eFdmSUIwMFlfVTlFNzNvWG1WUkhMVlZ3WncteHNmRVJ6MG5TZzNYTUw1dHBsOFBCdjJMMm9wM0dSQXRSSkN5VzBvRS03RFFoV3R4WGJ3TGtxUzg?oc=5",
+      "published": "2026-06-12T21:22:09+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.36,
+      "relevance": 18.35,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "El fracaso del mayor proyecto militar europeo: ¿puede Europa defenderse unida?",
-      "summary": "Lo que debía convertirse en el símbolo de la autonomía estratégica europea terminó revelando las profundas divisiones que persisten dentro del continente. El colapso del Future Combat Air System (FCAS), el ambicioso programa franco-alemán para desarrollar un avión de combate de sexta generación...",
-      "url": "https://www.france24.com/es/programas/ventana-a-europa/20260612-el-fracaso-del-mayor-proyecto-militar-europeo-puede-europa-defenderse-unida",
-      "published": "2026-06-12T15:51:43+00:00",
-      "image": "https://s.france24.com/media/display/2f047648-6673-11f1-a18e-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-12JUN-VAE.png",
+      "source": "Google Noticias",
+      "title": "Vladímir Putin anunció una intensificación de los ataques contra Ucrania",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDlCYUc4Z0lPVVl6eTd1Z2VvaS1oTlJBSmFEMzBwX0NmUlZ6czVXbHlXNjRGXzVDRl9jYUNHQkp5M0duOVNRSGdGYWkyMlBaNkEybnJZd3BQODhibEY5OG03T2VTTkRLcVI0T09rdS1OTHhhTzBTSVdCd0owbk9rZndqOGs0Rm9pazl2V0ZicGtPNXlwZ3RGR0VRaTViSU44eTR1TVM4SWJZU1RscjRWRE54UFdtUmpaTWpJUjZuUdIB2gFBVV95cUxPQnU4anVsTnJoSUhENzVjVHUzOGl3dVVvTjgyUjMzUGRKcnRsRVNEMkxHVVJFQl84TmRxX29OUXgxMEJySmFvbWdmZW1sM2ZMbFZobDRVdTJuR1ExM0prTHYwNFR5NUEyR1ZQOHNuYXlvZnJuTE05U2tSb2lwbW9aLU9JU2U3SG5fOXBRbTA4SkpWYlNhU3l0ZmI3TWFMWlJXLUpqRDNPMEJvb0xrX2RzbVdtcV9jUmFnT2xubklHdGh6alFKR251amVDMjd0cjNLOE15MUNfREhLZw?oc=5",
+      "published": "2026-06-12T20:38:00+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.01,
+      "relevance": 18.08,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "¿Firmarán EE. UU. e Irán un memorando de entendimiento?: lo que hay que saber",
-      "summary": "Mientras se mantiene la incertidumbre sobre si Estados Unidos e Irán están cerca de firmar un preacuerdo para terminar la guerra, medios de comunicación estatales de la República Islámica, como la agencia IRNA, reportan este viernes 12 de junio que Teherán aceptó un memorando de entendimiento, pero...",
-      "url": "https://www.france24.com/es/medio-oriente/20260612-firmar%C3%A1n-ee-uu-e-ir%C3%A1n-un-memorando-de-entendimiento-lo-que-hay-que-saber",
-      "published": "2026-06-12T15:35:29+00:00",
-      "image": "https://s.france24.com/media/display/c7b95b66-2851-11f1-8be0-005056bf30b7/w:1024/p:16x9/2026-03-24T162349Z-1812435335-RC24BKAM2EPB-RTRMADP-3-IRAN-CRISIS-HORMUZ.jpg",
+      "source": "Google Noticias",
+      "title": "¿Está la guerra en Ucrania en un punto de inflexión?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mX2FIWjladUlrSXVWcUllUEw3QmcxVTRrd2lFQXN3Qjk3eGtWQXJJdl9EZDA1VmozRV9mQzdDbVlUV3lVWTBSSm1tRXBPTEh5VUJuUzFFNTRWOUM2bVdWdkFUbGRhSHRrekVaS1c5NWNSVVFlTE1KTmw1VHdSaGc?oc=5",
+      "published": "2026-06-12T18:05:20+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.91,
+      "relevance": 17.12,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Beirut, refugio para miles de desplazados por los ataques israelíes contra Líbano",
-      "summary": "Las tiendas de campaña se extienden a lo largo del paseo marítimo de Beirut y a pesar de que las autoridades se niegan a referirse a ellos como campamentos, las filas de carpas de las familias desplazadas cuentan otra historia. Al perder sus hogares por los ataques israelíes, muchos han tenido que...",
-      "url": "https://www.france24.com/es/video/20260612-beirut-refugio-para-miles-de-desplazados-por-los-ataques-israel%C3%ADes-contra-l%C3%ADbano",
-      "published": "2026-06-12T14:17:21+00:00",
-      "image": "https://s.france24.com/media/display/a56ccf04-6666-11f1-bf6a-005056a97e36/w:1024/p:16x9/ES-20260612-073518-073718-CS.jpg",
+      "source": "Google Noticias",
+      "title": "Rubio mantiene su compromiso con fin del conflicto ucraniano en mensaje por Día de Rusia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSXRJQTNQb1pnbkVUM3UyUk1BX0gxbVZMcVFtUG1FLWlqcl92VWFkeWxtdWs5Q0tYVDRqZXF1dWZpTmdaTDNEZU1KcnIySS1aZVRTd0J4VUJSbjhSbmdmY0YteDRnbXNKUElvbVF5V0NaVElLMnJmV3ptcFdVOXJnYlQ1VmRUMS1ZU0lHTTU4VkdCTmx0TmM5NFVqekUxcDRFMUNuVVNMRHE4U3ZyekcteGY3S2E0bHFCMjZISTBQdzdFaUhmS0VJUmVOb0ptQnM1MWxIeGtFVUjSAfMBQVVfeXFMTTNZLTdVb0xHSnYwQUVBdmZIcjJnWXJEbWg0R1BZMkhSaF9VMnpjQ0ZXNC1Bamd4WkhScWJacE5obW41VEJWSmFYXzFETXlINnRhQnBpVUZJTnlxLWVyU25MTXZJY212UGpleER0UjdwN0pYNTIzM2doVml5NTdGdmREel9Sa3h0ZnFFZGwzT3FTNlZVS0Z1SkN6VHJvNTNsREowcUlNeVcwalhjZVVfM3BPRTEtbFA5VEVMdEFHZkNpbWRvdWFIWFF4dFV4XzdsZk9hazZUZkE4MUM3RWFQa2JuWk4weUV5eEM5ZjBCQ0hnYi1j?oc=5",
+      "published": "2026-06-12T16:56:25+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.42,
+      "relevance": 16.69,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU. e Irán habrían logrado un memorando de entendimiento",
-      "summary": "Irán y Estados Unidos habrían llegado a un acuerdo de entendimiento. En un nuevo cambio de postura del presidente estadounidense, Donald Trump, el mandatario anunció que el posible acuerdo se firmaría en Ginebra, Suiza, este fin de semana. La agencia estatal IRNA aseguró que aún hay puntos no...",
-      "url": "https://www.france24.com/es/video/20260612-ee-uu-e-ir%C3%A1n-habr%C3%ADan-logrado-un-memorando-de-entendimiento",
-      "published": "2026-06-12T14:13:20+00:00",
-      "image": "https://s.france24.com/media/display/737b3a1e-6664-11f1-ac2d-005056a97e36/w:1024/p:16x9/ES-20260612-073329-073450-CS.jpg",
+      "source": "Google Noticias",
+      "title": "Ucrania despide a un soldado colombiano caído en la guerra con Rusia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3ZaOWdmU2VnWVRZcHlCSE50TUk4OW9kS041Mnp1eHFobjNVYVZhLXE4RDZLMDNJN0lpQnhsaVl5YTQ3bmhES2RWU183VUZfbW42eU5JS3JReFk0LWFfdmNDYktNQkhkcm1BQTRObUdqTFJfcTQzbW16OUdYRFNqRkstaWNDaWNNY0RNTEVKT3laU1Fp?oc=5",
+      "published": "2026-06-12T15:15:38+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.4,
+      "relevance": 16.06,
       "sources": [
-        "France 24"
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "El probable equipo de Uruguay para el debut en el Mundial 2026: Bielsa prueba con Núñez y Viñas en el \"doble 9\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdEdPNXlzZEZyZ0QtM0JUMURvSTZUZjFHYXJqRHA5RVV2MVBjbGQtbmlscjZ6Rm0wbFI5VDlfOWNVOXFuUzRkdzdNNGh1LVNORlpCbWtiUVAxc1dFelFiVVczM1dNdS10dlVsZUFwdnE1UUNxbGFEeHU1TE9NMnJQaTN2bUhsVzZsaUJoMUZDQjItb1c2RVI1QnBMS3pkYXVCOTh5d3puTVluSFdwem83d2F6elloM3dteUNPNXYzRUs0LXd6YVp4RHJkRDd4ejUzdC1tZkRObUtzWVNwdTh5VUJObVk?oc=5",
+      "published": "2026-06-11T22:39:13+00:00",
+      "image": null,
+      "coverage": 2,
+      "relevance": 22.4,
+      "sources": [
+        "El País Uy",
+        "Google Noticias UY"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Jorge Giordano: “Uruguay está cumpliendo con una preparación bastante sólida”",
-      "summary": "El director de selecciones habló desde la concentración en Playa del Carmen a días del debut celeste en el Mundial.Después de la doble jornada del jueves en Playa del Carmen, en la que Marcelo Bielsa empezó a delinear el once inicial del equipo, la selección uruguaya volvió a tener descanso...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/jorge-giordano-uruguay-esta-cumpliendo-con-una-preparacion-bastante-solida/",
-      "published": "2026-06-12T17:55:18+00:00",
+      "title": "Paysandú y AFE sellan una alianza estratégica para recuperar el patrimonio ferroviario y proyectar oportunidades de desarrollo",
+      "summary": "El convenio marco firmado hoy entre la Intendencia de Paysandú y AFE apunta a fortalecer la cooperación institucional, ordenar el patrimonio ferroviario y generar condiciones para futuras inversiones.La Intendencia de Paysandú y la Administración de Ferrocarriles del Estado (AFE) formalizaron un...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/paysandu-y-afe-sellan-una-alianza-estrategica-para-recuperar-el-patrimonio-ferroviario-y-proyectar-oportunidades-de-desarrollo/",
+      "published": "2026-06-12T23:04:40+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.89,
@@ -579,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Ley de Integral de Empleo ingresa a Cámara de Diputados el martes y la oposición planteará modificaciones",
-      "summary": "El diputado blanco Pedro Jisdonian sostuvo que el proyecto debería incluir más beneficios en el programa Yo Estudio y Trabajo para promover la contratación de jóvenes.La Comisión de Legislación del Trabajo y Seguridad Laboral de la Cámara de Diputados votó en la sesión de este miércoles la Ley...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/6/ley-de-integral-de-empleo-ingresa-a-camara-de-diputados-el-martes-y-la-oposicion-planteara-modificaciones/",
-      "published": "2026-06-12T16:52:42+00:00",
+      "title": "Yamandú Orsi se reunió con algunos transportistas y recibió 11 propuestas sobre la situación de costos",
+      "summary": "El mandatario manifestó su “preocupación” y valoró la importancia de mantener las “puertas abiertas al análisis” de planteos que dan cuenta de “dificultades de escala y costos”En la tarde de este viernes el presidente de la República, Yamandú Orsi, se reunió en la residencia de Suárez y Reyes con...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/yamandu-orsi-se-reunio-con-algunos-transportistas-y-recibio-11-propuestas-sobre-la-situacion-de-costos/",
+      "published": "2026-06-12T22:57:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.49,
+      "relevance": 19.85,
       "sources": [
         "La Diaria"
       ]
@@ -593,85 +609,71 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El 1° de setiembre comenzarán los despidos en Darcy, informó la empresa textil",
-      "summary": "Serán despedidas 35 personas, de las cuales 34 son mujeres.La empresa Darcy anunció en una reunión tripartita, celebrada el miércoles junto al sindicato de base y a negociadores del Ministerio de Trabajo y Seguridad Social, que hasta el 31 de agosto continuará con la producción y que, un día...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/6/el-1-de-setiembre-comenzaran-los-despidos-en-darcy-informo-la-empresa-textil/",
-      "published": "2026-06-12T15:17:34+00:00",
+      "title": "Mundial: todos los partidos para ver el sábado",
+      "summary": "Debutan ocho selecciones en una jornada íntegramente en suelo norteamericano.Este sábado 13 de junio a las 16.00 de Uruguay se pone en marcha el grupo B de la Copa del Mundo con un duelo de estilos bien marcados en el Estadio de la Bahía de San Francisco, un imponente escenario levantado en la...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/mundial-todos-los-partidos-para-ver-el-sabado/",
+      "published": "2026-06-12T22:36:08+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.9,
+      "relevance": 19.71,
       "sources": [
         "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Peajes en Uruguay: retendrán vehículos con deudas desde $ 150.000 y no levantarán barreras",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWowMllhZUdIYW56UWIxUDBsQzJDdWFHbmgtTVF4anI3QWgzTU9mM0FTa3loMGs5V2FuOGRYY05OM1RTQ3c5dkhIZVVIYzhSc0FDZXpIeFEtTGlGNGxmLW5fT0ktZ2dMVmhBNEVNVTVicE5OMmxFYXdhM0NVY2xobVctVWIwYVRQd2F5ZVpwTDM2c2tDdmRQWmFWRzhNQU1PMl9LYkZ5TXdVRWs2cHY3ajJvd2Y2cWR6M2M0UENDQ3Vjay1KXzVHb21RVnFKYmg2?oc=5",
-      "published": "2026-06-12T17:35:42+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.86,
-      "sources": [
-        "Google Noticias UY"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Bettiana Díaz: hay “un ataque muy fuerte sobre la figura de Yamandú”, en un contexto en que las democracias “se debilitan”",
-      "summary": "La senadora frenteamplista se refirió a las movilizaciones que impulsan transportistas autoconvocados: “Hay un desfase entre la bandera partidaria que hay detrás y las reivindicaciones justas del sector” .La senadora frenteamplista Bettiana Díaz estuvo en Panorama informativo de la diaria Radio y...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/bettiana-diaz-hay-un-ataque-muy-fuerte-sobre-la-figura-de-yamandu-en-un-contexto-en-que-las-democracias-se-debilitan/",
-      "published": "2026-06-12T14:45:49+00:00",
+      "title": "Dos que ilusionan: Valverde y Bentancur juntos",
+      "summary": "Después de lesiones, sanciones y una construcción a cuentagotas, los volantes celestes llegan al Mundial como la sociedad llamada a mejorar el fútbol de Uruguay en la mitad de la cancha.Cuando Uruguay fue superior –y muy superior– a los rivales desde que Marcelo Bielsa está al frente de la...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/dos-que-ilusionan-valverde-y-bentancur-juntos/",
+      "published": "2026-06-12T22:20:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.7,
+      "relevance": 19.62,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Encuesta de Augap identificó falta de conocimiento sobre Capín Annoni",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN1ltbmN0bVJ4dllfb1lPdzc2MnNkSmJ4TDAwVDBuMUlGUjlyNXFBT1RBMHRkMmNKcGdTNjh4cDRBbEZwMHdYR3hEMmtQTHZTVWZPTUtDLVhRR0NUMV9lRTc0dUZVZjdVdGxQU3ZYajYya25rNUlEOWZlYUlRLW5teTM5ZFdfRGpFZ2luSFZ2d1NvUV94MHM0NlZwYWhZRDU0YlBpaS1IV0IwSUJ6dHc?oc=5",
-      "published": "2026-06-12T08:46:50+00:00",
+      "source": "La Diaria",
+      "title": "Canadá rescató un empate en su debut ante Bosnia y Herzegovina",
+      "summary": "El equipo norteamericano, anfitrión en Toronto, careció de efectividad y no pudo con una floja selección balcánica.Canadá empató 1-1 en su debut mundialista ante una efusiva marea roja en el BMO Field de Toronto, donde también hubo una animada concurrencia visitante que llegó en buen número para...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/canada-rescato-un-empate-en-su-debut-ante-bosnia-y-herzegovina/",
+      "published": "2026-06-12T22:15:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.96,
+      "relevance": 19.58,
       "sources": [
-        "El País Uy"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Está confirmado el árbitro para el debut de Uruguay en el Mundial 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeTFrREpqN0hKNTZscE5IQUhwcnlsN1Rvdko4RjFRcTNLRWE4TEt3YmQtS0w1QTBIR0VHRWxYak5RdTdaQUlBWEtFQkRzYVhGWmpSNTdpeVV4bHQ3SXE0eWVtbXVJdV80ZXdNMk9BNjVGdE9xZEZyM0VEV3pCRzdybFh3Z25ZVVp1bHp2ZDQ3UUUtazNDbGlCVzNwd2haRGtaSVFZNHNFS3VrQ2pNQW50UVF6a3gxV2FfYlcxZzZjWldRSWhqVWNTa1lza0J3aUpa?oc=5",
-      "published": "2026-06-12T14:43:00+00:00",
+      "source": "La Diaria",
+      "title": "Endeudamiento en Uruguay: uno de cada cuatro adultos tiene la peor calificación crediticia",
+      "summary": "Integrantes del grupo Endeudamiento ¡uy! presentaron en el Cenur Litoral Norte los resultados de una investigación sobre la problemática.Integrantes del grupo Endeudamiento ¡uy!, conformado por personas vinculadas con la Asociación de Bancarios del Uruguay (AEBU), al Instituto de Promoción...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/6/endeudamiento-en-uruguay-uno-de-cada-cuatro-adultos-tiene-la-peor-calificacion-crediticia/",
+      "published": "2026-06-12T22:06:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.78,
+      "relevance": 19.53,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Mundial 2026: FIFA confirmó el árbitro que pitará en debut de Uruguay con Arabia Saudita",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWptVWY0Q19DdFI1OEFzSWxrejNyRHpCcnRoZ1lEQ1N4V2o3MXdIUnlVYTJSbW1HeWhiMzdma2hxVFFRemlWeXBOd20wYWNDUTl1VlZSUkNPOTd1aWZad0ZUYkxSSGdBRm8zMlNmQ0I5ZG1qR0VFbjBTaHF5d1VkZnUtM2pDcFNfc1NFR2VkYkZDSHlSZS1pOXpCUWZ0aWl5LXUyUGplWjQ1Zm9XY281VmlVZm5pdDJibXp0Y1QyLXhZdTNiRDNiakZxcGxCcHI1?oc=5",
-      "published": "2026-06-12T14:20:00+00:00",
+      "source": "La Diaria",
+      "title": "Lustemberg exhortó a grupos de riesgo a que se vacunen contra la gripe, tras bajos números de adhesión",
+      "summary": "Desde que comenzó la campaña, los niveles de inoculación de personas embarazadas, niños menores de cinco años y adultos mayores de 65 no superan el 50%.La ministra de Salud Pública, Cristina Lustemberg, exhortó a las diferentes poblaciones de riesgo que aún no se han inoculado contra la gripe a que...",
+      "url": "https://ladiaria.com.uy/salud/articulo/2026/6/lustemberg-exhorto-a-grupos-de-riesgo-a-que-se-vacunen-contra-la-gripe-tras-bajos-numeros-de-adhesion/",
+      "published": "2026-06-12T21:44:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.64,
+      "relevance": 19.39,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     }
   ]
