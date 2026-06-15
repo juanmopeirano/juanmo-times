@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T19:36:39.218046+00:00",
+  "updated_at": "2026-06-15T23:28:02.602360+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,7 +10,7 @@
       "published": "2026-06-15T18:46:45+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/5EXA3QD4CND25KJD2LMFGHPOE4.jpg?auth=cccf0e9886ea3a3065eb0f37acd31454c3d3a731c95c972de3882fdbc6e40287",
       "coverage": 1,
-      "relevance": 21.09,
+      "relevance": 19.64,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +24,37 @@
       "published": "2026-06-15T16:17:54+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/SZ7VN3FB35DELN4TR4NGRF7HGQ.jpg?auth=b25d08ce01a8c57de202f3fa3a09d61c52baa6c1b088acff44398f788c144d20",
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 18.71,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este lunes 15 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1pIZTBTYWFTZUtyT3JlRDBVNV9xMWhYNlFIRUJQaWlLcWFDSDdhS195OGE2UzlzVDF2S3lkNXJvcDJQX2NJaXBTblZjMGZSaElyUS1lamFQUWRtamhvYzdaNThqQndNaEVXMzJHZXE5RnY3TjhzUUxMNnVPWE5hUFdRRUhZNnlSMXFLRl80Z0JIanBoaEZSWmFMbDRpOXQxLUxOdTRwTnp6UdIBxAFBVV95cUxOYXRuS3hsSnY2MkxOeXJ1d0ZST3RiLVI1MjdJTjZ6dS1hU291VEUxTEZWb3k5TGtEanV3SUJyU1hRdm9mYzZqXzFBSmRPUHpsTnN2N2pJd21hdEJHMU9wSFFSbjBZRXY0SDlDTjZBZGxMeVAtME5aSXZzZ2VqUWlxbjZNVExlS09NRlZqc25xa0thZFdXX2FLbWlKVldUbDdFMWlhSGp2UzZRbWlvWmdzT1Q3bjEzNzJQMEZkTjR0Vi1iRGF5?oc=5",
+      "published": "2026-06-15T22:00:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.45,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este lunes 15 de junio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcFV1cmR4eVFBeUZQNWtnSDdOWXRJQlNpV0ZRWExXR3p6OUR2aXhSN1BmY2RKRXVqNDliWW1vcF9LOFR2VVVrQWxFamZzZmREY21yTGdYeWttVk4wNnpkYlJFTy1zX25FUHFuMF9tZHBSNHQ0QjJfMWNxMWFDdXV1a0JZMjFad2NjeFd0ZGp4WHNMNFFZYmp4b1ZQcFVpbGZVWHVGRTdFN0QxUVljRmI0U1lUR3NwNVJHdVZvb9IB1wFBVV95cUxPZlNIb2ozTWE0a2FtU3ZBdFQ0b0xYbUluekZ5c1g5Z2VLRFpVSmYxUlBWMmpPaDZseGpRbjRRS1k3Q3VYcVljMnBYMGlTRGVsbUZVS0J1dTFYY2pIZjVZd1RtNXhHNDhsMG1rWFpDSzJESG9hS2diWV95dlgwQU9PUUFIVVRNTUgyYmV6MzFpeDA4SG05S1BxcUphMnJ5VnB0ZzNCRS1hQm9KYnlHQU0yR3FLWmJQenpsWDdESGV3emxHT0NOb1VEeVVSWklrZmt3MlRMdS1yOA?oc=5",
+      "published": "2026-06-15T22:00:33+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.45,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,21 +66,7 @@
       "published": "2026-06-15T19:28:20+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.95,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El plan de EEUU para ‘dolarizar’ las remesas en América Latina con stablecoins",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYkhIQ1V1d3gwZUt3RXFzdG02bUlrWGNwazR2dklCdVB6endhcWNNWk9jM0lJWUNMbFVBMjdnM29OR05PaVFBOWVtQzFvSlprazJlZWd0b0pjZmM4WFpKVC1zSDZIZDBLNjQwLUYwUGNicHVRU0Z0ejhLbzZrX09DSlFMeC16LXlmeGViMDc4bHNzWW9iR3RGRmtycHpsYnYxVFUzS1FFZXhJbWgzVmVVVl9rMGR4aDVHbXBZbEJQTjUxQWNmaUHSAeABQVVfeXFMTXpCR0k5Sjh6dHM3eTJ5S3VuaHVsa2E4aWY3aVo2aTRrZi1PT1dmMWZGcXJKRDJKM3BCejVfTVhHSkJtRGY0M0FrMlkyQ0hyQ1dNY2Y0NDRBNlM3V3V3QWJ5c1BMM1lMTGZzRE84N0ZhZ0JSVWJ0YVFHWGxsWm5rNHB3Mi1GcmoyUUkwaERpbm9hMkxNcUxxcnZEZW95bDlabnVrY2VOM01za0daRWViR1hEQUdiSHhKaVF2Qy1uZ0RTNjItQkFKRWg1em9abXFZaTFpT2dyeW9aX3NFWEprNE0?oc=5",
-      "published": "2026-06-15T19:11:29+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.84,
+      "relevance": 17.5,
       "sources": [
         "Google Economía"
       ]
@@ -66,7 +80,7 @@
       "published": "2026-06-15T18:58:36+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.76,
+      "relevance": 17.32,
       "sources": [
         "Google Economía"
       ]
@@ -80,21 +94,7 @@
       "published": "2026-06-15T18:16:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.5,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "FMI sigue en “alerta máxima” por impacto económico de la guerra pese a acuerdo Irán-EE.UU.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbVE1X20xOVJCRlZJUGNzYWpWM3NVYkFTYWxPUkg5T2ZBV3cycmxpUXJjMWpiMDQ5YTl0R2RVUmdnY3pkQmZ6OVhjcTdtNFFpY0VGRGpnNzA3T3ZWaVRwLUxPMHdBTmFRMUpHN0JSc1FVeENxcFM5SGpsdDV4ekw5VWJNd1hSbUVKZl9SSktPYUhtaDBiVG5XTmJELXktcmRPeFM2TlRCelBjZmQ2VllnZzZQMGJ6RTR0RlZzSVJvNmRDUdIB1gFBVV95cUxNVFNBRi1LWlpTNVZJTEpubTFWejc2alFRelNrbHZpSVdIemhBQ01pMG41OUlQSERDQmVmUktHcGNvakxDTHZ4a252U0VzQXlJcDBMNGRfVFY3MTdIeGdDMEo3eHBoZUdYQnc4Sl9wMy1XMHhQRU5UZGNsM2djMTRFdHRSX1BlWkZ5bU1GaUlLS0xqYzhiQ3hIaFlTUlhqVWQtNFQzbkFwYXBYMEJBU3JTV3BVTndLVjhfLUgtUWpPMWZ0WXFtMFFCREo2T28xdF9ZR0hTbnpB?oc=5",
-      "published": "2026-06-15T16:45:48+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.93,
+      "relevance": 17.06,
       "sources": [
         "Google Economía"
       ]
@@ -108,9 +108,51 @@
       "published": "2026-06-15T16:45:27+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.93,
+      "relevance": 16.48,
       "sources": [
         "Google Economía"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Para una buena relación de pareja debe ser un 50/ 50?",
+      "summary": "En los últimos años se ha popularizado la idea de que una relación de pareja debe ser “50/50”: es decir, ambos deben aportar lo mismo en dinero, en tareas domésticas, cuidado de los hijos y responsabilidades cotidianas. A simple vista parece una fórmula justa, pero ¿es realmente posible mantenerse...",
+      "url": "https://es.aleteia.org/2026/06/15/para-una-buena-relacion-de-pareja-debe-ser-un-50-50/",
+      "published": "2026-06-15T21:53:48+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.61,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Actualmente, ¿cómo está tu relación con Dios? (QUIZ)",
+      "summary": "Todos los días tenemos tratos con diferentes personas, ya sean familiares, amigos, compañeros de estudio o de trabajo, o, incluso, personas con las que casualmente nos topamos en la calle y que no volveremos a ver; pero para todas tenemos una actitud especial. Sin embargo, tal vez no hemos reparado...",
+      "url": "https://es.aleteia.org/2026/06/15/test-actualmente-como-esta-tu-relacion-con-dios/",
+      "published": "2026-06-15T21:26:48+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.44,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "El Papa León XIV recibirá una prestigiosa medalla estadounidense",
+      "summary": "Nelson Mandela, el Dalai Lama, Bill Clinton, Mijaíl Gorbachov, Steven Spielberg, Muhammad Ali… y pronto León XIV. El 3 de julio, víspera del Día de la Independencia de Estados Unidos, el Papa recibirá la Medalla Presidencial de la Libertad, otorgada anualmente por el Centro Nacional de la...",
+      "url": "https://es.aleteia.org/2026/06/15/el-papa-leon-xiv-recibira-una-prestigiosa-medalla-estadounidense/",
+      "published": "2026-06-15T20:54:39+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.24,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +164,7 @@
       "published": "2026-06-15T18:26:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.76,
+      "relevance": 18.32,
       "sources": [
         "Aleteia"
       ]
@@ -136,7 +178,21 @@
       "published": "2026-06-15T17:44:38+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.5,
+      "relevance": 18.05,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "El don de sanación en 10 iluminadoras frases de Emiliano Tardif",
+      "summary": "El misionero de origen canadiense Emiliano Tardif, conocido por su asombroso ministerio de sanación en la República Dominicana y en todo el mundo, ha inspirado la película Día 8. El Soplo del Espíritu. Estrenado el 8 de mayo de 2026 en España, el film ha logrado una “muy buena acogida” en los...",
+      "url": "https://es.aleteia.org/2026/06/15/el-don-de-sanacion-en-10-iluminadoras-frases-de-emiliano-tardif/",
+      "published": "2026-06-15T17:12:52+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.86,
       "sources": [
         "Aleteia"
       ]
@@ -150,23 +206,9 @@
       "published": "2026-06-15T15:38:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/14/12/1781431260947.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.31,
+      "relevance": 17.86,
       "sources": [
         "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "El don de sanación en 10 iluminadoras frases de Emiliano Tardif",
-      "summary": "El misionero de origen canadiense Emiliano Tardif, conocido por su asombroso ministerio de sanación en la República Dominicana y en todo el mundo, ha inspirado la película Día 8. El Soplo del Espíritu. Estrenado el 8 de mayo de 2026 en España, el film ha logrado una “muy buena acogida” en los...",
-      "url": "https://es.aleteia.org/2026/06/15/el-don-de-sanacion-en-10-iluminadoras-frases-de-emiliano-tardif/",
-      "published": "2026-06-15T17:12:52+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.3,
-      "sources": [
-        "Aleteia"
       ]
     },
     {
@@ -178,51 +220,51 @@
       "published": "2026-06-15T14:40:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/07/WhatsApp-Image-2026-03-06-at-17.45.03aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
+      "relevance": 17.5,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Samsung elimina una de las aplicaciones más usadas de los Galaxy",
+      "summary": "Samsung ha discontinuado una de sus aplicaciones más usadas de los últimos años. A unos meses de despedirse de su aplicación de mensajes, el gigante surcoreano echó el cierre de Samsung Max VPN, su aplicación de privacidad y ahorro de datos para Android. La app dejará de funcionar a partir de hoy,...",
+      "url": "https://hipertextual.com/mobile/samsung-max-vpn-cierre-app-android/",
+      "published": "2026-06-15T21:10:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/Samsung-Galaxy-S26-Utra-5.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.34,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Meta gastó al menos 14.000 millones de dólares para ganar la carrera de la IA. Ha pasado un año y sigue exactamente donde estaba",
+      "summary": "En Silicon Valley, y en la tecnología en general, ser enorme no garantiza estar preparado para ganar todas las carreras. Puedes tener dinero, talento, centros de datos, miles de millones de usuarios y una maquinaria capaz de integrar cualquier novedad en productos que usamos a diario. Aun así,...",
+      "url": "https://www.xataka.com/robotica-e-ia/meta-gasto-al-14-000-millones-dolares-para-ganar-carrera-ia-ha-pasado-ano-sigue-exactamente-donde-estaba",
+      "published": "2026-06-15T20:16:17+00:00",
+      "image": "https://i.blogs.es/ef1973/mark-zuckerberg/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.3,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Anya Taylor-Joy se une a ‘El Señor de los Anillos: La caza de Gollum’: ¿A quién interpreta?",
+      "summary": "El Señor de los Anillos: La caza de Gollum continúa sumando estrellas a un elenco ya atestado de nombres icónicos. En este caso, es Anya Taylor-Joy quien se une a la producción que dirige y estelariza Andy Serkis. La estrella de Gambito de Dama, Furiosa y la saga animada de Super Mario Bros es la...",
+      "url": "https://hipertextual.com/cine-television/anya-taylor-joy-el-senor-de-los-anillos-la-caza-de-gollum/",
+      "published": "2026-06-15T20:07:53+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Anya-Taylor-Joy-scaled.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
       "relevance": 18.95,
       "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Santa Sede hace acuerdo para creación de planta agrivoltaica",
-      "summary": "El 10 de junio se firmó el protocolo de acuerdo entre el Governadorato del Estado de la Ciudad del Vaticano, la Administración del Patrimonio de la Sede Apostólica (APSA), la Fundación «Fratello Sole» y la empresa ACEA para la construcción de una planta agrivoltaica en la zona extraterritorial de...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/santa-sede-hace-acuerdo-para-creacion-de-planta-agrivoltaica.html",
-      "published": "2026-06-15T14:30:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/15/santa-maria-di-galeria-croce-impianto-agrivoltaicoAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.88,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa non invita a avanzar en la defensa de la dignidad humana",
-      "summary": "El obispo de la Diócesis de San Cristóbal de La Laguna de Tenerife, Monseñor Eloy Alberto Santiago, analiza el impacto de la histórica visita de León XIV a las islas canarias. Destaca la extraordinaria acogida al Pontífice en toda España, su firme denuncia de las mafias que trafican con migrantes y...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-06/obispo-santiago-papa-mensaje-acogida-compromiso-migrantes.html",
-      "published": "2026-06-15T13:56:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/12/2026-06-12-viaggio-apostolico-in-spagna---incontro-con-le-realta/1781260862995.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.67,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Ucrania: La catedral de la Dormición de Kyiv, devastada por las llamas",
-      "summary": "Al menos 11 personas murieron la mañana del 15 de junio de 2026 en una serie de ataques aéreos rusos contra ciudades ucranianas. Un incendio también arrasó la Catedral de la Dormición, una emblemática iglesia ortodoxa del siglo XI en Kiev, declarada Patrimonio de la Humanidad por la UNESCO. En...",
-      "url": "https://es.aleteia.org/2026/06/15/ucrania-la-catedral-de-la-dormicion-de-kyiv-devastada-por-las-llamas/",
-      "published": "2026-06-15T15:26:45+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.64,
-      "sources": [
-        "Aleteia"
+        "Hipertextual"
       ]
     },
     {
@@ -234,7 +276,7 @@
       "published": "2026-06-15T18:46:16+00:00",
       "image": "https://i.blogs.es/9d148c/futuro-del-empleo-con-la-ia/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 18.74,
       "sources": [
         "Xataka"
       ]
@@ -248,7 +290,7 @@
       "published": "2026-06-15T19:20:37+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ublock-origin-chrome.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.1,
+      "relevance": 18.65,
       "sources": [
         "Hipertextual"
       ]
@@ -262,7 +304,7 @@
       "published": "2026-06-15T18:30:17+00:00",
       "image": "https://i.blogs.es/783f06/porsche-taycan-nos-equivocamos-llegamos-demasiado-pronto/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 18.64,
       "sources": [
         "Xataka"
       ]
@@ -276,7 +318,7 @@
       "published": "2026-06-15T18:16:17+00:00",
       "image": "https://i.blogs.es/10ff9f/el-hombre-del-norte/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 18.55,
       "sources": [
         "Xataka"
       ]
@@ -290,63 +332,21 @@
       "published": "2026-06-15T18:00:17+00:00",
       "image": "https://i.blogs.es/2e324c/spacex-golfo-persico/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.9,
+      "relevance": 18.45,
       "sources": [
         "Xataka"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Ni aire acondicionado portátil ni ventilador: este dispositivo barato es ideal para refrescar la casa en verano",
-      "summary": "El calor precio al verano se está asentando por muchos pueblos y ciudades, por lo que es buena idea prestar atención a los diferentes dispositivos que nos permitan sobrellevar mejor las altas temperaturas. De entre todos ellos, los climatizadores son especialmente interesantes, sobre todo si lo...",
-      "url": "https://www.xataka.com/seleccion/aire-acondicionado-portatil-ventilador-este-dispositivo-barato-ideal-para-refrescar-casa-verano",
-      "published": "2026-06-15T17:46:16+00:00",
-      "image": "https://i.blogs.es/262679/orbegozo-air-55/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.81,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El secreto de la longevidad no es solo correr: la ciencia concreta cuántos minutos de pesas a la semana reducen el riesgo de mortalidad",
-      "summary": "Durante décadas, cuando se pensaba en hacer ejercicio físico, la mente se nos iba casi automáticamente a hacer mayor actividad cardiovascular. Correr, nadar o montar en bicicleta han sido recomendaciones estrella para mantener el corazón sano y alargar la esperanza de vida. O al menos vivir con una...",
-      "url": "https://www.xataka.com/medicina-y-salud/secreto-longevidad-no-solo-correr-ciencia-concreta-cuantos-minutos-pesas-a-semana-reducen-riesgo-mortalidad",
-      "published": "2026-06-15T17:30:17+00:00",
-      "image": "https://i.blogs.es/d82274/fuerza/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.71,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "EA añadirá anuncios en sus próximos juegos y no habrá forma de evitarlos",
-      "summary": "Desde hace unos años que Electronic Arts se convirtió en una de las compañías más odiadas por los jugadores. Si bien la empresa tiene juegos ultrapopulares como EA FC, Madden o Battlefield, son sus prácticas de negocio las que sacan de quicio a millones de personas. Lamentablemente esto no va a...",
-      "url": "https://hipertextual.com/videojuegos/ea-anuncios-videojuegos-fifa-madden-battlefield/",
-      "published": "2026-06-15T17:50:06+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ea-publicidad-fifa.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.53,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
       "category": "deportes",
       "source": "Marca",
-      "title": "Un récord para frenar a España",
-      "summary": "Cabo Verde realiza una única falta en el duelo ante los de De la Fuente, el registro más bajo desde Inglaterra 1966",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/15/record-frenar-espana.html",
-      "published": "2026-06-15T19:22:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a30483b05ca4.jpeg",
+      "title": "Esperando onces",
+      "summary": "Sigue el partido y consulta cómo va el Irán contra Nueva Zelanda",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/16/01-0117-20260616-1042-1804.html",
+      "published": "2026-06-15T23:10:32+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a2f3a64a83ed.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 20.39,
       "sources": [
         "Marca"
       ]
@@ -354,27 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Bubista: \"Hay que felicitar a los equipos que se dice que son inferiores\"",
-      "summary": "El seleccionador de Cabo Verde, radiante tras el empate ante España",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/15/bubista-hay-felicitar-equipos-dice-son-inferiores.html",
-      "published": "2026-06-15T19:20:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a304ff2ad25b.jpeg",
-      "coverage": 1,
-      "relevance": 20.4,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Y en el 90' Cabo Verde nos puso el corazón en un puño",
+      "title": "La emoción de Scaloni a la pregunta de su excompañero Martín Palermo",
       "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/15/90-cabo-verde-puso-corazon-pun-video.html",
-      "published": "2026-06-15T19:12:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/beV1Y1gC4wCl2Ay0W.jpeg",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/16/emocion-scaloni-pregunta-excompanero-martin-palerm-video.html",
+      "published": "2026-06-15T22:57:03+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/bebZM1gC7ARq3RPio.jpeg",
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 20.31,
       "sources": [
         "Marca"
       ]
@@ -382,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Mal resultado, peores sensaciones\"",
-      "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
-      "url": "https://www.marca.com/futbol/mundial/opinion/2026/06/15/mal-resultado-peores-sensaciones.html",
-      "published": "2026-06-15T19:09:36+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a304dc220bf8.jpeg",
+      "title": "Hamza Abdelkarim, el nuevo Príncipe de Egipto se presenta al mundo: \"He seguido todos sus partidos en el Barcelona\"",
+      "summary": "El '9' fichado por el conjunto 'culé' se convirtió en el jugador más joven de los 'Faraones' en disputar una Copa del Mundo",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/16/hamza-abdelkarim-nuevo-principe-egipto-presenta-mundo-he-seguido-todos-partidos-barcelona.html",
+      "published": "2026-06-15T22:31:16+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/16/6a307cb52d884.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 20.15,
       "sources": [
         "Marca"
       ]
@@ -396,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Los explosivos minutos de Cucurella ante Cabo Verde: puso dos claras a Ferran",
+      "title": "\"No me ha gustado eso de De la Fuente...\"",
       "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/15/explosivos-minutos-cucurella-cabo-verde-puso-dos-claras-ferran-video.html",
-      "published": "2026-06-15T18:57:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a304af3d00cc.jpeg",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/15/ocurra-darle-seleccion-campeona-mun-video.html",
+      "published": "2026-06-15T21:54:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a3074ab253ce.jpeg",
       "coverage": 1,
-      "relevance": 20.25,
+      "relevance": 19.92,
       "sources": [
         "Marca"
       ]
@@ -410,57 +396,71 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Increíble: ni un solo gol a Cabo Verde\"",
-      "summary": "La opinión de José Vicente Hernáez",
-      "url": "https://www.marca.com/futbol/seleccion/opinion/2026/06/15/increible-gol-cabo-verde.html",
-      "published": "2026-06-15T18:36:23+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a3045257b95f.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Topuria da la cara tras su derrota: \"Sin excusas\"",
-      "summary": "'El Matador' emitió un comunicado tras su derrota ante Justin Gaethje en el UFC Casa Blanca",
-      "url": "https://www.marca.com/combates-ufc/2026/06/15/topuria-da-cara-derrota-excusas-volvere-fuerte-sabio-peligroso.html",
-      "published": "2026-06-15T18:30:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a30427567e88.jpeg",
-      "coverage": 1,
-      "relevance": 20.09,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "España 0-0 Cabo Verde | Resumen Mundial 2026",
+      "title": "La calculadora: España puede tener el peor rival en dieciseisavos",
       "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/15/espana-0-0-cabo-verde-resumen-mundial-2026-video.html",
-      "published": "2026-06-15T18:30:44+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/JRa9j.jpeg",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/15/calculadora-mundial-2026-empezar-echar-cuentas.html",
+      "published": "2026-06-15T21:51:06+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a3073acd728c.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 19.89,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Bélgica 1-1 Egipto | Resumen Mundial 2026",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/15/belgica-1-1-egipto-resumen-mundial-2026-video.html",
+      "published": "2026-06-15T21:48:48+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a30733b2d6fe.jpeg",
+      "coverage": 1,
+      "relevance": 19.88,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Lukaku llega a tiempo",
+      "summary": "Provoca el gol del empate de Bélgica, en propia puerta de Hany, apenas 14 segundos después de salir al campo. Se adelantó Egipto en la primera parte por medio de Ashour",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/15/lukaku-llega.html",
+      "published": "2026-06-15T20:58:11+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a306718c733a.jpeg",
+      "coverage": 1,
+      "relevance": 19.56,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Pablo Chiapella y el robo que sufrió en Formentera: \"Tuvimos que pedir que nos dejaran algo de ropa para poner la denuncia\"",
+      "summary": "El actor y JJ Vaquero han sido los invitados de Pablo Motos este lunes en 'El Hormiguero'",
+      "url": "https://www.marca.com/tiramillas/television/2026/06/15/pablo-chiapella-robo-sufrio-pareja-formentera-tuvimos-pedir-dejaran-ropa-poner-denuncia.html",
+      "published": "2026-06-15T20:55:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/15/6a3066d00568c.jpeg",
+      "coverage": 1,
+      "relevance": 19.55,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Las imágenes de los daños sufridos por la histórica catedral Dormición de Kyiv tras un ataque ruso",
-      "summary": "La Catedral de la Dormición, del siglo XI, sufrió daños considerables en lo que Zelensky calificó como \"uno de los mayores crímenes rusos contra la cultura cristiana en la actualidad\".",
-      "url": "https://www.bbc.com/mundo/articles/czj8epnewlwo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-15T18:23:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/153f/live/be0baa60-68de-11f1-8cbf-33679e793a63.png",
+      "source": "France 24",
+      "title": "Israel planta cara al acuerdo EE. UU. - Irán con un ataque mortal en Líbano y la negativa a retirarse",
+      "summary": "El pacto entre Washington y Teherán ha generado preocupación y rechazo en Israel, que teme que el texto ignore sus intereses. En medio de la presión, el Gobierno de Netanyahu intenta proyectar un postura firme: promete permanecer \"indefinidamente\" en los territorios que ocupa en Líbano, Gaza y...",
+      "url": "https://www.france24.com/es/medio-oriente/20260615-israel-planta-cara-al-acuerdo-ee-uu-ir%C3%A1n-con-un-ataque-mortal-en-l%C3%ADbano-y-la-negativa-a-retirarse",
+      "published": "2026-06-15T20:23:34+00:00",
+      "image": "https://s.france24.com/media/display/b4d5d38c-68eb-11f1-87af-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-ISRAEL-ATAQUE-LIBANO-15-JUNIO.jpg",
       "coverage": 2,
-      "relevance": 31.24,
+      "relevance": 29.65,
       "sources": [
-        "BBC Mundo",
+        "France 24",
         "Google Noticias"
       ]
     },
@@ -473,7 +473,7 @@
       "published": "2026-06-15T19:01:07+00:00",
       "image": "https://s.france24.com/media/display/453d82b8-68eb-11f1-978c-005056a97e36/w:1024/p:16x9/ES-20260615-120312-120506-CS.jpg",
       "coverage": 2,
-      "relevance": 30.58,
+      "relevance": 29.13,
       "sources": [
         "France 24",
         "Google Noticias"
@@ -481,17 +481,72 @@
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Guerra en Medio Oriente: ¿qué ganaron o perdieron EE. UU., Irán, Israel y Líbano?",
-      "summary": "Más de tres meses después de que Israel y Estados Unidos lanzaran la guerra contra Irán, cuyos ataques de represalia se extendieron por gran parte de la región, Washington y Teherán anunciaron un preacuerdo para poner fin al conflicto en Medio Oriente. En el #InvitadoDelDíaF24 nos preguntamos por...",
-      "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260615-guerra-en-medio-oriente-qu%C3%A9-ganaron-o-perdieron-ee-uu-ir%C3%A1n-israel-y-l%C3%ADbano",
-      "published": "2026-06-15T17:27:19+00:00",
-      "image": "https://s.france24.com/media/display/6f537c62-68df-11f1-83eb-005056a90284/w:1024/p:16x9/capture-8764605006a3035eb7ff016-95111705.jpg",
-      "coverage": 2,
-      "relevance": 29.99,
+      "source": "BBC Mundo",
+      "title": "La pesadilla política que supone para Netanyahu el acuerdo de EE.UU. con Irán",
+      "summary": "El acuerdo de alto el fuego de Donald Trump con Irán deja al primer ministro israelí atrapado en un nuevo dilema político y de seguridad, escribe la corresponsal de la BBC en Medio Oriente.",
+      "url": "https://www.bbc.com/mundo/articles/cp8rl12ndx6o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-15T22:58:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1bf4/live/a0647af0-68f2-11f1-8e1d-bbbb1017d210.jpg",
+      "coverage": 1,
+      "relevance": 21.51,
       "sources": [
-        "France 24",
-        "Google Noticias"
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Ucrania inicia la primera fase de negociaciones para su adhesión a la UE, pero el proceso será largo",
+      "summary": "La Unión Europea (UE) abrió este lunes 15 de junio la etapa inicial de diálogos para abordar la solicitud de ingreso de Ucrania al bloque, tras una larga demora provocada por sucesivos vetos de Hungría. Calificado como \"el mayor paso hacia la adhesión de Ucrania desde diciembre de 2023\", eso no...",
+      "url": "https://www.france24.com/es/europa/20260615-ucrania-inicia-la-primera-fase-de-negociaciones-para-su-adhesi%C3%B3n-a-la-ue-pero-el-proceso-ser%C3%A1-largo",
+      "published": "2026-06-15T23:20:05+00:00",
+      "image": "https://s.france24.com/media/display/a64ea188-a87b-11ed-a240-005056bf30b7/w:1024/p:16x9/2023-02-09T124533Z_616035967_RC2N7Z9QLNM3_RTRMADP_3_UKRAINE-CRISIS-EU-ZELENSKIY.JPG",
+      "coverage": 1,
+      "relevance": 20.75,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "¿Qué, cómo, cuándo...? Punto por punto, lo que se conoce del acuerdo entre EE. UU. e Irán",
+      "summary": "Tras semanas de arduas negociaciones, Estados Unidos e Irán anunciaron un memorando de entendimiento para poner fin a la guerra en Oriente Medio en todos los frentes, incluido el Líbano. Aunque los detalles aún no se han hecho públicos, France 24 ofrece un resumen de los distintos puntos que han...",
+      "url": "https://www.france24.com/es/medio-oriente/20260615-qu%C3%A9-c%C3%B3mo-cu%C3%A1ndo-punto-por-punto-lo-que-se-conoce-del-acuerdo-entre-ee-uu-e-ir%C3%A1n",
+      "published": "2026-06-15T21:44:40+00:00",
+      "image": "https://s.france24.com/media/display/4e4f125a-6903-11f1-b44e-005056bf30b7/w:1024/p:16x9/2026-06-15T084523Z-988398541-RC25ULAFI9SY-RTRMADP-3-IRAN-CRISIS.jpg",
+      "coverage": 1,
+      "relevance": 20.15,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Netanyahu evita criticar el acuerdo de EE. UU. e Irán, pero insiste: \"La lucha de Israel no terminó\"",
+      "summary": "El primer ministro israelí Benjamin Netanyahu tardó casi 24 horas para pronunciarse sobre el acuerdo entre Irán y Estados Unidos. En su declaración, el premier trató de acallar las críticas en su contra por el pacto y reafirmar su autoridad y fortaleza en la región, afirmando que Israel \"ha...",
+      "url": "https://www.france24.com/es/video/20260615-netanyahu-evita-criticar-el-acuerdo-de-ee-uu-e-ir%C3%A1n-pero-insiste-la-lucha-de-israel-no-termin%C3%B3",
+      "published": "2026-06-15T20:38:58+00:00",
+      "image": "https://s.france24.com/media/display/dd92cf3e-68f8-11f1-9a6e-005056bfb2b6/w:1024/p:16x9/ES-20260615-143431-143924-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.74,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Directo Mundial y la expectativa por el debut de Irán en la Copa Mundial de fútbol",
+      "summary": "La selección iraní se estrena en el Mundial de fútbol al enfrentarse frente a Nueva Zelanda. El encuentro despierta gran atención desde lo deportivo y lo social, pues colectivos han convocado a manifestaciones previas al partido para protestar contra el régimen de los ayatolás y para ambas...",
+      "url": "https://www.france24.com/es/video/20260615-directo-mundial-y-la-expectativa-por-el-debut-de-ir%C3%A1n-en-la-copa-mundial-de-f%C3%BAtbol",
+      "published": "2026-06-15T20:21:40+00:00",
+      "image": "https://s.france24.com/media/display/b8175a7a-68f5-11f1-8ded-005056a90284/w:1024/p:16x9/ES-20260615-124618-125022-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.64,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -503,77 +558,21 @@
       "published": "2026-06-15T17:38:11+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2a5a/live/0f2aef60-68d9-11f1-92d3-6bddced97248.jpg",
       "coverage": 1,
-      "relevance": 20.96,
+      "relevance": 19.51,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Sigue siendo la moda una forma de rebeldía?",
-      "summary": "La moda vuelve a reivindicar su dimensión política. Desde propuestas que desafían las normas estéticas tradicionales hasta colecciones inspiradas por la guerra, la migración o la diversidad cultural, varios diseñadores aprovechan las pasarelas para cuestionar convenciones sociales y abrir debates...",
-      "url": "https://www.france24.com/es/programas/moda/20260615-sigue-siendo-la-moda-una-forma-de-rebeld%C3%ADa",
-      "published": "2026-06-15T18:48:12+00:00",
-      "image": "https://s.france24.com/media/display/a6b70fa2-239d-11f1-91f6-005056bf30b7/w:1024/p:16x9/mise-en-ligne-mode-2604.png",
-      "coverage": 1,
-      "relevance": 20.5,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "El G7 se acomoda a las necesidades de Trump para contar con su presencia en la cumbre",
-      "summary": "Ya arrancó la cumbre del G7 en Francia este 15 de junio con la presencia del presidente estadounidense Donald Trump en la localidad de Évian-les-Bains. La reunión se celebra mientras EE. UU. impulsa la firma de un preacuerdo con Irán para poner fin a la guerra. Para la edición de este año se han...",
-      "url": "https://www.france24.com/es/video/20260615-el-g7-se-acomoda-a-las-necesidades-de-trump-para-contar-con-su-presencia-en-la-cumbre",
-      "published": "2026-06-15T18:23:16+00:00",
-      "image": "https://s.france24.com/media/display/64386a9c-68e2-11f1-9b4a-005056a97e36/w:1024/p:16x9/ES-20260615-111629-112019-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.34,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "\"Líbano, Ormuz: un memorando de entendimiento sin resolver sus diferencias\"",
-      "summary": "El presidente de Estados Unidos, Donald Trump, anunció un preacuerdo de paz con Irán, pero los detalles se desconocen y los puntos espinosos siguen en negociación. Los ataques de Israel en Líbano, la reapertura del estrecho de Ormuz y las cuestiones nucleares aún tienen diferencias importantes,...",
-      "url": "https://www.france24.com/es/programas/revista-de-prensa/20260615-l%C3%ADbano-ormuz-un-memorando-de-entendimiento-sin-resolver-sus-diferencias",
-      "published": "2026-06-15T18:22:41+00:00",
-      "image": "https://s.france24.com/media/display/14819666-68c1-11f1-b71d-005056a90284/w:1024/p:16x9/ES-20260615-081638-082250-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.34,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "\"Es un documento muy poderoso\": Donald Trump sobre el acuerdo con Irán",
-      "summary": "El presidente estadounidense, Donald Trump, llegó a Francia para el primer día de la cumbre del G7 este 15 de junio. En compañía del presidente francés, Emmanuel Macron, ofreció una rueda de prensa en la que aseguró que el estrecho de Ormuz \"está parcialmente abierto\" y que estará \"completamente...",
-      "url": "https://www.france24.com/es/video/20260615-es-un-documento-muy-poderoso-donald-trump-sobre-el-acuerdo-con-ir%C3%A1n",
-      "published": "2026-06-15T18:22:41+00:00",
-      "image": "https://s.france24.com/media/display/8db80244-68e0-11f1-9ece-005056a90284/w:1024/p:16x9/ES-20260615-111139-111517-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.34,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Juan Miguel Petit fue electo para integrar el Comité de Derechos Humanos de la ONU",
-      "summary": "La cancillería uruguaya felicitó al actual director de la INDDHH y destacó “el compromiso histórico y sostenido del Uruguay con el Estado de derecho, el multilateralismo y la promoción y protección de los derechos humanos”.Juan Miguel Petit, uno de los cinco directores de la Institución Nacional de...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/juan-miguel-petit-fue-electo-para-integrar-el-comite-de-derechos-humanos-de-la-onu/",
-      "published": "2026-06-15T19:33:30+00:00",
+      "title": "Nuevo sistema de aterrizaje para condiciones de baja visibilidad comenzará a funcionar este viernes en el Aeropuerto de Carrasco",
+      "summary": "Representantes de Aeropuertos del Uruguay y de la Cámara de Comercio de la Aeronáutica informaron en el Parlamento que en las últimas semanas se han visto afectados 142 vuelos por la niebla.El próximo 19 de junio comenzará a funcionar en el Aeropuerto Internacional de Carrasco el sistema ILS CAT...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/nuevo-sistema-de-aterrizaje-para-condiciones-de-baja-visibilidad-comenzara-a-funcionar-este-viernes-en-el-aeropuerto-de-carrasco/",
+      "published": "2026-06-15T23:15:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 19.82,
       "sources": [
         "La Diaria"
       ]
@@ -581,13 +580,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Ministra Lucía Echeverry defendió la guía de carga y anunció obras viales para Rosario",
-      "summary": "La ministra de Transporte y Obras Públicas participó en una reunión que se realizó en Rosario con autoridades, legisladores y representantes sociales de la región este del departamento de Colonia.Este lunes, la ministra de Transporte y Obras Públicas, Lucía Echeverry, visitó Rosario, donde mantuvo...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/6/ministra-lucia-echeverry-defendio-la-guia-de-carga-y-anuncio-obras-viales-para-rosario/",
-      "published": "2026-06-15T19:15:43+00:00",
+      "title": "Diputado colorado plantea revisar nuevo régimen de franquicias de compras en el exterior, tras registrarse una caída de 35%",
+      "summary": "La presidenta de la Cámara de Couriers, Andrea Fernández, señaló que los envíos cayeron, “en parte, por la desinformación” que se generó a partir de los cambios introducidos al sistema mediante el presupuesto quinquenal.Al gobierno le restan 15 días para enviar al Parlamento el proyecto de ley de...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/diputado-colorado-plantea-revisar-nuevo-regimen-de-franquicias-de-compras-en-el-exterior-tras-registrarse-una-caida-de-35/",
+      "published": "2026-06-15T23:05:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 19.76,
       "sources": [
         "La Diaria"
       ]
@@ -595,10 +594,24 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Sorpresa: España empató 0-0 con Cabo Verde",
-      "summary": "Con emocionante resistencia, los africanos bancaron la igualdad ante una pobre expresión española que decepcionó en su debut.El fútbol de selecciones sigue teniendo cosas que el dinero no puede comprar. Los jugadores juegan por su bandera, por su nación, su familia, sus vecinos y sus amigos. El...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/sorpresa-espana-empato-0-0-con-cabo-verde/",
-      "published": "2026-06-15T18:28:41+00:00",
+      "title": "Comisión de Diputados aprobó por unanimidad proyecto de justicia terapéutica que busca alternativas a la prisión",
+      "summary": "El proyecto prevé un plan piloto para que 40 personas, imputadas por delitos leves, accedan a un tratamiento para adicciones.La Comisión Especial de Adicciones de la Cámara de Diputados aprobó por unanimidad el proyecto de ley que crea un programa piloto de justicia terapéutica como alternativa a...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/6/comision-de-diputados-aprobo-por-unanimidad-proyecto-de-justicia-terapeutica-que-busca-alternativas-a-la-prision/",
+      "published": "2026-06-15T22:40:26+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.6,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Nuevas voces cantarán las viejas canciones",
+      "summary": "Letras de canciones envueltas en poesía contestataria, irreverente y justiciera, letras que calan profundo como un legado, como una lealtad ciega movilizada por lo emotivo. Letras que aparecen desde la profundidad de las noches más oscuras del alma, prometiendo renaceres que nos salvarán: “Cuando...",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/6/nuevas-voces-cantaran-las-viejas-canciones/",
+      "published": "2026-06-15T22:21:10+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.48,
@@ -609,13 +622,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Designaciones en la Jutep: Conrado Rodríguez propuso que sean exmagistrados con 10 años en el cargo y “garantía de imparcialidad”",
-      "summary": "“Creo que quien no ha cuidado a la institución Presidencia de la República ha sido el presidente”, dijo el diputado colorado luego de señalar que Yamandú Orsi “se perdió la oportunidad de decir toda la verdad” en el caso de la camioneta.El diputado del Partido Colorado (PC) Conrado Rodríguez...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/designaciones-en-la-jutep-conrado-rodriguez-propuso-que-sean-exmagistrados-con-10-anos-en-el-cargo-y-garantia-de-imparcialidad/",
-      "published": "2026-06-15T17:56:33+00:00",
+      "title": "Bélgica y Egipto empataron 1-1",
+      "summary": "Partido parejo y dinámico para abrir el grupo G.El que se presumía como el choque entre los candidatos de la cátedra del grupo G terminó en empate 1-1. Fue un encuentro dinámico y exigente que terminó con el triunfo parcial de los egipcios en el primer tiempo, con un golazo de Emam Ashour, mientras...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/belgica-y-egipto-empataron-1-1/",
+      "published": "2026-06-15T22:04:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.27,
+      "relevance": 19.38,
       "sources": [
         "La Diaria"
       ]
@@ -623,13 +636,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El narcotráfico en cárceles de mujeres y las lógicas del encierro: entre la vulnerabilidad y los mercados ilícitos",
-      "summary": "En las 29° Jornadas Regionales de Criminología, la jurista Sara Durán analizó el impacto del narcotráfico en la población penitenciaria femenina y sostuvo que el sistema carcelario no solo reproduce desigualdades previas, sino que también genera y reconfigura mercados ilícitos en su interior.La...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/6/el-narcotrafico-en-carceles-de-mujeres-y-las-logicas-del-encierro-entre-la-vulnerabilidad-y-los-mercados-ilicitos/",
-      "published": "2026-06-15T17:38:55+00:00",
+      "title": "El día del debut de los últimos finalistas",
+      "summary": "Argentina jugará con Argelia, Francia con Senegal; Noruega enfrentará a Irak y será el debut absoluto de Jordania ante Austria.Este martes el Mundial norteamericano se prepara para recibir al campeón del mundo y a un par de potencias europeas que quieren demostrar que el chasis está listo para la...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/el-dia-del-debut-de-los-ultimos-finalistas/",
+      "published": "2026-06-15T21:22:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.16,
+      "relevance": 19.11,
       "sources": [
         "La Diaria"
       ]
@@ -637,13 +650,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Ministra de Transporte: “Entre los propios autoconvocados hay diferencias y desconocimiento de los planteos de unos y otros”",
-      "summary": "Lucía Etcheverry continúa reuniéndose con transportistas de distintos departamentos, que solicitaron ser escuchados, ya que “no se sentían reflejados en algunos de los puntos que se estaban reivindicando”.La semana pasada se instalaron en la agenda los reclamos de transportistas autoconvocados por...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/ministra-de-transporte-entre-los-propios-autoconvocados-hay-diferencias-y-desconocimiento-de-los-planteos-de-unos-y-otros/",
-      "published": "2026-06-15T17:34:04+00:00",
+      "title": "Directorio del Partido Nacional advierte sobre la inseguridad y sostiene que el plan del gobierno “no viene funcionando”",
+      "summary": "El exministro del Interior Luis Alberto Heber aseguró que el reciente recambio de jerarcas en la Policía se debe a que la gestión “no está dando resultados”.Este lunes, el directorio del Partido Nacional (PN) se reunió durante dos horas para tratar varios temas de la agenda pública. Al término de...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/directorio-del-partido-nacional-advierte-sobre-la-inseguridad-y-sostiene-que-el-plan-del-gobierno-no-viene-funcionando/",
+      "published": "2026-06-15T21:17:39+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.13,
+      "relevance": 19.09,
       "sources": [
         "La Diaria"
       ]
@@ -651,27 +664,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Director de ANV Lereté se comprometió a intervenir en el caso Covioc y destacó a Paysandú como referente en inversión habitacional",
-      "summary": "El director de la Agencia Nacional de Vivienda visitó Paysandú y mantuvo reuniones con el intendente Nicolás Olivera, cooperativistas, alcaldes y ediles.El director de la Agencia Nacional de Vivienda (ANV) en representación de la oposición, Alfonso Lereté, cumplió una intensa agenda en Paysandú que...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/6/director-de-anv-lerete-se-comprometio-a-intervenir-en-el-caso-covioc-y-destaco-a-paysandu-como-referente-en-inversion-habitacional/",
-      "published": "2026-06-15T17:31:51+00:00",
+      "title": "Uruguay en el Mundial: estamos donde queremos",
+      "summary": "La celeste como esperanza que sobrevive | Redacción al margen.Hay uruguayos que cruzaron la frontera con una valija y una nostalgia enhebradas en las necesidades de vivir mejor, de tener una vida digna. Otros cruzaron el mapa con una camiseta y una locura. Están los que viven en Estados Unidos hace...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/uruguay-en-el-mundial-estamos-donde-queremos/",
+      "published": "2026-06-15T21:08:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.12,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Gobierno buscará implementar “con la mayor celeridad” ampliación de licencias parentales y seguro de desempleo para independientes",
-      "summary": "El coordinador del Diálogo Social, Hugo Bai, aclaró que los cambios en el régimen de AFAP no es de los temas que se van a “tomar con mayor prioridad en lo inmediato”.En la próxima rendición de cuentas que se presentará al Parlamento a fines de junio se incluirá la primera disposición surgida de los...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/gobierno-buscara-implementar-con-la-mayor-celeridad-ampliacion-de-licencias-parentales-y-seguro-de-desempleo-para-independientes/",
-      "published": "2026-06-15T17:06:47+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.96,
+      "relevance": 19.03,
       "sources": [
         "La Diaria"
       ]
