@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T18:19:30.890962+00:00",
+  "updated_at": "2026-06-18T23:27:32.460188+00:00",
   "fx": [
     {
       "label": "USD/UYU",
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 62650,
-      "change": -4.07,
+      "value": 62765,
+      "change": -2.6,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 1677.41,
-      "change": -4.92,
+      "value": 1705.46,
+      "change": -2.49,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 68.32,
-      "change": -6.73,
+      "value": 69.39,
+      "change": -3.62,
       "currency": "USD"
     }
   ]
