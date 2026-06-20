@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T17:13:36.144886+00:00",
+  "updated_at": "2026-06-20T22:56:23.032691+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,9 +10,23 @@
       "published": "2026-06-20T15:45:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ICMZWDV66NBVDG6A2RTXYJLKFU.jpg?auth=8d3e9c10109744767bf83dda068db1ecd4b1014abb6d4173c94ba3dac2403177",
       "coverage": 1,
-      "relevance": 20.85,
+      "relevance": 18.7,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Temores de Trump respecto a la economía merman la influencia de EE.UU. en negociaciones con Irán",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORWxZYldSTmRLY3JuV0ZUQWMtbjEtdmsyMkhxdTF4QnA4WUNkdjNFRXpPWjR4WHJJT3hZWHFqWVZMbkdoOG5CTWlURkZET0xxSzllMEJRaGF3Si1rYjhQY2xXUmVOTjZSbEE2ZzhtV05Db19CeFpteDM5VzRXVkZzclRkTDBsaDFnN0NGNW9sRlVEelZGTEVWOEM5WV94bVFrSWRtM3lOMVFCWTV5Z3ZEanRLZi1udmRtelZPRFhZVGZyUEd2aV9qeUxiYTJLU3dybEJ2UXd5VlFKeHB1NzBQYtIB9AFBVV95cUxQUjRKbnl2bHctdkE1NnczQlZ0VUJBZGN1c0dKYldJRE5hSTV6M3N2c3Q4RFAzYVRMSXU1VkFmOXMtamJ0dTJFenJWczhhMEZwdmhFcERDTzdLc1dkQ3NHRnpQQlhxbFFHM2pjUXNqQUhlT1FPTlBWY09ReFNtS3Z3akZDcUNvWlAyZzh0TG5lNGtrdEtoN3BGdzBtV21vNmJacURGTExSNTBBRXhsaHFEbUpLT3BtdlZqYTVHd0ozZXkyb1NfbERrank1Zm9JRkVGLU9qSms3dS1yZVNCVm1yT3p3b0RtRVY4cEczNzFkRWZhcUtQ?oc=5",
+      "published": "2026-06-20T17:37:11+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.0,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,7 +38,49 @@
       "published": "2026-06-20T16:16:57+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.65,
+      "relevance": 16.5,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Confirmado | El Gobierno embargará todas las billeteras virtuales de las personas que estén en esta base de datos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNczJsVEczS2lFVnhMX1B1Z19Idm4tQjJTMDBpTkJWSlZTVm5pTHctVG1WOEluVVl1SV9EUjJySlFmejNPRFFnbE9CZndoczNlcTIxR2RzbVVtaFgwZXRXN0tKVTUtenZFSktXcG1ETmNTRVpaXzlIVE9FS0p6bExXMHRwVDNSbEFBSlYzRGVabHVpVzBpQkFLUzFCM3BPTkN0TWVqX2xQbVJ5Zjdub0U4ZG1ZbEFlR0dGZmZINFA2LVdzWGNJY0Y0bUtYYU1wdklaeFlYcEdhd1RhZ21lbWhFLWZISnBEbEt6ZTZfbEdB0gGIAkFVX3lxTE5LbFFCeUJvOUlzRHBPaTZuY1VDczdmTV80cHlwQUZ4RmhObGhCc2JkNWt0UG1ZOG1GOGQ0b3BHVll3QWdDS01ZNlAxRDNaZmllNU00ZDRLRDM1bmdUMmJpRE5waGtscjJUdkxDYXM5c1gwMEllLS1wMDhiY1Joclh6d0ZIT01rNzVzVnVSdUgtMmZnbC1XVjVnYnpfYWh4Q25GUTYwQnE5TXdiZ1B2amJJMFFaWDRfV3JrRE5VOHN6UUQ3V0M5SlZ5TTBzd1dPeXdEdHhGYzBBTHE2cVprOS1FSm5RR1A3UUlmUVAwZ1FWa0QwUkJlUGpMaFRCVW1zNFlmaGpXYjF2NQ?oc=5",
+      "published": "2026-06-20T15:34:17+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.24,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Ya es oficial | El Gobierno confirmó que embargarán todas las cuentas de bancos y bienes que figuren en esta página web",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdlFULXJwN3ByWXp1MF9GekxIV0RjYjZQdW9tcFNLX2NYbW1RS1BXWVhVN1FMTEx4S3J3NTdOa09ZTVMyNkFQSnNUSGpwdXEtdk9HYVp0RHZaOTJic0NGYThQUjFMT05QX3hIaXozRUlMeWVmMC1PS0xHMnpXMFJyTVZsQlBMWUNjaWtORTVUc29PSGJlY2czMDFCUDBxQ2dlWjNPbWhCVFZQSW8zcVZ2Z1RyUUVhRkdHNDNheDgxX1RmemV1WjdMeGd2WDRjQU8yTkZBY3o4MWtCSGg1WVBQbU5lbmtVM09WN3JVYkppbHXSAYsCQVVfeXFMUGhUODdkbWNaU21uQVpYU01nUGItVzdnZWpiNXlzMUJoX0R2N2MwbmZ6bXRVQVA4dlRlZ0lZZXhkTlJMN2JjLTVwUS1CeG5UVmpReHVZUlRORl82TzI4ZWo4UDFJdXRjdG80VVdtRTlicHZmVmJRTmVtMDJLYVRoeWF0US1UNDZ5Rk8waXJIWGNVMEVRVzVWMk9YR1IxMGxSMFJpVDZCek9kd2t0UFkzQ1ZKM3Nxd0RhTHNFQV9JWTNDSUhLRDFPQW9IbGIyRDQ2eDlkR01idExGRDdKYUtzalRkSE5WTmVoUEdBVzQ4QTU4SVVGdEU5VGxoV1RwSXRRQ3RxSmRfZ3BfXzgw?oc=5",
+      "published": "2026-06-20T15:34:06+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.24,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Elecciones 2026 | ¿Cómo operará la ley seca durante la segunda vuelta presidencial del 21 de junio?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRU5meGg4cU1vRDdfWVI2MHBmcVRDUnlad1FTNjJvN0xtb0FRM1NIZW10UThNeVhpOVNPUm41a3FkZG1HS3BOaWkzVHJaLTY4YnE5dDFYVHk0UjVneWhJTWw0RlZxRTVlX1lPVlVaWlZMYjlUV3BMQ0VLU19fOFlNWEhidVF0ZlE4bEdaYTJlQ0VCVFUzcnpxZVlyZDIxRl9PdXdfRXgwcG9nOV9Gb1JaSTlmT1dpel9uY3R6QmVFOEVLaDk4RjJOR29RQ1V4RlotdlJqYWRrSjNYYnFW0gH3AUFVX3lxTE9wa0VaR2FOQlpmY2ljVmQ4dnZIRThTaF9nNzJ0Y0VHUTlVYnRnMGtUVWh4NVJ0SExKTjBCODRFamxsZEhGcVhVZlp3c1lQOGNKMWoxdDdhNEhlODJOR0NrdFpzNGFmSnV3b3RmajhhNnFfZlpUU24xNDlzQU1uXzFMd0szTGVOWDJZaFJ6dTgtSk5OZDZGQi15cDFnU0xJVnhqSzkzdl9zWUFFejhENGh2SEM4RG5IMzJBczA4OXBjbmNUeFhZc20xTXFNOGh3Q1pBbW9GRWxOeG1sSExaMDdjVW53VU9TTzhEaXJxUWpzX3lIaHdnY0U?oc=5",
+      "published": "2026-06-20T15:29:41+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.21,
       "sources": [
         "Google Economía"
       ]
@@ -38,79 +94,51 @@
       "published": "2026-06-20T15:00:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.16,
+      "relevance": 16.02,
       "sources": [
         "Google Economía"
       ]
     },
     {
       "category": "economia",
-      "source": "El País Eco",
-      "title": "¿Puede una burbuja ser positiva?",
-      "summary": "La salida a Bolsa de SpaceX nos muestra que el inversor no compra lo que la empresa es, sino lo que espera que sea",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-20/puede-una-burbuja-ser-positiva.html",
-      "published": "2026-06-20T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/Z25XVDY4VJC7ZBW76BK56K6EQQ.jpg?auth=d8a84e96b72f3211913012d82b020f7149d3f0f8ab0393faa56d3b6aa2137fe5",
+      "source": "Google Economía",
+      "title": "Ya es oficial | El Gobierno destruirá masivamente los documentos de identidad de las personas que incumplan esta norma",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFRGdXdIRnV1ZE1rVFoxTGxTa0FiTHlySVY3Z29aMGdZcVhOaUJlRmxHd3dSbjVHXzlxaXVpOEcxbk9ueXVWemR6R0t6QV9RSGllMkpuUGZ2MDctd19MR05wSmNGc2ltaDZOREM3cm1IUEsxNEhzSzRZb2E3dmQ2eU5DMW5JQ01uUjFOWnhGdDBFV2NNN3Z2R0VLc2Fqcm5TcXRDVjFXejNzb3VJRXlHTmNyQ3RrdnRCZ05ZZWQ2Rkd5UFo2bkhkTFZsR1h3R2toWkUyWHRmVzdQbDZhZWltTzRCenI2ZU42cURod1FJeEUxbHZLZk0tS9IBkwJBVV95cUxNSjBkekdyakVGeWxyZDlPWGpkSGQyZTdENmt5OUU0a01mVlVPeUVneExRSi1YMDNibS1IRlRwMkVqZVpWd2ZlWURQNGRqN1NSWl9TMmRjMksyWC16S2VaejVQYVZqbzRDcUEtXzBXUmdpVFlkR2RaSGlvY3dIdV96SF9feG1uTWlVelphcExZc1dMYWRjYzVEVkVlbm1ienRhdk5rUmZQaXA5OFBIcTNJSXNpUTJ1TTNQbUsyV29rR21jVjAtUXl6VDlobXJ4T082cjNZaGswT25uWmFZcWg4Tzg4RUJqZ2F3NGxBOWt2WG92dUlKY05HalZNanRrWTRrOXkxa0xzYkZfQVRBVTcta1UyVQ?oc=5",
+      "published": "2026-06-20T12:26:00+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 16.31,
+      "relevance": 15.06,
       "sources": [
-        "El País Eco"
+        "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La reapertura de Ormuz obliga a barajar de nuevo",
-      "summary": "El potencial desatado por el final del conflicto es menor, porque los mercados ya lo habían descontado",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-20/la-reapertura-de-ormuz-obliga-a-barajar-de-nuevo.html",
-      "published": "2026-06-20T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/GXUNJ3IUDRPRJN6RLWFXFZ5DJA.jpg?auth=749cffdcb53a2cd86eae39b1b3f88606356cec9f8a7da711a72c58656ad6829e",
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa León XIV: el fenómeno migratorio atraviesa una fase compleja",
+      "summary": "Al venerar la reliquia del corazón de santa Francisca Javier Cabrini, en la basílica dedicada a ella en Sant'Angelo Lodigiano, León XIV destaca la actualidad del mensaje de la patrona de los migrantes, que llegaba a todas partes, desde las chozas hasta las cárceles. Exhorta a los jóvenes a conocer...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-el-fenomeno-migratorio-atraviesa-una-fase-compleja.html",
+      "published": "2026-06-20T17:59:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/20/2026-06-20-visita-pastorale-a-santangelo-lodigiano/1781981166545.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.31,
+      "relevance": 18.94,
       "sources": [
-        "El País Eco"
+        "Vatican News"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La paz no era esto, pero al mercado le vale (porque está a la IA y los cohetes)",
-      "summary": "El acuerdo sobre Irán es inestable y humillante para Trump incluso en lo simbólico: lo firmó en Versalles. Las Bolsas no cayeron apenas porque estallara el conflicto pero ahora suben por su final",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-20/la-paz-no-era-esto-pero-al-mercado-le-vale.html",
-      "published": "2026-06-20T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/K64YBLZOPVJTVI2ZKNSK4OKYKQ.jpg?auth=91db79d2cf4a09c21e8835ba67cf12e1d3e492405f637a12794da4b8cdb1c4b9",
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Reporteros sin Fronteras: se duplica el número de países de riesgo para los periodistas",
+      "summary": "Más de 1.400 periodistas han recibido ayuda de Reporteros sin Fronteras tras abandonar su país debido a amenazas o persecuciones. Afganistán, Rusia y Myanmar encabezan la lista de crisis. El llamamiento a los Estados: «Garantizar la protección contra la desinformación» Leer todo",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/reporteros-sin-fronteras-se-duplica-el-numero-paises-de-riesgo.html",
+      "published": "2026-06-20T17:01:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/20/Image-2026-06-20-at-12.35.35.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.31,
+      "relevance": 18.58,
       "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La comunicación en la empresa: cuando el discurso ya no basta",
-      "summary": "El principal problema no es la falta de canales, sino la falta de coherencia entre lo que se dice y lo que se hace",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-20/la-comunicacion-en-la-empresa-cuando-el-discurso-ya-no-basta.html",
-      "published": "2026-06-20T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/AAZAVLEUWRLT3LHAWDCUHRXIAQ.jpg?auth=f1bc7a51e77b7a599a4627416c893ccee643b21aa57fed256d7a1246660318c6",
-      "coverage": 1,
-      "relevance": 16.31,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Los trucos invisibles que acuñó Galbraith vuelven en la fiebre de la IA",
-      "summary": "Bajo las cuentas triunfales de las grandes tecnológicas se acumula una riqueza que quizá no exista",
-      "url": "https://cincodias.elpais.com/opinion/2026-06-20/los-trucos-invisibles-que-acuno-galbraith-vuelven-en-la-fiebre-de-la-ia.html",
-      "published": "2026-06-20T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KNBXVTYXFONG453U5PSOLNPX5U.jpg?auth=587efd56408f28d3dd1ca1828cc63adb53700fd85b43f1796d1dd8e842d8f85e",
-      "coverage": 1,
-      "relevance": 16.31,
-      "sources": [
-        "El País Eco"
+        "Vatican News"
       ]
     },
     {
@@ -122,7 +150,7 @@
       "published": "2026-06-20T16:33:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/20/2026-06-20-visita-pastorale-a-pavia---piazza-vittoria---incontro/1781973360507.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.55,
+      "relevance": 18.4,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +164,7 @@
       "published": "2026-06-20T14:30:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/20/2026-06-20-visita-pastorale-a-pavia---basilica-di-san-pietro-in-/1781967360432.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.78,
+      "relevance": 17.64,
       "sources": [
         "Vatican News"
       ]
@@ -150,7 +178,7 @@
       "published": "2026-06-20T14:15:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2019/03/28/birth-2747060_1920.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.68,
+      "relevance": 17.54,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +192,7 @@
       "published": "2026-06-20T13:32:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/17/995645-united-nations-3760656.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.41,
+      "relevance": 17.27,
       "sources": [
         "Vatican News"
       ]
@@ -178,7 +206,7 @@
       "published": "2026-06-20T14:51:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.31,
+      "relevance": 17.17,
       "sources": [
         "Aleteia"
       ]
@@ -190,39 +218,81 @@
       "summary": "El helicóptero del Pontífice ha aterrizado a las 14:39 en Pavía. Aquí se reunirá con el personal y los pacientes del Centro Nacional de Hadronterapia Oncológica y, en la Basílica de San Pietro in Ciel d’Oro, con las distintas realidades eclesiales de la diócesis. En el municipio de la provincia de...",
       "url": "https://www.vaticannews.va/es/papa/news/2026-06/papa-inicia-visita-pastoral-pavia-y-sant-angelo-lodigiano-italia.html",
       "published": "2026-06-20T13:04:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/20/14/1781959871391.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/20/2026-06-20-visita-pastorale-a-pavia---atterraggio-nel-campo-di-r/1781959861757.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.24,
+      "relevance": 17.1,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "(VIDEO) En la Trinidad, ¿qué papel juega Dios Padre?",
-      "summary": "Cuando los cristianos rezan el Padrenuestro, se dirigen a Dios Padre. Sin embargo, muchos se preguntan cuál es exactamente su papel dentro de la Trinidad. Desde los primeros siglos, los Padres de la Iglesia enseñaron que el Padre es la fuente eterna de la vida trinitaria: aquel que engendra al Hijo...",
-      "url": "https://es.aleteia.org/2026/06/20/video-en-la-trinidad-que-papel-juega-dios-padre/",
-      "published": "2026-06-20T14:00:00+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Acabamos de encontrar una tablilla de plomo que pone los pelos de punta: esconde una maldición en griego antiguo",
+      "summary": "En las ciudades de la antigua Grecia y Roma y al margen de las leyes oficiales del estado, existía un aciago mundo de secretos y supersticiones. Así, cuando alguien sentía que la justicia no estaba de su lado o tenía una rencilla pendiente, esperaba a la noche oscura para esconder pequeñas láminas...",
+      "url": "https://www.xataka.com/magnet/acabamos-encontrar-tablilla-plomo-que-pone-pelos-punta-esconde-maldicion-griego-antiguo",
+      "published": "2026-06-20T19:01:07+00:00",
+      "image": "https://i.blogs.es/a760aa/gemini_generated_image_89xjqu89xjqu89xj/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.99,
+      "relevance": 19.03,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Para una buena salud mental estas son sus señales",
-      "summary": "Como destaca el psicólogo canadiense Nicholas Balaisis, la salud mental suele definirse únicamente como la ausencia de trastornos mentales. En un artículo publicado en la revista Psychology Today, presenta cinco indicios concretos de buena salud mental. Para elaborar esta lista, se basa en la obra...",
-      "url": "https://es.aleteia.org/2026/06/20/para-una-buena-salud-mental-estas-son-sus-senales/",
-      "published": "2026-06-20T13:50:00+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En 2016 Colombia firmó un acuerdo de paz histórico. Luego la superficie dedicada al cultivo de cocaína se disparó",
+      "summary": "En Colombia el 24-11-2016 es una de esas fechas que se cuelan en los libros de historia y que los escolares estudian durante generaciones. O al menos así se esperaba hace una década, cuando (tras años de negociaciones y una complicada tramitación con pasos adelante y atrás) el Gobierno y las FARC...",
+      "url": "https://www.xataka.com/magnet/colombia-esperaba-que-acuerdo-farc-llevase-paz-al-pais-decada-despues-negocio-coca-esta-auge",
+      "published": "2026-06-20T18:31:08+00:00",
+      "image": "https://i.blogs.es/b7c8d5/portadacocacolombia/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.93,
+      "relevance": 18.84,
       "sources": [
-        "Aleteia"
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hace 3.000 años no había notarios, así que en Suecia los acuerdos y matrimonios se cerraban con huellas de pies talladas en roca",
+      "summary": "En Atapuerca hay animales, en Irulegi hay una mano y en el lago Mälaren, en el centro-este de Suecia, hay pies. Miles de huellas de pies tallados en roca que tienen entre 2.500 y 3.700 años de antigüedad. Hasta la fecha, la arqueología pensaba que eran una muestra de arte simbólico o religioso,...",
+      "url": "https://www.xataka.com/magnet/hace-3-000-anos-no-habia-notarios-asi-que-suecia-acuerdos-matrimonios-se-cerraban-huellas-pies-pintadas-roca",
+      "published": "2026-06-20T18:01:08+00:00",
+      "image": "https://i.blogs.es/414006/captura-de-pantalla-2026-06-18-a-las-11.15.16/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.65,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Jeff Bezos: “Toda la contaminación puede enviarse al espacio para volver al estado previo a la Revolución Industrial”",
+      "summary": "Llevar los centros de datos al espacio. Aunque Jensen Huang, CEO de Nvidia, parece que la idea no le convence demasiado, algunas de las más grandes compañías del mundo se han embarcado en la carrera por llenar la órbita baja de satélites. AWS con Blue Origin está ahí, Google está ahí, Elon Musk...",
+      "url": "https://www.xataka.com/espacio/jeff-bezos-toda-contaminacion-puede-enviarse-al-espacio-para-volver-al-estado-previo-a-revolucion-industrial",
+      "published": "2026-06-20T17:31:07+00:00",
+      "image": "https://i.blogs.es/eba871/chatgpt-image-19-jun-2026-13_27_04/1024_2000.png",
+      "coverage": 1,
+      "relevance": 18.47,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Olvídate de un nuevo PC: lo nuevo de Windows 11 hará que tu Photoshop vaya más rápido",
+      "summary": "La promesa de un Windows 11 más rápido no solo considera al sistema operativo y las aplicaciones que vienen instaladas por defecto. Microsoft ha hecho equipo con Adobe y ambos encontraron la forma de aumentar el rendimiento de Photoshop de un modo notable. Lo mejor de todo es que el usuario no...",
+      "url": "https://hipertextual.com/software/photoshop-windows11-mejora-rendimiento-microsoft-adobe/",
+      "published": "2026-06-20T18:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/adobe-photoshop-01.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.35,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -234,7 +304,7 @@
       "published": "2026-06-20T17:01:08+00:00",
       "image": "https://i.blogs.es/e6bf25/megapresa/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.42,
+      "relevance": 18.28,
       "sources": [
         "Xataka"
       ]
@@ -248,7 +318,7 @@
       "published": "2026-06-20T16:31:07+00:00",
       "image": "https://i.blogs.es/d5899c/aliens/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 18.09,
       "sources": [
         "Xataka"
       ]
@@ -262,91 +332,21 @@
       "published": "2026-06-20T17:00:00+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Pixar.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.11,
+      "relevance": 17.97,
       "sources": [
         "Hipertextual"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "En China, los 'bookfluencers' son el motor de ventas de la industria editorial. El problema es que nadie puede leer 700 libros",
-      "summary": "En China, las editoriales han descubierto un filón gracias a los bookfluencers. Las reseñas en redes sociales como Douyin (el TikTok chino) o RedNote se han convertido en el motor de ventas de muchos libros en los últimos años. Sin embargo, el volumen de libros y la intensa competencia entre estos...",
-      "url": "https://www.xataka.com/literatura-comics-y-juegos/china-bookfluencers-motor-ventas-industria-editorial-problema-que-nadie-puede-leer-700-libros",
-      "published": "2026-06-20T16:01:08+00:00",
-      "image": "https://i.blogs.es/a6749c/montana-libros/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.05,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Al enclave más turístico de Italia le quedan dos telediarios. Es todo un aviso para media costa española",
-      "summary": "El avance del cambio climático está dejando señales más o menos evidentes que van desde la maduración de árboles frutales antes a olas de calor intensas incluso antes de que llegue el verano como la que estamos viviendo, pero el futuro es desolador: más lluvias torrenciales e inundaciones, más...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/al-enclave-turistico-italia-le-quedan-dos-telediarios-todo-aviso-para-media-costa-espanola",
-      "published": "2026-06-20T15:31:07+00:00",
-      "image": "https://i.blogs.es/815462/mar/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.86,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Dos ‘Call of Duty’ clásicos por fin llegan a las PS4 y PS5: ¿Por qué se demoraron tanto?",
-      "summary": "Una noticia inesperada que se conoció durante la última semana fue que por primera vez dos Call of Duty clásicos estarán disponibles en las PS4 y PS5. Se trata de Black Ops y Black Ops 2, que debutaron en 2010 y 2012, respectivamente. De esta manera, debutarán en ambas consolas más de una década...",
-      "url": "https://hipertextual.com/videojuegos/call-of-duty-black-ops-y-black-ops-2-ps4-ps5/",
-      "published": "2026-06-20T16:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Black-Ops.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.74,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Imágenes satelitales revelaron que Rusia cubrió un edificio con una jaula antidrón. Ucrania la convirtió en decorado de cine de acción",
-      "summary": "En la Segunda Guerra Mundial, Reino Unido llegó a camuflar fábricas enteras con redes, estructuras falsas e incluso barrios ficticios construidos sobre tejados para engañar a los bombarderos alemanes. La idea era simple: si no puedes detener el ataque, haz que el objetivo desaparezca desde el aire....",
-      "url": "https://www.xataka.com/magnet/imagenes-satelitales-revelaron-que-rusia-cubrio-edificio-jaula-antidron-ucrania-convirtio-decorado-cine-accion",
-      "published": "2026-06-20T15:01:08+00:00",
-      "image": "https://i.blogs.es/6ca4fb/6a2ae08f50aa6577af8717b5/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.67,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Canon EOS R50 V, análisis: una cámara para creadores que sí puede sustituir al móvil",
-      "summary": "Una cámara pensada para quienes priorizan el vídeo sin renunciar a la fotografía. Y a un precio asequible. Canon ha pensado en los creadores de contenido y aficionados al vídeo con una opción de entrada muy completa, pero manteniendo sencillez de manejo, tamaño compacto y aportando soluciones...",
-      "url": "https://www.xataka.com/analisis/canon-eos-r50-v-analisis-caracteristicas-precio-especificaciones",
-      "published": "2026-06-20T14:31:07+00:00",
-      "image": "https://i.blogs.es/c9c845/canon-eos-r50v_06/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.48,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
       "category": "deportes",
       "source": "Marca",
-      "title": "Laporte, una voz autorizada para advertir de los peligros de Arabia",
-      "summary": "El central conoce bien al rival de mañana por haber jugado en el fútbol saudí.",
-      "url": "https://www.marca.com/futbol/seleccion/2026/06/20/laporte-voz-autorizada-advertir-peligros-arabia.html",
-      "published": "2026-06-20T16:39:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/boExM1gDi20v_0CVv.jpeg",
+      "title": "\"Somos de Primera gracias a nuestros bichos\"",
+      "summary": "El técnico del Málaga evita focalizar el logro en su persona y admite vivir un proyecto para muchos años",
+      "url": "https://www.marca.com/futbol/malaga/2026/06/21/funes-primera-gracias-bichos.html",
+      "published": "2026-06-20T22:39:14+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a37167b9d2fa.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 20.39,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,27 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "¿El mejor punto de partido jamás visto?",
+      "title": "\"Es el momento más duro de mi carrera con mucha diferencia\"",
+      "summary": "El técnico del Almería felicitó al Málaga y agradeció su apoyo a la afición",
+      "url": "https://www.marca.com/futbol/almeria/2026/06/21/rubi-abatido-momento-duro-mi-carrera-diferencia.html",
+      "published": "2026-06-20T22:39:07+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a3715ddabad1.jpeg",
+      "coverage": 1,
+      "relevance": 20.39,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Almería 1-2 Málaga I Resumen Final Playoff de ascenso (vuelta)",
       "summary": "",
-      "url": "https://www.marca.com/padel/2026/06/20/mejor-punto-partido-jamas-vist-video.html",
-      "published": "2026-06-20T16:25:53+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/boL4A1gDhlNY2RPDe.jpeg",
+      "url": "https://www.marca.com/futbol/segunda-division/2026/06/21/almeria-1-2-malaga-i-resumen-final-playoff-ascenso-vuelta-video.html",
+      "published": "2026-06-20T22:37:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a371610bf73b.png",
       "coverage": 1,
-      "relevance": 20.2,
+      "relevance": 20.38,
       "sources": [
         "Marca"
       ]
@@ -368,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Girona escoge a Quique Álvarez, hasta ahora en el filial, para ocupar el banquillo",
-      "summary": "La dirección deportiva finalmente se decanta por la vía interna y Óscar, el hermano de Quique, será el segundo a bordo",
-      "url": "https://www.marca.com/futbol/girona/2026/06/20/girona-escoge-quique-alvarez-filial-ocupar-banquillo.html",
-      "published": "2026-06-20T16:14:53+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/6a36ba29a543c.jpeg",
+      "title": "La fiesta de sus vidas: \"Van a ser dos días o más sin ir por casa\"",
+      "summary": "El conjunto boquerón vuelve a la máxima categoría del fútbol español tras ganar al Almería por 1-2",
+      "url": "https://www.marca.com/futbol/malaga/2026/06/21/euforica-celebracion-malaga-primera-ocho-anos-despues.html",
+      "published": "2026-06-20T22:27:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a370f70efa8b.jpeg",
       "coverage": 1,
-      "relevance": 20.13,
+      "relevance": 20.32,
       "sources": [
         "Marca"
       ]
@@ -382,41 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El juez Peinado señala en el auto, tras retirarle el pasaporte, quiénes y cómo podrían ayudar a Begoña Gómez a una \"fuga\"",
-      "summary": "Habla explícitamente de los escoltas de la mujer de Sánchez: \"Podrían colaborar \"en la acción o acciones que se lleven a cabo, para facilitar\" una \"fuga\" de la acusada",
-      "url": "https://www.marca.com/tiramillas/politica/2026/06/20/juez-peinado-senala-auto-quienes-podrian-ayudar-begona-gomez-fuga-justicia.html",
-      "published": "2026-06-20T16:13:36+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/6a36b63791ca3.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Comunicado del Madrid sobre Olise",
-      "summary": "La entidad blanca asegura que no ha mantenido contacto alguno con el futbolista ni con su entorno y elogia su vínculo con el campeón alemán",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/06/20/madrid-niega-contactos-olise-defiende-relacion-bayern.html",
-      "published": "2026-06-20T16:10:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/6a36bb66a70fb.jpeg",
-      "coverage": 1,
-      "relevance": 20.11,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "EN DIRECTO I RESERVE CUP MARBELLA, partidos y jornada completa del jueves I MARCA",
+      "title": "Alemania 2-1 Costa de Marfil | Resumen Mundial 2026",
       "summary": "",
-      "url": "https://www.marca.com/padel/2026/06/20/directo-i-reserve-cup-marbella-partidos-jornada-completa-jueves-i-marca-video.html",
-      "published": "2026-06-20T16:01:40+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/18/20vxFxA.jpeg",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/21/alemania-2-1-costa-marfil-resumen-mundial-2026-video.html",
+      "published": "2026-06-20T22:17:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/bocyM1gDn5JmJ4Wqn.jpeg",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 20.26,
       "sources": [
         "Marca"
       ]
@@ -424,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Portugal se blinda: \"Casi dábamos por hecho que algo así iba a suceder\"",
-      "summary": "Palm Beach Gardens, campamento base de Portugal, ajena al caos en redes sociales",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/20/portugal-blinda-dabamos-hecho-asi-iba-suceder.html",
-      "published": "2026-06-20T16:01:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/6a36b5e644f91.jpeg",
+      "title": "Undav se cuela en el podio del Mundial",
+      "summary": "El ariete del Stuttgart, el mejor del duelo ante Costa de Marfil, ya es el tercer jugador con mejor rendimiento hasta ahora",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/21/undav-cuela-podio-mejores-mundial.html",
+      "published": "2026-06-20T22:13:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a37104b02f56.jpeg",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 20.23,
       "sources": [
         "Marca"
       ]
@@ -438,15 +424,44 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Pogacar también manda contra el reloj y suma otra victoria en el Tour de Suiza",
-      "summary": "El líder del UAE Team Emirates XRG se impuso en la cuarta etapa, un crono individual, por menos de un segundo sobre Van der Poel",
-      "url": "https://www.marca.com/ciclismo/2026/06/20/pogacar-tambien-manda-reloj-suma-victoria-tour-suiza.html",
-      "published": "2026-06-20T15:42:44+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/20/6a36b4ededd48.jpeg",
+      "title": "A la épica alemana",
+      "summary": "Sale en la segunda mitad para hacer un doblete y voltear el marcador ante una gran Costa de Marfil",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/06/21/undav-evita-lio-alemania.html",
+      "published": "2026-06-20T22:10:11+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a37168ab0ab7.jpeg",
       "coverage": 1,
-      "relevance": 19.93,
+      "relevance": 20.21,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El gol de Undav en el 94' que evitó el empate ante Costa de Marfil",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/21/gol-deniz-undav-2-1-alemania-2-1-costa-marfil-video.html",
+      "published": "2026-06-20T22:09:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/21/6a370fa4587f8.png",
+      "coverage": 1,
+      "relevance": 20.21,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "El ataque a una refinería en Moscú acerca la guerra de Rusia contra Ucrania a territorio ruso",
+      "summary": "Hay momentos en los que la vida en Moscú transcurre con aparente normalidad; la mañana del jueves no fue uno de ellos, escribe Steve Rosenberg.",
+      "url": "https://www.bbc.com/mundo/articles/cevl02z24w9o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-06-20T19:38:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e66a/live/6e4dd6a0-6c04-11f1-8e1d-bbbb1017d210.jpg",
+      "coverage": 2,
+      "relevance": 30.46,
+      "sources": [
+        "BBC Mundo",
+        "Google Noticias"
       ]
     },
     {
@@ -455,13 +470,26 @@
       "title": "Irán anuncia el cierre del estrecho de Ormuz en respuesta a los ataques de Israel contra el Líbano",
       "summary": "EE. UU. ha puesto en duda el anuncio y ha asegurado que el tráfico de buques por esta estratégica ruta comercial ha aumentado este sábado.",
       "url": "https://www.bbc.com/mundo/articles/c0qy87zd8dyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-20T16:52:40+00:00",
+      "published": "2026-06-20T22:11:05+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab74/live/ff320310-6cc9-11f1-95c0-035571ba4bec.jpg",
-      "coverage": 2,
-      "relevance": 31.57,
+      "coverage": 1,
+      "relevance": 21.42,
       "sources": [
-        "BBC Mundo",
-        "France 24"
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Reino Unido busca independencia militar de EU con nuevos misiles para utilizar en la guerra Ucrania-Rusia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNENjUTR6WUJaN1luTllIQXAzU2Vpd3l3SVdBVkxVLUZiMi0tdHhhbTQxVm1oZkxKYjdqRlNpUUJDYUtSeXRtYWp6VW5Ha29RX0hsTmNNcWNCWXdtWEl3RndJOWVlVUZWN0FzZW1oWmxpWm5neVFPQXB4RkdYWUQxYTZrUHltcVhIMEZrY1E5clgzNHFaMjRjcXgxaTZDTzN2TjJPVW1RWXFJOFBsV2dFQU1OVUVXS2ZKNFFVM2Rrd3JScS1ITFJUcXVKQm1WcE9SaVFTQ1htSFpOWW5vamVtRkF6c3Jib1Rpakhn?oc=5",
+      "published": "2026-06-20T21:57:22+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.63,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
@@ -473,9 +501,23 @@
       "published": "2026-06-20T16:49:58+00:00",
       "image": "https://s.france24.com/media/display/7db33e74-6ca8-11f1-828f-005056bfb2b6/w:1024/p:16x9/000-B79R7DP.jpg",
       "coverage": 1,
-      "relevance": 20.65,
+      "relevance": 18.51,
       "sources": [
         "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Palestina. Un ataque israelí contra una vivienda en Gaza mata a un padre y a sus dos hijas pequeñas mientras dormían. - Resumen Latinoamericano -",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNd1g0U2hoMjNiVlR0SzJhZTNxUW1JSnBqTUdTVDNwNGRoREtpWWJLRW9ZYTlwVnczSWhzRGFuZ25NQ0QwSVZyQURrQkN5WWNsV2hLTDBCVVNzU0Yyb1FOYnJoQjJESXRwaV81ek5fUmk2UV94WEZtWVRBc0Nva3JVaG4tUllLUXNuU3RDR2tDNG5xMHJyaWdGcVp5Ujk0NHpySU41VXRKVjFBVHVlb1AyVmFIUnNyUVRrTm1IS1RsbEhiTEFURGl2V0ozTnAwVTZ3dmFFZm9GZkZLcWZjTVBUMXRkOUhoTmhuM3M5UlVxZFNwWVh3WG9lZlVn?oc=5",
+      "published": "2026-06-20T20:07:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.95,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
@@ -487,7 +529,7 @@
       "published": "2026-06-20T15:05:58+00:00",
       "image": "https://s.france24.com/media/display/3d5765b6-6cae-11f1-b207-005056a90284/w:1024/p:16x9/ES-20260620-073202-073633-CS.jpg",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 17.86,
       "sources": [
         "France 24"
       ]
@@ -495,181 +537,139 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Al menos 13 los muertos en ataque israelíes contra el sur de Líbano pese a la tregua",
+      "title": "Ataques israelíes en Gaza matan a 6 personas, incluyendo 2 niñas y un camarógrafo de Al Jazeera",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUDI0X3c0THVJdjBqeHF4ZEl4c19RRXZVdGwxdVBuZElKbHJVWGFsLXhEYzg3YWRxZmlPeDU3cTNUektEZ2Q2alItNWZjZ2RjREJLSWtaNV92SFA1TUxOMjlsVDZEd280aTRFMTFaZ1g5Z09iZGg1ME1UNTZYYmQ1enBwQjhaVzVBaENqak5ZclcwanhWdlBvR1Z6M3dVLVp4aTl4b29PZXhuX24zZl81YUthQ0tqNXBEa3RPOVl3TXZqazBidzRfaGpiYy1rdnZLUDRZVDR4NWJOMFd4c0N4cGxudlB2anl2c2ZZSG1sci03Uk90NlR6RC0zY2plQWt3a2hqd3hzLThZU1lQQ2lSUW9B?oc=5",
-      "published": "2026-06-20T16:33:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNQnd4RERJSTBBQlUzTXBGS0hwV21zYzRtb2JFTU1vLWxrUE5vQXdZdjBoYThtYTd0MWJ1MUZveWJldERIazBQdU1qbklucnpSckVhVUFMUzdFS29TSHJaZDBTM2JBeDlPZW41R0x3ZHJtRG1vQW95NUthZTAwSWNXTHhCdkxTYWN4Z2RXSkNCa0pRMUNPNUVCUm1ra3oydzU5cW4zR2hBR0tjOGgzOEVQWGFfbkY1YjNoTk9Eek15SWJSUGJNVUJUajAxR3NvSVFlaUFQcXJJQlZOal81cmh2YWhfR011MFRreFdIcEVjMA?oc=5",
+      "published": "2026-06-20T19:31:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.72,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Rusia ataca un edificio de apartamentos en Járkiv, Ucrania, y mata a 1 persona",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSTIyOGx6VVJYWS10MlhDRVdscW12YXlMRFdSVklGa25ES0JURnRFc2NtS3U2aEJEaTRZR0FkLV9ONDJsYmQ5WGVhY0xEV2Z1Vl9ucE9WX1R0Umd1WVZNNnlGcHlhWDJrNHVrOTVlZlNXS2xmTkZUREZVc1g5Y2MwVXdRX18tc2Etdm54Uk9MdExhbjExTTJyMDVtZllBdEhVTFBUTUEzbV95QUdXSjhHbUhQOGw2N0U?oc=5",
+      "published": "2026-06-20T19:22:57+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.67,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Este domingo se empiezan a definir los grupos más parejos del Mundial",
+      "summary": "Por el grupo de Uruguay, España buscará frente a Arabia Saudita demostrar por qué llega como una de las selecciones candidatas.Este domingo juega Uruguay y juegan tres millones, pero la jornada mundialista, como ya es costumbre, tiene mucha actividad para ofrecer y hay promesa de partidazos antes y...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/este-domingo-se-empiezan-a-definir-los-grupos-mas-parejos-del-mundial/",
+      "published": "2026-06-20T22:30:03+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.74,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "La Mesa del Pan elaboró un anteproyecto de ley que plantea el acceso a un “subsidio cautelar” ante denuncias de acoso",
+      "summary": "El sindicato presentó la iniciativa ante la Comisión de Asuntos Laborales y Seguridad Social de la Cámara de Senadores.La Comisión de Asuntos Laborales y Seguridad Social de la Cámara de Senadores recibió el jueves a una delegación de la Mesa Coordinadora del Pan y Afines, el sindicato de...",
+      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/6/la-mesa-del-pan-elaboro-un-anteproyecto-de-ley-que-plantea-el-acceso-a-un-subsidio-cautelar-ante-denuncias-de-acoso/",
+      "published": "2026-06-20T21:15:52+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.27,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "La policía uruguaya que se viralizó por cantar el himno mientras trabaja en el estadio de Miami",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQa1BiR0kzWlYyTExqdzh6YVNfdXpib202dVB0cnVCcjlNcTRYVzBiVlNfaFN1a1RxSzZqT092RkFHRVdtTFlNdzBObFlSWWZzSldILTBuVWNLUzA1YmZra2ZXWkN3U0RxaVU5OEx2a2txSF85WTk2enhta1VGT0xCRHlITTdUbVJKdFlIVU94c2tXRVZWVGZqYTIxZ00yMjNaMjduWU5NQktXZ285SXYyWG9EU0czVnkyX2JfVktyYUhoUkNxSlNiZG5NMDl4cHlOTzl3LXhLclBCc3F3RXJN0gH6AUFVX3lxTE1CN1pCN0g1UFRHZUVlRmgtT3ZaSTBnaWdVRkRvWHJPRHhuR05wVVdYTjFpSzFPVmZRRlBOQm12VU4zLTJZSTZoSmNWOTNSY1ZZdTVuZ09tN1pwV0lsUzR2V2hyVU1ZdzFLbEY5Y1FPOHlSazl2Y180aVpUR19DOGwzUUFxMlhuaGdRdDdLLVhINm5RZ3lvUy1NdTdmU1pMNHllSkkwbTVJVnA3WDdTZTdEenUxTVlheGZ2NUVIZ3dTR29IRW9XcjN1eDhjQXBkNDA3a3k1TkxpNHpMT3dGVlM1M0NGUXd2cG5uOUhLMTJyRGNTTHNrT3dJVUE?oc=5",
+      "published": "2026-06-20T22:48:16+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.95,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Países Bajos se reivindicó con una goleada sobre Suecia",
+      "summary": "Los suecos dieron demasiadas facilidades defensivas, que aprovecharon los buenos delanteros neerlandeses para pegar en los momentos justos.Países Bajos dio el golpe este sábado en Houston en la segunda fecha del grupo F y vapuleó a Suecia 5-1, idéntico resultado con el que el propio equipo sueco le...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/paises-bajos-se-reivindico-con-una-goleada-sobre-suecia/",
+      "published": "2026-06-20T20:13:45+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Bielsa y Brian Rodríguez hablarán en conferencia de prensa",
+      "summary": "El entrenador de la selección uruguaya y el extremo celeste estarán frente a la prensa en la previa del partido del domingo en Miami.La Asociación Uruguaya de Fútbol (AUF) informó que Marcelo Bielsa y Brian Rodríguez serán los encargados de hablar este sábado ante los medios de comunicación en el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/bielsa-y-brian-rodriguez-hablaran-en-conferencia-de-prensa/",
+      "published": "2026-06-20T19:52:07+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 18.75,
       "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Recrudece el conflicto en Medio Oriente: el régimen iraní volvió a cerrar el estrecho de Ormuz",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa0d0dFdhMFpfMG9LcG9YRy1nN1ZZZV9OTnZNTExGdmpZM0FNQmRXQ2tmNzMtc3ZtQlQ3bTc0NGNFWl9lbzRaNkFhSkxER0VVLThvcjcySmNQZFBPbXpNV2xJaHRCM1QxR2tpeDNZRVBBZjExdGJIMEZucTROdEE2UDNYeVBVd05kaDZoWHIwUGdBd2JXV09aZ3A5STRqd01vLUx3VEhOUFNZY1B6U1hQaS1LVm1KblBJV0RsWk03dGE0cGhpVFY0YjBtYjFKbmN0ZFI5Z0tUZUszTDBjWGRpR2VpMXFwY1J5UFA4SHVKb9IB_gFBVV95cUxQSlhtck4zV19nQlF5NjVySUhEVGVTeWw5dFF3U3hTc0o5aVhBWU9DXzRxSExIaUczbkRESks2Nl9yUy13SlZnNkhDb1JLMmdGXzB1czBGNjZjQWRydVAzRHRRdGQ0QzlVWkNVd0MtVnBUUng3cUhCVHhlVGt5MnVjWGdDakVLbFF4NE44ejhscDZWZzVuRHZTMW9LLWs4VVAwcVIyUGlCb3dwek44ZzQwdkZ3MGtYd2xzWUxSUW5aeXFIS19xYzczTHZPNV9VR2ZLenVOT0lCemo0NC1xVnFLVjdORmNpTXRfTk1uakt2ZDZTYjJQUlR0b01nYmZIZw?oc=5",
-      "published": "2026-06-20T15:23:56+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.31,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Medvédev afirma que “ya no hay reglas” rusas en guerra contra Ucrania",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1uVW9fVUktNUhTQmJhTXlnNzJQcFlNWWdjTjNINXczVncyN3BrZi1reWQ3Y3NOZ0FYc1NRc3JTTjJtaGtENWFwOFJiODhDYk1DU2lwS1BCNUt4OUpzd1RNMzdaX21pNkgzVDN1clhYMUl5Qzlzc1FWbF93?oc=5",
-      "published": "2026-06-20T13:58:58+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.78,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Aumentan a más de 73 mil los muertos por la ofensiva israelí en Gaza",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0talgwV1dRSUxwMDFrTUU1SkpxSzBrUDFYX0t6N3ZnU1BlUmlVZ2xPbVVYT1lKQ1oxUmo2azRrN1lmbi1FR202LQ?oc=5",
-      "published": "2026-06-20T12:51:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.36,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Trump escala su ataque contra Meloni y rechaza reconciliación: 'No, gracias'",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRWZMT3VQSEFvQkdzMnBJQkhVaWpvbFJ1VUVsa0E4YzBWa1VJWFJDTXYySmdyVFVhd3JhM1UwOXdjeE85NS1LMmdlczBWVnRueWRHTzFDa0VRYXAyNVZPSmxWWm9YMDNtd2JiQnRPNTNfVU93NW9GUXFQU0NsT0g1S3ZMUnhDTGtHWmlScDNHanNYVlIwWTNhUHVfVWM1Q3Z2UlFQMXRoX0Qxc0FsdEdrNHJkTmF0VFFUYnFFRF9R?oc=5",
-      "published": "2026-06-20T12:44:54+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.32,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Tati Luna alienta a la selección con un osado bodypainting y revela con qué jugador mantiene una \"fuerte amistad\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOa2N3eE5JNS1HTG55a0xoQ2hQZnJVX1JwN3Q1YWNKamQtaXFMb09XdGlxQVczZVc1VnNBc1JWODVNeGpDWVpSc2MzQmd3U1p6a1V1X3NBbnJHaW1HdDZFMWNTSVFkaFV3bWEzNUdIN0dmNUU2ZTZHc1Y2bEhvOUlmRXRsNXFSd1U2aENEZFZmdDUyNTRKQUFsUW4zN3BkbEVLMzdwVDlfa0lUTGotV05ubGdnQ1V3bzV6U1R6azlkdTkyU0U2WFNFTjlpemptb1ZtUFNyMU5hdXBjbnFtQ1lzREFMMC10ZjNyLWtCTkpGcmFIcWtxOUE?oc=5",
-      "published": "2026-06-20T13:59:49+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 20.19,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Presidente canario cierra visita a Uruguay tras encuentro con exvicepresidenta Topolansky",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONmZsSTY4Ry1GaVVGZWMxcW03ZzRVTFNjb0lYaFBFZnl6cm5GUkJTd1l0VXFSd1o3Q2RoMkl4SS1KOFZEMlNmZU16TUM3bWtyT1dwdmpId3Bja2dDRzhpaEZVc0FEUzRmOWZsdzlMZ05IaWJITkZiSXU0azYyQ0c1TkpXc0hrbHJYS2k0ZXB3Yy10Vk9TN1ZVcTBycUtEeXhkSnROS2h1SGY1NDVYa05nVw?oc=5",
-      "published": "2026-06-20T16:30:31+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.73,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Mamá de Vozinha, motor de Cabo Verde para frenar a Uruguay. España busca dejar atrás fiasco de debut - San Antonio Express-News",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPelZJYzE1Qnd6bkF3eTJGYXpTdWZ5YTRMd1dhd3U0UUVlakdXSkFVbXV5Rm9ySVRudVRKSF9Sa25EN0JWazVLa2c2aDdkclhsY2ZXLWdMb3JZcXlBZ3llb0dCSmVkeHVVT0N6RVR0enZJcGh2U0FnX0NTcWZjX0JIZ3dnX29Ec2dVYnBoNWthR2RpRWMxaHIwRXU5SjJNZEQ2eDdxNA?oc=5",
-      "published": "2026-06-20T16:18:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.66,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "¿A qué hora es el Uruguay-Cabo Verde? Canal TV, horario, dónde y cómo ver online el debut de la Selección en e",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVmNmY0JUVTZLUG10enVULXFsbi1lUmJ3SXplaTF6RFRxRW1aMFhQaHpWRWlwN3pTWkdKbjJoMlpJZk04aUxwNGNMQ0FzOHcyaDlZYnZhOTV4UEF1V1VLOTNuOFlJVzlQWk9Qem9hbmJScEFpNlRyLUx3M2I3TnpTU0szOExpcEZiMzE1VnFYVGF3TjNweWhpR1R4Y1dpM253NHhOaXpNdXZtUHc3dFctTGM2eWFCUUNxWmtwR1V2ZVhCTnh5RGdqLUxZeHM0MFFMQ1NpNHJtREJQODZwQWtvbXRFVkJTNTE0eFNSSdIBgAJBVV95cUxPdEFHSjRIbVpiVDFRU08zMWxkb0JzV0I5SzVTaTVNemI0RDVRa0c0Y1ZsQkFaZXhiWXVtQl94c0Zsd1YzbDVpVzJwWlZuYV9Qd0tBVUZxemZQWHFtaldoU1F0czZXVVpES3VmMm04UTFLY0kzU3ZvYnpxRHdUU3p4MDU4d3FoZ2FoUnd3aWc5NnNqNkVYREQ1ZmFrbzJ4d05sU0ZXWS1WS2x3YTJ6TWxqNEJFbFdCcnViM3gyUThPa2Z4UEhNYVlEVDRxVkdQeUl2MFlRbVo4NV9WSzJ2MC1LdWMyZ0RGS3NFMGJEZWhYQ1o1X0FsaXVlZV9sM01CZUps?oc=5",
-      "published": "2026-06-20T15:00:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.16,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay necesita reaccionar ante un Cabo Verde que ya paró a España",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDBoOTduai03bVdtNDdaNHBKQ1NmVjFONHpHUkk5WWE2bjMwNldVaF8tZ2NXNmRfYzAzNUM0TVVfUXRBQUxjbUNKenpCY0EzMnBVMDNTanh1QWFjb0xsQktfMTZwOW9zYXRzY2FyaEg4cVB3N1R3bXNQaG1LbERfRU5DOXFmQVpwSFJFQmtGcjkwTjB3UkRQU0lSRjktcW5BQklfSWZkQjY5UDRJY2dESjlJamVPbGdMdGozWjJfTHN3TUt4?oc=5",
-      "published": "2026-06-20T10:38:10+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.53,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Defensores del Chaco",
-      "summary": "Épico triunfo de Paraguay ante Turquía 1-0, con 10 todo el segundo tiempo y para seguir con chances de avanzar.Paraguay consiguió un épico -por lo paraguayamente sufrido- triunfo ante Turquía 1-0 y quedó en condición de clasificar en la última fecha cuando deba enfrentar a Australia. Si le gana...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/defensores-del-chaco/",
-      "published": "2026-06-20T05:32:21+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.52,
-      "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Silvia Nane: Uruguay tiene que empezar a pensar su futuro en escenarios y no en una única proyección",
-      "summary": "La directora de Desarrollo Sostenible e Inteligente de la Intendencia de Montevideo dijo que la “tecnología no es neutral”, por lo que el país tendrá que definir cómo quiere gobernarla.Del desarrollo de software a la gestión pública, Silvia Nane ha construido una trayectoria atravesada por la...",
-      "url": "https://ladiaria.com.uy/futuro/articulo/2026/6/silvia-nane-uruguay-tiene-que-empezar-a-pensar-su-futuro-en-escenarios-y-no-en-una-unica-proyeccion/",
-      "published": "2026-06-20T03:23:51+00:00",
+      "title": "La duda de Bielsa para enfrentar a Cabo Verde",
+      "summary": "Después de ajustar los últimos detalles, la celeste quedará concentrada de cara al partido del domingo ante Cabo Verde; el entrenador define entre Ugarte y De la Cruz.Este sábado la selección uruguaya realizó su último entrenamiento en el Fairmont Mayakoba, en Playa del Carmen, previo al vuelo...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/la-duda-de-bielsa-para-enfrentar-a-cabo-verde/",
+      "published": "2026-06-20T19:41:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 14.71,
+      "relevance": 18.68,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "La Diaria",
-      "title": "L’Arcaza abre un parque de cuentos",
-      "summary": "Basada en Cuentos por teléfono, Parque Rodari estará en vacaciones en el teatro del Notariado.“Érase una vez... el señor Bianchi, de Varese. Su profesión de viajante de comercio le obligaba a viajar durante seis días a la semana, recorriendo toda Italia, al este, al oeste, al norte, al sur y al...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/larcaza-abre-un-parque-de-cuentos/",
-      "published": "2026-06-20T03:23:50+00:00",
+      "source": "Google Noticias UY",
+      "title": "Dónde y cómo ver Uruguay vs. Cabo Verde en Estados Unidos hoy: TV y streaming online del partido del Mundial 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPamhHclE4ZXFtMDRsaHgyWHVTTDl5NDlKLUZ6clE4Vm5YWHREVTBaV1pwMTdhZVRjVHpqcnhNdWljRndabEVDMmcydEtpQmw2eHdaUFgyaTBLUjQzbFdqOUU2bW1KeHpZbnljWGRzNllqVng3dXdIMll6UkZGdnM2QW9STVZQTy1nLVFiT21iczZZZEZvSTBHMXdKdjFxSkRnUkhOcWpmZFk2TDZMRDR4T01lWnJlNnRrQzl5SWhhcERjNnQxNHJPeXpZWm9GTGJDakpzMTgzT21Ta3p4cmtn?oc=5",
+      "published": "2026-06-20T22:00:02+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 14.71,
+      "relevance": 18.65,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Al borde de la paz",
+      "summary": "Pronto se cumplirán cuatro meses desde que Estados Unidos e Israel atacaron a Irán, lo que desencadenó un conflicto que atraviesa a toda la región de Oriente Medio. Desde hace semanas, el presidente estadounidense, Donald Trump, anuncia alternativamente nuevas amenazas al enemigo y la firma de un...",
+      "url": "https://ladiaria.com.uy/articulo/2026/6/al-borde-de-la-paz/",
+      "published": "2026-06-20T19:30:28+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.61,
       "sources": [
         "La Diaria"
       ]
