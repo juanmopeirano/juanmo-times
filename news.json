@@ -1,86 +1,72 @@
 {
-  "updated_at": "2026-06-24T22:57:46.444467+00:00",
+  "updated_at": "2026-06-25T12:10:30.140142+00:00",
   "articles": [
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Precio del DÓLAR HOY: así cerró la cotización de este miércoles 24 de junio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHhHNkNEMzRuYnlQclZQa0RZeWZ4OUVTWVZ1d3ZoMkxrbjE5QXE5cEdQS19pOE9PLXBWTUktczAya0o2V2ZYR3dzRUtvUnJUMkxPSW5icUVjZlNUOGNnVWN4b0gtWXJUSDV1MkZuTHpPbmJjRmpsWVlHc0t4SDN5Q1JUbFI5a19obEtfUV9QRWNKczJqVEZJUU1YdFhMRVQ1blZ4RlN2WkdJRGU0ZVBnM2x3cVR1c0VmbElVWVB0ellxd9IB3AFBVV95cUxPMWN4Z09taVZZY0cwMXhXamlPNkk4bVlINU9BQV9JbU5vYzh3ckpteUxfaFRyekJBMGhBZjFyT0lkZ3ZadXhKeDVoRm1EVjBaYlJtMWRjRXhLUGl3cF9iWmtzY1pYWjdsOXEySWlkVHBfVW5Dbll1ZWlycFppT3N6MUx5aUtOYnY5UlVMVHE1U3owMWNSU29BVk1rRVF4NmlNdTg2MXByaXZNdjBZM3BXNkNuT2JKblFlQVJCSjlfSGh2TTJTOVBibXoydHkxdmlSVlRZajVERnBsT2hk?oc=5",
-      "published": "2026-06-24T22:00:27+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "La Airef avisa de que las prórrogas de los Presupuestos impactan en el crecimiento económico",
+      "summary": "El organismo de supervisión fiscal reconoce que la economía está demostrando resiliencia pese al escenario adverso y avanza una mejora en las previsiones para el año",
+      "url": "https://elpais.com/economia/2026-06-25/la-airef-avisa-de-que-las-prorrogas-de-los-presupuestos-impactan-en-el-crecimiento-economico.html",
+      "published": "2026-06-25T11:54:20+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/64WJDIUX3BIFRLOJPTNJH2J3II.jpg?auth=17008743c728b0328fb94da0c36d45f3597db1bcd68ac16dd16f347f33118dad",
       "coverage": 1,
-      "relevance": 18.64,
+      "relevance": 21.3,
       "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "REAL: a cuánto cerró la cotización este miércoles 24 de junio en Colombia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSjN0YS05VW1HVzhpMGVRWXdvWXdHZGFpN1hTRjJZek1BN0p6cXF5b1NBUFh1eHlYR2ZzRGlGVF8zRy05LVhvLTJZZl9MakhtZFhhYnJDSnRJUmJHenl4MnA3Z1d3azlkRUFUU1RaZDgyejNhSEdHSUk0U3NUSF8wRHdVRjZFNU5lVC0tTDRWamZ5QVItR1BuUkJkMUQwdVo4OUJsLWsxZ2lnbjdZNG5mUHJvYUgtNndQUDB0RnJzUdIB2gFBVV95cUxQS1VuSy1LMUI0SDZPQlotNlFINmp3d2x2bkJ5c1c3ZTFKdzZTeTQ1UzcwZkVaTzRHV3hJeURWOXdJWGRjUWtVb2F3OVdhSlBaZGZxeC16WXZfMTdvQVZBek5abkw1WGlEWXRMNTBlUGgya0pVajRBRE5sTjJLc0pnLXhlVko4OC15bV9FMWxwbVlVQzdvOHZua08yZ3lmTnlaMTBzM2JGUmdKMWdKbDdSLWY2VklqbGhXa1MyQlZ3NzFnbW1WcENGOW4zMzg5aTlKWXpfTzR4QUxBdw?oc=5",
-      "published": "2026-06-24T22:00:24+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.64,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Miércoles financiero: el S&P Merval se hundió en dólares y los ADRs profundizaron la caída tras la decisión del MSCI",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSW9XaUNnTmpSbWFyc1VaSGFWQjhvMzVOM2dDek5EbUFfMUNEZHVGZk5WLUlJYkVLMmpwd21kWkJXMGdCLTZOaVdyNGhCc0pLRkxtc2dMT1ZCR0tiMmlRRy1pQTZiYzg5YU8tcGNHSHVBWnhncVpaU3dZeGZycDVQWTZOMjlrVGMzNHJ6M0FZLUNCWWRlSHMtTFpYTHhxTE50ZTAzSy1uelotX3p4LXZfVWR2Vkd1MGU4N29sdWxteWRCeTQ3R2pGVWdsMmZRRDN3OEI4dE9oNUUzaFdIU0V0dUxMOThTQWViblJwdkhTRTNWd9IB-gFBVV95cUxOXzU5VDVtTm95bGU0OUVHajB6N3VNeEFlU2dNZkJudGkwWEd1bzA3d05OZUZEUlhEUFBGVkswVGV4WjRiaGlaMUI3SHJDMXlrdVdTTlEtVlBySGppM2VKYU55d3dWcmxJcEVXRGxWVDZvLUtULTRNc3pud3VtUVdYWDROQ2xvc3ZiNnFyRXRVNlhsTXVtQ3FhLUZjLXdQd2Jna1NWbTlwTmlfYUJGaDgyXzE0OVkwbnlBeGswb2kxY1FOWE5IUy1sVEhhWHhtdE5MX05mcmJ3bXBaLWRNazZjazBGWHBCdHpWUzhYZW14c1ZOeUpJT2E1MzRR?oc=5",
-      "published": "2026-06-24T21:56:25+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.62,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Principales efectos en los mercados por la segunda vuelta electoral en Colombia y lo que se espera para los próximos días",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOZW5nZ2ZieEMtRUdOXzdxZEZRSTNIQmxKbHpFbjlXQlpwak1sbmRzR2YyTGc1VzVMck9qSlhVN3c1cm91QUpKVzd2R2VRbE1uT1RKM3dEMUhORHNOSTd5a2ZiVXA4czE0ZlhNNkVZSWN3eGpvcjZBZk12djg2UzFQeXhjdGRseXNmTjV1R1h3eUNkSnFseVNRQS01WFVueWMyM3BmOXhNdTZwWXdid29SM1RFb0c5UERURkdiY1JyRlhYQzJ3NHNjd3J6d0RQcnpVQl8xUVNkcWdpbU9hQ1FOUHJ4RDRZUzhKLUFDZEJ4UmRtbGVmYjBxdnVQU0FubEtoRnZCLTBOanY4VDk5d2lacnhfeHZyRm_SAZcCQVVfeXFMTmVuZ2dmYnhDLUVHTl83cWRGUUkzSEJsSmx6RW45V0JacGpNbG5kc0dmMkxnNVc1THJPakpYVTd3NXJvdUFKSlc3dkdlUWxNbk9USjN3RDFITkRzTkk3eWtmYlVwOHMxNGZYTTZFWUljd3hqb3I2QWZNdnY4NlMxUHl4Y3RkbHlzZk41dUdYd3lDZEpxbHlTUUEtNVhVbnljMjNwZjl4TXU2cFl3YndvUjNURW9HOVBEVEZHYmNSckZYWEMydzRzY3dyendEUHJ6VUJfMVFTZHFnaW1PYUNRTlByeEQ0WVM4Si1BQ2RCeFJkbWxlZmIwcXZ1UFNBbmxLaEZ2Qi0wTmp2OFQ5OXdpWnJ4X3h2ckZv?oc=5",
-      "published": "2026-06-24T21:32:11+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.47,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio sube hoy en Perú: ¿En cuánto cerró el dólar este miércoles 24 de junio?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWVZnb21XdG9MU1NSMzVhM3YzcXlSWUcwcllvT08xa1NuTF9aR1NidG12RDdlclF4ZXBONnRQNU9telU1bXZoX045QnZjekVab1JFeVM5ZDV3WFVIZVUtX1Z5cUk5NTNWZ1Qza0pOTzl0V2RUZzQtdnpKMktGM29EYmlkRW5YM1F5SGI3R2ZtUk51OEQ1QTIxVUpnZ3RhZm1QTUZKWTdOdlN2S2lXSlFOaTlmLWJnY2RxME80WkNLcG9SNmRKY2xlWUJNa3NPdGQ2WFBUbVVCampST3U2cmJMWElvN1F2RFNZRVIxU3BpclRha0xCYmRVNEZldzNuT1BqN1h3dG9pNWdDeHM?oc=5",
-      "published": "2026-06-24T18:55:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.49,
-      "sources": [
-        "Google Economía"
+        "El País Eco"
       ]
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "La Seguridad Social defiende que su nuevo contrato de datos con Huawei no compromete información crítica",
-      "summary": "La Secretaría de Estado señala que los equipos del fabricante chino solo realizan funciones auxiliares de almacenamiento",
-      "url": "https://cincodias.elpais.com/companias/2026-06-24/la-seguridad-social-defiende-que-su-nuevo-contrato-de-datos-con-huawei-no-compromete-informacion-critica.html",
-      "published": "2026-06-24T12:28:43+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/2UVC4UREXZHNRKKHZOHSVAJ374.png?auth=9198d18ef246d20304f3d0e1ec3dbc85661a427c1a2776c97938c93ac3a3fa52",
+      "title": "Ocho de cada diez españoles rechazan subir la edad de jubilación a 70 años para cobrar una pensión mayor",
+      "summary": "Una encuesta de Funcas muestra también que un 70% creen que el pago de las prestaciones se convertirá “pronto” en un problema económico",
+      "url": "https://elpais.com/economia/2026-06-25/ocho-de-cada-diez-espanoles-rechazan-subir-la-edad-de-jubilacion-a-70-anos-para-cobrar-una-pension-mayor.html",
+      "published": "2026-06-25T11:47:14+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/K6NY4YCKL5BW5JNF5AZKXEVM5Q.JPG?auth=5932fc91b43785170f9dd83e7faa00a18f992c20d559bee0d80c593a64ad7904",
       "coverage": 1,
-      "relevance": 17.47,
+      "relevance": 21.25,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El Gobierno obligará a mantener la cobertura móvil durante cuatro horas en caso de apagón",
+      "summary": "El Ejecutivo reduce la exigencia de garantizar la comunicación al 75% de la población con baterías. MasOrange carga contra la propuesta de Telefónica de subir el precio de sus conductos",
+      "url": "https://elpais.com/economia/2026-06-25/el-gobierno-obligara-a-mantener-la-cobertura-movil-durante-cuatro-horas-en-caso-de-apagon.html",
+      "published": "2026-06-25T10:06:17+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/TYS7UHTT6NNYBI2QEQKGWQR6PY.jpg?auth=06d50f8687e02be4f3eaffb75ff4b8359819a45d609773ad6b62c5bd8f7cb074",
+      "coverage": 1,
+      "relevance": 20.62,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La vivienda devora ya un tercio del presupuesto de los hogares",
+      "summary": "La Encuesta de Presupuestos Familiares constata que tener un techo consumió 11.665 euros de los 35.101 euros desembolsados por los hogares españoles el pasado año",
+      "url": "https://elpais.com/economia/2026-06-25/los-gastos-relacionados-con-la-vivienda-devoran-ya-mas-de-un-tercio-del-presupuesto-de-los-hogares.html",
+      "published": "2026-06-25T09:16:41+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/TCULZZSXSVMWVFIUVLJXREFRAA.jpg?auth=1fce6264279c20552284d85800957fd235f6b2e1ae5a46736f853711cfb6b841",
+      "coverage": 1,
+      "relevance": 20.31,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Digi estudia reactivar su salida a Bolsa en julio para captar 300 millones",
+      "summary": "La operadora rumana acelera los planes para colocar su filial española tras aplazar la operación en abril por la volatilidad del mercado",
+      "url": "https://cincodias.elpais.com/companias/2026-06-25/digi-estudia-reactivar-su-salida-a-bolsa-en-julio-para-captar-300-millones.html",
+      "published": "2026-06-25T08:14:30+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZYDXKLBHZRDQHA2UZIMLNLL6PE.jpg?auth=566faa48b726d0908faf9a80dc5f53e22971e21975d1f4bc23d008910e87231c",
+      "coverage": 1,
+      "relevance": 19.92,
       "sources": [
         "El País Eco"
       ]
@@ -88,13 +74,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Secretario del Tesoro de EEUU Scott Bessent afirma que el dólar será clave en la integración financiera de Venezuela",
+      "title": "DÓLAR a peso colombiano: a cuánto abre la cotización HOY jueves 25 de junio",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSEkxS2tIeVotVXRvYWxfTHFCRG0wT3dhOFh5a2hiNWYxSjNTbGpTU3BjUHE1OGtJZmlVcFhIRGd4c3VSSmJUVXhWQy1LU3FyX1dacnpWN3NWenc1QUx6MW96a1ZsZzdTQ2tVT19USXYtaC1hNlk0Z0FkeDFCdV9fN1hWaEc1UVNKdk05THFFQ2U5ZjlxaGRMWmRpNU9BWE5mbFRuN2R6OFgzcTVFeXJLbHlXZU9fRzdhekExWS1CN0MxYW55U2VfRDNhX2tXaFB4dU9XSldIekVDMU80YTRnUw?oc=5",
-      "published": "2026-06-24T18:47:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUy1XbzB5eU1Uek9yV1lZRklLRm00RWk1MU1OWUlGRVBvT1FPVHRlN01QM2psRGdROVZTdE1NcFVWeExKd3NzSkJoVEZia1JYXzZXT01DYzZKY01CYl90QWkyR1JnQXBybmtqODgzRkluUThfNlo4RmVWZVkwalVSVWQ5dUk4OHNpZkwwVFV5ZFN3aVJ0c21NN01YU0JXTVh5U0N1Ql90LTBSbFFFajhPSGVRTG5nUUd2WFBuMzc2V2lPV3d2R3hkM3Z2VEVXM3ZUT1AxejQxRU5ZLVdh0gHcAUFVX3lxTE9TLVdvMHl5TVR6T3JXWVlGSUtGbTRFaTUxTU5ZSUZFUG9PUU9UdGU3TVAzamxEZ1E5VlN0TU1wVVZ4TEp3c3NKQmhURmJrUlhfNldPTUNjNkpjTUJiX3RBaTJHUmdBcHJua2o4ODNGSW5ROF82WjhGZVZlWTBqVVJVZDl1STg4c2lmTDBUVXlkU3dpUnRzbU03TVhTQldNWHlTQ3VCX3QtMFJsUUVqOE9IZVFMbmdRR3ZYUG4zNzZXaU9Xd3ZHeGQzdnZURVczdlRPUDF6NDFFTlktV2E?oc=5",
+      "published": "2026-06-25T11:00:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.44,
+      "relevance": 18.57,
       "sources": [
         "Google Economía"
       ]
@@ -102,13 +88,27 @@
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "El número de pisos turísticos cae un 11% a las puertas del verano, con 40.000 viviendas menos que un año antes",
-      "summary": "El INE contabilizó 341.001 alojamientos de este tipo en mayo, el mes en que el Tribunal Supremo anuló el registro estatal de casas vacacionales",
-      "url": "https://elpais.com/economia/vivienda/2026-06-24/el-numero-de-pisos-turisticos-cae-un-11-a-las-puertas-del-verano-con-40000-viviendas-menos-que-un-ano-antes.html",
-      "published": "2026-06-24T12:22:58+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/HGQQNHDYEFF5HISDFEIO6OJMZ4.jpg?auth=7a034dabbb89cd346f7cf66e93afc174ed0c7040bfa5de31221acc503d878ea0",
+      "title": "Trabajo retrasa la publicación del balance de la reforma laboral pese a que los expertos la entregaron hace cuatro meses",
+      "summary": "El análisis de la norma es positivo, pero el ministerio alega cuestiones de agenda para demorarlo",
+      "url": "https://elpais.com/economia/2026-06-25/trabajo-retrasa-la-publicacion-del-balance-de-la-reforma-laboral-pese-a-que-los-expertos-la-entregaron-hace-cuatro-meses.html",
+      "published": "2026-06-25T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6TG4K5DDDOKQC33YI4762WUTQE.jpg?auth=19181fdc22c8deeddbc09d9b7bf0b6a499784ecf1e6d331b6cdf01c58d161c54",
       "coverage": 1,
-      "relevance": 17.43,
+      "relevance": 18.24,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La Inspección de Trabajo duplica en tres años las sanciones a empresas por infracciones relacionadas con el calor",
+      "summary": "El organismo impuso castigos en verano de 2022 por valor de 706.000 euros, frente a los 1,56 millones de 2025",
+      "url": "https://elpais.com/economia/2026-06-25/la-inspeccion-de-trabajo-duplica-en-tres-anos-las-sanciones-a-empresas-por-infracciones-relacionadas-con-el-calor.html",
+      "published": "2026-06-25T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/LWK2VX7PWVB4ZH24ENQOJT4RJQ.jpg?auth=1f2f039d7ad079b8e968ef328043d5b45cfdb642bd5518468288105b6d1cba24",
+      "coverage": 1,
+      "relevance": 18.24,
       "sources": [
         "El País Eco"
       ]
@@ -122,10 +122,94 @@
       "published": "2026-06-24T09:43:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/24/2026-06-24-udienza-generale/1782291665842.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 2,
-      "relevance": 25.83,
+      "relevance": 21.8,
       "sources": [
         "Aleteia",
         "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "León XIV reivindica el poder del deporte: “La competición pasa, pero los valores permanecen”",
+      "summary": "Ante los mejores nadadores del mundo, el Papa León XIV habla de la importancia de practicar deporte y señala los 3 puntos que hacen de esta práctica “una medicina para el cuerpo y para el espíritu”. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/leon-xiv-reivindica-el-poder-del-deporte-competicion-natacion.html",
+      "published": "2026-06-25T11:00:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/25/2026-06-25-membri-della-federazione-italiana-nuoto/1782385275296.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.36,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Invertir en la educación de los pobres y migrantes para fomentar la integración",
+      "summary": "En su discurso a los rectores de las universidades jesuitas de Norteamérica, León XIV destacó una «tangible y creciente hambre de Dios» entre los jóvenes e instó a las universidades a dialogar con los grandes pensadores del pasado y del presente: de esta manera, podrán educar «con el ejemplo, y no...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-06/el-papa-invertir-en-la-educacion-de-los-pobres-y-migrantes-para.html",
+      "published": "2026-06-25T10:50:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/25/2026-06-25-membri-della--association-of-jesuit-colleges-and-univ/1782384060816.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.3,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Cinco años para restaurar las Logias de Rafael, una obra maestra de la humanidad",
+      "summary": "Fue presentado en los Museos Vaticanos el proyecto de restauración del ala oeste de la Segunda Logia del Palacio Apostólico. Más de veinte restauradores trabajan en 1300 metros cuadrados de superficies decoradas. Barbara Jatta: «Un punto crucial de transición entre lo antiguo y lo contemporáneo»....",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/cinco-anos-para-restaurar-las-logias-de-rafael-una-obra-maestra.html",
+      "published": "2026-06-25T09:50:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/24/9.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.92,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Venezuela, estado de emergencia tras dos fuertes terremotos",
+      "summary": "La situación más grave se registra en el estado costero de La Guaira, calificado como una «zona catastrófica». Los dos violentos seísmos, de magnitud 7,2 y 7,5, han afectado sobre todo al noroeste del país. Según un primer balance, al menos 32 personas han fallecido y unas 700 han resultado...",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/venezuela-estado-de-emergencia-tras-dos-fuertes-terremotos.html",
+      "published": "2026-06-25T08:25:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/25/08/1782367278577.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.39,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Guía práctica para vivir el Mundial de fútbol sin estrés",
+      "summary": "Cada cuatro años, el Mundial de fútbol se convierte en una fiesta que reúne a familias, amigos y aficionados de todo el mundo. Los partidos, las reuniones, las emociones intensas y la constante conversación sobre los resultados pueden hacer que estas semanas sean apasionantes, pero también...",
+      "url": "https://es.aleteia.org/2026/06/25/guia-practica-para-vivir-el-mundial-de-futbol-sin-estres/",
+      "published": "2026-06-24T23:53:45+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.6,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Por qué la Iglesia pide tantos años de catequesis infantil?",
+      "summary": "Hemos escucha en las noticias que el obispo de Torreón, en México, anunció que la catequesis infantil para recibir la primera comunión será de dos años. Y no es el único, pero ¿por qué la Iglesia y los obispos están tomando estas decisiones, si anteriormente el catecismo era de solo unos meses? La...",
+      "url": "https://es.aleteia.org/2026/06/25/por-que-la-iglesia-pide-tantos-anos-de-catequesis-infantil/",
+      "published": "2026-06-24T23:53:11+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.59,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -137,119 +221,21 @@
       "published": "2026-06-24T16:41:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.85,
+      "relevance": 12.9,
       "sources": [
         "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Nació Juan el Bautista libre del pecado original?",
-      "summary": "La liturgia de la Iglesia solo celebra tres nacimientos a lo largo de todo el año: el de Jesús, el de la Virgen María y el de San Juan Bautista. Muchos sostienen que una de las razones por las que se ha elegido a Juan Bautista está relacionada con la creencia popular de que Juan Leer más… The post...",
-      "url": "https://es.aleteia.org/2026/06/24/nacio-juan-el-bautista-libre-del-pecado-original/",
-      "published": "2026-06-24T16:38:07+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.83,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Sínodo: el cardenal Grech, un camino largo y prometedor",
-      "summary": "El secretario general del Sínodo inauguró este martes 23 de junio por la tarde el encuentro de los responsables de los organismos continentales de la Iglesia, que concluirá mañana, jueves 25, en Roma. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/grech-encuentro-sinodo-organismos-continentales-roma.html",
-      "published": "2026-06-24T14:38:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2024/10/16/2024-10-16-sinodo-dei-vescovi---x-congregazione-generale--/1729098460743.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.68,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Consistorio de junio: ¿para qué se reunirán los cardenales?",
-      "summary": "Una vez más, Roma se llenará de solideos rojos los días 26 y 27 de junio de 2026: por segunda vez en su pontificado, León XIV ha convocado a los 241 cardenales —tanto electores como no electores— para dos días de debate. El Vaticano publicó el programa de esta reunión el 22 de junio. El Leer más…...",
-      "url": "https://es.aleteia.org/2026/06/24/consistorio-de-junio-para-que-se-reuniran-los-cardenales/",
-      "published": "2026-06-24T15:59:04+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.58,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "León XIV habla de la literatura como un “acto de verdad”",
-      "summary": "Para conmemorar el centenario de la Libreria Editrice Vaticana, fundada en 1926, el Papa León XIV recibió en Roma el 24 de junio de 2026 a escritores de numerosos países. En su discurso, el pontífice ofreció una reflexión sobre la vocación del escritor, haciendo hincapié en que la escritura es,...",
-      "url": "https://es.aleteia.org/2026/06/24/leon-xiv-habla-de-la-literatura-como-un-acto-de-verdad/",
-      "published": "2026-06-24T15:45:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.5,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Julia Navarro: El hombre, la palabra y su trascendencia en la era digital",
-      "summary": "Luego de la audiencia con el Papa León XIV la escritora española Julia Navarro en entrevista con los medios vaticanos comparte su experiencia: “la literatura que emana del ser humano todavía tiene mucho que aportar, porque las máquinas nunca van a llegar a la dimensión del hombre” Leer todo",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-06/julia-navarro-trascendencia-en-la-era-digital.html",
-      "published": "2026-06-24T13:54:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/24/iNTERVISTA-NAVARRO.00_04_03_27.Immagine001.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.4,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Czerny: La crisis de Ormuz nos recuerda que la humanidad depende del mar",
-      "summary": "En su Mensaje para el Domingo del Mar, que se celebra el 12 de julio, el cardenal Prefecto del Dicasterio para el Servicio del Desarrollo Humano Integral recuerda la necesidad de «proteger la vida marina» y «defender la dignidad y la seguridad» de quienes trabajan en el mar, hoy amenazados por...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-06/czerny-dicasterio-desarrollo-integral-mensaje-domingo-del-mar.html",
-      "published": "2026-06-24T13:36:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/24/12/1782297066776.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.29,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "La última actualización de Windows 11 corrige una de sus funciones más intrusivas (ya era hora)",
-      "summary": "Si le preguntas a un usuario de Windows 11 cuál es la función que cambiarían o eliminarían de tajo, seguro que muchos elegirían los widgets. Estas tarjetas interactivas prometían un acceso rápido a ciertas funciones, pero en poco tiempo se convirtieron en una colección de basura que consume...",
-      "url": "https://hipertextual.com/software/windows-11-widgets-menos-intrusivos-actualizacion/",
-      "published": "2026-06-24T22:45:01+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Windows-11.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Los robots humanoides chinos despiertan cada vez más interés: Morgan Stanley casi ha duplicado sus previsiones de envíos para 2026",
-      "summary": "Cuando pensamos en robots humanoides, es fácil que el primer nombre que aparezca sea Optimus. Tesla ha conseguido instalar su robot en el imaginario tecnológico antes incluso de convertirlo en un producto que cualquiera pueda comprar. Pero ahí está precisamente el matiz que hace interesante esta...",
-      "url": "https://www.xataka.com/robotica-e-ia/robots-humanoides-chinos-despiertan-cada-vez-interes-morgan-stanley-casi-ha-duplicado-sus-previsiones-envios-para-2026",
-      "published": "2026-06-24T20:30:06+00:00",
-      "image": "https://i.blogs.es/469f88/ubtech-robots-china/1024_2000.jpeg",
+      "title": "Imágenes satelitales revelan que Ucrania ha logrado algo impensable: obligar a Rusia a bunkerizar su flota nuclear",
+      "summary": "En octubre de 1962, en plena Crisis de los Misiles de Cuba, la Unión Soviética ordenó dispersar y ocultar buena parte de sus bombarderos nucleares por miedo a un ataque sorpresa de Estados Unidos. Fue una de las pocas veces en la historia en que Moscú asumió que incluso sus activos estratégicos más...",
+      "url": "https://www.xataka.com/magnet/imagenes-satelitales-revelan-que-ucrania-ha-logrado-algo-impensable-obligar-a-rusia-a-bunkerizar-su-flota-nuclear",
+      "published": "2026-06-25T12:01:31+00:00",
+      "image": "https://i.blogs.es/92f9d5/engels-shelters-long-range-aviation/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.58,
+      "relevance": 20.44,
       "sources": [
         "Xataka"
       ]
@@ -257,13 +243,27 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "\"Nos están inyectando propaganda pura y dura\": la app de la Casa Blanca se autodescarga en móviles oficiales y no se puede borrar",
-      "summary": "La Administración de Donald Trump estrenó recientemente una nueva aplicación oficial de la Casa Blanca para iPhone y Android. En principio, nada demasiado raro: muchos gobiernos tienen apps públicas para difundir comunicados, retransmisiones, alertas o información institucional. Pero esta no ha...",
-      "url": "https://www.xataka.com/magnet/nos-estan-inyectando-propaganda-pura-dura-app-casa-blanca-se-autodescarga-moviles-oficiales-no-se-puede-borrar",
-      "published": "2026-06-24T20:00:06+00:00",
-      "image": "https://i.blogs.es/c8a566/app-casa-blanca-portada/1024_2000.jpeg",
+      "title": "Las flojas previsiones de taquilla de Supergirl no son por su calidad, sino por su fecha de estreno: contra Toy Story y Minions",
+      "summary": "La segunda película del universo DC de James Gunn no compite solo contra el entusiasmo que despertó el 'Superman' de 2025. Hay rivales más tradicionales a los que enfrentarse: el calendario de estrenos de este verano sitúa 'Supergirl' entre dos gigantes de animación de éxito garantizado, y los...",
+      "url": "https://www.xataka.com/cine-y-tv/flojas-previsiones-taquilla-supergirl-no-su-calidad-sino-su-fecha-estreno-toy-story-minions",
+      "published": "2026-06-25T11:31:32+00:00",
+      "image": "https://i.blogs.es/3da159/supergirl/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.39,
+      "relevance": 20.26,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Google pone fecha de muerte al Android que conocíamos. Los desarrolladores tienen claro que tu teléfono está a punto de dejar de ser tuyo",
+      "summary": "En agosto del año pasado, Google anunció una de las maniobras más controvertidas de la historia de Android: cambiar por completo el ADN de su sistema operativo. Esto se traduce en que, en un futuro, cualquier app que quieras instalar en tu dispositivo Android, venga de donde venga, deberá estar...",
+      "url": "https://www.xataka.com/telefono-movil/google-pone-fecha-muerte-al-android-que-conociamos-desarrolladores-tienen-claro-que-tu-telefono-esta-a-punto-dejar-ser-tuyo",
+      "published": "2026-06-25T11:01:32+00:00",
+      "image": "https://i.blogs.es/62c83f/play-store-sideloading-android/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.07,
       "sources": [
         "Xataka"
       ]
@@ -271,13 +271,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Google actualiza Gemini 3.5 Flash y añade la función más pedida por los programadores",
-      "summary": "Gemini 3.5 Flash es la IA más nueva de Google, y una de las más capaces en su catálogo, y acaba de sumar una característica clave: Computer Use. Esta función, que permite crear agentes capaces de ver, razonar y concretar acciones de forma autónoma en un navegador o en el PC o móvil, ahora está […]...",
-      "url": "https://hipertextual.com/inteligencia-artificial/gemini-3-5-flash-suma-computer-use-forma-nativa/",
-      "published": "2026-06-24T20:41:22+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/gemini-3.5-flash.jpg?fit=1024%2C577&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Samsung revela su secreto mejor guardado: así es el móvil que va a destruir al iPhone 18 Pro",
+      "summary": "Samsung lleva años guardando un secreto que por fin se ha desvelado y el cual tiene que ver con sus futuros móviles, en especial con la serie Galaxy S (una de las más populares de la marca). Se ha confirmado que la compañía va a lanzar un modelo completamente nuevo, una versión nunca vista que […]...",
+      "url": "https://hipertextual.com/mobile/samsung-revela-su-secreto-mejor-guardado-asi-es-el-movil-que-va-a-destruir-al-iphone-18-pro/",
+      "published": "2026-06-25T11:26:23+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/galaxy-s27-pro.jpg?fit=1024%2C669&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 19.92,
       "sources": [
         "Hipertextual"
       ]
@@ -285,13 +285,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Cuando un ciberataque dejó \"out\" a los hospitales rumanos, los médicos recuperaron un clásico: lápiz y papel",
-      "summary": "La tecnología informática ha llegado para facilitarnos la vida. En el ámbito de la salud, por ejemplo, los hospitales están cada vez más interconectados. Los médicos de muchos países del mundo tienen acceso a historias clínicas electrónicas y los pacientes a recetas sin papel. Todo esto puede ser...",
-      "url": "https://www.xataka.com/seguridad/cuando-ciberataque-dejo-out-a-hospitales-rumanos-medicos-recuperaron-clasico-lapiz-papel",
-      "published": "2026-06-24T19:30:06+00:00",
-      "image": "https://i.blogs.es/82f6be/hackeo-rumania-portada/1024_2000.jpeg",
+      "title": "¡Últimas horas para participar en el sorteo de un Huawei Watch Fit 5 Pro! Solo para miembros de Xataka Xtra",
+      "summary": "¡Tic, tac, tic, tac! Se acaba el tiempo, xatakeros. Hoy es el último día para participar en el sorteo de un Huawei Watch Fit 5 Pro, uno de nuestros relojes inteligentes favoritos de 2026. Es un sorteo exclusivo para miembros de Xataka Xtra, comunidad a la que puedes sumarte por solo 30 euros al año...",
+      "url": "https://www.xataka.com/xataka-xtra/ultimas-horas-para-participar-sorteo-huawei-watch-fit-5-pro-solo-para-miembros-xataka-xtra",
+      "published": "2026-06-25T10:31:31+00:00",
+      "image": "https://i.blogs.es/21bc70/original/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.2,
+      "relevance": 19.88,
       "sources": [
         "Xataka"
       ]
@@ -299,13 +299,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Microsoft usó su inteligencia artificial para tumbar dos de los programas maliciosos más usados del mundo",
-      "summary": "La IA de Microsoft ha desarticulado dos de las herramientas de hackeo más usadas del mundo. El gigante tecnológico reveló que Copilot analizó código malicioso complejo y encontró conexiones que habrían tardado semanas en detectarse manualmente. La operación, coordinada con Europol y varios cuerpos...",
-      "url": "https://hipertextual.com/seguridad/microsoft-copilot-ia-desmantelar-herramientas-hackeo/",
-      "published": "2026-06-24T19:28:43+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/copilot-hackers.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Mejor que el Prime Day: las ofertas de GEEKOM en mini PCs son lo mejor que vas a ver",
+      "summary": "En estos días, todo le mundo habla de las ofertas de Amazon. Sin embargo, son muchas las tiendas que han rebajado sus productos. GEEKOM, sin ir más lejos, posiblemente una de las mejores marcas de mini PCs en relación calidad precio, también se ha unido a esta tendencia. En concreto, podemos...",
+      "url": "https://hipertextual.com/brands/geekom-ofertas-prime-day/",
+      "published": "2026-06-25T11:13:28+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/Final-Sales-ES-geekom.jpg?fit=1024%2C582&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.89,
+      "relevance": 19.84,
       "sources": [
         "Hipertextual"
       ]
@@ -313,13 +313,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Hoy en Disney+, la película que pese a superar los mil millones en taquilla ha dejado en el aire la continuidad de su franquicia",
-      "summary": "'Avatar: Fuego y ceniza', la tercera entrega de la milmillonaria saga de James Cameron, aterriza en Disney+. Una película que se abre con una declaración contra la IA, introduce al primer gran villano Na'vi de la franquicia y deja en el aire el futuro de dos secuelas, secuelas que pese a las...",
-      "url": "https://www.xataka.com/streaming/hoy-disney-pelicula-que-pese-a-superar-mil-millones-taquilla-ha-dejado-aire-continuidad-su-franquicia",
-      "published": "2026-06-24T18:30:06+00:00",
-      "image": "https://i.blogs.es/e04b2a/captura-de-pantalla-2026-06-24-a-las-15.11.15/1024_2000.jpeg",
+      "title": "Teles enormes, OLED, MiniLED y más: estos son los mejores cholos en televisores del Prime Day de Amazon",
+      "summary": "Este Prime Day os estamos trayendo las mejores ofertas en tecnología que estamos encontrando. Hay ciertos tipos de dispositivos que se están llevando descuentos muy importantes, como máquinas de aire acondicionado portátil, relojes inteligentes o móviles, entre otras cosas. En este artículo...",
+      "url": "https://www.xataka.com/seleccion/teles-enormes-oled-miniled-estos-mejores-cholos-televisores-prime-day-amazon",
+      "published": "2026-06-25T10:15:32+00:00",
+      "image": "https://i.blogs.es/02e005/portada-recopilatorio-televisores-prime-day/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.83,
+      "relevance": 19.78,
       "sources": [
         "Xataka"
       ]
@@ -327,13 +327,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Tus contraseñas no resistirán el \"apocalipsis cuántico\": cómo proteger tus archivos con cifrado postcuántico hoy mismo",
-      "summary": "Los ordenadores cuánticos van a adquirir la capacidad de vulnerar la criptografía clásica en un plazo de tiempo relativamente breve. A finales del pasado mes de marzo un grupo de investigadores del Instituto de Tecnología de California (Caltech), la Universidad de California en Berkeley y la...",
-      "url": "https://www.xataka.com/aplicaciones/tus-contrasenas-no-resistiran-apocalipsis-cuantico-como-proteger-tus-archivos-cifrado-postcuantico-hoy",
-      "published": "2026-06-24T18:00:06+00:00",
-      "image": "https://i.blogs.es/7a7500/cifrado-postcuantico/1024_2000.jpeg",
+      "title": "Los jugadores celebran que 'GTA VI' costará 80 euros. Resulta que solo la 'especial' de 100 euros es el juego íntegro",
+      "summary": "'GTA VI' es el tema de la semana en videojuegos. Del año, si me apuras. El título de Rockstar es un juego generacional y hoy se abren las reservas para hacerse con una versión digital o con una caja que no incluye el juego en formato físico. Esa es, precisamente, una de las polémicas, pero no la...",
+      "url": "https://www.xataka.com/videojuegos/jugadores-celebran-que-gta-vi-costara-80-euros-resulta-que-solo-especial-100-euros-juego-integro",
+      "published": "2026-06-25T10:15:32+00:00",
+      "image": "https://i.blogs.es/b39a17/gta-vi-ultimate/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.64,
+      "relevance": 19.78,
       "sources": [
         "Xataka"
       ]
@@ -341,13 +341,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Vinicius, los mismos goles que Mbappé y Haaland... y una queja: \"Vergüenza\"",
-      "summary": "El extremo del Real Madrid sigue en 'modo estrella' con Brasil",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/25/24-minutos-locura-vini-jr-miami-gol-anulado.html",
-      "published": "2026-06-24T22:33:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3c59f465387.jpeg",
+      "title": "Única en su especie en el Mundial: una entre 47 hombres",
+      "summary": "La jefa de los servicios médicos de Curazao, la única mujer entre los responsables médicos de las 48 selecciones, atiende a MARCA en Miami",
+      "url": "https://www.marca.com/futbol/mundial/2026/06/25/suzanne-huurman-unica-jefa-medica-mundial-he-escuchado-mil-veces-mi-carrera-puedes-aqui.html",
+      "published": "2026-06-25T11:55:45+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d192c45bdd.jpeg",
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 20.41,
       "sources": [
         "Marca"
       ]
@@ -355,13 +355,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Una felicitación que pone la piel de gallina: \"Leo, que seas más feliz de lo que nos hacés a nosotros\"",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/25/felicitacion-seleccion-argentina-cumpleanos-messi-seas-feliz-leo-feliz-haces-nosotros-video.html",
-      "published": "2026-06-24T22:14:23+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/1gF5O63s9mzW.jpeg",
+      "title": "Engánchate al Mundial Fantasy con la nueva liga de eliminatorias",
+      "summary": "Concurso con miles de créditos para jugar la fase más emocionante en el Movistar Fantasy MARCA",
+      "url": "https://www.marca.com/fantasy/2026/06/25/enganchate-mundial-fantasy-nueva-liga-eliminatorias.html",
+      "published": "2026-06-25T11:50:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3cebf56a5f2.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.38,
       "sources": [
         "Marca"
       ]
@@ -369,13 +369,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ronaldinho-Vinicius, un abrazo muy especial",
-      "summary": "Ronaldinho esperó y saludó a todos los jugadores antes del duelo con Escocia",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/25/ronaldinho-vinicius-abrazo-primera-final-brasil.html",
-      "published": "2026-06-24T22:03:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/6a3c52ce72f0f.jpeg",
+      "title": "Gordon, 10 kilos más... salvo catástrofe",
+      "summary": "El Barça ha aceptado dos cláusulas que aumentaría en 10 millones el precio",
+      "url": "https://www.marca.com/futbol/barcelona/2026/06/25/variables-gordon-descubierto.html",
+      "published": "2026-06-25T11:35:11+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d0c8d1a8d6.jpeg",
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 20.28,
       "sources": [
         "Marca"
       ]
@@ -383,13 +383,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Otro gol de una de las sensaciones del mundial, Manzambi",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/24/gol-manzambi-2-0-suiza-2-1-canada-video.html",
-      "published": "2026-06-24T21:45:54+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/1gF4t_VfTIaO.jpeg",
+      "title": "El calor aprieta en Austria: la FIA activa el protocolo de emergencia y abre un dilema para los pilotos",
+      "summary": "El país austriaco vive una ola de calor que obliga a la FIA a intervenir",
+      "url": "https://www.marca.com/motor/formula1/gp-austria/2026/06/25/calor-aprieta-austria-fia-activa-protocolo-emergencia-abre-dilema-pilotos.html",
+      "published": "2026-06-25T11:32:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d11551334f.jpeg",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 20.26,
       "sources": [
         "Marca"
       ]
@@ -397,13 +397,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Así están los grupos y así estarían los cruces: ¿qué terceros se clasifican?",
-      "summary": "Las ocho mejores selecciones que acaben terceras se meterán en dieciseisavos",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/24/cuentas-ultima-jornada-fase-grupos-clasificacion-mejores-terceros.html",
-      "published": "2026-06-24T21:42:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/12/mundial.jpg.jpeg",
+      "title": "Julia Janeiro, hija de Jesulín de Ubrique: \"Me habéis deseado la muerte, insultado y metido con mi familia\"",
+      "summary": "La maquilladora se indigna por las reacciones a un vídeo publicado en sus redes sociales",
+      "url": "https://www.marca.com/tiramillas/sociedad/2026/06/25/julia-janeiro-hija-jesulin-ubrique-me-habeis-deseado-muerte-insultado-metido-mi-familia.html",
+      "published": "2026-06-25T11:19:42+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d0e8b3bc13.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 20.18,
       "sources": [
         "Marca"
       ]
@@ -411,13 +411,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Suiza 2-1 Canadá | Resumen Mundial 2026",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/24/suiza-2-1-canada-resumen-mundial-2026-video.html",
-      "published": "2026-06-24T21:37:53+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/buuNw1gF4uSi0CQZt.jpeg",
+      "title": "Entre Flick y Koundé",
+      "summary": "Quiere ganarse al técnico en la pretemporada y a la espera del futuro del francés",
+      "url": "https://www.marca.com/futbol/barcelona/2026/06/25/hector-fort-flick-kounde.html",
+      "published": "2026-06-25T11:13:55+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d0b006373e.jpeg",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 20.15,
       "sources": [
         "Marca"
       ]
@@ -425,13 +425,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El gol encajado de carambola con el que se despidió la Qatar de Lopetegui",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/24/gol-mahmic-3-1-bosnia-3-1-qatar-video.html",
-      "published": "2026-06-24T21:34:51+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/butk61gF4rWrc3V3k.jpeg",
+      "title": "Mireia Benito vuela contra el crono y abrocha su cuarto título nacional: Blasi, sin medalla tras su caída",
+      "summary": "La catalana defendió el maillot en el Campeonato de España, Sara Martín fue segunda y Laia Puigdefábregas mandó en sub 23",
+      "url": "https://www.marca.com/ciclismo/2026/06/25/mireia-benito-vuela-crono-abrocha-cuarto-titulo-nacional-blasi-medalla-caida.html",
+      "published": "2026-06-25T11:06:42+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/21/68d020c7ecaf3.jpeg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 20.1,
       "sources": [
         "Marca"
       ]
@@ -439,13 +439,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Bosnia 3-1 Qatar | Resumen Mundial 2026",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/06/24/bosnia-3-1-qatar-resumen-mundial-2026-video.html",
-      "published": "2026-06-24T21:32:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/24/buuCY1gF4o3HvJHUX.jpeg",
+      "title": "La última declaración de amor de Aitana tras el logro de Plex: \"Qué puedo decir\"",
+      "summary": "El creador de contenido se convierte en el gran protagonista de los quioscos este mes",
+      "url": "https://www.marca.com/tiramillas/musica/2026/06/25/ultima-declaracion-amor-aitana-logro-plex-decir.html",
+      "published": "2026-06-25T11:05:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d09cff367f.png",
       "coverage": 1,
-      "relevance": 19.96,
+      "relevance": 20.09,
       "sources": [
         "Marca"
       ]
@@ -453,56 +453,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "EE. UU. mata a un líder del grupo yihadista Estado Islámico en un bombardeo en Siria",
-      "summary": "El Comando Central de Estados Unidos anunció el miércoles 24 de junio que fuerzas estadounidenses llevaron a cabo un ataque aéreo en el noroeste de Siria que acabó con la vida de Ali Husayn al-Ulaywi, un alto dirigente del grupo yihadista Estado Islámico.",
-      "url": "https://www.france24.com/es/medio-oriente/20260624-ee-uu-mata-a-un-l%C3%ADder-del-grupo-yihadista-estado-isl%C3%A1mico-en-un-bombardeo-en-siria",
-      "published": "2026-06-24T21:21:00+00:00",
-      "image": "https://s.france24.com/media/display/996c0160-6fd1-11f1-93ab-005056bfb2b6/w:1024/p:16x9/AP26017436417187.jpg",
-      "coverage": 2,
-      "relevance": 30.2,
-      "sources": [
-        "France 24",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Al Aqsa: el temor de los musulmanes ante los planes de los nacionalistas israelíes para uno de los lugares más sagrados del Islam",
-      "summary": "Los nacionalistas israelíes han empezado a ignorar las costumbres que han regido durante décadas la convivencia en el recinto de la mezquita de Al-Aqsa.",
-      "url": "https://www.bbc.com/mundo/articles/c5yzgrznz18o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-24T18:17:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/141f/live/a8e752e0-69b7-11f1-9a2b-c1fb07dd1b47.jpg",
+      "title": "En directo: Marco Rubio rechaza control iraní de Ormuz tras amenaza de los Guardianes a buques extranjeros",
+      "summary": "Los Guardianes de la Revolución de Irán advirtieron nuevamente que todo paso por el estrecho de Ormuz deberá contar con autorización de Teherán, en medio de la disputa con Washington por el control de esta vía estratégica. El secretario de Estado estadounidense, Marco Rubio, afirmó que EE. UU. \"no...",
+      "url": "https://www.france24.com/es/medio-oriente/20260625-en-directo-los-guardianes-de-la-revoluci%C3%B3n-amenazan-a-barcos-que-crucen-ormuz-sin-permiso-de-ir%C3%A1n",
+      "published": "2026-06-25T06:29:57+00:00",
+      "image": "https://s.france24.com/media/display/1b62bbec-7030-11f1-87fd-005056a90284/w:1024/p:16x9/2026-06-23T121334Z-122101518-RC2B2KAD4CU2-RTRMADP-3-IRAN-CRISIS-SANCTIONS-DETAILS.jpg",
       "coverage": 1,
-      "relevance": 19.95,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "La vida regresa a Nabatieh pese a la continuidad de los ataques israelíes",
-      "summary": "Durante meses, Nabatieh, una ciudad del sur de Líbano, ha sido blanco de ataques israelíes, pero la situación se ha estabilizado desde la implementación, al menos en teoría, del alto el fuego el pasado 19 de junio. Los habitantes desplazados están regresando y la vida vuelve poco a poco a la...",
-      "url": "https://www.france24.com/es/video/20260624-la-vida-regresa-a-nabatieh-pese-a-la-continuidad-de-los-ataques-israel%C3%ADes",
-      "published": "2026-06-24T19:04:09+00:00",
-      "image": "https://s.france24.com/media/display/092cabb8-6ffe-11f1-b095-005056bfb2b6/w:1024/p:16x9/ES-20260624-120505-120644-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.34,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Tiro intenta recuperar la normalidad tras la tregua entre Israel y Hezbolá",
-      "summary": "Habitantes de la ciudad vieja de Tiro regresan a sus hogares tras la tregua entre Israel y Hezbolá e intentan recuperar sus vidas y volver a la normalidad. Aunque algunos acuden a los barrios cristianos de la ciudad, ya no existe la sensación de refugio. Desde el terreno, nuestra corresponsal Ethel...",
-      "url": "https://www.france24.com/es/video/20260624-tiro-intenta-recuperar-la-normalidad-tras-la-tregua-entre-israel-y-hezbol%C3%A1",
-      "published": "2026-06-24T19:03:23+00:00",
-      "image": "https://s.france24.com/media/display/918700ca-6ff5-11f1-b861-005056bfb2b6/w:1024/p:16x9/ES-20260624-110417-110619-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.34,
+      "relevance": 18.67,
       "sources": [
         "France 24"
       ]
@@ -510,13 +467,13 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Hezbolá acusa a Israel de nueva violación de tregua tras ataque mortífero - Medio oriente | Tvn Panamá - tvn-2.com",
+      "title": "Zelenskyy dice que Rusia traslada defensas aéreas a Moscú tras ataques con drones",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnhJWERBY1k5MmFEMmtfUUhGMndmQUYwWF96cGRfdVRBNWxUblhDSlNUTGE5bkJHUFYzMjhKODI2bzRDMHNRN29HcnhCWFFHajZNdmV5VEhUUXZGajd3QV9MV0gwNlJkaFEwZW5QZE1DdldqSXFON0xRVTZtRDB4TGo0OXE3dEZPLUR5ZzdFS2hybHZYWGJtLdIBngFBVV95cUxNUnNyb0ZQcDExeHlRaVpRZzJjSEFyV0dueEdHMVJ4YklodE1jVkdTV2ZZV2hyYjNFUTBXc2ZYZ0dlaUhxd0R6UE9sMHZvTEdZM3VkdEdSMFhXQkhSaVNGLXU1NmZvZlA0aUgySWRjeDd5SEFRRWppMkRBMHl4a0ZNaUdxN3NNNWhNcnBXS3NVUFFmMGVCMzE5VUhBWnlvUQ?oc=5",
-      "published": "2026-06-24T22:04:08+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNBNl9jdTF5X2t0NlhkSVc0MGNzTkc1LXZqeTQwb01WeHZuQ2d2enUxZ0YxLU04MkdnVTFlQ0QtYnFCMWtWbk1vN0F3VjVacUFpTE9XaDJac0pmZUNjd0JvN1U3MVVFSjJfVGpJNDRMSXhnYm5OblppRmE4bVVlZnY1ZENHaWlYdXVYcXRfd2MxLVZocVFYbXZiWUxaaU5oOVVXQktieV9MdTlsSmx0bi1vSEcwREV3dURJeE9VTQ?oc=5",
+      "published": "2026-06-25T10:51:21+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.66,
+      "relevance": 18.51,
       "sources": [
         "Google Noticias"
       ]
@@ -524,24 +481,10 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Rusia condenó a siete años de prisión a un dirigente opositor por publicar datos sobre bajas civiles en Ucrania",
+      "title": "La polaca FlyFocus prueba en Ucrania el \"Striker\", su nuevo dron de ataque con hasta 1.000 km de alcance",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeVVsWXNwdG1DM2FXNExsbzg4bm1EQzloZmt6QW5IRVE0enc2bEV4V0hqNW53dzVkdUlGUG5RZFpWNGwySll0UVJCbGpPNzJUTUVtWHNzVTdZLUVDeDVTeEJ0dndUTGdiSTljNVgwdzlMc3QwYlVTai04eWYtREEyb1pUelY2QnI2T0pJVk40dnJrOGt5S29qejN0b3ZGTW1RZUVYa1I3QTNDUWdVVlJsbWhibHcweUNLY0tlSkI3NU5yQTJwcjc3ZFBsbWRCTTE2eXM3TWk2emR6YVRMVGwzSWJkcTdhcHFweWUyaExUZ21Eb0HSAY4CQVVfeXFMTWtwWkhfbXNoSml1V2hNSHhRVEh0ZWhoQzJHcFNZbF9lYThqMHdkZ25LYkllQjJsamNpaTNXOElqZGdFYUZMaTJzdGlLNkxadkRhYlY2NkJvbEtISXNpbGIxZWNXMzdxYVFmWnRWcHFBb3REMERYbWlObU82TUMtSmpzZXU5bHl2d1VlTkltMzg2S2pRcXVlRHFJM0ltWXZBTkFfS2FDMG1vT0otQ2dSX2NsOHl2NGJmQ2MxbWZTejRZLXhMY2l0WklyQXV0RHVJX0pIVDZqSV80d3c4QUp3WkZxR0trRmhGTkdtcEQzOXhmN2RhbkdxbHBLbmdzNkx6U1R3Z3pXLTFGY0NqcE93?oc=5",
-      "published": "2026-06-24T22:03:04+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.66,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Guerra en Irán, en directo | Israel incumple una vez más el alto el fuego en Líbano con nuevos ataques sobre el sur del país",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUV9JTHl0WTl4czgtSzR2cXUzS09JTzdpbjE3NEx6UFRxOF96aVVWN0tST255R1R0NHE5eHlLM3ROSkVtdXNYYzNUZ3RXbXJrZXFsRFhWd0ZCeEYwU1Z3c1VXRFcxTEFtTElNUzdQSmFWamJGeWE2NjVzVWx4RnB1Y0hYdFhCNGJ3NlNsck1VNTRCb2ZnaVh3S0R5NzZsQzU4REV1V9IBpAFBVV95cUxQdlVhZlBwcjJ2Y0UwWF9ZR3BPZjU0aUowaVl5bGNTQXBBWkxUUE1iVjJfVE4xVlNvZzFKTVlwY0l2U2hzcnJNdEtiQ2piUEJMYUxrNHJyRG5faGtYME9rSkp4Ym9MTElFZjEwNE9NTnRmS3AzU2VHMlRKa1lPbmdLQXU2d1pUUUlSZmM3alVwYW9RVi1FM1JjWXRPYjh4VHpNUGRJYw?oc=5",
-      "published": "2026-06-24T21:35:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNREdjaTltVFFCcDkybXRnZ2RNQUtzTFU1UXpYMWZ5SkVyMkdFS0FUZXhDNE1XTkx6eF9CMjhRdEc2WE56VzFFa2hQSkZYSGJxVWIzUHlhX3pYZld6QmdKVEFhb3ZtLUVLeEl6T2c1U082SHdRdUlLOFJ4UlluNTM4N3E4Ql9NUHRzMEpGeUpKN24tcF8tM2dpdjA3bmZGcHZjX2xCcmxNdFAyUGZWbmlkVlJJa3dGbkRSUnJJTGNCQk1MVDFXSW5kdWZwblltUURFVGUyRk50Z3c2b3Y0QnUyM2dR?oc=5",
+      "published": "2026-06-25T10:48:02+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 18.48,
@@ -552,27 +495,167 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Mueren dos empleados de una ONG noruega en un bombardeo ruso en Ucrania",
+      "title": "Trump plantea dudas sobre ataque a escuela iraní",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDlTXzl4R2p6MkE4OGNuLVlhODZYNzVDa05GRmRyYW4wNUNOUjNkb3JjX3ZuNDJwWjlTQWs4SS1icFBlUzFRMmYtNE1iMkw5T2wzS2V3TDFuZ3B4SE9EdGZVT3BqSHRxV3VhOFRfUmxaRDVWLXRTSmx3NklRVFBhUFpIYXNObWZvTk1wSmE2QUhjY0lmdmxtam1xdXg3SnU5U0JNTUFIMVR6WXJ0bVpWSmhIRW5lVmhRMWVnZA?oc=5",
-      "published": "2026-06-24T19:10:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QV0RrXzB2RHBFdGxYRzhrMEpWNG9Lb3VNQW4weU9jYThpbG91T3JLYTNnbWIwY1BnUnBhR01zbTVfUmZjWUFfU3FjU2JTR0JLS2ZGZk1B?oc=5",
+      "published": "2026-06-25T09:55:40+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.58,
+      "relevance": 18.16,
       "sources": [
         "Google Noticias"
       ]
     },
     {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Así es el estadio Guadalajara, donde Uruguay definirá su futuro",
-      "summary": "La cancha de las Chivas data de este siglo y es moderno y con una cancha amplia y rapidísima.Si antes de empezar el campeonato los tres millones estábamos mirando el partido de este viernes ante España, ahora, por la comprometida situación en la que ha quedado el equipo de Bielsa tras dos empates,...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/asi-es-el-estadio-guadalajara-donde-uruguay-definira-su-futuro/",
-      "published": "2026-06-24T22:45:20+00:00",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Arden depósitos de petróleo en el sur de Rusia tras un ataque de drones ucranianos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU3JnRG5WZHBNTS03aEQ5a0xmdmMzcGV4U3U3bi02bWN4QzIxUm1wSmZaQWRIRFFSdGlidjB3bDhmRFUxeXlxNkoya20xZnhBVEo1WDljaWF1VFMwZWZ3c1E2RnRrWlNMaW1sTzhaVnF2X2p6NTN5RFpqY0NRSDZDNUhjR1JQYjJVMzlhYngwaFhQT2FvMlh6dTloWnp3RmdqdnZzSmIxaw?oc=5",
+      "published": "2026-06-25T09:51:58+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 18.13,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "ISW: Lukashenko frena la presión rusa para abrir un nuevo frente contra Ucrania desde Belarus",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmtMRE1mR3M2US1tejlKRWpTdE5RMFFfVmZ3YWczN090WWdpNTEtbmxXWHZtckkydWdabkhqaHhaWDBiZlhjbHBlZ2pObWFfZXEzUnJ1Nnk0bnNvN08wRjBFb3FLMzZ5UVowYjZEOVhlSVBSLVBRUl9DeHFqeVVCR3drdDl4VS1lSGZBdDJkM0ExMnBkYWpkZ2lic2d5QVQ4bWw5bE53d2d1enVZUWp2Y0tGSVdSWnFVdGxfeEhPc0JBRm40dVNiNl9ybHJaWnphN3BnTmNTZ1JNdw?oc=5",
+      "published": "2026-06-25T09:21:06+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.94,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Los precios del petróleo retroceden a niveles previos a la guerra en Irán",
+      "summary": "El barril de referencia WTI y el del Brent cayeron a su menor valor en cuatro meses, en medio de la reanudación del tránsito de buques por el estrecho de Ormuz, cuyo cierre casi total desde el inicio del conflicto en Medio Oriente sacó del mercado millones de barriles.",
+      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20260625-precios-del-petr%C3%B3leo-retroceden-a-niveles-previos-a-la-guerra-en-ir%C3%A1n",
+      "published": "2026-06-25T04:17:58+00:00",
+      "image": "https://s.france24.com/media/display/1b62bbec-7030-11f1-87fd-005056a90284/w:1024/p:16x9/2026-06-23T121334Z-122101518-RC2B2KAD4CU2-RTRMADP-3-IRAN-CRISIS-SANCTIONS-DETAILS.jpg",
+      "coverage": 1,
+      "relevance": 17.85,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Líderes europeos afirman su unidad antes de cita de la OTAN, a la que Trump irá \"por respeto\" a Erdogan",
+      "summary": "Los líderes europeos se reunieron el miércoles 24 de junio en Berlín, antes de la cumbre de la OTAN que se celebrará el próximo mes en Ankara, para debatir las garantías europeas en materia de defensa y seguridad para Ucrania, tras las tensiones con Estados Unidos. Por su parte, el mandatario...",
+      "url": "https://www.france24.com/es/europa/20260625-l%C3%ADderes-europeos-afirman-su-unidad-antes-de-cita-de-la-otan-a-la-que-trump-ir%C3%A1-por-respeto-a-erdogan",
+      "published": "2026-06-25T03:49:05+00:00",
+      "image": "https://s.france24.com/media/display/afd99d48-700a-11f1-8eac-005056bf30b7/w:1024/p:16x9/AP26175616288078.jpg",
+      "coverage": 1,
+      "relevance": 17.67,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Uruguay-España: Del debut de Tabárez al penalti fallado en el tiro más fuerte del Mundial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTmN4dW1NRUN1VXhwejJ1anQzbXM1dEVsU21XMlo5UzE1ekxMVXdhZER3d3doaFJHQWRLMVk2VUZNaXRlcWhfZlp4a1hhRHFQS2dnaEQ4ekk5dWlqVmFoQVdIVXZhZC1rcWZDMlQzWUtDS2phWXo5S0gzUmhKSTlURl9sa2lFTklTYjlSSnk3NUJyWFNDd1JEekgtdGliX2FZeXY4Zks3aEdURUlWUmpV?oc=5",
+      "published": "2026-06-25T11:50:43+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "La continuidad de España y la necesidad de Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1ZrMVUtbnpjM0cyYVd2SDhhcFVDNktPRUhsWVRTajRsU1BIbWh2R2laVXZoUFI4N2g1WEpXQUxpOWhid1IxOWlmS3R4THM0eUNOend2Y3FCT2daOFhnQXdQc1hhRnRUSmN6dmpGNzVWQjExSTNuTFM2MVo0TnpIbi02NFphU1h3c0hJbTRB?oc=5",
+      "published": "2026-06-25T11:04:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.59,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "2026 FIFA Men's World Cup: How Uruguay can reach the Round of 32",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQmFrMHh4RzlUNTc5UE9WY25FSGZtQlNKNTlhZ0xBWjVFTERVT1dFek9FS0oxbmlBc2hEQjBsQ28xQkRNUmpHNC1jbnppRHhoNjZoWGRwdHBrMlp3c3V3NUpkX3Q3SXlOV01QRmtZVzhyVlB3WlhmRXFLeUluRGJsOC1sUHJmLWtERWU3VlY1OERvX2hKaUlWTWJLLXlUNk1zY1YteGQzY1kwbTJSYXVRZ3ZlNkc0Vlgx?oc=5",
+      "published": "2026-06-25T09:02:45+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.83,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Las posibles alineaciones titulares del partido Uruguay vs España",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWWtfUGJhMmQ2V3g4M0NjZkpIVkViT095THFIY1BqTVlVbDZTZTF1TmFJNGRVZkYwQkVidmw2dnljRmRtMVg4TGJlNmM5c09GSmdhaVJYQ00zd2tIZy1kQXpmZXRMeUpIZ2hVVDVtazFIMlU2R3VmanJydjNwczZ3dUp2NDQ4S2FDUjZYSWtFdjR1ai1EaGJ5LWRvemh3OVRiQ0Qxd1AxeEdSZ3M?oc=5",
+      "published": "2026-06-25T09:00:22+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.81,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "El pronóstico de la Inteligencia Artificial para el partido entre España y Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjFnZzJUMy1LdUlFT3VCdS1oeldWN0RRVXp4ZU9rNXpzZ1VWWmJjSFY5M2RiTm1INmcyLUMtcm90ZV9SVENjVms2MV9NX0RJcDYxSjUyQlB3ZjJEQUNHUlFyLXo3anB0OE80VHVtZUxMZ2xWQ2hiOENJT2pvX2pFVmlUUEwtT0VxRUFEeHNsbFZzcEhFdXdpbQ?oc=5",
+      "published": "2026-06-25T08:52:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.76,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Terremoto en Venezuela: caída de edificios, escenas de pánico y lo que se sabe hasta ahora",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM0VMUk9UVXRHMGk0ejhFU2lrN2tCTnNDdmdQelQzS3FDb3JtS004WkNTRHpZekZua2Z3R2lWbnRfdk0yUDJ0MXdaU2FlTkY3YnhGaTdHRUhQTFI3VG5sMk12ZUJORkllbFNUdC1tZFVDYmZETjNoODRBM1lJUTZyWmhFYWxZUVpDU3hDSWlZOUNEdjFOcm1BTzNLbnhTZ1NLY05fRWlnYjFhUjJZSVJtVGxSbHljaW1wT3l0aw?oc=5",
+      "published": "2026-06-25T00:24:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.99,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "México es una fiesta: el tri goleó 3-0 para cerrar invicto y confiado la fase de grupos",
+      "summary": "Sudáfrica dio la sorpresa en el grupo A: le ganó a Corea del Sur y se metió segundo, resultado desfavorable para un eventual tercer puesto de Uruguay.México está de fiesta. En el estadio Azteca, la selección de Javier Aguirre se impuso 3-0 a República Checa para cerrar la fase de grupos invicto,...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/mexico-es-una-fiesta-el-tri-goleo-3-0-para-cerrar-invicto-y-confiado-la-fase-de-grupos/",
+      "published": "2026-06-25T04:03:08+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.85,
       "sources": [
         "La Diaria"
       ]
@@ -580,97 +663,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Uruguay escondió las cartas y Bielsa mantiene incógnitas contra España",
-      "summary": "La celeste entrenó a puertas cerradas en el Mayakoba Training Center; este jueves será el último entrenamiento, antes de volar a Guadalajara.La selección uruguaya practicó este miércoles en el complejo de Mayakoba a puertas cerradas, en una práctica que, por la metodología de trabajo que viene...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/uruguay-escondio-las-cartas-y-bielsa-mantiene-incognitas-contra-espana/",
-      "published": "2026-06-24T22:29:45+00:00",
+      "title": "La economía de costos de la inteligencia artificial",
+      "summary": "Una de las mayores confusiones alrededor de la IA es creer que, porque su uso se vuelve cada vez más barato, su producción también. La realidad es bastante más compleja.La inteligencia artificial (IA) generativa combina dos movimientos que parecen contradictorios, pero que ocurren al mismo tiempo....",
+      "url": "https://ladiaria.com.uy/economia/articulo/2026/6/la-economia-de-costos-de-la-inteligencia-artificial/",
+      "published": "2026-06-25T03:42:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.72,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Gobierno evalúa usar la figura del “pase en comisión” para choferes militares al servicio del Ministerio del Interior",
-      "summary": "El Ejecutivo entiende que de este modo no sería necesaria una ley para habilitar la participación en ese rol de los integrantes de las FFAA en operativos de “persuasión”; este jueves se reúnen Orsi y la ministra de Defensa.El ministro del Interior, Carlos Negro, anunció el pasado jueves en la...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/6/gobierno-evalua-usar-la-figura-del-pase-en-comision-para-choferes-militares-al-servicio-del-ministerio-del-interior/",
-      "published": "2026-06-24T22:21:46+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.67,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "El jueves se definen tres grupos con la celeste mirando de reojo",
-      "summary": "Japón-Suecia es el gran partido de la jornada, Paraguay intentará sellar su clasificación y Ecuador va por el milagro de ganarle a Alemania.Los últimos días mezclan emociones. Salen a escena por última vez en la fase de grupos selecciones que están tranquilamente clasificadas, otras eliminadas que...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/el-jueves-se-definen-tres-grupos-con-la-celeste-mirando-de-reojo/",
-      "published": "2026-06-24T22:08:29+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.59,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Ajuste presupuestal de la Intendencia de Maldonado apunta a más recursos propios “sin incremento general de la presión tributaria”",
-      "summary": "El proyecto, que detalla los programas prioritarios de los lineamientos estratégicos del gobierno, fue entregado por Abella a la Junta Departamental.El intendente de Maldonado, Miguel Abella, entregó este miércoles a la Junta Departamental el proyecto de la modificación presupuestal 2027-2030, que...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/6/ajuste-presupuestal-de-la-intendencia-de-maldonado-apunta-a-mas-recursos-propios-sin-incremento-general-de-la-presion-tributaria/",
-      "published": "2026-06-24T21:50:58+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.48,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Suiza le ganó 2-1 a Canadá y se quedó con el primer lugar del grupo",
-      "summary": "Los helvéticos pegaron en los momentos justos para resolver un partido complicado ante el anfitrión, que clasifica como segundo.Suiza le ganó 2-1 a Canadá en Vancouver y le arrebató a la selección anfitriona el primer lugar del grupo B. Ambos equipos llegaban con cuatro puntos y buen saldo de...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/suiza-le-gano-2-1-a-canada-y-se-quedo-con-el-primer-lugar-del-grupo/",
-      "published": "2026-06-24T21:48:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.47,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Bosnia y Herzegovina le ganó a Qatar, será mejor tercero y complica las chances de Uruguay",
-      "summary": "Los europeos sacaron la victoria 3-1 en un encuentro en el que la celeste necesitaba un empate para quedar por encima en caso de no lograr el triunfo frente a España.En la lucha matemática por ser uno de los ocho mejores terceros importan los resultados propios y los ajenos. Uno de los partidos más...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/6/bosnia-y-herzegovina-le-gano-a-qatar-sera-mejor-tercero-y-complica-las-chances-de-uruguay/",
-      "published": "2026-06-24T21:44:39+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.44,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Salud mental, una bebida probiótica y una pelea con Madonna: Charli XCX y el hype de su nuevo disco",
-      "summary": "La cantante británica busca repetir el impacto de Brat, el álbum con el que protagonizó un fenómeno cultural.En la prehistoria de Charlotte Aitchison, mundialmente conocida como Charli XCX, la cantante y compositora se permitía sonreír en sus videoclips y sus canciones se replicaban infinitamente...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/6/salud-mental-una-bebida-probiotica-y-una-pelea-con-madonna-charli-xcx-y-el-hype-de-su-nuevo-disco/",
-      "published": "2026-06-24T21:29:50+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 16.72,
       "sources": [
         "La Diaria"
       ]
