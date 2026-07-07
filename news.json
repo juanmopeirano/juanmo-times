@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-07T17:49:29.304312+00:00",
+  "updated_at": "2026-07-07T22:49:39.579409+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La Séptima iniciará emisiones el 5 de noviembre con una inversión de 25 millones",
+      "summary": "El nuevo canal de televisión en abierto prevé alcanzar la rentabilidad en 2030",
+      "url": "https://elpais.com/economia/2026-07-07/la-septima-iniciara-emisiones-el-5-de-noviembre-con-una-inversion-de-25-millones.html",
+      "published": "2026-07-07T21:25:24+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/M27FNFAVKZBWTIKFCKUBUN4PEQ.png?auth=19e71aef600e4cc7fb0298813df4fe86767dac188d433b08b68fa48f5ef45f45",
+      "coverage": 1,
+      "relevance": 20.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,9 +24,23 @@
       "published": "2026-07-07T16:52:28+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/JJF5P24VAVHB7DD3RJ7G3V4FXQ.jpg?auth=a97c2bedc7940008e9ec7cb4f2e0dab9e103406a3e63cc8d07b8cd7f9a94b71f",
       "coverage": 1,
-      "relevance": 21.04,
+      "relevance": 19.17,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Cierre de mercados: Brent sube y Wall Street baja",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LSFZBaFlxY0ZvVVo4aG0xMG12bG5xcWQxT09ERnM2ak5sSGZjWnJobDYtZHl5RzU0cXN3QmtUa2h5bGl4a1NIVi0xcm4yNVAwZC0zVF9JQ0dLOTJWTmtNdEFmZUI?oc=5",
+      "published": "2026-07-07T20:56:25+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.29,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,7 +52,7 @@
       "published": "2026-07-07T14:30:34+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/P4TEZZAXTRN7DHNVBHMM5PLMZU.jpg?auth=6eb1e5f265768a64699f2a3770692ca90b19d3f27fe7e57484d89d5a2f52ab45",
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 18.28,
       "sources": [
         "El País Eco"
       ]
@@ -38,9 +66,23 @@
       "published": "2026-07-07T13:50:33+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/N24Q2GRUMBGN7GTQHI7HOKFVVU.jpg?auth=4051004b2ba22fc8d3f3a89ed98945f36339254b50b028b209e36d4c7e9d3b6b",
       "coverage": 1,
-      "relevance": 19.91,
+      "relevance": 18.03,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El mercado avala la gestión Milei pronosticando menos inflación, crecimiento y dólar estable",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR2lsTVgxRWRyMC1KQTNlWkN3dnNMc3Iyb2EtS3l3dDEwOXV2cnZKUmVDR2p6ZGlFUUxhV3Y5ZkZIQmNRVURXcHhWZVkyTGdXcFVRZkM5Y1YzWjhVeEpsdnVmUmFOTWhuZGhpR2dONmczcWY5d01QMS12NTFhWG5CMHBHc0tCSW8yUGFldFVVNHRnLXUyU2g4LVlQTzFER29vb0hCMWRBNlpMOHl3c19yT1VTeFhKbHBvd1Jwa2VEcnlOVloyY1dBTUtlV2NqS0I3Vl9lN0Q3aldyUURkTkRUSDk3LWloUk1ETzg4Tll3Q0lXWDRLTHhWa3F30gH_AUFVX3lxTE1OY3k0OWpUay1sRFlTaGZ6bm1IRjVjZEhsc3hxSnBRcVVJdngyS0x2elU2SjJtZkM3WHhWcGs0WWVucmJ6TGdMRFo0aWMwc1RIb3BQM3JnUV8zTzgzZ3Y0Ny00RlFwbmR5REloeXRFZUlEeUVMQUJfR2tkb0VfTW1TVVlHclV0YVdNa2dPMVVST2VsMjF1QVFDSVA3NXhvVWwtS2NIbjdRcVhMQU1yVWFIT29yd05FRUpURE9Ea0x5eERCRjZZbm5nWWV6WmZ6U3FFTGZNN0U3R3JFOEpmQlI5Z2c4LW1QQWRMVG9jR0tzd2ZPNGgxWU53eDh5aFlFcw?oc=5",
+      "published": "2026-07-07T19:38:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.81,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -52,7 +94,7 @@
       "published": "2026-07-07T12:41:38+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/WXW3OV2RNZI53O7RB7QJSUYS6M.jpg?auth=961d4d022de95787126cab855a4d8e3993a9ce6bbea2feb6516793bcfd985cd1",
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 17.6,
       "sources": [
         "El País Eco"
       ]
@@ -66,51 +108,37 @@
       "published": "2026-07-07T11:47:25+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/5MCFFIBYTFEB7LZQZVDU3N2N4M.jpg?auth=72747d8d67141804884cf51ac8988d5d6118fe812150ffa2791ab0c9e44eaf6f",
       "coverage": 1,
-      "relevance": 19.14,
+      "relevance": 17.26,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Inditex promete invertir “todo lo necesario” en tiendas y logística frente a la “transformación” de la IA",
-      "summary": "García Maceiras asegura que la hoja de ruta del grupo pasa por “una estrategia de precios estables y accesibles al mayor número posible de personas”",
-      "url": "https://cincodias.elpais.com/companias/2026-07-07/inditex-promete-invertir-todo-lo-necesario-en-tiendas-y-logistica-frente-a-la-transformacion-de-la-ia.html",
-      "published": "2026-07-07T11:36:28+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/FUEH3IGAUBFZZNOGEVI2XD5PXY.JPG?auth=a068aeb313d417ef606e794b5891b7faa474f534eb4c64b2e82e0dc371885734",
-      "coverage": 1,
-      "relevance": 19.07,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El Gobierno eleva el techo de gasto hasta un récord de 226.032 millones para un 2027 de citas electorales",
-      "summary": "El Consejo de Ministros aprueba una subida del 6,6% del límite de gasto no financiero, dando un paso más hacia la elaboración de los Presupuestos pese a la dificultad parlamentaria para sacarlos adelante",
-      "url": "https://elpais.com/economia/2026-07-07/el-gobierno-eleva-el-techo-de-gasto-hasta-un-record-de-226032-millones-para-2027.html",
-      "published": "2026-07-07T10:44:06+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/7FTTNLGMHRBXBPJCUWPNGLFOP4.jpg?auth=e8e62ce6376f310203a59740611bd77f11f8c9ca6795e2712e70779fb303daad",
-      "coverage": 1,
-      "relevance": 18.74,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿Cuánto está el dólar este martes 7 de julio?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNV2IzaDhEcHVYemR6dGR2M0NNaUROUUgzaUFnU0x1bW5QeExvYnZwLTEyaWNZOHMwc0ZCY3FlZS0wbHlkamRSNVJTOS16d0lvcUVHMGRjTkJoRG9UZEpDeFMyQ1kxUWNKVWtuLThKMHZiOVZJN1o5dzBDMzVxSXRNQjQ2WHJMcHNURG10TWkxNUFNckFLbHNfTURXWEFjS0I2Qlhib01ZS2xmOHVZWVo2a240QW0yUjE2d0NKSVlDcjZ6WFhISmdRVU9ybllUaGJFbzdsVEJjLXFTREJpYU90dzZjTlIyaDQtSzRyZ3ROMGdSbmh1d25DUTNXUUhnUQ?oc=5",
-      "published": "2026-07-07T16:45:00+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Pierre y Lise, la pareja que se confirmo a los 40 años",
+      "summary": "¿Cómo encontrar un hueco para Dios cuando los días solo tienen veinticuatro horas? Para Lise y Pierre, la pareja de médicos, esta pregunta surge una y otra vez. Entre los largos estudios de medicina, las guardias en el hospital y su vida familiar con dos hijos de 8 y 9 años, estos dos bautizados...",
+      "url": "https://es.aleteia.org/2026/07/07/pierre-y-lise-la-pareja-que-se-confirmo-a-los-40-anos/",
+      "published": "2026-07-07T19:04:29+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.6,
+      "relevance": 18.79,
       "sources": [
-        "Google Economía"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Por qué parece que Dios prefiere a algunas personas?",
+      "summary": "Ocurre hasta en las mejores familias: los favoritos aparecen en escena y, si no somos nosotros, inmediatamente lo notamos. El padre, la madre o un pariente mayor prefiere a algunas personas – o a uno en especial – con marcadas diferencias que suelen provocar celos y discusiones. Pero, ¿es así con...",
+      "url": "https://es.aleteia.org/2026/07/07/por-que-parece-que-dios-prefiere-a-algunas-personas/",
+      "published": "2026-07-07T18:39:37+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.64,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +150,7 @@
       "published": "2026-07-07T16:29:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/07/04/1783390586891.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.3,
+      "relevance": 18.42,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +164,7 @@
       "published": "2026-07-07T17:38:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.13,
+      "relevance": 18.26,
       "sources": [
         "Aleteia"
       ]
@@ -150,7 +178,7 @@
       "published": "2026-07-07T15:37:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/05/13/01/1778627171997.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.97,
+      "relevance": 18.1,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +192,7 @@
       "published": "2026-07-07T15:24:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/06/00/1783288881855.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 18.01,
       "sources": [
         "Vatican News"
       ]
@@ -178,7 +206,7 @@
       "published": "2026-07-07T16:26:28+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.68,
+      "relevance": 17.81,
       "sources": [
         "Aleteia"
       ]
@@ -192,37 +220,107 @@
       "published": "2026-07-07T14:50:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/08/17/2025-08-17-saluto-di-papa-leone-xiv-al-pranzo-con-i-poveri/1755431187442.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.68,
+      "relevance": 17.8,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Cisjordania, Párroco de Taybeh: \"Preservar la presencia cristiana\"",
-      "summary": "La ciudad palestina se ve amenazada por la posible construcción de un asentamiento israelí. El padre Bashar Fawadleh afirma: «La Tierra Santa no se puede preservar solo con palabras. Debe protegerse con acciones concretas» Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/cisjordania-parroco-de-taybeh-preservar-la-presencia-cristiana.html",
-      "published": "2026-07-07T14:32:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/06/10/10/1781081464556.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Así funciona Muse Image, la IA de Meta para crear fotos en WhatsApp e Instagram",
+      "summary": "Meta ha presentado Muse Image, su último modelo de generación de imágenes con inteligencia artificial. La nueva herramienta permitirá crear imágenes dentro Instagram y WhatsApp con solo una instrucción de texto, tal y como hacemos con Gemini o ChatGPT. Con este lanzamiento, la empresa busca...",
+      "url": "https://hipertextual.com/inteligencia-artificial/muse-image-meta-ia-generacion-imagenes/",
+      "published": "2026-07-07T20:35:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/meta-muse-image.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.57,
+      "relevance": 19.36,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Qué entendemos por Tradición con “T” mayúscula y “t” minúscula?",
-      "summary": "La palabra tradición viene del latín tradittio y del verbo tradere, que significa transmitir o entregar, y es uno de los tres pilares de la Iglesia Católica, junto al Magisterio y la Sagrada Escritura. La Iglesia católica la distingue en dos niveles. Cuando hablamos de la Sagrada Tradición,...",
-      "url": "https://es.aleteia.org/2026/07/07/que-entendemos-por-tradicion-con-t-mayuscula-y-t-minuscula/",
-      "published": "2026-07-07T15:46:42+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "DeepSeek ya no quiere competir solo con modelos. Su nuevo frente apunta directamente al negocio de NVIDIA, según Reuters",
+      "summary": "En poco más de un año, DeepSeek ha dejado de sonar como una rareza de la industria china para convertirse en uno de esos nombres que ya aparecen cada vez que hablamos de la carrera global de la inteligencia artificial. Primero la miramos por sus modelos, por su eficiencia y por la sacudida que...",
+      "url": "https://www.xataka.com/robotica-e-ia/deepseek-no-quiere-competir-solo-modelos-su-nuevo-frente-apunta-directamente-al-negocio-nvidia-reuters",
+      "published": "2026-07-07T19:31:18+00:00",
+      "image": "https://i.blogs.es/37d588/hardware-ia-deepseek-concepto.png/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.43,
+      "relevance": 19.26,
       "sources": [
-        "Aleteia"
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "A China sólo le quedaba una cosa por hacer con sus miles de drones: evacuar personas de una inundación",
+      "summary": "Los drones en China están cada vez más integrados en la vida diaria; desde usarlos en espectáculos nocturnos, como vigilantes en exámenes y hasta como ayuda en desastres naturales, como la extinción de incendios. Ahora hemos podido ver cómo un dron rescataba a una persona atrapada por las...",
+      "url": "https://www.xataka.com/drones/a-china-solo-le-quedaba-cosa-hacer-sus-miles-drones-evacuar-personas-inundacion",
+      "published": "2026-07-07T19:01:19+00:00",
+      "image": "https://i.blogs.es/8b5948/china-evacuacion-drones/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.07,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Los despidos de Xbox se cargan a medio equipo de id Software, los creadores de ‘Doom’",
+      "summary": "Los despidos de Xbox, que ayer anunció el recorte de 1.600 puestos de trabajo y la eliminación de otros tantos en el transcurso del año fiscal en curso, han tenido especial impacto en id Software. Según reporta Game Developer, el estudio detrás de la icónica saga Doom ha perdido la mitad de su...",
+      "url": "https://hipertextual.com/videojuegos/despdidos-xbox-id-software-medio-equipo-doom/",
+      "published": "2026-07-07T19:32:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/doom2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.96,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "De depender de Corea del Sur y Japón a crear megabuques propios: así es como China domina el transporte marítimo de coches",
+      "summary": "Guangzhou Shipyard International, uno de los grandes astilleros chinos, acaba de entregar su tercer buque de la misma serie con capacidad para 10.800 vehículos. Son cifras que no desencajan mucho en el panorama actual, donde China exporta sus vehículos de nueva energía a todo trapo. Pero este dato...",
+      "url": "https://www.xataka.com/movilidad/depender-corea-sur-japon-a-crear-megabuques-propios-asi-como-china-domina-transporte-maritimo-coches",
+      "published": "2026-07-07T18:31:19+00:00",
+      "image": "https://i.blogs.es/2a99dc/barco-coches/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.89,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Este remake de un clásico en Prime Video es el estreno de ciencia ficción del verano: 'Matrix' o 'Cyberpunk 2066' se lo deben todo",
+      "summary": "Llega a Prime Video la nueva serie de televisión basada en el legendario anime 'Ghost in the Shell', y que es la primera adaptación de la franquicia que no pasa por las manos de sus responsables originales, Production I.G., en tres décadas. El proyecto ha recaído esta vez en Science SARU, el...",
+      "url": "https://www.xataka.com/streaming/este-remake-clasico-prime-video-estreno-ciencia-ficcion-verano-matrix-cyberpunk-2066-se-deben-todo",
+      "published": "2026-07-07T18:05:07+00:00",
+      "image": "https://i.blogs.es/44b67c/captura-de-pantalla-2026-07-07-a-las-18.39.53/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Google confirma la fecha de presentación del Pixel 11",
+      "summary": "Google ya tiene fecha para presentar su próxima generación de móviles. La compañía confirmó que el Made by Google 2026 se llevará a cabo el próximo 12 de agosto en Nueva York, en el que se anunciarán todos los detalles del Pixel 11, incluyendo su precio y disponibilidad. Aunque los rumores han...",
+      "url": "https://hipertextual.com/mobile/google-pixel-11-fecha-presentacion-made-by-google-2026/",
+      "published": "2026-07-07T18:31:23+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/google-pixel-11.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.59,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -234,105 +332,7 @@
       "published": "2026-07-07T17:31:18+00:00",
       "image": "https://i.blogs.es/b34820/plantilla-xtk/1024_2000.png",
       "coverage": 1,
-      "relevance": 20.39,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El coche más vendido de China acaba de poner rumbo a Europa. Tiene varios argumentos más allá de ser eléctrico",
-      "summary": "Europa ya ha empezado a llenar una de las casillas que más le costaba resolver en el coche eléctrico: la de los modelos pequeños, urbanos y algo más racionales. Ahí están propuestas como el Renault 5 eléctrico, el Citroën ë-C3 o el Dacia Spring, cada una con su propia receta para acercar la...",
-      "url": "https://www.xataka.com/movilidad/coche-vendido-china-acaba-poner-rumbo-a-europa-tiene-varios-argumentos-alla-ser-electrico",
-      "published": "2026-07-07T17:01:19+00:00",
-      "image": "https://i.blogs.es/bf6f54/geely-e2/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.2,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "La mejor función de Claude ya está disponible en iPhone y Android",
-      "summary": "Claude Cowork ya no depende de tu portátil para funcionar. Anthropic anunció que una de sus herramientas más populares está disponible en el móvil y la web. Los usuarios podrán delegar tareas completas a la inteligencia artificial desde el iPhone, Android o iPad, por lo que ya no será necesario...",
-      "url": "https://hipertextual.com/inteligencia-artificial/claude-cowork-movil-web/",
-      "published": "2026-07-07T17:35:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/claude-cowork-mobile.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 20.11,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Francia se asfixia a 40 °C y sin persianas: su solución a la desesperada es forrar las ventanas con papel de aluminio",
-      "summary": "Si hay un choque cultural que los españoles sufrimos al cruzar los Pirineos, no son los horarios de las comidas ni el idioma, sino la dolorosa ausencia de persianas e incluso de aires acondicionados. En condiciones normales, es una simple anécdota arquitectónica, pero durante una ola de calor...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/francia-se-asfixia-a-40-c-persianas-su-solucion-a-desesperada-forrar-ventanas-papel-aluminio",
-      "published": "2026-07-07T16:31:18+00:00",
-      "image": "https://i.blogs.es/cae77b/papel-aluminio/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.01,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La nueva fragata de Corea del Norte parecía un barco del siglo XXI. Hasta que miras los laterales y descubres su solución contra los drones",
-      "summary": "En octubre de 2000, el destructor estadounidense USS Cole sufrió un atentado con una pequeña embarcación cargada de explosivos mientras repostaba en Yemen. El ataque llevó a la Armada de Estados Unidos a reforzar el uso de ametralladoras pesadas para proteger sus buques frente a amenazas de corto...",
-      "url": "https://www.xataka.com/magnet/nueva-fragata-corea-norte-parecia-barco-siglo-xxi-que-miras-laterales-descubres-su-solucion-drones",
-      "published": "2026-07-07T16:01:19+00:00",
-      "image": "https://i.blogs.es/fe9d64/north-korean-frigate-bristles-with-machine-guns/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.82,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Alemania endurece sus reformas laborales exigiendo el certificado de baja desde el primer día: \"Es una desventaja competitiva\"",
-      "summary": "En Alemania, coger una baja por enfermedad tras la pandemia era tan fácil como coger el teléfono, describir qué te duele y colgar con la baja ya tramitada. Ese trámite tiene los días contados. El canciller Friedrich Merz quiere que los alemanes vuelvan a pisar la consulta de un médico desde el...",
-      "url": "https://www.xataka.com/empresas-y-economia/alemania-endurece-sus-reformas-laborales-exigiendo-certificado-baja-primer-dia-desventaja-competitiva",
-      "published": "2026-07-07T15:45:18+00:00",
-      "image": "https://i.blogs.es/2a3f4f/bajas-por-telefono/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.72,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Se filtran todos los precios del Google Pixel 11: ¿Cuánto pagarás por los nuevos modelos?",
-      "summary": "Google todavía no ha confirmado cuándo presentará los nuevos Pixel 11, pero todo apunta a que se apegará a la tradición de los últimos años y lo hará en agosto. A la espera de una oficialización en tal sentido, se acaban de filtrar los precios de todos los modelos que se sumarán al catálogo de […]...",
-      "url": "https://hipertextual.com/mobile/precios-filtrados-google-pixel-11/",
-      "published": "2026-07-07T16:25:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/pixel-10-10-pro-003.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.67,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los antieléctricos pierden un argumento sobre las baterías de los coches: un estudio confirma que son más duraderas de lo que se creía",
-      "summary": "Durante años, el miedo a que la batería de un coche eléctrico se estropeara antes de tiempo ha sido uno de los grandes frenos para dar el salto a este tipo de vehículos. Y a pesar de que todavía son sistemas con un buen margen de mejora, la tecnología ha avanzado bastante desde que el Nissan Leaf...",
-      "url": "https://www.xataka.com/movilidad/antielectricos-pierden-argumento-baterias-coches-estudio-confirma-que-duraderas-que-se-creia",
-      "published": "2026-07-07T15:31:18+00:00",
-      "image": "https://i.blogs.es/6d7050/eren-goldman-mfqj3zss_h0-unsplash/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.64,
+      "relevance": 18.51,
       "sources": [
         "Xataka"
       ]
@@ -340,13 +340,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Burrull y la falta previa que anuló el gol a Egipto: \"No es suficiente y no tiene incidencia en el gol\"",
-      "summary": "El ex árbitro no entiende la falta señalada sobre Lisandro Martínez por la que François Letexier anuló el segundo gol de Egipto",
-      "url": "https://www.marca.com/radio/2026/07/07/burrull-sobre-falta-previa-0-2-egipto-suficiente-incidencia-gol.html",
-      "published": "2026-07-07T17:31:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d36531a069.png",
+      "title": "España vuelve a Los Ángeles: tenemos una misión",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/08/espana-vuelve-angeles-mision-video.html",
+      "published": "2026-07-07T22:44:13+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/08/cJ4ug1gJO34dQCKZ0.jpeg",
       "coverage": 1,
-      "relevance": 20.39,
+      "relevance": 20.47,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Detenido por provocar un grave accidente de tráfico e intentar culpar a un coche que nunca existió",
-      "summary": "La Guardia Civil arrestó al hombre, de 34 años, como presunto autor de un delito de lesiones",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/07/07/detenido-provocar-grave-accidente-trafico-e-intentar-culpar-coche-nunca-existio.html",
-      "published": "2026-07-07T17:12:19+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/05/18/6a0b01da16d95.jpeg",
+      "title": "Leandro Paredes: \"Jugamos porque el último partido de Messi no llegue nunca\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/07/leandro-paredes-jugamos-ultimo-partido-messi-llegue-nunca-video.html",
+      "published": "2026-07-07T21:59:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/I1gJN5hkmHoko.jpeg",
       "coverage": 1,
-      "relevance": 20.27,
+      "relevance": 20.18,
       "sources": [
         "Marca"
       ]
@@ -368,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Comunicado de la FIFA denunciando el episodio racista con Speed: \"A llorar al zoo\"",
-      "summary": "En Miami hubo un enfrentamiento con un aficionado que insultó al streamer estadounidense",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/07/comunicado-fifa-denunciando-episodio-racista-speed-argentina-cabo-verde-llorar-zoo.html",
-      "published": "2026-07-07T16:45:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/cIamQ1gJIpLjBnRlV.jpeg",
+      "title": "El Djokovic de nunca acabar",
+      "summary": "El serbio sufre al máximo con Aliassime y está a dos victorias del vigésimo quinto grande",
+      "url": "https://www.marca.com/tenis/wimbledon/2026/07/07/djokovic-gana-semifinal-sinner-cinco-sets-super-tie-break-cinco-horas-15-minutos.html",
+      "published": "2026-07-07T21:54:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4d5708afd66.r_d.966-471-0.jpeg",
       "coverage": 1,
-      "relevance": 20.1,
+      "relevance": 20.15,
       "sources": [
         "Marca"
       ]
@@ -382,11 +382,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Messi falla otro penalti: \"No le golpea, pero...\"",
-      "summary": "El experto arbitral de RadioMARCA considera que está bien señalado el penalti sobre Tagliafico",
-      "url": "https://www.marca.com/radio/2026/07/07/burrull-sobre-penalti-argentina-hassan-pone-pie-le-viendo.html",
-      "published": "2026-07-07T16:38:20+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d2b7488413.jpeg",
+      "title": "La confesión de Scaloni: \"En el vestuario me dicen la llorona\"",
+      "summary": "\"Messi me pone la piel de gallina\"",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/07/scaloni-messi-me-pone-piel-gallina.html",
+      "published": "2026-07-07T21:38:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d708ad2404.jpeg",
       "coverage": 1,
       "relevance": 20.06,
       "sources": [
@@ -396,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El portero de Egipto que ha parado un penalti a Messi: su padre cambió las normas del futbol",
-      "summary": "Detuvo la pena máxima al argentino en la primera mitad",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/07/mostafa-shobeir-portero-egipto-parado-penalti-messi-hijo-leyenda-egipcia-cambio-normas-futbol.html",
-      "published": "2026-07-07T16:30:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d2c11d9571.jpeg",
+      "title": "\"Sentía que había fallado al grupo\"",
+      "summary": "El capitán del combinado albiceleste compareció en zona mixta para analizar la remontada ante Egipto",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/07/messi-tenia-bronca-haber-errado-penalti.html",
+      "published": "2026-07-07T21:35:02+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d706d33f44.jpeg",
       "coverage": 1,
-      "relevance": 20.01,
+      "relevance": 20.03,
       "sources": [
         "Marca"
       ]
@@ -410,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Madrid recompra a Carvajal",
-      "summary": "El delantero, de 22 años, vuelve a la disciplina blanca tras firmar 20 tantos en Segunda Federación con el filial blanquivioleta",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/07/07/madrid-recompra-carvajal.html",
-      "published": "2026-07-07T16:19:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d260a2662b.jpeg",
+      "title": "Messi tampoco lo va a olvidar: lágrimas y un manteo que no se esperaba",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/07/recuerdo-lagrimas-manteo-messi-espectacular-remontada-egipt-video.html",
+      "published": "2026-07-07T20:53:45+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/cIs3E1gJMQJ5ULfjn.jpeg",
       "coverage": 1,
-      "relevance": 19.94,
+      "relevance": 19.78,
       "sources": [
         "Marca"
       ]
@@ -424,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Auger Aliassime - Novak Djokovic, en directo",
-      "summary": "Novak Djokovic busca las semifinales de Wimbledon ante Félix Auger-Aliassime",
-      "url": "https://www.marca.com/tenis/wimbledon/2026/07/07/04-0403-20260707-122.html",
-      "published": "2026-07-07T16:12:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d25d303ff1.jpeg",
+      "title": "Alex Len abandona el Madrid",
+      "summary": "El club blanco comunica la salida del pívot ucraniano, que tenía contrato hasta 2027",
+      "url": "https://www.marca.com/baloncesto/acb/2026/07/07/alex-len-abandona-madrid.html",
+      "published": "2026-07-07T20:03:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d5840eeadb.jpeg",
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 19.46,
       "sources": [
         "Marca"
       ]
@@ -438,15 +438,57 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Zverev pasa a cuartos y pone en peligro el número dos de Alcaraz",
-      "summary": "El alemán, verdugo de Lehecka, arrebatará la segunda posición al murciano si alcanza la final",
-      "url": "https://www.marca.com/tenis/wimbledon/2026/07/07/zverev-pasa-cuartos-pone-peligro-numero-dos-alcaraz.html",
-      "published": "2026-07-07T16:11:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d1d0d5b992.jpeg",
+      "title": "El cabreo de Djokovic por el cierre del techo: \"Somos un torneo al aire libre, podemos jugar un set más así\"",
+      "summary": "El campeón de 24 grandes e incluso su rival Aliassime no entendieron la decisión de cubir la pista tan pronto",
+      "url": "https://www.marca.com/tenis/wimbledon/2026/07/07/cabreo-djokovic-cierre-techo-torneo-aire-libre-jugar-set-asi.html",
+      "published": "2026-07-07T19:21:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/07/6a4d50fded268.jpeg",
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 19.2,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "EE. UU. confirma \"poderosos ataques\" contra Irán, en respuesta a ofensivas contra buques comerciales",
+      "summary": "El Comando Central del ejército estadounidense informó que ha llevado a cabo \"una serie de poderosos ataques contra Irán\", como forma de imponer elevados costes por las ofensivas que más temprano llevó a cabo la República Islámica contra objetivos de navegación mercante en el estrecho de Ormuz....",
+      "url": "https://www.france24.com/es/medio-oriente/20260707-ee-uu-confirma-poderosos-ataques-contra-ir%C3%A1n-en-respuesta-a-ofensivas-contra-buques-comerciales",
+      "published": "2026-07-07T22:23:24+00:00",
+      "image": "https://s.france24.com/media/display/b0d8e15a-7a4f-11f1-a337-005056a90284/w:1024/p:16x9/2026-07-07T191614Z-1043438909-RC2R4LAN4FM4-RTRMADP-3-IRAN-CRISIS-MISSILES-HORMUZ.jpg",
+      "coverage": 1,
+      "relevance": 20.64,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "¿Qué es el galio y por qué China controla el metal clave para los chips?",
+      "summary": "En la guerra tecnológica entre China y Estados Unidos hay un protagonista del que apenas se habla: el galio. Este metal es esencial para fabricar chips de inteligencia artificial, vehículos eléctricos, radares y otros sistemas estratégicos. Aunque está presente en muchos lugares del planeta, su...",
+      "url": "https://www.france24.com/es/programas/en-5-minutos/20260707-qu%C3%A9-es-el-galio-y-por-qu%C3%A9-china-controla-el-metal-clave-para-los-chips",
+      "published": "2026-07-07T21:00:05+00:00",
+      "image": "https://s.france24.com/media/display/55f4c02a-7959-11f1-a373-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-02JUL-E5M.png",
+      "coverage": 1,
+      "relevance": 20.12,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Los niños de Umm Al-Khair sueñan con el Mundial, pero Israel quiere demoler su único campo de fútbol",
+      "summary": "Esta aldea palestina del sur de Cisjordania ocupada ha contactado a la FIFA para que le ayude a salvar su cancha –rodeada de asentamientos israelíes–, pero el organismo aún no ha respondido. Aquí el fútbol no solo despierta adoración. Es un sostén vital y vertebra la educación diaria de los más...",
+      "url": "https://www.france24.com/es/video/20260707-los-ni%C3%B1os-de-umm-al-khair-sue%C3%B1an-con-el-mundial-pero-israel-quiere-demoler-su-%C3%BAnico-campo-de-f%C3%BAtbol",
+      "published": "2026-07-07T19:18:37+00:00",
+      "image": "https://s.france24.com/media/display/2824ebe6-7a37-11f1-aab6-005056a97e36/w:1024/p:16x9/ES-20260707-114800-115010-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.48,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -458,63 +500,21 @@
       "published": "2026-07-07T15:37:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg",
       "coverage": 1,
-      "relevance": 20.88,
+      "relevance": 19.0,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "“Hoy es el inicio de una nueva era”: Macron ofrece ayudar a reconstruir una Siria “segura y soberana”",
-      "summary": "El presidente de Francia, Emmanuel Macron, aseguró este martes 7 de julio que \"nada podrá sofocar la aspiración de los sirios a vivir en una Siria plenamente “soberana, segura, plural y unida\", mientras ofreció la cooperación del país europeo en materia de educación y seguridad. Macron remarcó...",
-      "url": "https://www.france24.com/es/medio-oriente/20260707-macron-reafirma-su-apoyo-a-una-siria-soberana-segura-y-plural-tras-atentados-durante-su-visita-a-damasco",
-      "published": "2026-07-07T15:06:40+00:00",
-      "image": "https://s.france24.com/media/display/68028a9c-7a0b-11f1-bbb9-005056a97e36/w:1024/p:16x9/2026-07-07T132555Z-1971367345-RC219MAPQOQF-RTRMADP-3-SYRIA-POLITICS-FRANCE.jpg",
-      "coverage": 1,
-      "relevance": 19.78,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Informe desde Beirut: Macron anuncia ayudas para reconstruir Siria",
-      "summary": "El presidente francés, Emmanuel Macron, es el primer mandatario occidental en visitar Siria desde la caída del régimen de Bashar al-Assad. Tras su reunión con el actual mandatario sirio, Ahmed al-Sharaa, Macron aseguró que el país árabe debe abandonar los territorios ocupados para acercarse a...",
-      "url": "https://www.france24.com/es/video/20260707-informe-desde-beirut-macron-anuncia-ayudas-para-reconstruir-siria",
-      "published": "2026-07-07T14:13:10+00:00",
-      "image": "https://s.france24.com/media/display/0c1d414e-7a0c-11f1-b492-005056a90284/w:1024/p:16x9/ES-20260707-081203-081748-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.45,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Cumbre de la OTAN abre en Ankara marcada por aumento del gasto militar, en claro guiño a exigencias de Trump",
-      "summary": "La OTAN invertirá 40.000 millones de dólares en los próximos años para la adquisición de drones y comprará aviones, misiles balísticos y submarinos, según anunciaron diferentes miembros de la alianza al inicio de la cumbre de la OTAN en Ankara (Turquía), que se desarrolla entre este martes 7 de...",
-      "url": "https://www.france24.com/es/europa/20260707-cumbre-de-la-otan-abre-en-ankara-marcada-por-aumento-del-gasto-militar-en-claro-gui%C3%B1o-a-exigencias-de-trump",
-      "published": "2026-07-07T13:50:05+00:00",
-      "image": "https://s.france24.com/media/display/13ffa6dc-79f7-11f1-b6a4-005056bf30b7/w:1024/p:16x9/5d90dffa458b3a0fce4dec309fe17ae04072a487.jpg",
-      "coverage": 1,
-      "relevance": 19.3,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "Google Noticias",
-      "title": "Ataque a buque de GNL catarí en Ormuz pone a prueba acuerdo entre EE.UU. e Irán",
+      "title": "Canciller de Irán dice que ataque de EE.UU. viola acuerdo y advierte de acciones “decisivas”",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaFpiTV83Y0t6TmtBemUzVm5jcjJZS0dGNFdxRC1mOFhic2k1YzVSbEhTajdLYURrd1BKOXR0V1doY2IzZlRvbF9mU2Etb2dFSEFwa2hHVzd0Y2pScWZ4Nzc0bWl3S09YSUljUVZiclo1NUcycEhCQVhIMVJnTHIyZm5MYThnanA2U0M0RzdjVXRLLTNScU1KWmRmclRzT2dtbFlRanQ2ajY5dEFiWHY5M010al9Ucmo5MFFoOUpaQlRfYmY1dWZr0gHMAUFVX3lxTE9EX0tKQmJIdlhxOFhaMXAyWHdQZDF3SmE5bW1iX3prRzFpVUxxYW5EMXBRZXl0aEg5ZGU2cjJ4QjF4bUFVcWdlM2t5bFRXWUxJUWlRU3k3eVRCVHRhUVNVbUxLWld1ZmxsZlktNGdxMEo4QTZHOVJUZE9wcmxJN0dsSFFnV0tqMk5yX1I3MUEtUklTR0RHMGcwcXYyVEdrc3hPOWNubUV3MHZZQ0JSRzNyX0N4dE9PdzVDcW1wand3TEFzRFdHdkZPaUxiWg?oc=5",
-      "published": "2026-07-07T17:18:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOOTZqY1dMVWI1UUg4Z0UxY1dFUUJQTVdjY2lYUE1EVjFQWFk4X1U2ZmRDM05tNy0zeEhiZEhraENYaG9qR1lqLVVKUk1lNW1VRlQ4MU1iMzJBWGxOQjRHTGc1U2JLSWpHdHlDWXFKTlJqeklhUHVCSnduZll0N2MxMUNTRl85cGJES1dpX2FvUWZKNWd6QXRDZDdjZDJ3RFg2TDZyd25UTE9OQzhHZHQ2V3dmdGI4cHI0LWJoaEJZZmx2SW1BT3NjT1VVS0FjUl9XLVVKMldhUDNLSzUtQjJUdnpDNVQ3V3lOOUtNbm1heXBXZHF2SU93NFRxeUpnM1pLMG10MlM1MURyT2FSUl9sMUQ1RGRrSklsemNteGhVQVBRNHhi?oc=5",
+      "published": "2026-07-07T22:41:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 18.95,
       "sources": [
         "Google Noticias"
       ]
@@ -522,41 +522,41 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Tensión en el Estrecho de Ormuz: Catar responsabiliza a Irán por ataque a petrolero",
+      "title": "EE.UU. volvió a atacar Irán en represalia por el bombardeo de buques comerciales en Ormuz",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkNQTHMxSW54blg3OG41N1lMOXNaTjNvWlpMdTE4dTNTR1VYVjZ6VlVVZEdWNWdwVE0wcXI1NF9PVnoxeFVHQ2JfOWI4cmNkUVJUaktUOWozQ01HLWJkSFpKc3RWaHB6c3dZRjlybWJVS0tQNHI5cXFpZGJWSnRreU42RExQV19sb1pDMHd6OUdOQWR5NEFBWm9hNUZydGRtQUhzSnRGUWtrTU94REE?oc=5",
-      "published": "2026-07-07T15:56:52+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOeWQyX1JyNjBuajU5czBla3o4MU4wWEpNNlBlblB0ak1IaUFmdGJXZlpKYnI1LVdZdkRGRVAxREp1NGtXNU5teGJsSzBYNm90eG5JaUk1TVFxZUV0QnFyTUplWWx5ZUpOUzhxUzV4QmhjTldzbXliV2xQTTJLNkh2LWdkbmFqWlIwYlVMdlpHTXQybmtNMWdsQmpCbS04emdlSkxHVmtGcklxUVZlWTExd013QUxfcUVhbU1WNl9DVGVIa3NUYWNXX1NpS1R6VDJzTkpjYzhiSXhZYmM?oc=5",
+      "published": "2026-07-07T22:23:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.3,
+      "relevance": 18.83,
       "sources": [
         "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "Google Noticias",
-      "title": "Zelenski ondea la experiencia de Ucrania en la guerra moderna y reclama entrar en la OTAN",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWFBQMXoyeEVobmMxVExPUXNjSVE2Qm1wQ3BxYXl2Mkt0OGQtVEFuTVh4NzE1OVRDOTd6MS0tajdRa2pDOG9QWVhlWG1Ud2lXcW52V3Y1dU1JdndFenVjSTMwWUVGblF5V3U4c2F6NjFEcUtGSWxRYmp4Wmg3TEI1TGRmSzg4d0l0ZnhWUnB1SldvMjgyU295YUJ5WS0yU2FkUUdBM21RaFZaeXVleHpGOHVuNkZlenE2QnNFTG5wMG11QmxZWTVKTWJoSkl5VU9jQ2tkV9IB6AFBVV95cUxNQV95elNnSEFIM3VRTjNuWXdBX19DbnNkMVRIbEJjTktkcW9WVWVINmgyQzdCaDdKMVdha1FXM2ZIa3FRQTlCVGR2azI5aWtULW9udnlBNk9vZnhXNkpCaFRuYkpSTXkxM19mZFhGeVhRTl9naEI2b3prOWdaT204T0dHdVhyQXZNa1p5OGszMzV2VVp1TVI3ajlrX1JNWHpBYXBOSXExOGhxT3dzckh2Tkx6dVNtajNfQ2RoYVVLd2psR0xFSmFkMkx6T0NxZVFoRUM2VlIzcFJDcmFPYnZBS1gxa1dBTmFz?oc=5",
-      "published": "2026-07-07T15:32:18+00:00",
-      "image": null,
+      "source": "France 24",
+      "title": "Informe desde Estambul: empieza cumbre de la OTAN con anuncio de aumento de gasto de defensa",
+      "summary": "Arranca la cumbre de líderes de la OTAN en Turquía con un anuncio del secretario general de la OTAN, Mark Rutte, del aumento del gasto militar de millones de dólares para la adquisición de armas. Entre los temas destacados de la reunión se encuentran el repunte de la guerra en Ucrania, la tensión...",
+      "url": "https://www.france24.com/es/video/20260707-informe-desde-estambul-empieza-cumbre-de-la-otan-con-anuncio-de-aumento-de-gasto-de-defensa",
+      "published": "2026-07-07T17:30:58+00:00",
+      "image": "https://s.france24.com/media/display/af62e160-7a25-11f1-ba4f-005056a90284/w:1024/p:16x9/ES-20260707-091041-091433-CS.jpg",
       "coverage": 1,
-      "relevance": 18.14,
+      "relevance": 18.81,
       "sources": [
-        "Google Noticias"
+        "France 24"
       ]
     },
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Guerra Rusia-Ucrania, en directo | Rusia denuncia el lanzamiento de más de 400 drones contra Moscú, el mayor ataque desde el inicio de la guerra",
+      "title": "Estados Unidos lanza ataques en Oriente Medio e Irán le acusa de «violación del tratado» y anuncia «acciones decisivas»",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHRsTWNFc2xhX29Tb0FwMFVRMllYY0VNY1NYbDI1a3d1N21yWnhoeHVHTDVVM1Q4S3huLVZta1NsZHpJckFla256a1FXOXZmVE9icnVhQXFCV1Fmdm1LZHRVa2ZfX3JONnVwOWlINmZTVlRDN0VCLW0xMDVrVzZSalNmOUhGb3JIRklCMDNQWjZtUTBEa1VjN04zS3R5NC10eHhhMkR2U1DSAagBQVVfeXFMUEJDTVhQbVczOVRYUXF6YnVKa2pYc081ZDFpTmJQSURaRjhPZHNZNkxvMG44ZHVBUm5LcTJ4amxlNHJkVUhFNHJUb3dISFphX09aREFwU0xDdmRjQzFHY0lwMXpPd2ZnRTdCdUgyMzE4SlQ2ejlpS1czN2RDMGgyVDdpekdhMzFJb1BxLTRXLWIxN29lVTE1aHU5d2Z2WVhNRG5lbFM2T3d5?oc=5",
-      "published": "2026-07-07T15:25:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjl1M1dCNDN3RUV2VEREQjBqS3Myc0duTEVrVjJsMzREc2NSWnNEWms2VXR0SU9vUkJsOWFfbThTQ3ZDRkhBenYydHVwaXBxRVUteFhkb0ktUkY1ZUJ5TXA5MzNQUGhjbGlodk43eWhpcUNsS29Od0IwVkVXa3lKVjQ3LVA4dVAxMTIzeE9YZm9QWVpjUDRQSkVFbW9uVGRNU292c0hYUEx2ejVoejNmbUpEN0MwX3h4Q0FNVWNTT3cwa01PQXBhelVn0gHPAUFVX3lxTE1pemNZWXpaazV2Nng2NXNPcjBvcEItcEJOVVVlZHB5dlowNElza3dpcTJTdEdPTzFJbTM2WTI0UGF5VG00TUVjT2RMY1NPdkE1NUI1WHRJWjNJaTJVWUh6Nm9lc3NFR2E3Nko5Qy03M2padHUxMHJUaWVzd0t6NVFwdi0waGhYdUpQRHhyNWV2UjVoYU1QdnMwTHZidGpOWmxRM3U4aFo5UE96ZW5tdWFOZW9ZQlMtdUkwTm8zOGlud1o1OTVYYXd0dTJiT3RzVQ?oc=5",
+      "published": "2026-07-07T22:09:28+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.1,
+      "relevance": 18.75,
       "sources": [
         "Google Noticias"
       ]
@@ -564,24 +564,38 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Intendencia de Montevideo lanzó mecanismo para alertar de la llegada del camión recolector de residuos",
-      "summary": "En las zonas donde se implementó el sistema de contenedores domiciliarios e intraprediales se habilitó una alerta por Whatsapp que notifica el viaje en tiempo real del vehículo.La Intendencia de Montevideo (IM) lanzó este martes el mecanismo de notificación “Alerta camión”, que busca avisar a las...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/intendencia-de-montevideo-lanzo-mecanismo-para-alertar-de-la-llegada-del-camion-recolector-de-residuos/",
-      "published": "2026-07-07T17:33:00+00:00",
+      "title": "Empiezan los cuartos de final del Mundial",
+      "summary": "Con predominio de equipos europeos, arranca la disputa entre los mejores ocho.Este jueves, después del primer día sin actividad del Mundial, empiezan los cuartos de final. Ya se disputaron 96 de los 104 partidos y se despidieron del torneo 40 selecciones. El cuadro final de los mejores ocho...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/empiezan-los-cuartos-de-final-del-mundial/",
+      "published": "2026-07-07T22:35:02+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.8,
+      "relevance": 19.81,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
+      "source": "El País Uy",
+      "title": "VAR, polémica y reclamo de Egipto: el partido de Argentina tuvo dos jugadas que encendieron las protestas",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWmpHZUhyWHFxdGJuNmt6UDlSb21jVDFIUm0xaFBMMjB6WG1kOFNXaFlGbW83UHZwem1pbl9ZX1dRQnBSNGlCOEFEZFphaG5aOEtaYTVXM2FPVW9yTUVoNGJfek5vUDNGQll5STlCN09fSDlmZElsc0l6NDBodHI4MjJfcTVmUk9SOGFQazNMZDI2alJkWE1BMGhZR0dQTFB5VGE4cDlqT19BaDl3UHUyYnY3RU5ocW1BZGRfcUFLRnpBT2NPSGxJSlZ6MHNnbkkwQ2Rqcy1pX2daNFhiUUNQUGd0dUZpa2c?oc=5",
+      "published": "2026-07-07T18:28:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.77,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
       "source": "La Diaria",
-      "title": "Doble gala: el Ballet Nacional estrena Tócame, con amor",
-      "summary": "Con músicos en escena y un DJ después de la función.Una nueva gala doble se estrena en el Auditorio Nacional Adela Reta. Del 10 al 19 de julio, bajo la dirección de María Riccetto, el Ballet Nacional del Sodre (BNS) presenta Tócame, coreografía de Ricardo Amarante, con música de Sergei Rachmaninoff...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/doble-gala-el-ballet-nacional-estrena-tocame-con-amor/",
-      "published": "2026-07-07T17:27:01+00:00",
+      "title": "¿Primero la gente?: Los datos con los que el gobierno salió a defender la gestión ante la caída de la aprobación",
+      "summary": "Presidencia desplegó una estrategia de comunicación para destacar los resultados de sus primeros 16 meses de gestión en medio de un escenario político más adverso.En las últimas semanas, las encuestas han marcado una sostenida caída del nivel de apoyo a la gestión del presidente de la República,...",
+      "url": "https://ladiaria.com.uy/verifica/articulo/2026/7/primero-la-gente-los-datos-con-los-que-el-gobierno-salio-a-defender-la-gestion-ante-la-caida-de-la-aprobacion/",
+      "published": "2026-07-07T22:26:43+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.76,
@@ -592,13 +606,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Internaciones por salud mental: “Hay departamentos de los que no sabemos nada”, dijo jerarca de la INDDHH que elaboró informe",
-      "summary": "Mariana Risso dijo que en el interior “notifican solo un 18% de prestadores”, solo públicos, y que hay poca información sobre internaciones involuntarias de menores.Un informe del Área de Salud Mental de la Institución Nacional de Derechos Humanos y Defensoría del Pueblo (INDDHH) advirtió sobre las...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/internaciones-por-salud-mental-hay-departamentos-de-los-que-no-sabemos-nada-dijo-jerarca-de-la-inddhh-que-elaboro-informe/",
-      "published": "2026-07-07T16:52:48+00:00",
+      "title": "Último cupo a cuartos de final: Colombia-Suiza",
+      "summary": "Argentina espera al ganador de la llave.El partido empezó con un ritmo frenético, de alta intensidad, con ambos equipos empeñados en adueñarse de la pelota y avanzar hacia el área rival. En los primeros minutos, ambos tuvieron aproximaciones interesantes. En Suiza volvió a destacar, desde el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/ultimo-cupo-a-cuartos-de-final-colombia-suiza/",
+      "published": "2026-07-07T22:23:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.55,
+      "relevance": 19.74,
       "sources": [
         "La Diaria"
       ]
@@ -606,13 +620,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Una rendición de cuentas con el foco en lo que importa",
-      "summary": "Esta semana comienza el tratamiento de la Rendición de Cuentas correspondiente al ejercicio 2025, una instancia clave para evaluar la gestión del primer año de gobierno y proyectar los desafíos que el país deberá afrontar en los próximos años. El contexto en el que asumió esta administración no fue...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/una-rendicion-de-cuentas-con-el-foco-en-lo-que-importa/",
-      "published": "2026-07-07T16:35:41+00:00",
+      "title": "Álvaro Delgado visitó Juan Lacaze y dijo que espera que “la obra de saneamiento culmine y se resuelvan los problemas de la ciudad”",
+      "summary": "El alcalde Darío Brugman confirmó que este jueves se anunciará la reformulación de las obras de saneamiento, iniciadas en 2022; se espera la presencia del presidente Yamandú Orsi.Este martes, el presidente del directorio del Partido Nacional (PN), Álvaro Delgado, visitó la ciudad de Juan Lacaze...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/alvaro-delgado-visito-juan-lacaze-y-dijo-que-espera-que-la-obra-de-saneamiento-culmine-y-se-resuelvan-los-problemas-de-la-ciudad/",
+      "published": "2026-07-07T22:11:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.44,
+      "relevance": 19.66,
       "sources": [
         "La Diaria"
       ]
@@ -620,13 +634,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Por plagio a una autora uruguaya, retiran premio literario en Costa Rica",
-      "summary": "La Editorial de la Universidad Estatal a Distancia anuló un fallo de 2024 tras concluir que el poema ganador tenía grandes coincidencias con uno de Josefina González Paz.Tras un proceso administrativo de investigación, la Universidad Estatal a Distancia (Euned) de Costa Rica retiró el...",
-      "url": "https://ladiaria.com.uy/libros/articulo/2026/7/por-plagio-a-una-autora-uruguaya-retiran-premio-literario-en-costa-rica/",
-      "published": "2026-07-07T16:35:00+00:00",
+      "title": "Mundial 2026: say no more",
+      "summary": "El Río de la Plata y el Uruguay nos unen y separan a uruguayos y argentinos, que al final, como dice Jaime Roos, somos rivales y hermanos.Un Mundial es un festival de sensaciones y emociones en el que uno va acumulando tensiones, frustraciones y pequeñas alegrías. Uno va por los estadios y por las...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/mundial-2026-say-no-more/",
+      "published": "2026-07-07T22:08:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.43,
+      "relevance": 19.65,
       "sources": [
         "La Diaria"
       ]
@@ -634,13 +648,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fin de una era: Cristiano Ronaldo no volverá a jugar un Mundial",
-      "summary": "El delantero se despidió de los torneos grandes con un récord que solo él tiene y algunos hitos que borró de su lista de pendientes.Muchos lo tildan de arrogante y genera más críticos que adeptos, pero no hay dudas de que Cristiano Ronaldo marcó una época en su carrera como jugador de fútbol, a la...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/fin-de-una-era-cristiano-ronaldo-no-volvera-a-jugar-un-mundial/",
-      "published": "2026-07-07T15:38:44+00:00",
+      "title": "Cardama: exjerarca afirmó que el control de la solvencia de la garantía no era de “uso y costumbre de parte del ministerio”",
+      "summary": "El exdirector general de Secretaría de la cartera consideró que la “motivación” de las sucesivas prórrogas que se otorgaron en torno a las garantías fue “lograr que nuestros mares estén protegidos”.La comisión especial de la Asamblea General que investiga el proceso de compra de las patrullas...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/cardama-exjerarca-afirmo-que-el-control-de-la-solvencia-de-la-garantia-no-era-de-uso-y-costumbre-de-parte-del-ministerio/",
+      "published": "2026-07-07T21:48:37+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.08,
+      "relevance": 19.52,
       "sources": [
         "La Diaria"
       ]
@@ -648,27 +662,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "+Colonia proyecta un Paseo de Interpretación Costero al sur de las obras en El Calabrés, sobre la faja pública del Río de la Plata",
-      "summary": "El Ministerio de Ambiente categorizó el proyecto como B, dado que su ejecución puede “tener impactos ambientales significativos moderados”.El Ministerio de Ambiente (MA) abrió una puesta en manifiesto para un proyecto presentado por +Colonia, denominado Paseo de Interpretación Costero. Se trata de...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/colonia-proyecta-un-paseo-de-interpretacion-costero-al-sur-de-las-obras-en-el-calabres-sobre-la-faja-publica-del-rio-de-la-plata/",
-      "published": "2026-07-07T15:36:04+00:00",
+      "title": "Técnico egipcio denunció presión de Argentina sobre el árbitro y Ziko aseguró que “el torneo está arreglado”",
+      "summary": "Hossam Hassan, DT de Egipto, responsabilizó al árbitro francés François Letexier y a factores “internos y externos” por la remontada 3-2 de Argentina en los octavos de final del Mundial.El director técnico de Egipto, Hossam Hassan, fue duro en sus declaraciones tras la eliminación de los faraones...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/tecnico-egipcio-denuncio-presion-de-argentina-sobre-el-arbitro-y-ziko-aseguro-que-el-torneo-esta-arreglado/",
+      "published": "2026-07-07T21:20:32+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.07,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Todo definido: así será el camino de Uruguay para clasificar al Mundial de básquetbol",
-      "summary": "La celeste clasificó en el primer lugar del grupo, sumando un buen colchón de puntos para la parte más exigente del camino.Uruguay cerró la primera ronda de las clasificatorias al Mundial de básquetbol 2027 venciendo a Cuba en el Antel Arena. La celeste terminó en el primer lugar de su grupo con...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/todo-definido-asi-sera-el-camino-de-uruguay-para-clasificar-al-mundial-de-basquetbol/",
-      "published": "2026-07-07T15:31:10+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.04,
+      "relevance": 19.34,
       "sources": [
         "La Diaria"
       ]
