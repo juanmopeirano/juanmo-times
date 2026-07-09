@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-07-09T17:44:53.311288+00:00",
+  "updated_at": "2026-07-09T23:00:10.657326+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El Eurogrupo enfría la propuesta española para un mecanismo permanente de emisión de eurobonos",
+      "summary": "Los ministros de Finanzas se comprometen a estudiar el planteamiento en un ámbito técnico, pero Holanda y Finlandia reiteran su rechazo al instrumento",
+      "url": "https://elpais.com/economia/2026-07-09/el-eurogrupo-enfria-la-propuesta-espanola-para-un-mecanismo-permanente-de-emision-de-eurobonos.html",
+      "published": "2026-07-09T18:46:39+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/PR2ASTXZTVJ5RPVGL4XR36DYQU.jpg?auth=31af100154142f616c2142e805c555f045bdf5a73ae54dbf3d0445e87bbcb67f",
+      "coverage": 1,
+      "relevance": 19.82,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +24,7 @@
       "published": "2026-07-09T17:27:36+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/M3YPCUICHJPUZLURRRMD6S3HPU.jpg?auth=d473ed5b1b457b3119c4d3e6c459d306a94827be607fa890a74763195fa1b24d",
       "coverage": 1,
-      "relevance": 21.29,
+      "relevance": 19.32,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +38,37 @@
       "published": "2026-07-09T16:17:54+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/3EYNTSRR25JRTO4PPAUSBUKDHQ.jpg?auth=235f5225ef1afa68c4076f87ff4f981147e776d1ac4cd190d0d5eeb0a25dac15",
       "coverage": 1,
-      "relevance": 20.86,
+      "relevance": 18.89,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este jueves 9 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1IxVU9fVXRTa21ZQnI3b3l1aHJZRGptejdWZGoyRS1Hel9qdWRRX1htNE95UWgyam5VTEx1QjFCd2ZvMndPZ2lvUF9mZFhxZXVadUs2Q214QUFuZEdCa001QlNCN0JFNjkyRm9XaW9fS2MtOUdVYTdacHp6ZFBDaUh3NkpkcnA1R1VEVGphVEZDTWxMZF80Qm9kVGQtVWt0bHRseUl3MVpjMWlucWVXZHktMFZma3V5d3JrM9IB1wFBVV95cUxPQkRGSlJPWjhhWFRzeUxBeTk0djE2TTVJVjhaOW5ERGl2dTVWNUVZYXI5dXJiWjVhTXdvVXNHQklNZVN1Z0hpNURNakRDVnV5UnNMSVhvekhlVXpScVlVYmpYQk1xTllmb3pScE96Z2o2QUp4a3Eyd0lWT0NpbzRsWHhLTXZTdTBFZGJ2S2xoZk9NVjExZ21nbVl6UFY3RHNtQzlYWWxwRG1WVWZMdWVhN0EyUlNJMVpiSll3NzNnZWJaaktmV1M0MWRKbFR6SXlrd2FGSHZwdw?oc=5",
+      "published": "2026-07-09T22:00:33+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.63,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "REAL: a cuánto cerró la cotización este jueves 9 de julio en Colombia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZjZrWHNUTmowaFpGTnJROHhwcngyNWlGalNnNGxoQklBZk9Kclh1aWltVHBhMVJnb2tiQVJHV0wyTGpsZ010Vk83c1A0eWJtZnMzUkRqZHpxb1BxWGxPTDI4UC11amFQcWtFYk9uVHJXaWhrekpRNzlEckR0b2doR2VPY2xsbnFSZk95WXo4UTlUZmN6clJzMGM5SWZWckFrSmxySkQtN0JvVVhqU0NoOG5xUl9QNVl1aUHSAdQBQVVfeXFMUEhMUHhUdkZWcFY4dVR5c2hJdGxhcWYtcGUxWXkwWE1rempleHpSX0RMTkdnWDA4NmZnMk9lZDFaaTM4OXc1cEI1dWpqZEZoTUd5LWVYYThnS3hOYUltbHhibWhtQjdLYjljWG0zUXNNTFU3SDVmR3JiZUlCRHpOVDFVc20zU3lqWjZNOXQ4Um11YkpNZlh6cnVXY1lNNzM0SEIteGYtTlJwbGRPYkpxd216WTRuSzlWU1dwSVdmbW83OTlXX3BiUzhsNy1tVi1wOXZ6NGc?oc=5",
+      "published": "2026-07-09T22:00:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.63,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,79 +80,107 @@
       "published": "2026-07-09T14:14:58+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/HVUWPTGXH5LJVPILDQONWF6TLU.jpg?auth=94644abafe2ea82ed1f33fae83d036131c606ba1b11e452d822625fe375bed35",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 18.12,
       "sources": [
         "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "El País Eco",
-      "title": "Yolanda Díaz asegura que las palabras de Feijóo sobre las bajas laborales lo “inhabilitan para gobernar España”",
-      "summary": "La vicepresidenta segunda afirma que al líder del PP le “importa un rábano” el diálogo social. Salvador Illa y Diana Morant también cargan contra el líder de la oposición",
-      "url": "https://elpais.com/economia/2026-07-09/yolanda-diaz-asegura-que-las-palabras-de-feijoo-sobre-las-bajas-laborales-lo-inhabilitan-para-gobernar-espana.html",
-      "published": "2026-07-09T13:31:23+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/EPI7YN6I7VG4TM37Q5Q5XDATGI.jpg?auth=bc60b5bed83c518f8f6574480100f634a512f81d138b94eb804011ded0767466",
+      "source": "Google Economía",
+      "title": "Dólar hoy en Panamá: cotización de cierre del 9 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMEt5aWU0cVpRZy16Z0ZnTlRwX2Z2UEtiSlo0NE8zUXZIS3BsZ2NPR3M5cnA4Zm1mOVBSM0NfYkxzMDA2bEVvYmJ5YVJLMWROcEYtb193YTU4aklHVXJKVVJWVXhRa1pWN0xMbF9pMzcxXzI3SEt6OFNxX0lfcFlZUjVDakpHNF9xR09PbENKTVhuRk9ublNIamdZbGxiVzVmeWpTVzhXdFB2YTd6TUFESWFpc3haWDJqNTdDZtIBvAFBVV95cUxQMEt5aWU0cVpRZy16Z0ZnTlRwX2Z2UEtiSlo0NE8zUXZIS3BsZ2NPR3M5cnA4Zm1mOVBSM0NfYkxzMDA2bEVvYmJ5YVJLMWROcEYtb193YTU4aklHVXJKVVJWVXhRa1pWN0xMbF9pMzcxXzI3SEt6OFNxX0lfcFlZUjVDakpHNF9xR09PbENKTVhuRk9ublNIamdZbGxiVzVmeWpTVzhXdFB2YTd6TUFESWFpc3haWDJqNTdDZg?oc=5",
+      "published": "2026-07-09T20:24:46+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 18.03,
       "sources": [
-        "El País Eco"
+        "Google Economía"
       ]
     },
     {
       "category": "economia",
-      "source": "El País Eco",
-      "title": "Digi fija en 5,60 euros el precio de su salida a Bolsa y valora la compañía en 1.662 millones",
-      "summary": "La CNMV da luz verde al folleto, que establece un precio un 15% inferior a las expectativas iniciales. La operadora no prevé repartir dividendo, al menos, hasta 2030",
-      "url": "https://cincodias.elpais.com/companias/2026-07-09/digi-fija-en-560-euros-el-precio-de-su-salida-a-bolsa-y-valora-la-compania-en-1662-millones.html",
-      "published": "2026-07-09T13:12:50+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/6M3LUSBRPJLYTAWWATBIVPBII4.jpg?auth=755dd42406ec1e6ed10b04c9de5360f949833da39a64455094f79995375e133b",
+      "source": "Google Economía",
+      "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este jueves 9 de julio?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZjhWeXo0M3ZHYTFTdTJ3TXlBSXYxRHBldklpRk1OLVoweHZCemI0N2stZ2ZkblRmS2hUSmNGWkVuU3U5SFhHTDFhaXlBQ0hXVFF1Umt0dUMxa0UxeXhCQ3AzeTVpSVY1OVJ6eThlMnE2dm5sSUROcWJSdXd3OUFIN1puQmNkYmxLQXdmeUFRSkZrVUdNUlp5cHZlei04elhMaUJYblJ2OGNkclhfZWk1N2RXS290ZldVeTkxb3hzdXJUOGdhV0xXUUU3Vzlqak10RGpHOTlQWWVRODU0MnUzekFia1UxWU5oWGpYcUpuVkJGejRuVEY4ME95Tnh4Zw?oc=5",
+      "published": "2026-07-09T20:03:46+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.7,
+      "relevance": 17.9,
       "sources": [
-        "El País Eco"
+        "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La riqueza financiera de las familias marca un récord de 2,66 billones gracias al impulso de la Bolsa",
-      "summary": "El grueso de la subida se explica por la revalorización de los activos financieros mientras la concesión de créditos bancarios a hogares y empresas repunta",
-      "url": "https://elpais.com/economia/2026-07-09/la-riqueza-financiera-de-las-familias-marca-un-record-de-266-billones-gracias-al-impulso-de-la-bolsa.html",
-      "published": "2026-07-09T12:11:03+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/STN7GJTCUJNYBB7D4BQ25BBILY.jpg?auth=441a19f4eb886a0bcd724222a758cca65a6590c8b2c800a72968bcc1b231cf53",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Somos mejores personas cuando estamos enamorados?",
+      "summary": "El amor es una de las mejores experiencias que puede vivir el ser humano, no solo por la sensación de felicidad que genera, también por el impacto que tiene en nuestro bienestar. Nos hace ser mejores personas y tener una mejor actitud. Así lo afirma un estudio realizado por la Universidad de...",
+      "url": "https://es.aleteia.org/2026/07/09/somos-mejores-personas-cuando-estamos-enamorados/",
+      "published": "2026-07-09T21:57:50+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.31,
+      "relevance": 19.81,
       "sources": [
-        "El País Eco"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El juez sienta en el banquillo al BBVA y su expresidente Francisco González por los espionajes de Villarejo",
-      "summary": "El banco será la primera empresa del Ibex 35 juzgada por esta causa, junto a otras 15 personas, entre ellas exdirectivos de la entidad y el comisario, por delitos de cohecho y revelación de secretos",
-      "url": "https://elpais.com/economia/2026-07-09/el-juez-sienta-en-el-banquillo-al-bbva-y-su-expresidente-francisco-gonzalez-por-los-espionajes-de-villarejo.html",
-      "published": "2026-07-09T11:44:36+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5BSRGERPN5FCXNUD3QOICSZK6A.jpg?auth=b8ea5d1f1ad077e84a30a4683001f5c2826c8f5413a98c60fdc5e43ca8687f36",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "El demonio actúa de diferente manera en malos y buenos",
+      "summary": "¿Te consideras bueno?, ¿o sientes que eres muy malo?, o mejor aún, ¿crees que existe el demonio? porque mas vale que sea así, pues aunque no nos demos cuenta, el diablo y sus legiones están atentos a nuestros descuidos para atacarnos, sin importar que seamos buenos o malos. Explica el Catecismo de...",
+      "url": "https://es.aleteia.org/2026/07/09/el-demonio-actua-de-diferente-manera-en-malos-y-buenos/",
+      "published": "2026-07-09T19:32:37+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.15,
+      "relevance": 18.9,
       "sources": [
-        "El País Eco"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Telefónica recurre ante el TSJC el contrato de la Generalitat por el uso de hardware de Huawei",
-      "summary": "El Govern reactiva la adjudicación de 127 millones de euros a la UTE Sirt-Connecta",
-      "url": "https://cincodias.elpais.com/companias/2026-07-09/telefonica-recurre-ante-el-tsjc-el-contrato-de-la-generalitat-por-el-uso-de-hardware-de-huawei.html",
-      "published": "2026-07-09T11:13:54+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/MDE6VQJGDRBSZGNZ4YLDJ46YOQ.png?auth=c5d97edd67fe393d2f0d3fb158b7a1b8ae4fa8bd39f13eb8a827442616ad91ca",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Lo que la mayoría de la gente entiende mal sobre el Camino de Santiago",
+      "summary": "La mayoría de la gente, al oír la palabra Camino, se imagina lo mismo: un sendero polvoriento a través del norte de España, una concha de vieira en una mochila, una catedral bajo la lluvia y, quizás, a Martin Sheen. Piensan en el Camino Francés, la ruta de 800 kilómetros desde...",
+      "url": "https://es.aleteia.org/2026/07/09/lo-que-la-mayoria-de-la-gente-entiende-mal-sobre-el-camino-de-santiago/",
+      "published": "2026-07-09T18:59:27+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 18.96,
+      "relevance": 18.7,
       "sources": [
-        "El País Eco"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "En Jerusalén, el desprecio hacia los cristianos está creciendo lentamente",
+      "summary": "En el Levante, se producen bombardeos, ataques y ataques con misiles: imágenes visibles y conmovedoras de una región que ya no conoce la paz. Pero también hay otros ataques, menos mortíferos y destructivos, que, sin embargo, erosionan el tejido social e infunden un clima de miedo y tensión. En...",
+      "url": "https://es.aleteia.org/2026/07/09/en-jerusalen-el-desprecio-hacia-los-cristianos-esta-creciendo-lentamente/",
+      "published": "2026-07-09T18:34:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.54,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo afrontar las acusaciones falsas sin perder la calma",
+      "summary": "La mayoría de nosotros sabemos afrontar bastante bien las correcciones, sobre todo cuando hay algo de verdad en lo que se dice. Las acusaciones falsas, en cambio, son harina de otro costal. Ponen en tela de juicio algo mucho más profundo que nuestro rendimiento o conocimientos. Cuestionan nuestra...",
+      "url": "https://es.aleteia.org/2026/07/09/como-afrontar-las-acusaciones-falsas-sin-perder-la-calma/",
+      "published": "2026-07-09T17:52:52+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.28,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +192,7 @@
       "published": "2026-07-09T16:13:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/09/whatsapp-image-2026-07-09-at-14-58-27.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 18.26,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +206,7 @@
       "published": "2026-07-09T17:42:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 18.22,
       "sources": [
         "Aleteia"
       ]
@@ -150,79 +220,51 @@
       "published": "2026-07-09T15:33:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2025/04/23/14/1745409770508.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 18.01,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¡Estos deben ser los trabajos católicos más geniales del mundo!",
-      "summary": "Una publicación reciente de steffani_hisgirlsunday en Instagram destacó algunos de los trabajos más inusuales de la Iglesia Católica. Al ver la lista, no pudimos evitar sonreír y reflexionar sobre las profesiones católicas. Así que, encantados, tomamos prestada la idea y luego nos preguntamos:...",
-      "url": "https://es.aleteia.org/2026/07/09/estos-deben-ser-los-trabajos-catolicos-mas-geniales-del-mundo/",
-      "published": "2026-07-09T16:50:00+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Windows 11 se prepara para cambiar sus actualizaciones mensuales por culpa de la inteligencia artificial",
+      "summary": "Microsoft cambiará la forma en como recibes las actualizaciones de seguridad de Windows 11. El gigante tecnológico anunció que a partir de ahora vas a recibir más parches en cada actualización mensual. La compañía señaló que este ajuste tiene que ver con el uso masivo de la inteligencia artificial,...",
+      "url": "https://hipertextual.com/seguridad/windows-actualizaciones-seguridad-inteligencia-artificial/",
+      "published": "2026-07-09T20:17:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/windows-11-1.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.86,
+      "relevance": 19.18,
       "sources": [
-        "Aleteia"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Un empresario que apoya la obra benéfica de la Iglesia",
-      "summary": "A principios de mayo, Vatican News informó sobre una audiencia privada que el Papa León XIV concedió a 56 familias de administradores de The Papal Foundation, con la participación del empresario Ward Fitzgerald que habían viajado a Roma para realizar su peregrinación anual. El Santo Padre destacó...",
-      "url": "https://es.aleteia.org/2026/07/09/un-empresario-que-apoya-la-obra-benefica-de-la-iglesia/",
-      "published": "2026-07-09T16:10:04+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hemos tenido una carta náutica casi dos siglos en un cajón porque pensábamos que estaba todo mal. Estábamos equivocados",
+      "summary": "En algún momento de 1835, en la costa noroeste de la India, Alexander Burnes compró un rollo de papel. Dentro había manuscrita una carta de navegación del mar Rojo y el golfo de Adén que el oficial británico llego a calificar como un \"espécimen de levantamiento naval sin igual en los gabinetes de...",
+      "url": "https://www.xataka.com/historia-tecnologica/hemos-tenido-carta-nautica-casi-dos-siglos-cajon-porque-pensabamos-que-estaba-todo-mal-estabamos-equivocados",
+      "published": "2026-07-09T19:01:18+00:00",
+      "image": "https://i.blogs.es/0f807a/untitled122-1200x645-1-/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.61,
+      "relevance": 19.01,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Santa Sede: comercio justo y transferencia de tecnologías para erradicar la pobreza",
-      "summary": "En su intervención en el debate del Foro Político de Alto Nivel (HLPF) sobre el tema del desarrollo sostenible, la misión permanente del Vaticano ante la ONU reafirma la necesidad de renovar el apoyo a los países africanos, menos desarrollados y en vías de desarrollo sin salida al mar. Un progreso...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-07/santa-sede-mision-permanente-onu-forum-desarrollo-sostenible.html",
-      "published": "2026-07-09T14:23:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2022/09/07/19/1662572074142.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hace 20 años que vimos su último capítulo pero las audiencias no caen, y la siguen viendo 5,9 millones de espectadores cada mes",
+      "summary": "El 6 de julio de 2006, Antena 3 emitió el último episodio de 'Aquí no hay quien viva'. Dos décadas después, la comedia de Alberto y Laura Caballero reúne una media mensual de 5,9 millones de espectadores únicos en streaming, en plataformas como Netflix, Prime Video, Disney+, Atresplayer y...",
+      "url": "https://www.xataka.com/streaming/hace-20-anos-que-vimos-su-ultimo-capitulo-audiencias-no-caen-siguen-viendo-5-9-millones-espectadores-cada-mes",
+      "published": "2026-07-09T18:31:19+00:00",
+      "image": "https://i.blogs.es/9c2ab3/109642_sck8uto2a7r9be3z6ip5lxyhn4vef1j0s-h2/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.54,
+      "relevance": 18.82,
       "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "(VIDEO) ¿Por qué un plato de lentejas cambió la historia de la Biblia?",
-      "summary": "Las lentejas forman parte de la alimentación de muchas culturas desde hace miles de años. En la Biblia aparecen pocas veces, pero cada una de esas menciones encierra una enseñanza que va mucho más allá de la cocina. Desde la decisión impulsiva de Esaú hasta la valentía de un guerrero de David y el...",
-      "url": "https://es.aleteia.org/2026/07/09/video-por-que-un-plato-de-lentejas-cambio-la-historia-de-la-biblia/",
-      "published": "2026-07-09T15:44:40+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.45,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Párroco de La Guaira: No dejen de orar por Venezuela",
-      "summary": "Tras el devastador terremoto que golpeó al país el pasado 24 de junio, el padre Antonio Rella, párroco de la parroquia Inmaculado Corazón de María, describe un panorama marcado por el dolor, la incertidumbre y la solidaridad. Mientras su comunidad se convierte en centro de ayuda para las zonas más...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/parroco-la-guaira-venezuela-terremoto-dolor-solidaridad.html",
-      "published": "2026-07-09T13:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/09/11/1783587987222.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.02,
-      "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
@@ -234,9 +276,37 @@
       "published": "2026-07-09T15:46:22+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/LGHL2L7NVBDZZAGQZUSCLANOGM.jpg?auth=4ed4397b7b931221b7c254366eec6dfe20fa61f71ec59ce43b953a322a6c4336",
       "coverage": 1,
-      "relevance": 20.66,
+      "relevance": 18.69,
       "sources": [
         "El País Tech"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "ChatGPT ahora trabaja solo: la nueva IA puede crear presentaciones y hojas de Excel sin ayuda",
+      "summary": "ChatGPT es una de las aplicaciones más populares de la IA. Pese a ello, Claude la supera en múltiples campos gracias a implementaciones como Code o Cowork, que van más allá de las conversaciones habituales. Para contrarrestar un poco el avance de Anthropic, la compañía ha presentado ChatGPT Work,...",
+      "url": "https://hipertextual.com/inteligencia-artificial/chatgpt-work-agente-ia-openai-funciones/",
+      "published": "2026-07-09T18:57:42+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/chatgpt-work.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.68,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En 1962 Estados Unidos explotó una bomba atómica en órbita para crear un \"muro\" antimisiles. El resultado fue un caos eléctrico a 1.000 km de distancia",
+      "summary": "9 de julio de 1962, una aurora se dibuja en los cielos de Hawái, Tonga y Samoa. Sería extraño que se formen estos fenómenos tan lejos de los polos, aunque la experiencia nos ha demostrado que no es imposible. Aun así, en este caso las auroras no se formaron a causa de una tormenta solar, sino por...",
+      "url": "https://www.xataka.com/espacio/1962-eeuu-lio-parda-bomba-atomica-anillo-radiacion-que-rodea-tierra-otro-cientifico-quiere-aprovechar-ese-anillo-nadie-vuelva-a-liar",
+      "published": "2026-07-09T18:01:18+00:00",
+      "image": "https://i.blogs.es/68623a/starfish-prime-bomba-atomica/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.63,
+      "sources": [
+        "Xataka"
       ]
     },
     {
@@ -248,7 +318,7 @@
       "published": "2026-07-09T17:31:20+00:00",
       "image": "https://i.blogs.es/b7af1a/personas-mayores/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.42,
+      "relevance": 18.44,
       "sources": [
         "Xataka"
       ]
@@ -262,77 +332,7 @@
       "published": "2026-07-09T17:15:19+00:00",
       "image": "https://i.blogs.es/01cd27/salarios-en-espana-segun-la-ocde/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El nuevo Ryzen 7 5800X3D no soluciona la crisis del hardware, pero es un salvavidas para alargar la vida de muchos PC sin dejarse un riñón",
-      "summary": "Actualizar un PC de sobremesa o estrenar prácticamente cualquier dispositivo actual que integre memoria RAM o almacenamiento (o sea, casi todo) es enfrentarse a una dura realidad: hay que pagar mucho más por lo mismo. La crisis del hardware, derivada de la alta demanda de estos componentes para...",
-      "url": "https://www.xataka.com/seleccion/nuevo-ryzen-7-5800x3d-no-soluciona-crisis-hardware-salvavidas-para-alargar-vida-muchos-pc-dejarse-rinon",
-      "published": "2026-07-09T17:15:19+00:00",
-      "image": "https://i.blogs.es/11bb6d/amd-ryzen-am4/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Hoy, el 99% de la población mundial ha estado bañada por luz solar durante unos minutos al mismo tiempo: es tan curioso que para algunos debería ser festivo",
-      "summary": "Puede que hayas visto por redes sociales alguna publicación en la que se menciona que el 8 de julio, alrededor de las 11:15 UTC, el 99% de la población mundial se encuentra bañada por la luz del sol. El autor de una de estas publicaciones señala en X que esto debería tener un nombre y, de paso, ser...",
-      "url": "https://www.xataka.com/espacio/hoy-99-poblacion-mundial-ha-estado-banada-luz-solar-durante-unos-minutos-al-tiempo-curioso-que-para-algunos-deberia-ser-festivo",
-      "published": "2026-07-09T17:01:20+00:00",
-      "image": "https://i.blogs.es/436a83/luz-del-sol-a-la-vez/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.23,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Meta, Google y Microsoft podrán seguir rastreando tus mensajes hasta 2028. A pesar de que la mayoría del Parlamento Europeo votó en contra",
-      "summary": "El Parlamento Europeo ha vuelto a dar luz verde a que compañías como Meta, Google o Microsoft puedan rastrear voluntariamente las conversaciones privadas de sus usuarios en busca de material de abuso sexual infantil. Lo llamativo es que la decisión va a seguir adelante pese a que más eurodiputados...",
-      "url": "https://www.xataka.com/privacidad/meta-google-microsoft-podran-seguir-rastreando-tus-mensajes-2028-a-pesar-que-mayoria-parlamento-europeo-voto",
-      "published": "2026-07-09T16:45:19+00:00",
-      "image": "https://i.blogs.es/bde703/original/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.13,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Olvídate de Facebook: WhatsApp prepara una función para no olvidar ningún cumpleaños",
-      "summary": "Hasta hace un tiempo, Facebook era la red social elegida para felicitar a tus amigos, pero eso está por cambiar. WhatsApp está probando una función de recordatorio de cumpleaños para tus contactos que llegará en una actualización a futuro. Esta característica echará mano de un componente que solo...",
-      "url": "https://hipertextual.com/mobile/whatsapp-recordatorio-cumpleanos-contactos-android/",
-      "published": "2026-07-09T17:26:47+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/whatsapp-cumpleanos-portada-scaled.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 20.09,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Las Big Tech chinas tienen un plan: la mayor apuesta de su historia a las fabricantes de chips nacionales",
-      "summary": "China ha definido una serie de pasos para convertirse en la primera potencia mundial. Dentro de esa hoja de ruta entra la soberanía tecnológica y, para lograr el objetivo, es necesaria una inversión mayor en tecnología local. El campo de batalla actual es el de los chips de IA, un segmento que...",
-      "url": "https://www.xataka.com/empresas-y-economia/big-tech-chinas-tienen-plan-mayor-apuesta-su-historia-a-fabricantes-chips-nacionales",
-      "published": "2026-07-09T16:31:20+00:00",
-      "image": "https://i.blogs.es/a462a7/original/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.04,
+      "relevance": 18.34,
       "sources": [
         "Xataka"
       ]
@@ -340,81 +340,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Carlos Alcaraz no aparece en la lista de Montreal porque el objetivo es Cincinnati",
-      "summary": "El tenista quiere volver en el US Open si antes puede jugar el Masters 1000 estadounidense",
-      "url": "https://www.marca.com/tenis/2026/07/09/carlos-alcaraz-aparece-lista-montreal-objetivo-cincinnati.html",
-      "published": "2026-07-09T17:23:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fd8227adcf.jpeg",
-      "coverage": 1,
-      "relevance": 20.37,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El laberinto de Verstappen y su futuro",
-      "summary": "Las opciones preferidas si sale de Red Bull son Mercedes o McLaren, pero ninguna es una vía sencilla para terminar fichando",
-      "url": "https://www.marca.com/motor/formula1/2026/07/09/laberinto-verstappen-futuro.html",
-      "published": "2026-07-09T17:18:14+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fbf6b9724b.jpeg",
-      "coverage": 1,
-      "relevance": 20.33,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"Sueño con marcar el gol de la final del Mundial de chilena y a la Argentina de Messi\"",
-      "summary": "El centrocampista valora la unión del grupo como la gran fortaleza de España",
-      "url": "https://www.marca.com/futbol/seleccion/2026/07/09/gavi-importante-todos-tengamos-cosas-claras-juguemos.html",
-      "published": "2026-07-09T17:16:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fd762a92da.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Manzambi puede llegar",
-      "summary": "Murat Yakin, eso sí, recalcó que sólo jugará contra Argentina \"si tiene sentido desde el punto de vista médico\"",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/09/suiza-son-optimistas-manzambi.html",
-      "published": "2026-07-09T17:16:03+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/06/25/6a3d501a8df89.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Linda Noskova asegura la sexta campeona checa en Wimbledon",
-      "summary": "Linda se impone a la ucraniana Kostyuk y se las verá con su compatriota Muchova por el título",
-      "url": "https://www.marca.com/tenis/wimbledon/2026/07/09/linda-noskova-asegura-sexta-campeona-checa-wimbledon.html",
-      "published": "2026-07-09T17:12:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fcf2fa53dd.jpeg",
-      "coverage": 1,
-      "relevance": 20.3,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El Madrid aplaza la presentación",
-      "summary": "La puesta de largo del técnico, al igual que la de los fichajes, tendrá lugar a la conclusión del torneo en tierras americanas",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/07/09/mourinho-sera-presentado-mundial.html",
-      "published": "2026-07-09T17:12:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4f92a8143a6.jpeg",
+      "title": "La rosca perfecta de Mbappé: de la frontal del área marroquí... a las semifinales del Mundial",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/gol-mbappe-1-0-francia-2-0-marruecos-video.html",
+      "published": "2026-07-09T22:26:16+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/cQfdo1gK1_P2WygOL.jpeg",
       "coverage": 1,
       "relevance": 20.29,
       "sources": [
@@ -424,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Chuma Okeke seguirá una temporada más en el Real Madrid",
-      "summary": "El ala-pívot, con contrato hasta 2027, tenía una cláusula de corte en su contrato, pero el club blanco, avalado por Pedro Martínez, ha decidido no ejecutarla",
-      "url": "https://www.marca.com/baloncesto/acb/2026/07/09/chuma-okeke-seguira-temporada-real-madrid.html",
-      "published": "2026-07-09T17:02:13+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fcdcd07163.jpeg",
+      "title": "Francia 2-0 Marruecos | Resumen Mundial 2026",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/francia-2-0-marruecos-resumen-mundial-2026-video.html",
+      "published": "2026-07-09T22:22:28+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/cQfOk1gK1yNHD8D5g.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.26,
       "sources": [
         "Marca"
       ]
@@ -438,58 +368,113 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Nuevo lío a la vista con 'Pasalapabra': Mediaset tomará acciones legales porque 'AlaZ' se parece a 'El Rosco'",
-      "summary": "Lo ha desvelado el medio Informalia",
-      "url": "https://www.marca.com/tiramillas/television/2026/07/09/nuevo-lio-vista-pasalapabra-mediaset-demandara-atresmedia-alaz-parece-rosco.html",
-      "published": "2026-07-09T16:55:51+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a4fd032c9c34.jpeg",
+      "title": "Buenas noticias para España",
+      "summary": "La contracrónica del Francia - Marruecos en el estadio de Boston",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/buenas-noticias-espana-francia-tampoco-come-nadie.html",
+      "published": "2026-07-09T22:08:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a50189dd45e5.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 20.18,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Francia es mucha Francia",
+      "summary": "Kylian encarrila un triunfo que lleva a semifinales y que sentencia Dembélé, después de que el guardameta marroquí, incluyendo un penalti detenido al 10, se exhiba en la primera parte",
+      "url": "https://www.marca.com/futbol/mundial/cronica/2026/07/10/mbappe-supera-insuperable-bono.html",
+      "published": "2026-07-09T22:08:33+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a501c66f3932.jpeg",
+      "coverage": 1,
+      "relevance": 20.18,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "LaLiga y Francia presentan ante la FIFA una queja en su lucha contra la piratería",
+      "summary": "Lo hacen por considerar que la marca ExpressVPN está perjudicando su lucha contra la piratería",
+      "url": "https://www.marca.com/futbol/primera-division/2026/07/09/laliga-francia-presentan-fifa-queja-lucha-pirateria.html",
+      "published": "2026-07-09T21:57:04+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a5014287119f.jpeg",
+      "coverage": 1,
+      "relevance": 20.11,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Un pulso histórico: Mbappé responde a Messi... y luego da el susto",
+      "summary": "El delantero francés, que firmó el 1-0 con una delicatessen, iguala a Messi en el Mundial... y se queda a uno en el histórico de goleadores",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/09/mbappe-sigue-suyo.html",
+      "published": "2026-07-09T21:50:43+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a5015b502d0f.jpeg",
+      "coverage": 1,
+      "relevance": 20.07,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Lío mayúsculo en la NBA: la vuelta de Kawhi Leonard a los Raptors, paralizada",
+      "summary": "La operación cerrada entre los de Toronto y Los Ángeles Clippers queda paralizada, según Shams Charania, hasta que termine una investigación de la liga al jugador",
+      "url": "https://www.marca.com/baloncesto/nba/2026/07/09/lio-mayusculo-nba-vuelta-kawhi-leonard-raptors-paralizada.html",
+      "published": "2026-07-09T21:16:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a5008ca227f8.jpeg",
+      "coverage": 1,
+      "relevance": 19.85,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Kylian falla el penalti más largo del mundo, pide explicaciones y hasta Haaland le da la razón",
+      "summary": "El delantero francés, que provocó el penalti tras una carrera endiablada, se quejó dos veces al colegiado tras la espera tan larga antes de ejecutar el lanzamiento",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/09/mbappe-falla-penalti-le-pide-explicaciones-arbitro.html",
+      "published": "2026-07-09T20:40:55+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/09/6a50092f0f83e.jpeg",
+      "coverage": 1,
+      "relevance": 19.63,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "La escasez de combustible en Rusia causa estragos: ¿presionará a Putin para cambiar de estrategia en la guerra de Ucrania?",
-      "summary": "Incluso en Moscú, las autoridades no pueden garantizar el suministro de combustible, pero ¿la presión económica propiciará el diálogo o una escalada del conflicto?",
-      "url": "https://www.bbc.com/mundo/articles/cvg499xl6qno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-09T03:50:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d9b7/live/3b3ee060-7a1e-11f1-8228-eda6b31aeccd.jpg",
-      "coverage": 2,
-      "relevance": 26.49,
+      "source": "France 24",
+      "title": "Informe desde Beirut: EE. UU. e Irán intercambian ataques en Medio Oriente",
+      "summary": "La guerra entre Irán y Estados Unidos se reanuda y logra un nuevo alcance. Teherán confirmó que extendió los ataques en la región con el lanzamiento de diez misiles balísticos contra la base militar jordana de Azraq este jueves. Previamente, Jordania había reportado la interceptación de ocho...",
+      "url": "https://www.france24.com/es/video/20260709-informe-desde-beirut-ee-uu-e-ir%C3%A1n-intercambian-ataques-en-medio-oriente",
+      "published": "2026-07-09T20:03:38+00:00",
+      "image": "https://s.france24.com/media/display/acc29b74-7bcb-11f1-a348-005056bfb2b6/w:1024/p:16x9/ES-20260709-123246-123636-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.7,
       "sources": [
-        "BBC Mundo",
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Rusia toma Konstantinovka y los analistas avisan: “Esto cambia la guerra”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNGFJc3JnWkhPQ09HOXlRSm5sRkpnVGNMemtjbEIya2RJMUdVSjBJMy1EQmdWbk16X2VGQVNsLWV0S2pXa1VwYUUzMlZmdmlsTWwyZjVsTjVaOTNOWFpqZUhFZ2phVzNYRHpvOGtILXhJX3Z2SndQbk4xb0R5RHpPVHhfSUdBNmJqN29OTzFKTjNtdUk1UEt4dTlkMTBDalVoc2JVM255UEM5NF93dEwwdURHdHp4YXhXVGk0d3lRYnIyRlhCU1Y2b0JVbTRFR1o1aEVXUXdMdHdHdmNVWHfSAeMBQVVfeXFMTWRUSEY2RE1XQ2wxNTUzSmpIMXdXMHNuc1Bkcm41bXBRZWl0aDJJalpJYkpLcDF6TFN3dVEzaXRKMGprWlVwQmtqazdQN0QzSzhJTWlZSS13WmE5dGc1T1NFaWNIbjVOLTQzUTVJejJqb28wLUw2YzFaSjJVZk9kaUM0bDg3UU5QN2JIS0t6djZCelVidTR6MUlpV3l4cUlKaHBTTmUwbFBtWXhqNTk1NllvQ0FKUUh4alpVZlNjWF9VVWU1c2xkaFhQMEdpZVVYV3VQYlc4b0dkWnR1MmlYUUo2MzQ?oc=5",
+      "published": "2026-07-09T21:34:49+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.47,
+      "sources": [
         "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU. e Irán entran en una nueva fase: ¿qué vías de presión tienen sin quedar atrapados en otra guerra?",
-      "summary": "La decisión del mandatario estadounidense, Donald Trump, de dar por terminado el memorando de entendimiento con Irán y reanudar los ataques marca el inicio de una nueva etapa del conflicto: el centro de gravedad deja de ser el programa nuclear iraní para concentrarse en el control del estrecho de...",
-      "url": "https://www.france24.com/es/medio-oriente/20260709-ee-uu-e-ir%C3%A1n-entran-en-una-nueva-fase-qu%C3%A9-v%C3%ADas-de-presi%C3%B3n-tienen-sin-quedar-atrapados-en-otra-guerra",
-      "published": "2026-07-09T17:27:49+00:00",
-      "image": "https://s.france24.com/media/display/90572ad2-7b9d-11f1-970b-005056bf30b7/w:1024/p:16x9/000-B9PT664-1.jpg",
-      "coverage": 1,
-      "relevance": 20.69,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "China y su nuevo misil: ¿por qué aumenta la tensión en el Pacífico?",
-      "summary": "China ha elevado la tensión en el Indo-Pacífico tras el lanzamiento de un misil balístico desde un submarino de propulsión nuclear, una demostración de fuerza que ha despertado preocupación entre Estados Unidos y sus aliados en la región. ¿Qué capacidades tiene este sistema? ¿Cómo altera el...",
-      "url": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20260709-china-y-su-nuevo-misil-por-qu%C3%A9-aumenta-la-tensi%C3%B3n-en-el-pac%C3%ADfico",
-      "published": "2026-07-09T16:38:52+00:00",
-      "image": "https://s.france24.com/media/display/84ef13aa-7baf-11f1-88fb-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-AEA-09JUL.png",
-      "coverage": 1,
-      "relevance": 20.39,
-      "sources": [
-        "France 24"
       ]
     },
     {
@@ -501,104 +486,88 @@
       "published": "2026-07-09T14:10:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3ad4/live/ec616b60-7b9f-11f1-88df-c98554e5b30c.jpg",
       "coverage": 1,
-      "relevance": 20.36,
+      "relevance": 18.39,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "OTAN: ¿Trump logró recomponer la relación con sus aliados?",
-      "summary": "La cumbre de la OTAN celebrada en Ankara concluyó con un mensaje de unidad frente a los desafíos de seguridad, pero también dejó al descubierto las diferencias que persisten entre Estados Unidos y varios de sus aliados. Las declaraciones de Donald Trump sobre Groenlandia, el gasto en defensa y...",
-      "url": "https://www.france24.com/es/programas/el-debate/20260709-otan-trump-logr%C3%B3-recomponer-la-relaci%C3%B3n-con-sus-aliados",
-      "published": "2026-07-09T16:10:12+00:00",
-      "image": "https://s.france24.com/media/display/baf2b630-7af8-11f1-a2c2-005056bf30b7/w:1024/p:16x9/2026-07-08T164512Z-1317594312-RC2S9MABLYYO-RTRMADP-3-NATO-SUMMIT-TRUMP.jpg",
-      "coverage": 1,
-      "relevance": 20.21,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU. ataca 170 objetivos iraníes en 48 horas; Teherán responde y bombardea bases estadounidenses",
-      "summary": "Estados Unidos retomó los ataques contra Irán y en las últimas 48 horas atacó unos 170 objetivos, dejando al menos 14 muertos, según el Ministerio de Salud iraní. Teherán afirmó que este 9 de julio bombardeó objetivos militares estadounidenses en Bahréin, Kuwait, Jordania y Qatar en represalia.",
-      "url": "https://www.france24.com/es/video/20260709-ee-uu-ataca-170-objetivos-iran%C3%ADes-en-48-horas-teher%C3%A1n-responde-y-bombardea-bases-estadounidenses",
-      "published": "2026-07-09T14:59:37+00:00",
-      "image": "https://s.france24.com/media/display/4d7ed878-7ba6-11f1-bc5c-005056bf30b7/w:1024/p:16x9/ES-20260709-073221-073350-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.77,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "En imágenes: Irán sepulta a Jamenei en medio de llamados de venganza y ante una nueva escalada bélica",
-      "summary": "Tras una semana de procesiones fúnebres multitudinarias, manifestaciones y ceremonias de duelo, Irán sepulta este jueves 9 de julio a Alí Jamenei, el líder supremo que dirigió el país por 36 años, asesinado por EE. UU. e Israel en el inicio de la guerra hace más de cuatro meses. El entierro en su...",
-      "url": "https://www.france24.com/es/medio-oriente/20260709-en-im%C3%A1genes-ir%C3%A1n-sepulta-a-jamenei-en-medio-de-llamados-de-venganza-y-ante-una-nueva-escalada-b%C3%A9lica",
-      "published": "2026-07-09T14:47:48+00:00",
-      "image": "https://s.france24.com/media/display/3c869d52-7ba2-11f1-b157-005056bf30b7/w:1024/p:16x9/2026-07-09T134329Z-1545016487-RC2DAMAFUJSF-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
-      "coverage": 1,
-      "relevance": 19.69,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿La guerra de EE. UU. contra Irán realmente ha cambiado el régimen ayatolá?",
-      "summary": "Este 9 de julio concluyen los seis días de los multitudinarios funerales públicos del fallecido ayatolá Alí Jamenei, asesinado junto a sus familiares el primer día de ataques de Estados Unidos e Israel contra Irán. ¿Qué mensaje deja la participación masiva en el último adiós al líder de la...",
-      "url": "https://www.france24.com/es/video/20260709-la-guerra-de-ee-uu-contra-ir%C3%A1n-realmente-ha-cambiado-el-r%C3%A9gimen-ayatol%C3%A1",
-      "published": "2026-07-09T13:51:29+00:00",
-      "image": "https://s.france24.com/media/display/653ba7ee-7b9b-11f1-ade5-005056a97e36/w:1024/p:16x9/ES-20260709-071249-072405-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.34,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Tesla, la empresa de vehículos eléctricos de Elon Musk, anunció oficialmente que comenzará a operar en Uruguay",
+      "source": "Google Noticias",
+      "title": "Drones contra puertos, misiles contra ciudades: la nueva fase entre Rusia y Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNd090MzdTVXh4LV85cTFvaEVWM2lpUFh6YzRaMWsyYnQzZC1zeDRycGdUTVk2T2NJZ0RDV0g2VkhTX3ZJQkJad2VzWUoySGNSWDdzVUR2YTFfUFluam12dTdMRU5KSnFZMTVxUG14Z3dvNm95WjF0emZ3akxhYXM1Xy1aWUg2VVRtMlRZUjgwQzR4QUMwMmpwNlVWbDFLVUROV0VpaFlkbjhxLVlVWXVuRHJZck5hZmE1WW9MWFpNem9tZC00eUp5bGdfVmQ2V0dKTUdxNzctUkxERENOeHlXNlJR?oc=5",
-      "published": "2026-07-08T18:47:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY3RtNUJ0c2JqY25xbjNwMnlkX0ZlZ1dzc2RxZkRDMm5IVGUyck5fX2RZOGVJYl9XTmJHWng3S3J1M1BtWjg4cUxtSTJjMjJfbHBkaDh6bGVYZnlnNFRrUXh5bENhcWd2eGE2VUhPTE5pczRjVWJUT2xkckxfR1ptTTFaUTQ4YnNiYTdmckJwSWl0bmxET21VZ1MyUmdsQzVFeHF0YlpvOExZTGdxN2oxWmEyNjNDX3FmYjcxb2EtMTRUYU1P0gHMAUFVX3lxTE5uN2E0b2NKblVBN1lzU3hnQWUzTnl0OGl6MEhDZXlwTVp0ekl0Y0poS2pqZXJ3VFhmRVd6N3hXb1lZaG9sLVYwS2hRSlZEb1ltblJreVVnOUljU3RvWkdOdmJVYWRMM0ZzTENPLWNOemQ3N0JqN1dfeDJyRGliVUhuaEIwdF9ZYThrVFBNQ3FVQmsxREd5OGxNQW1tclZ3TW1pdXo3RzFvTE40bkVGQ3JuMnlLdkdlQTYzSzFTSlR4ZVpGRkhrdUZpazd1NQ?oc=5",
+      "published": "2026-07-09T20:57:20+00:00",
       "image": null,
-      "coverage": 2,
-      "relevance": 22.79,
+      "coverage": 1,
+      "relevance": 18.23,
       "sources": [
-        "El País Uy",
-        "Google Noticias UY"
+        "Google Noticias"
       ]
     },
     {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Tejera Capo: la historia detrás de la camiseta del árbitro uruguayo que se volvió viral en el Mundial 2026",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Estados Unidos golpea 90 objetivos iraníes en nuevos ataques",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZE95NE9qVENmWmZJVHpFN0FrSnBnMm5OQmdwU2pLSHJDTHM4ZTdiS3FvcElzX19jM1dvY0xWRTdJbGFGNlpZdFJrbktrSXFyMFJFeGZxVVBMbU1iVkdROXZYMFQxQXVObzg3WE1DTGFJanlNbnpJSHRhSFFoM1FaY3NiUGJJcjRXS2JtN1laQUk3ZVpmSnBYaHBhMmc0SGRFS29CTmh6cFhHOERZWTRuMU9EVDhIRldFNlBtTzliakVRM1ViN1FhNDF4MmlPY2dNZ3l5LWFwYi1yX3VUQ28xRQ?oc=5",
-      "published": "2026-07-08T15:25:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQlJIeEZ1Q05ZalNSeExvOHNLc2tPdnB1U2dYY3NqVGQ0OEMya05JekJESm0wU2FHQXdEbmxiSWZSdkdSZG1RLWJZV1BzMHFkd251MUlEWDMzWVBveTIxNndJckVGWEhFeUswcWlGdmFaaWlIcGRPZ0RJb2JsT3F6cGE1dEcydzFzNTdqakRscFVKaEZNWGROOXRaQld4TlhMUkZsTDRqVGV5UDJnR090VkRmMHM0M1pu0gG4AUFVX3lxTFBTak81djRuSm1qRjhtQV9wYVBSQ2NzUDhTRDdMbjZ3OG93ZHNKR0Y2S01HVGdBa1ZMdmE5aV9wclVzNnk5U3M5ZC1tdklBcVNRdUJOaVAwRHUta2NHRVlEQlMxeVFhcnJDeWt3WnRnTFVibUp6d2NrYzBCcE9odjBRekxLNUhKYzVQc2lHUDk5cmlQdXgwTUE5Mnhrc0hWX0oyczBvZklDV3hVSUd1WEg4VjR5SUpvam0?oc=5",
+      "published": "2026-07-09T20:11:02+00:00",
       "image": null,
-      "coverage": 2,
-      "relevance": 22.4,
+      "coverage": 1,
+      "relevance": 17.94,
       "sources": [
-        "El País Uy",
-        "Google Noticias UY"
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Ucrania fabricará Patriot: qué implica este apoyo de la OTAN",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ0RwMHNPTHM2QUR3aHFkc1o3cGpNRVMtNllxTU5zLUNYSkdObVFjNkxEZlZIUWpsb1ZQY0V5QVhDaDczYzRPWTU2UHpxYTZFd1RzR3VVR1ViUzVxOENQSW5rNHMxVDFyNHpaNWxobW1WdTdRU0M1emI3c0VIb0doclRVMFVYSjgwakcyVl9JYTk2Ry1JLVgwc3BzTkliemZqNDcyVV9yR0haRHNGNmfSAa4BQVVfeXFMTkNBdUJjMGxsWm9ZbkZhZ0dMaU52ZUp2UjZJNnVSU0VXS1BScXJJMHV3WUt5cGpNMEl5U3JwVnFIbmtMVENiRlFtc3l2TGVOYkwwYnNRMjJWZlNVczQxa0FjX0I0OVFoVUM0cVJreVRLWU94RU44eTVPNkV3TVdfSzVLTzlXOUlMM2l0MjJkTGs1MEM0U0dZY19ha25xdThzUWFJZkNOUk9iT0dhdXhn?oc=5",
+      "published": "2026-07-09T18:38:24+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.36,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "\"Ataque israelí mata en Gaza al organizador de la proyección del Mundial\": 'Arab News'",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOLTRGVng1bEExd2tPM1VMdWpZNjhJeWcxU0RkNzNWV1lFTE1KMXBCYmVTZnlFM0E5WXNtWjV1NGIycUp5bnZpQzZFT1I0WlhzcmRST2p1bk9KT2xZQU9la2d2SmhYY2t4R1hTcThkUmdrMjVLdTFxeTF6Y3lUMGpna19MeVVhTFJQTzFnUjN3dVQyVFlVMVJWMEtzUFNzY3REeWtQV3dIME52dVcybXlpQW9WTVVJQVRXTEN3b3R2Q2YxWjIwVnZEMjFocEFwd1ZycGlzTWlmNEZnV2ItSTNEX25qZjF6bDNpSFpIeg?oc=5",
+      "published": "2026-07-09T18:26:17+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.29,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Medio Oriente: Emiratos Árabes Unidos denuncia ataque de Irán con misiles balísticos a base de EEUU hoy",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOem00RHNVdHQzSm5veGRQN1l4TElEUVU2ZDVvTzBUV1VLNHRxVnNod1g3YUdTVEc3aHQzeko0c2J3TWdJUTlJaVFnWk5WSjUtSHp2dVdtRlB5bWdwMldaanlBV3FkRk16QjV2emxPUkV4ZmhWNXhNdWFDbzBPOWp2M3c5RWJCSGk5bGU4V011TXdRWmhfa2hpdlpFRnhvR0FydDU4Mm8tbXppMUxWY19QUGFka0lhSkdjYTg3Z0lDai13ellvTi1FWXJkQ01KbGFnWldmcmlmeFE2NFE?oc=5",
+      "published": "2026-07-09T17:13:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.83,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Desde el Instituto Clemente Estable expresan alarma ante recorte de 18 cargos presupuestados de la Rendición de Cuentas",
-      "summary": "Comunicado sostiene que la “sorpresiva” supresión de los cargos compromete “severamente las capacidades para desarrollar investigación, formar recursos humanos, generar conocimiento y realizar actividades en territorio”.La Ley de Rendición de Cuentas y Ejecución Presupuestal, en su artículo 285,...",
-      "url": "https://ladiaria.com.uy/ciencia/articulo/2026/7/desde-el-instituto-clemente-estable-expresan-alarma-ante-recorte-de-18-cargos-presupuestados-de-la-rendicion-de-cuentas/",
-      "published": "2026-07-09T17:35:55+00:00",
+      "title": "Con la presencia de Orsi, presidente de OSE presentó el nuevo plan de obras de saneamiento para Juan Lacaze",
+      "summary": "Se invertirán 15 millones de dólares en tendidos de red, pozos de bombeo y planta de tratamiento de aguas residuales; las obras comenzarán en el último trimestre de este año y culminarán a fines de 2027.Este jueves, en el Centro Cultural Don Bosco de Juan Lacaze, con la presencia del presidente...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/con-la-presencia-de-orsi-presidente-de-ose-presento-el-nuevo-plan-de-obras-de-saneamiento-para-juan-lacaze/",
+      "published": "2026-07-09T22:50:26+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.84,
@@ -609,13 +578,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Comerciantes de Avenida España manifestaron preocupación con la obra que desarrollará la intendencia en la zona",
-      "summary": "Temen la afectación de la circulación, la posible baja de las ventas y el perjuicio por los empleos que se perderían.Desde al menos el inicio de la actual gestión del reelecto intendente Nicolás Olivera, se sabe que la emblemática Avenida España sería remodelada. Ante esto, los comerciantes...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/7/comerciantes-de-avenida-espana-manifestaron-preocupacion-con-la-obra-que-desarrollara-la-intendencia-en-la-zona/",
-      "published": "2026-07-09T17:23:34+00:00",
+      "title": "El gobierno brasileño restringirá la publicidad de sitios de apuestas y advertirá sobre perjuicios contra los consumidores",
+      "summary": "Las nuevas normas exigen la inclusión de advertencias en todos los anuncios, prohíben la publicidad que fomente las apuestas como una forma de inversión y endurecen las sanciones.El gobierno brasileño, que lidera el presidente Luiz Inácio Lula da Silva, impulsará una serie de normas destinadas a la...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/el-gobierno-brasileno-restringira-la-publicidad-de-sitios-de-apuestas-y-advertira-sobre-perjuicios-contra-los-consumidores/",
+      "published": "2026-07-09T22:41:18+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 19.78,
       "sources": [
         "La Diaria"
       ]
@@ -623,13 +592,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El proyecto Broli: por qué la AUF lo quiere otra vez adentro",
-      "summary": "El técnico campeón del mundo sub 20 evalúa volver a dirigir la juvenil y hacerse cargo de los amistosos de la mayor, en un escenario en el que la elección del técnico definitivo quedaría para después de las elecciones de 2027.Marcelo Broli vuelve a estar en el centro del proyecto de selecciones de...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/el-proyecto-broli-por-que-la-auf-lo-quiere-otra-vez-adentro/",
-      "published": "2026-07-09T17:00:00+00:00",
+      "title": "Venezuela pide que se liberen sus fondos congelados en el exterior para atender la crisis que dejaron los terremotos",
+      "summary": "La OPS y la Oficina de Asuntos Humanitarios de la ONU advirtieron que la emergencia continúa y que es necesario trabajar en la reconstrucción y la atención a largo plazo de los damnificados.El canciller venezolano, Yván Gil, llamó públicamente a los países de la Organización de las Naciones Unidas...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/venezuela-pide-que-se-liberen-sus-fondos-congelados-en-el-exterior-para-atender-la-crisis-que-dejaron-los-terremotos/",
+      "published": "2026-07-09T22:36:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.62,
+      "relevance": 19.75,
       "sources": [
         "La Diaria"
       ]
@@ -637,13 +606,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Asumieron nuevas autoridades en la Junta Departamental de Colonia",
-      "summary": "“El relacionamiento entre bancadas durante este período viene siendo mucho mejor que en años anteriores”, valoró el edil Emmanuel Martínez.Este miércoles, la Junta Departamental de Colonia eligió a las nuevas autoridades que conducirán la institución legislativa durante los próximos 12 meses. En...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/asumieron-nuevas-autoridades-en-la-junta-departamental-de-colonia/",
-      "published": "2026-07-09T16:52:09+00:00",
+      "title": "Francia le ganó 2-0 a Marruecos y es el primer semifinalista",
+      "summary": "El equipo africano, de buen Mundial, vuelve a ser eliminado por los galos como en Qatar.Con goles de Kylian Mbappé y Ousmane Dembelé, Francia superó a Marruecos y sigue su camino en el Mundial, después de haber sido campeón y finalista en las últimas dos ediciones. El equipo africano, que no llegó...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/francia-le-gano-2-0-a-marruecos-y-es-el-primer-semifinalista/",
+      "published": "2026-07-09T22:19:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.57,
+      "relevance": 19.65,
       "sources": [
         "La Diaria"
       ]
@@ -651,13 +620,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La Coalición Republicana anunció que no votará en general la Rendición de Cuentas",
-      "summary": "El Partido Nacional, el Partido Colorado y el Partido Independiente afirmaron que hasta ahora hay “un mal gobierno, sin liderazgo y sin rumbo, y con importantes retrocesos en distintas áreas”.Sobre el mediodía de este jueves, a menos de 24 horas de la comparecencia ante el Parlamento del ministro...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/la-coalicion-republicana-anuncio-que-no-votara-en-general-la-rendicion-de-cuentas/",
-      "published": "2026-07-09T16:45:55+00:00",
+      "title": "El Poder Ejecutivo presentó el proyecto de competitividad en comisión de Senadores, donde hay un “apoyo en términos generales”",
+      "summary": "El senador nacionalista Sergio Botana consideró que “si el gobierno tiene la cabeza abierta, podemos hacer una gran ley”, pero advirtió que el “tema del tipo de cambio no debe estar ajeno” a la mejora de la competitividad.En el marco del tratamiento del proyecto de ley sobre competitividad y...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/el-poder-ejecutivo-presento-el-proyecto-de-competitividad-en-comision-de-senadores-donde-hay-un-apoyo-en-terminos-generales/",
+      "published": "2026-07-09T22:18:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.53,
+      "relevance": 19.64,
       "sources": [
         "La Diaria"
       ]
@@ -665,13 +634,41 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Agustín Canobbio: “Nos faltó, hay que asumirlo”",
-      "summary": "El volante ofensivo y Joaquín Piquerez se expresaron por primera vez luego de la eliminación de Uruguay en el Mundial.Luego de la eliminación de Uruguay en el Mundial 2026, fueron pocos los futbolistas que se expresaron públicamente. El primero, y el único en dar una entrevista, fue Sebastián...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/agustin-canobbio-nos-falto-hay-que-asumirlo/",
-      "published": "2026-07-09T16:15:32+00:00",
+      "title": "¿Puede reinventarse el Estado? La apuesta de la Intendencia de Montevideo por innovar desde adentro",
+      "summary": "La comuna creó la Gerencia de Innovación Pública para cambiar la forma en que diseña políticas. La iniciativa busca introducir experimentación, IA y trabajo colaborativo en un Estado pensado para desafíos de otro siglo.Los gobiernos enfrentan desafíos cada vez más complejos: inteligencia artificial...",
+      "url": "https://ladiaria.com.uy/futuro/articulo/2026/7/puede-reinventarse-el-estado-la-apuesta-de-la-intendencia-de-montevideo-por-innovar-desde-adentro/",
+      "published": "2026-07-09T22:09:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.34,
+      "relevance": 19.58,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Trump y el mundo mundial",
+      "summary": "En la Copa del Mundo, frente a un campeonato secuestrado, la urgencia es no naturalizar el precedente y defender que los partidos vuelvan a decidirse en la cancha | Chanfle.Este mundial tiene varias patas: el de su desarrollo con los 48 participantes, el de su juego, el de la aplicación del VAR, el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/trump-y-el-mundo-mundial/",
+      "published": "2026-07-09T21:23:38+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.3,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Orsi sobre su deuda del Impuesto de Primaria: “Tengo que tener más cuidado”",
+      "summary": "“Es un tema, a veces, tener claro todo lo que tenés que hacer. Son procesos que son lentos y uno a veces se deja estar”, expresó el presidente de la República.“Lo resolvimos, por suerte lo resolvimos”, dijo este jueves el presidente de la República, Yamandú Orsi, en Colonia cuando fue consultado...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/orsi-sobre-su-deuda-del-impuesto-de-primaria-tengo-que-tener-mas-cuidado/",
+      "published": "2026-07-09T21:22:26+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.29,
       "sources": [
         "La Diaria"
       ]
