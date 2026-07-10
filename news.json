@@ -1,6 +1,63 @@
 {
-  "updated_at": "2026-07-10T17:39:08.884549+00:00",
+  "updated_at": "2026-07-10T22:47:55.817525+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Apple demanda a Open AI ante un Tribunal de EE UU por robo de información confidencial",
+      "summary": "El gigante estadounidense de la tecnología acusa a antiguos empleados de sustraer datos sobre diseños de productos o procesos de fabricación",
+      "url": "https://elpais.com/economia/2026-07-10/apple-demanda-a-open-ai-ante-un-tribunal-de-ee-uu-por-robo-de-informacion-confidencial.html",
+      "published": "2026-07-10T21:03:24+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/AAKYJHLVDVIT3FUSITG4O37NWY.jpg?auth=c137c3062db2d0f38fcc9cd8a6513e3cd6b56b39bf393dea66d45f9d55d9d862",
+      "coverage": 2,
+      "relevance": 30.75,
+      "sources": [
+        "El País Eco",
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "“Hay una especie de debilidad cambiaria”: un ex viceministro de Economía de Caputo pidió la liberación total del cepo al dólar",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT2Y2a0FRMVNsNTg1anA1ZWR5X25veHljQ2drV1I1NExqaFBvN2ZsdHVaay1sQmRXVm9sQW54QkpEbk01dEtENl9LMUMyTXBZY3R1alNhOGMxSjM2eWFNakY2d2ZOc3BXbHdWTWtRbFJTZ1BTRVVJaS1GYWxuaURjQlNEV3hxOFBFLUROTGhtbHRmcXhzQVd1QmRFSmZUZGNocGREb0dpOXMzc0tZS3F6Uk4wbWp4eC1tZ25md2dvc1BDdHFxUHlnR2FDQ05vMFRLN2Rvb1J2R2J6a3hodjVxUXlTdU5RNHdDZXRsRlVXMXFxUjdFUTlCSk5KcEHSAZcCQVVfeXFMTTdGdWpJVVRSdUZCYUp1empwWEh0MVBDWEYxSXA3Y0N0ZFNzbFNBckNxY3lxYkFUOWJPUHY0ZjZlV1dVdkdFVXliQkgzSXdlalJTWlNic2pLMG5mUm15VjdNeVZfVUFyYUFqelpjeklvS0E0aVVZa01ETDBsbDV1NUgxbDQwSUZQX3RJV3ZWenAzbnpLN3hiSl9YT3Yzb3hfNkJfa1FnTGtnZl96TG1uZngzUWdSSG1uRUZ3MHNNWjBsLURRbGZ4YVdJUGw0N0dOU3hveUdjRUdpYWo3SHVjUXN4ZFhObVNuQ01TUjJqVzBHWnVQUERUbnpiM05JQkxfeTkwX05yNVhBRFlpZU9aZTR0NGZDVlFB?oc=5",
+      "published": "2026-07-10T22:38:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.94,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este viernes 10 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2FJdk5EYmJxNWRTOWJWMlNEaDA0cHBfQWpuR3hQekpubV9GY2FnWmtLU2lTa3pieUpnY1B2NXB4YW52djZMVFQyeTgta2Q3M3NHeUFZc1YydzJhLXgwbHhQVjZvTWhLODV5VXNwWGkxeDk1Z3c3VDVUc0NaSzZycUFzNHZzSGdTZVcxU1BSNXNYbXRHQktITWpMenpYT1htdHN0X0ItVnZBeDFo0gHHAUFVX3lxTE5DSEtrQmJ5UWlfNGJvLWZQUW5nMUZtOG45bjVlQ01fLTJTenJNRUFhb2xaNVVJUTdweWdhcE4wSEJWZWRUX2FkUFFPdE1DR3VEZElKTVpXUkVYUWk5MVdJeVpHSWNDaUxadjNtUWl5TFpWSW1ob0ZsNEhEWTJ3Z256czlnWEEtQk5TZGM0UUtDSWtCZmdhUXNFUXFNNDJGVG5LWDl5NHMzdm5ud2ZhWldiVXEtNkNoY0Q1d01xMlVfbE1menZjbVE?oc=5",
+      "published": "2026-07-10T22:00:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.7,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este viernes 10 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObm54YXhJcHBtU2Y4VGtoMXV2X0xaMURuem1pSlVhVnlLVnU3aFJzd1poVDIxemJtYnkxSFJGUVBfNXNlOEdOTzl4VjVOcFFrTWplWUhEN1BmbzJoMFFlRTVzNjlIdjl4YUdFQlNiRlhmZFVNOTB3UHc2UDNJZzJkNHd5dlVMbThISFo1SnpNMWtRczZrLTExT1ZTblNHSDNUZGtVR2x1ZHBCSkV0Z0lxeGtfckdBSFdlckZmRmpaUdIB2gFBVV95cUxQM2dZSVdnazhENmp4cGtUS3p1RDBwWG9DbGUwd1cwdHE0al96bjI5czFnNVlOcjJLank3eTBKYU5PR1c0RUtqdWFSUFZnYU0wYWNkVVFRalBzMk5lN01TVmRyTno4Z2tZT3RmYzZacWlvZXRmYlVPMC00ejdEZ1NQR0FWdnB5STF3aU04ZldjdEMtR1FodlJoMU9LcXdNMnBLMkFmQXhTZmFUMmlycDJtNTM2R2tfUG5FR3BETDVDcktEeHZyNEZsQ2Z6eFliUnk0UGxMR2t4TC0zdw?oc=5",
+      "published": "2026-07-10T22:00:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.7,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,9 +67,23 @@
       "published": "2026-07-10T15:34:25+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/NTJABZH4ORL4DEEQS2IJGU6C5E.jpg?auth=e81586e839a7bcebb7b783b09406887b7595b930f090e474a35e0d11da28652d",
       "coverage": 1,
-      "relevance": 20.62,
+      "relevance": 18.69,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "¿Por qué el dólar ha bajado tanto las últimas semanas? Este es el análisis de la fluctuación de la divisa en Colombia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNOVFSOV9iS1JicUlwZC1pdUpmVWVMcXNZVkt2VUVFWHBudDJkVGxjTHllRXY1ZW8yTTBFUEJhTXRNOGtyR3hoOFB4NUo4c1lVXzFDS3lFd2l3eEpBYVV2NEhFQm5XeTJWWEI2U1l5UFJSbkQtSDFlXzhjSFdKTDVzZXpaaEhWTzRjWk9UM28tSDhMbjhzR1k0bnVVdHhyaTl5MmpXdVZDTHJsSU9TZGlobEdzMmJpaHY4QVRlVm9sa3ktUURtUE5wY3pqLUI2RUVuZDBOa3lkZE5fSGJKalhQTVJQMk1UT3pwOHl2eHBkaFV3S0xyMU1ZSzdkOXZ4RWNvZ2dUOFZPbmQtcW1vODBn0gGPAkFVX3lxTE05UVI5X2JLUmJxSXBkLWl1SmZVZUxxc1lWS3ZVRUVYcG50MmRUbGNMeWVFdjVlbzJNMEVQQmFNdE04a3JHeGg4UHg1SjhzWVVfMUNLeUV3aXd4SkFhVXY0SEVCbld5MlZYQjZTWXlQUlJuRC1IMWVfOGNIV0pMNXNlelpoSFZPNGNaT1Qzby1IOExuOHNHWTRudVV0eHJpOXkyald1VkNMcmxJT1NkaWhsR3MyYmlodjhBVGVWb2xreS1RRG1QTnBjemotQjZFRW5kME5reWRkTl9IYkpqWFBNUlAyTVRPenA4eXZ4cGRoVXdLTHIxTVlLN2Q5dnhFY29nZ1Q4Vk9uZC1xbW84MGc?oc=5",
+      "published": "2026-07-10T21:14:39+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.42,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,7 +95,7 @@
       "published": "2026-07-10T14:47:54+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/UWF52VZEEFBR7F4VKRWYWXX6FE.jpg?auth=36beca8ea156bbf358f9517bed9985f419c5472f2375727c77e0c8d6456ec0f8",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 18.4,
       "sources": [
         "El País Eco"
       ]
@@ -38,79 +109,51 @@
       "published": "2026-07-10T12:42:52+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ZKPTJX3CMBGSFJDE7HYAZ5B55I.jpg?auth=a9128f980c7cde37132848fbdd55a87b5cdf894db1fbfb3e37490564788dc7dd",
       "coverage": 1,
-      "relevance": 19.55,
+      "relevance": 17.62,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Hacienda envía las primeras cartas a las comunidades para acelerar la nueva financiación y se abre a negociar cambios",
-      "summary": "El Gobierno recuerda a autonomías y grupos parlamentarios que pueden debatir en las reuniones técnicas, en el Consejo de Política Fiscal y en el Congreso",
-      "url": "https://elpais.com/economia/2026-07-10/hacienda-envia-las-primeras-cartas-a-las-comunidades-para-acelerar-la-nueva-financiacion-y-se-abre-a-negociar-cambios.html",
-      "published": "2026-07-10T12:39:16+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/VODSRNU67VMNHPN7WMXYA7AJSM.jpg?auth=191b742e36d4f1768a691253ca44744b4ced12549ad2a02545b3e7687aeac942",
-      "coverage": 1,
-      "relevance": 19.53,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "2027: la elección donde el mercado volverá a mirar al dólar",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVndGc1Ixb1c5aUhJa0RqdUxHYzQ4TmFKNWpCNm1Fc1I3VEkwS2NyanhuNzJzc1doNnI3ekdxRjZKSEwxVWVCa25JZFRjQ3Zpd0RIWkVjVjdJdjMyYU1yZmlPM01uNFhJQUZvaU5vRjlqZkhlQ2FTT2NPQ2VzRnhrUkR2aFBQSFVXbElWbWNCRlRDeUVBWDBJWEtQM3RSQ09rTXVTbk5tMNIBrAFBVV95cUxPSDJOeVU4N0J4Y3dDZlFXckduaHpMZjJqSDFjbjcwdVdVZjdqLWdaMkN4SU1LWWJZam1Za3F0aEFPVHIwb3F5eXp2NmdBSkMwbVBxNEs3UE5UVXQ3OHc1a3FaMWdvQzMxcnBjdUE1V3pobXFKN1NJcHFUcURQdFQtRjJQM0hGTmtkNHdhYXRHNjNCckRGQjdLOUd0RmcwQzdHUFhzUzZkOWFhS05Q?oc=5",
-      "published": "2026-07-10T17:07:38+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "La estabilidad: la virtud olvidada que san Benito proponía",
+      "summary": "En una época en la que cambiar de pareja, trabajo o incluso de objetos materiales -como el guardarropa o el teléfono celular- parece casi una obligación, san Benito propuso hace más de 1,500 años una virtud que hoy suena contracultural: la estabilidad. Y aunque la estabilidad suele asociarse con...",
+      "url": "https://es.aleteia.org/2026/07/10/la-estabilidad-la-virtud-olvidada-que-san-benito-proponia/",
+      "published": "2026-07-10T21:58:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 19.89,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este viernes 10 de julio?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZUJTY3duQlk2aV95aEdib3FSMDI1MFVzb3FOYmZ5clhpSTNwV3hWWkRhSDdiWndSd2dTSFRDaXUxSGx3LUt5ekRyTnlEZXpzUkZvbF9mTFN0MTUxM3dBa1Z0cV9rd1AzdDFoVjJhbEw0eTVQVURzMWt1aVg4OVp5U2pKWGFmUl83TDZGbk1OR0Jzc3czLWtiVFE4YlF3NnotTWZiSjh5WFkzVkUxbWNIM0I2STN1Y3d2TF9aS3I5ZE92TzNSNk1ZMy1TRzdKOEJhMUxUbHZaTVlLSzVZdFFFVzhVdDBKLTlqdWQ1ZWVTRjdkcFlnNmNhaVU0ai1YN2lH?oc=5",
-      "published": "2026-07-10T15:11:56+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Hablar del pecado causa daño psicológico en las personas?",
+      "summary": "No cabe duda de que estamos viviendo una época en la que se da mucha importancia a la parte emocional, queriendo proteger a pequeños y grandes de todo lo que pueda causar daño psicológico. Se ha llegado al límite de la ofensa tan solo por mencionar la palabra “pecado”, pero imaginemos por un...",
+      "url": "https://es.aleteia.org/2026/07/10/hablar-del-pecado-causa-dano-psicologico-en-las-personas/",
+      "published": "2026-07-10T19:23:55+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.08,
+      "relevance": 18.92,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El ‘Greenspan put’ y la compleja relación de Wall Street con la Fed",
-      "summary": "La perspectiva de que el banco central hará amainar las tormentas financieras es parte del legado de su expresidente que, al igual que ahora Warsh, convivió con la fiebre tecnológica",
-      "url": "https://cincodias.elpais.com/mercados-financieros/2026-07-10/el-greenspan-put-y-la-compleja-relacion-de-wall-street-con-la-fed.html",
-      "published": "2026-07-10T08:28:34+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/4UN24IZDSJOQPKAVDEJRFWUWCA.jpg?auth=bced9a8e0e18968709705c83a9b85ae2228a22160269041226a85c75bf5e9a85",
-      "coverage": 1,
-      "relevance": 17.96,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Gana terreno el peso mexicano: Precio del dólar hoy y cómo ha fluctuado en julio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEVlU19aakF3OHZ4MHpZTlVEQ0pkNll4LWlOSl9fV0xmanBHQXdLaHhOcnFwZDVXSC1KZmQ0Z0UyWDJ2S1VCUldCb0pWYTZ1cWJ5LTFNMkNKU3dHeWNsQVk3azloYWJ4WU5DYWgxQmcybEFzX0hUQVoyeHR4dlV5UXJrRlF6c1hHY0hkbjBYZUF2UFIwRVlVTW12NHEtaTEyZDRURldHOVU2MzZXZ1Fab1pfYw?oc=5",
-      "published": "2026-07-10T14:48:12+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "La autoridad compartida en la educación de los hijos",
+      "summary": "En el amplio ambiente de la vida familiar, donde el tiempo se teje con hilos de risas, lágrimas y silencios compartidos, está la autoridad en la educación de los hijos, que emerge como una obra maestra que exige de las dos manos unidas: las de papá y mamá. No se trata de una coreografía perfecta,...",
+      "url": "https://es.aleteia.org/2026/07/10/la-autoridad-compartida-en-la-educacion-de-los-hijos/",
+      "published": "2026-07-10T18:09:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.93,
+      "relevance": 18.46,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +165,7 @@
       "published": "2026-07-10T15:39:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/10/16/1783694467978.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 18.12,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +179,7 @@
       "published": "2026-07-10T14:49:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/10/16.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.74,
+      "relevance": 17.81,
       "sources": [
         "Vatican News"
       ]
@@ -150,7 +193,7 @@
       "published": "2026-07-10T14:16:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2025/12/09/06/1765259232615.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.53,
+      "relevance": 17.6,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +207,7 @@
       "published": "2026-07-10T15:45:37+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.49,
+      "relevance": 17.56,
       "sources": [
         "Aleteia"
       ]
@@ -178,63 +221,35 @@
       "published": "2026-07-10T13:57:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2024/02/20/02/1708391050185.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.41,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "García Cuerva: “La única salida es ser como el Buen Samaritano”",
-      "summary": "La República Argentina celebra su Independencia y, en este marco, el arzobispo de Buenos Aires, Monseñor Jorge Ignacio García Cuerva, presidió el tradicional Te Deum en la Catedral Metropolitana. Durante su homilía, inspirada en la parábola del Buen Samaritano, invitó a superar la indiferencia, la...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/argentina-aniversario-independecia-dialogo-samaritano-cuidado.html",
-      "published": "2026-07-10T13:41:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/10/tavola-da-disegno-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.31,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Oleada de incendios en España: “Dios conoce cada nombre”",
-      "summary": "“Dios no permanece lejos del sufrimiento humano, sino que lo abraza y camina con nosotros en las noches más oscuras. Él conoce cada nombre, cada historia y cada vida truncada”. Lo recordó el obispo de Almería, Antonio Gómez Cantero, tras la muerte de al menos 11 personas en uno de los incendios que...",
-      "url": "https://es.aleteia.org/2026/07/10/oleada-de-incendios-en-espana-dios-conoce-cada-nombre/",
-      "published": "2026-07-10T14:56:46+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.19,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Agustín y los dos sermones hallados en Polonia",
-      "summary": "Entrevista con Christian Tornau y el padre Giuseppe Caruso sobre el hallazgo, en un códice sajón, de dos textos inéditos atribuidos al obispo de Hipona Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/agustin-y-los-dos-sermones-hallados-en-polonia.html",
-      "published": "2026-07-10T13:14:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/09/hlt5hvqwqaazib.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.14,
+      "relevance": 17.48,
       "sources": [
         "Vatican News"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "China acaba de encontrar una enorme tabla de salvación en mitad de sus inundaciones: coches eléctricos que son baterías móviles",
-      "summary": "Voy a contaros una pequeña anécdota de lo que se mueve detrás de algunos textos. Durante un tiempo, entre las marcas de coches se puso de moda poner una cafetera en las presentaciones para mostrarnos las ventajas de la tecnología V2L o Vehicle to Load, en inglés. Buena parte de los coches...",
-      "url": "https://www.xataka.com/movilidad/china-acaba-encontrar-enorme-tabla-salvacion-mitad-sus-inundaciones-coches-electricos-que-baterias-moviles",
-      "published": "2026-07-10T17:31:57+00:00",
-      "image": "https://i.blogs.es/b1cfb3/cargador-moviles-coches-nev-china/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Esta función de Windows 11 puede consumir toda tu memoria RAM sin avisarte",
+      "summary": "Windows 11 tiene una función que se está comiendo la RAM desde hace casi 3 años y lo peor de todo es que no hay solución. Miles de personas han reportado un consumo excesivo de la RAM tras usar la aplicación Enlace Móvil (Phone Link), que permite sincronizar el móvil con el sistema operativo. En...",
+      "url": "https://hipertextual.com/software/windows-11-phone-link-consumo-ram/",
+      "published": "2026-07-10T20:40:25+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/12/windows-11-wey-ya.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.46,
+      "relevance": 19.4,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "OpenAI quería simplificar sus productos de IA. Ha terminado con una ensalada de ChatGPT, Atlas y Codex",
+      "summary": "Si te habías acostumbrado a abrir la aplicación de ChatGPT y trabajar siempre desde el mismo lugar, al actualizar puedes encontrarte con una experiencia bastante distinta. OpenAI está reorganizando sus productos y, con ellos, las rutinas de quienes ya habían convertido sus soluciones en...",
+      "url": "https://www.xataka.com/robotica-e-ia/openai-queria-simplificar-sus-productos-ia-ha-terminado-ensalada-chatgpt-atlas-codex",
+      "published": "2026-07-10T19:31:57+00:00",
+      "image": "https://i.blogs.es/9f1dd3/openai-portada/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.28,
       "sources": [
         "Xataka"
       ]
@@ -242,13 +257,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Llevamos años metiendo plátano en los batidos de frutos rojos. La ciencia dice que es justo lo que no deberíamos hacer",
-      "summary": "Aunque siempre será mejor opción tomar la fruta entera, los smoothies y batidos de frutas son una buena forma de comer saludable, especialmente con el calor del verano. A la hora de prepararlos llega el momento de experimentar y probar distintas mezclas y combinaciones de sabores. Sin embargo,...",
-      "url": "https://www.xataka.com/espacio/llevamos-anos-metiendo-platano-batidos-frutos-rojos-ciencia-dice-que-justo-que-no-deberiamos-hacer",
-      "published": "2026-07-10T17:01:58+00:00",
-      "image": "https://i.blogs.es/ac074d/frutos-rojos-y-platano/1024_2000.jpeg",
+      "title": "No es que un centro de datos de Meta consuma mucha o poca agua. Es que está contaminándola",
+      "summary": "La IA es bastante impopular entre los ciudadanos estadounidenses. Según una encuesta reciente, la mayoría cree que va a suponer un impacto negativo en la sociedad. Hay algo en concreto que se ha ganado el rechazo de gran parte de la población: los centros de datos, y la verdad es que motivos no les...",
+      "url": "https://www.xataka.com/robotica-e-ia/no-que-centro-datos-meta-consuma-mucha-poca-agua-que-esta-contaminandola",
+      "published": "2026-07-10T19:01:58+00:00",
+      "image": "https://i.blogs.es/6efc0d/meta-contaminacion/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.27,
+      "relevance": 19.09,
       "sources": [
         "Xataka"
       ]
@@ -256,13 +271,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Una pregunta recorre las comunidades de vecinos: permite o no la Ley de Propiedad Horizontal disfrutar la piscina a los morosos",
-      "summary": "Viernes de mediados de julio. Cualquier ciudad de España. Cinco de la tarde. El termómetro ronda los 35ºC y no hay forma de refrescarse en casa, así que decides ponerte el bañador, echarte una toalla al hombro y bajar a la piscina comunitaria, donde algunos vecinos llevan ya horas en remojo. Todo...",
-      "url": "https://www.xataka.com/magnet/pregunta-recorre-comunidades-vecinos-permite-no-ley-propiedad-horizontal-disfrutar-piscina-a-morosos",
-      "published": "2026-07-10T16:31:57+00:00",
-      "image": "https://i.blogs.es/848362/nick-page-m7noqbyboa8-unsplash/1024_2000.jpeg",
+      "title": "Peter Thiel ha firmado el alquiler de oficinas más caro de Miami. Quedarse en Silicon Valley le puede salir aún más caro",
+      "summary": "Un contrato de alquiler no suele dar para titulares, excepto si es el de un piso céntrico en Madrid o Barcelona por menos de 600 euros. En ese caso, sería un milagro. Pero cuando el firmante es uno de los nombres que definieron Silicon Valley y su destino es Florida, la cosa cambia. Tal y como...",
+      "url": "https://www.xataka.com/empresas-y-economia/peter-thiel-uno-puntales-silicon-valley-su-mudanza-record-a-florida-clavo-ataud-california",
+      "published": "2026-07-10T18:45:57+00:00",
+      "image": "https://i.blogs.es/c24f64/peter-thiel-se-va-a-miami/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.08,
+      "relevance": 18.99,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Motorola está por lanzar su móvil más potente y llegará con una batería que dura tres días",
+      "summary": "Motorola tiene un nuevo as bajo la manga y esta vez no apunta a la gama de entrada. El fabricante está a punto de presentar el nuevo Edge 70 Max, un móvil que llegará con un potente procesador de Qualcomm y una batería de miedo. Motorola confirmó que su terminal estará disponible a partir de […]...",
+      "url": "https://hipertextual.com/mobile/motorola-edge-70-max-snapdragon-bateria/",
+      "published": "2026-07-10T19:28:41+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/motorola-edge-70-max.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.95,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hoy en Netflix, una película de terror y acción de las que marcan época: el cine de vampiros no volverá a ser el mismo",
+      "summary": "Ryan Coogler escribe, dirige y produce 'Sinners', una historia ambientada en el Delta del Mississippi durante la era de las leyes de Jim Crow y que recaudó cerca de 370 millones de dólares en todo el mundo partiendo de un presupuesto situado entre 90 y 100 millones. En junio de 2025, cuando la...",
+      "url": "https://www.xataka.com/streaming/hoy-netflix-pelicula-terror-accion-que-marcan-epoca-cine-vampiros-no-volvera-a-ser",
+      "published": "2026-07-10T18:31:58+00:00",
+      "image": "https://i.blogs.es/6f5598/captura-de-pantalla-2026-07-10-a-las-17.33.55/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.9,
       "sources": [
         "Xataka"
       ]
@@ -270,13 +313,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Adiós a la alfombrilla: Xiaomi lanza su primer ratón inalámbrico con sensor omnidireccional TOG",
-      "summary": "Si eres de los que teletrabajan en cafeterías, viajan a menudo o simplemente tienes un escritorio de cristal en casa, sabrás lo molesto que es depender siempre de una alfombrilla para que el ratón responda. Xiaomi quiere acabar con este problema de raíz. La firma asiática acaba de presentar en...",
-      "url": "https://www.xataka.com/seleccion/adios-a-alfombrilla-xiaomi-lanza-su-primer-raton-inalambrico-sensor-omnidireccional-tog",
-      "published": "2026-07-10T16:15:58+00:00",
-      "image": "https://i.blogs.es/35d21e/xiaomi-wireless-mouse-4-pro/1024_2000.jpeg",
+      "title": "Marshall renueva sus icónicos altavoces domésticos: los nuevos Acton IV y Stanmore IV prometen un sonido más envolvente",
+      "summary": "Marshall acaba de actualizar los dos pilares fundamentales de su catálogo de audio para el hogar. Los nuevos Acton IV y Stanmore IV llegan al mercado manteniendo intacta esa reconocible estética inspirada en los amplificadores de guitarra clásicos, pero introduciendo importantes mejoras acústicas y...",
+      "url": "https://www.xataka.com/seleccion/marshall-renueva-sus-iconicos-altavoces-domesticos-nuevos-acton-iv-stanmore-iv-prometen-sonido-envolvente",
+      "published": "2026-07-10T18:15:57+00:00",
+      "image": "https://i.blogs.es/cc52bc/marshall-acton-iv-y-stanmore-iv/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 18.8,
       "sources": [
         "Xataka"
       ]
@@ -284,55 +327,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Los expertos tienen claro que Ozempic no es perfecto: \"Perder peso no significa automáticamente mejorar todos los aspectos de la salud\"",
-      "summary": "Vivimos en la que muchos consideran la edad de oro de la farmacología contra la obesidad, puesto que en los últimos años, medicamentos basados en los análogos del GLP-1 y otros receptores, como la semaglutida o la tirzepatida, han revolucionado el abordaje médico del exceso de peso, prometiendo...",
-      "url": "https://www.xataka.com/medicina-y-salud/expertos-tienen-claro-que-ozempic-no-perfecto-perder-peso-no-significa-automaticamente-mejorar-todos-aspectos-salud",
-      "published": "2026-07-10T16:01:58+00:00",
-      "image": "https://i.blogs.es/e7a5b4/ozempic/1024_2000.jpeg",
+      "title": "TikTok nos ha convencido de que necesitamos duchas de 50 minutos. La OMS tiene un límite mucho más estricto",
+      "summary": "Las redes sociales cada cierto tiempo viralizan algún reto o un hábito que para muchas personas no estaba en su radar. El último de estos es una gran tendencia de autocuidado de la generación Z que ha sido bautizado como \"Everything Shower\" o en español como las \"olimpiadas de la higiene\". El...",
+      "url": "https://www.xataka.com/medicina-y-salud/tiktok-nos-ha-convencido-que-necesitamos-duchas-50-minutos-oms-tiene-limite-mucho-estricto",
+      "published": "2026-07-10T18:01:58+00:00",
+      "image": "https://i.blogs.es/0d90fb/ducha/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.89,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Microsoft se marcó un objetivo climático para 2030. Convertirse en una compañía de IA ha hecho que el plan salte por los aires",
-      "summary": "Microsoft es una de las empresas que, hace unos años, se propusieron ser menos contaminantes. Había dos metas, siendo la primera el convertirse en una compañía \"carbon negative\" para 2030. Empezaron a investigar para crear edificios más sostenibles y a aprovechar mejor el agua y el calor de los...",
-      "url": "https://www.xataka.com/energia/microsoft-se-marco-objetivo-climatico-para-2030-convertirse-compania-ia-ha-hecho-que-plan-salte-aires",
-      "published": "2026-07-10T15:31:57+00:00",
-      "image": "https://i.blogs.es/f9c40c/centros-de-datos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.71,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los nuevos Grok 4.5 y Muse Spark 1.1 tienen una apuesta rompedora: hacer el 90% de sus rivales al 20% de su precio",
-      "summary": "Llevamos una semana bastante loca en cuanto a lanzamientos de modelos de IA. Puede que el protagonismo se lo haya llevado la esperada familia GPT-5.6 (con sus variantes Sol, Terra, Luna), pero es que además hemos visto como SpaceXAI lanzaba Grok 4.5 y Meta también se renovaba con Muse Spark 1.1. En...",
-      "url": "https://www.xataka.com/robotica-e-ia/nuevos-grok-4-5-muse-spark-1-1-tienen-apuesta-rompedora-hacer-90-sus-rivales-al-20-su-precio",
-      "published": "2026-07-10T15:31:57+00:00",
-      "image": "https://i.blogs.es/d95950/grok-muse-spark/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.71,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "China ha descifrado cómo aislar a Taiwán sin disparar un solo tiro: cinco destructores al día están cada día más cerca",
-      "summary": "En plena Guerra de Corea, el general estadounidense Douglas MacArthur llegó a definir a Taiwán como un \"portaaviones insumergible\". No era una metáfora sobre su ejército, sino sobre su posición geográfica: quien controla la isla controla uno de los principales accesos entre el mar de China y el...",
-      "url": "https://www.xataka.com/magnet/china-ha-descifrado-como-aislar-a-taiwan-disparar-solo-tiro-cinco-destructores-al-dia-estan-cada-dia-cerca",
-      "published": "2026-07-10T15:01:57+00:00",
-      "image": "https://i.blogs.es/3af2af/14154964437_e85d1ce86e_o/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.52,
+      "relevance": 18.71,
       "sources": [
         "Xataka"
       ]
@@ -340,13 +341,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "De la Fuente busca repetir el 'plan Eurocopa' sin Pedri",
-      "summary": "El entrenador apuesta por el centro del campo que ganó la Euro tras la lesión del canario: Rodrigo-Fabián-Olmo",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/10/fuente-busca-repetir-plan-eurocopa-pedri.html",
-      "published": "2026-07-10T17:30:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a512bdca402c.jpeg",
+      "title": "Mikel Merino: \"La suerte que he tenido de que ese balón me cayera ha sido por mi familia\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/11/mikel-merino-suerte-he-tenido-ese-balon-me-cayera-sido-mi-familia-video.html",
+      "published": "2026-07-10T22:43:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/11/cTwjk1gKNM7IVUDDb.jpeg",
       "coverage": 1,
-      "relevance": 20.44,
+      "relevance": 20.47,
       "sources": [
         "Marca"
       ]
@@ -354,13 +355,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Mou reclama a Pintus... pero no a Llopis",
-      "summary": "El italiano seguirá al cargo de la preparación física, pero el entrenador de porteros será sustituido por Nuno Santos, miembro del staff del luso",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/07/10/mou-reclama-pintus-llopis.html",
-      "published": "2026-07-10T17:27:16+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a51292e1b34c.jpeg",
+      "title": "\"Mientras vayamos pasando...\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/11/lamine-yamal-vayamos-pasando-estare-content-video.html",
+      "published": "2026-07-10T22:05:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/11/cTu9c1gKMlI2EAfLl.jpeg",
       "coverage": 1,
-      "relevance": 20.43,
+      "relevance": 20.23,
       "sources": [
         "Marca"
       ]
@@ -368,67 +369,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El fichaje de Adeyemi, en la recta final",
-      "summary": "El acuerdo entre Barça y Borussia Dortmund podría cerrarse en las próximas horas",
-      "url": "https://www.marca.com/futbol/barcelona/2026/07/10/fichaje-adeyemi-recta-final.html",
-      "published": "2026-07-10T17:21:37+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a51279b4c8a4.jpeg",
-      "coverage": 1,
-      "relevance": 20.39,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Braut contra Haaland",
-      "summary": "El Haaland de noruega... ¿diferente al del Manchester City?",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/10/braut-haaland.html",
-      "published": "2026-07-10T17:13:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a5102f7bae0c.jpeg",
-      "coverage": 1,
-      "relevance": 20.34,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "McGregor y Holloway cumplen en el pesaje y se confirma su pelea para el UFC 329",
-      "summary": "Ambos peleadores no fallaron en la báscula, por lo que todo está preparado para su combate de mañana",
-      "url": "https://www.marca.com/combates-ufc/2026/07/10/mcgregor-holloway-cumplen-pesaje-confirma-pelea-ufc-329.html",
-      "published": "2026-07-10T17:07:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a5124b484345.jpeg",
-      "coverage": 1,
-      "relevance": 20.3,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Otra amenaza para el proyecto del Barça: Shengelia podría irse",
-      "summary": "El ala-pívot georgiano, con contrato en vigor con los culés hasta el curso que viene, es pretendido por tres equipos que desean pagar su cláusula",
-      "url": "https://www.marca.com/baloncesto/acb/2026/07/10/amenaza-proyecto-barca-shengelia-podria-irse.html",
-      "published": "2026-07-10T17:00:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a511fe4b826f.jpeg",
-      "coverage": 1,
-      "relevance": 20.26,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"¿Haaland? Lo comparo con aquella España que ganó el Mundial y las Eurocopas\"",
-      "summary": "El defensa noruego, ahora comentarista en esta Copa del Mundo, habla con MARCA",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/10/jesper-mathisen-haaland-comparo-espana-gano-mundial-eurocopas.html",
-      "published": "2026-07-10T16:51:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a511f119abf6.jpeg",
+      "title": "\"La genial frase de Napoleón...\"",
+      "summary": "La opinión del director de MARCA",
+      "url": "https://www.marca.com/futbol/mundial/opinion/2026/07/11/equipazo-flor.html",
+      "published": "2026-07-10T22:00:31+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/11/6a516b6dc3ac0.jpeg",
       "coverage": 1,
       "relevance": 20.2,
       "sources": [
@@ -438,13 +383,69 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Álex Márquez y su parecido con Sete Gibernau: \"A lo mejor seríamos campeones si no existieran esos dos\"",
-      "summary": "Decoración especial con el Gresini imitando la Honda de 2003",
-      "url": "https://www.marca.com/motor/motogp/gp-alemania/2026/07/10/alex-marquez-parecido-sete-gibernau-mejor-seriamos-campeones-existieran-dos.html",
-      "published": "2026-07-10T16:38:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a511e1de4b1e.jpeg",
+      "title": "\"Esto ya es quedar muy bien\"",
+      "summary": "'Al otro lado del espejo', una opinión de Alfredo Relaño",
+      "url": "https://www.marca.com/futbol/seleccion/opinion/2026/07/10/semifinalistas-mikel-merino.html",
+      "published": "2026-07-10T21:43:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a5167752eea2.jpeg",
       "coverage": 1,
-      "relevance": 20.12,
+      "relevance": 20.1,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "\"Francia estará igual de preocupada\"",
+      "summary": "Rueda de prensa del seleccionador español tras el pase a semifinales",
+      "url": "https://www.marca.com/futbol/seleccion/2026/07/10/fuente-francia-estara-igual-preocupada.html",
+      "published": "2026-07-10T21:42:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a51669071533.jpeg",
+      "coverage": 1,
+      "relevance": 20.09,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "España 2-1 Bélgica | Resumen Mundial 2026",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/espana-2-1-belgica-resumen-mundial-2026-video.html",
+      "published": "2026-07-10T21:29:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/.jpeg",
+      "coverage": 1,
+      "relevance": 20.01,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Será suplente ante Francia y no pondrá caritas",
+      "summary": "La contracrónica del España - Bélgica",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/suplente-pone-caritas.html",
+      "published": "2026-07-10T21:14:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a5160a5e117a.jpeg",
+      "coverage": 1,
+      "relevance": 19.92,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Lamine Yamal, MVP... con explicación",
+      "summary": "El extremo español ha sido elegido como el mejor jugador del encuentro por los aficionados",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/10/lamine-yamal-mvp-partido-belgica.html",
+      "published": "2026-07-10T21:13:01+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a515f0d3e112.jpeg",
+      "coverage": 1,
+      "relevance": 19.91,
       "sources": [
         "Marca"
       ]
@@ -452,13 +453,13 @@
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Los palestinos lloran la muerte en un ataque israelí del hombre que organizaba proyecciones de los partidos del Mundial entre las ruinas de Gaza",
+      "title": "Muere en un ataque israelí el hombre que organizaba proyecciones de los partidos del Mundial entre las ruinas de Gaza",
       "summary": "El cooperante Mohammed al-Wahidi se había convertido en una figura humanitaria destacada durante la guerra entre Israel y Hamás.",
       "url": "https://www.bbc.com/mundo/articles/cx2vzv9g3jzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-10T09:46:57+00:00",
+      "published": "2026-07-10T18:21:28+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63d0/live/01ab6570-7c4a-11f1-9510-1546718f668b.jpg",
       "coverage": 2,
-      "relevance": 28.75,
+      "relevance": 30.03,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -467,43 +468,71 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "¿Baraja Irán un nuevo plan para “asesinar” a Trump?: el mandatario afirma que dejó instrucciones en caso de que ocurra",
-      "summary": "Un informe exclusivo del diario ‘The Wall Street Journal’ reveló que Israel compartió con Estados Unidos nueva información de sus servicios de inteligencia que apuntaría a un supuesto nuevo plan de Irán para asesinar al presidente Donald Trump. Aunque la información no ha sido confirmada...",
-      "url": "https://www.france24.com/es/medio-oriente/20260710-baraja-ir%C3%A1n-un-nuevo-plan-para-asesinar-a-trump-el-mandatario-afirma-que-dej%C3%B3-instrucciones-en-caso-de-que-ocurra",
-      "published": "2026-07-10T16:33:35+00:00",
-      "image": "https://s.france24.com/media/display/1b0e2750-7c7c-11f1-bc85-005056bf30b7/w:1024/p:16x9/2026-07-06T040122Z-1868132393-RC228MASLJ7N-RTRMADP-3-IRAN-CRISIS-KHAMENEI.jpg",
+      "title": "Espía ucraniano acusado de matar a la sospechosa del atentado en Mónaco se retracta de su confesión",
+      "summary": "Un oficial de inteligencia militar de Kiev que confesó haber matado a una mujer sospechosa de intentar, sin éxito, el asesinato en Mónaco de un oligarca sancionado por Kiev se ha retractado de su confesión, reportó este viernes 10 de julio los medios ucranianos, que citaron las actas judiciales....",
+      "url": "https://www.france24.com/es/europa/20260710-esp%C3%ADa-ucraniano-acusado-de-matar-a-la-sospechosa-del-atentado-en-m%C3%B3naco-se-retracta-de-su-confesi%C3%B3n",
+      "published": "2026-07-10T18:51:39+00:00",
+      "image": "https://s.france24.com/media/display/f791a468-7c5e-11f1-ae93-005056a97e36/w:1024/p:16x9/000-B9R77CQ.jpg",
       "coverage": 1,
-      "relevance": 20.39,
+      "relevance": 19.32,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU. e Irán reavivan la tensión: ¿qué pasó con el acuerdo?",
-      "summary": "La frágil tregua entre Estados Unidos e Irán vuelve a tambalearse. Semanas después de la firma de un memorando de entendimiento, los ataques contra buques en el estrecho de Ormuz y el restablecimiento de sanciones al petróleo iraní han reavivado la tensión en Medio Oriente. ¿Ha fracasado el...",
-      "url": "https://www.france24.com/es/programas/el-debate/20260710-ee-uu-e-ir%C3%A1n-reavivan-la-tensi%C3%B3n-qu%C3%A9-pas%C3%B3-con-el-acuerdo",
-      "published": "2026-07-10T16:22:34+00:00",
-      "image": "https://s.france24.com/media/display/1778c0e8-31cf-11f1-9269-005056a97e36/w:1024/p:16x9/2026-04-05T163735Z-1086620481-RC2PGKADC6YH-RTRMADP-3-IRAN-CRISIS-TRUMP.jpg",
+      "source": "Google Noticias",
+      "title": "¿Cómo ha cambiado el ejército ruso tras más de cuatro años de conflicto con Ucrania?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdzVIZHpMMjA5b1R0am9HOFRfUlFLSzBhNGd2NlgwM1dLdjdzcnl1c3d2dkg0UWtBSE9YMEcwcEZzclIwbEFRdEhWLWMxaGxXZHJJU25sNXpJbm9LY3dmbjA3WTA1WW92ci0yaXJ0b25Rd0JuZlBkUnFzc3FKeExUZEJpR3M5MDh1elZOZmZBUGZMZTg1?oc=5",
+      "published": "2026-07-10T22:39:56+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 18.95,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Trump presiona a la OTAN: ¿sale fortalecida o más dividida?",
+      "summary": "La cumbre de la OTAN en Ankara dejó una imagen de unidad, pero también evidenció las tensiones que siguen marcando la relación entre Estados Unidos y sus aliados. La presión de Donald Trump llevó a Europa y Canadá a asumir nuevos compromisos de gasto en defensa, mientras las diferencias sobre la...",
+      "url": "https://www.france24.com/es/programas/ventana-a-europa/20260710-trump-presiona-a-la-otan-sale-fortalecida-o-m%C3%A1s-dividida",
+      "published": "2026-07-10T17:32:56+00:00",
+      "image": "https://s.france24.com/media/display/19165db6-7c7f-11f1-94f2-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-VAE-10JUL.png",
+      "coverage": 1,
+      "relevance": 18.83,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "\"Irán tramó un nuevo complot para asesinar a Trump, informó Israel a EE. UU.\": 'The Wall Street Journal'",
-      "summary": "Israel compartió con Estados Unidos nueva información de inteligencia que, según afirma, demostraría que Irán estaría considerando un nuevo plan para asesinar al presidente Donald Trump. Así lo reporta el diario 'The Wall Street Journal', que citó fuentes conocedoras del asunto. El hallazgo,...",
-      "url": "https://www.france24.com/es/programas/revista-de-prensa/20260710-ir%C3%A1n-tram%C3%B3-un-nuevo-complot-para-asesinar-a-trump-inform%C3%B3-israel-a-ee-uu-the-wall-street-journal",
-      "published": "2026-07-10T14:34:54+00:00",
-      "image": "https://s.france24.com/media/display/c1ae06fa-7c65-11f1-ac4b-005056bfb2b6/w:1024/p:16x9/ES-20260710-081440-082159-CS.jpg",
+      "source": "Google Noticias",
+      "title": "Muere en un ataque el hombre que llevó el Mundial a Gaza",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKaVUyVE1wcUktV2EtUWM4UlpIcGNpY0hQb0N6VmFKTzRCcHhRcW95cFB2X05CMjlXVjEtR01oTko4SU9qMUk3Q1lQMXljZWJ3dTFsTXJvZU8weXfSAWBBVV95cUxOLWxBcmJEcm0zTHdoSlJCX0dXbWVCQlZVWW5PQ0h1alRHRnZjbXNVV3hSdkZfQ0FtbzhIZ0NXYlhPc3N0SWFwSHhvYXNya3g3WXJvNVN1RXBkQ1dwdTdkT1M?oc=5",
+      "published": "2026-07-10T21:23:02+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.65,
+      "relevance": 18.47,
       "sources": [
-        "France 24"
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Trigo sube ante riesgos de guerra Ucrania, previsiones del USDA sobre reservas mundiales",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNjZSZDBrMzhuenhyLTJXSEQ1QV9JMlY1ZGV4cjdkLXdwaGJ0N00ybEJlLW9FZDl4dFpmTWEteW1WdFdYaTRCNnQtMjI0WXgwN25QRkNfQlZsMGdrZUt0LTBVNVBoLVN5MHpYN0I4SGpaLXdTRi1BNXpOWHJobTZfUkY4d1liZVJrY2U4R3FhX2pUY1NJY2RDVWtsY01lUHFLS0pMbkd5YzE0U1JYTXR5dlpfN3VLUmkwVVE?oc=5",
+      "published": "2026-07-10T21:00:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.33,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
@@ -515,37 +544,9 @@
       "published": "2026-07-10T12:10:39+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ba5/live/38c2b0e0-7c4f-11f1-912a-c3e242c0bef0.jpg",
       "coverage": 1,
-      "relevance": 19.65,
+      "relevance": 17.72,
       "sources": [
         "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Aq Tekeh Khan: el ataque de Washington en Irán también golpea a Beijing",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmVMX1p4UEpzVFlaTWhLUnExbTRjck1palQ0b1BIQlFGMTF4WHdPUWxJU3JkYThqMUhkekxoRDM4bkw1ZkY0ZWZGVko0OHdlcUxWLUYyU0lsc3dFcEl1TXctbmJGd3RxYXByZG5WRzZ1QnR5SE9ja3lOVU43aTlRVUdkcEZqVGtJdllTZGVQczNNR2lLRjY0T1Q4OHhEY1B4eWQ1eVZELVoybW1ST1FjY1pQdXlQTEE?oc=5",
-      "published": "2026-07-10T17:25:11+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.91,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "En directo: Trump afirma que Irán pidió seguir los diálogos con EE. UU.; Teherán subraya que la guerra nunca terminará con su “rendición”",
-      "summary": "El presidente de EE. UU., Donald Trump, aseguró este viernes 10 de julio que accedió a continuar las conversaciones con Irán para una posible solución al conflicto tras, aseguró, la solicitud de Teherán. Sin embargo, la República Islámica no ha respaldado sus afirmaciones y el republicano remarcó...",
-      "url": "https://www.france24.com/es/medio-oriente/20260710-en-directo-ir%C3%A1n-advierte-que-israel-no-se-librar%C3%A1-de-ataques-de-represalia-tras-bombardeos-de-ee-uu",
-      "published": "2026-07-10T12:31:11+00:00",
-      "image": "https://s.france24.com/media/display/3fd85e88-79a3-11f1-8797-005056a90284/w:1024/p:16x9/a9e94a00bd32521d8f5ddb5dfde8e992f89a721a.jpg",
-      "coverage": 1,
-      "relevance": 18.88,
-      "sources": [
-        "France 24"
       ]
     },
     {
@@ -554,10 +555,10 @@
       "title": "Guerra Rusia-Ucrania, en directo | Rusia considera \"imposible\" una negociación con Ucrania a día de hoy",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHRsTWNFc2xhX29Tb0FwMFVRMllYY0VNY1NYbDI1a3d1N21yWnhoeHVHTDVVM1Q4S3huLVZta1NsZHpJckFla256a1FXOXZmVE9icnVhQXFCV1Fmdm1LZHRVa2ZfX3JONnVwOWlINmZTVlRDN0VCLW0xMDVrVzZSalNmOUhGb3JIRklCMDNQWjZtUTBEa1VjN04zS3R5NC10eHhhMkR2U1DSAagBQVVfeXFMUEJDTVhQbVczOVRYUXF6YnVKa2pYc081ZDFpTmJQSURaRjhPZHNZNkxvMG44ZHVBUm5LcTJ4amxlNHJkVUhFNHJUb3dISFphX09aREFwU0xDdmRjQzFHY0lwMXpPd2ZnRTdCdUgyMzE4SlQ2ejlpS1czN2RDMGgyVDdpekdhMzFJb1BxLTRXLWIxN29lVTE1aHU5d2Z2WVhNRG5lbFM2T3d5?oc=5",
-      "published": "2026-07-10T15:57:32+00:00",
+      "published": "2026-07-10T18:35:36+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.36,
+      "relevance": 17.42,
       "sources": [
         "Google Noticias"
       ]
@@ -565,13 +566,13 @@
     {
       "category": "uruguay",
       "source": "El País Uy",
-      "title": "Quíntuple crimen en Villa García: una familia asesinada y el vínculo con la banda criminal “Los Suárez”",
+      "title": "Noche trágica en las rutas: cuatro muertos, entre ellos un niño de cinco años, y una espirometría positiva",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYmRoSFRxQUJBdlAxVDkyeTBWSkNrc1NqOFBWOEtCem1KMl9mZjFzbEtBMndpZUVERS1EVUFlQm1CdTh2cUJCTnUwOFV6TVhVQXVrZmVVbW1Cd1duX1REMGRQUHJTQ3JBRnJ5Z092ZUprUW8yeC1KSzZRYUFjV3FBS1p3QVNZZi1sZ0FVSzNJSF9pRlpQQzlNREFFR1dYT2FkdV9fQV9kZmhzdGZD?oc=5",
-      "published": "2026-07-10T17:19:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUVcycElYNC1lUVo2ZlVlS3U3a0hVSWlYQVlkS01qRXJDbW8tbURnVjM3RVdOLWhWb0QtRmpXb2poVS14dWxjclk2WTc1a2w1RFNKOEVuM3lzOThTSV91WG5keWVBZzRfQXVscHBfMlJQX05HaUR0OU5uV0ctc0MyNk5JSkNuN2o5Y1dPRVFzaElYdEwtUlVKdTRCRTZvdFhoSWxLX241S21hOWNkTW9LS0M2aUNITTlEWkE3VjBBZzNlQTRadFlZSC1mZzR5dW9ZZDlFMWhCY1dmTk5qMWFiTGF0UkpISDA?oc=5",
+      "published": "2026-07-10T19:12:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 21.28,
+      "relevance": 20.05,
       "sources": [
         "El País Uy"
       ]
@@ -579,13 +580,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Exdirector del Hemocentro de Maldonado en el Parlamento: negó irregularidades y dijo que supo por la prensa de las acusaciones",
-      "summary": "Jorge Curbelo compareció ante la Comisión de Salud de Diputados, donde los legisladores prefirieron no emitir juicio hasta que concluya la investigación administrativa de ASSE.A casi tres meses de que la Administración de los Servicios de Salud del Estado (ASSE) cesó a Jorge Curbelo de la dirección...",
-      "url": "https://ladiaria.com.uy/salud/articulo/2026/7/exdirector-del-hemocentro-de-maldonado-en-el-parlamento-nego-irregularidades-y-dijo-que-supo-por-la-prensa-de-las-acusaciones/",
-      "published": "2026-07-10T17:11:49+00:00",
+      "title": "Arim sobre anuncio de la Coalición de no acompañar la Rendición de Cuentas: “No se entiende cuál es la razón de no votar”",
+      "summary": "El director general de la OPP expresó su preocupación por las posibles implicancias que acarrea la decisión, aunque dijo tener la convicción de que el articulado finalmente será aprobado.El director de la Oficina de Planeamiento y Presupuesto (OPP), Rodrigo Arim, dijo que el anuncio de la Coalición...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/arim-sobre-anuncio-de-la-coalicion-de-no-acompanar-la-rendicion-de-cuentas-no-se-entiende-cual-es-la-razon-de-no-votar/",
+      "published": "2026-07-10T22:36:43+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.73,
+      "relevance": 19.83,
       "sources": [
         "La Diaria"
       ]
@@ -593,55 +594,41 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fundación Peluffo Giguens amplía el apoyo psicológico a personas con cáncer en alianza con Revolución del Colibrí",
-      "summary": "Le ofrecerán cuatro consultas psicológicas gratuitas a personas con diagnóstico oncológico de todo el país.La Fundación Peluffo Giguens anunció una alianza con Revolución del Colibrí para ampliar el acceso al acompañamiento psicoemocional de personas con diagnóstico de cáncer en todo el país. A...",
-      "url": "https://ladiaria.com.uy/salud/articulo/2026/7/fundacion-peluffo-giguens-amplia-el-apoyo-psicologico-a-personas-con-cancer-en-alianza-con-revolucion-del-colibri/",
-      "published": "2026-07-10T16:50:57+00:00",
+      "title": "España venció 2-1 a Bélgica y enfrentará a Francia en semifinales",
+      "summary": "Mikel Merino volvió a darle la clasificación en la hora a la furia roja.Con goles de Fabián Ruiz y Mikel Merino, España superó a Bélgica en Los Ángeles y vuelve a meterse en semifinales de un Mundial, lo que no conseguía desde 2010, cuando levantó la Copa en Sudáfrica. Charles De Ketelaere había...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/espana-vencio-2-1-a-belgica-y-enfrentara-a-francia-en-semifinales/",
+      "published": "2026-07-10T22:18:24+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 19.72,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Nueva convocatoria a facilitadores de estacionamiento reavivó el conflicto con los cuidacoches de Salto",
-      "summary": "El sindicato sostiene que la Intendencia dejó de reconocer la trayectoria de trabajadores históricos y reclama una instancia de negociación que, aseguran, aún no ha sido concedida.La relación entre la Intendencia de Salto y los cuidacoches continúa sumando capítulos de tensión. A un año de la...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/7/nueva-convocatoria-a-facilitadores-de-estacionamiento-reavivo-el-conflicto-con-los-cuidacoches-de-salto/",
-      "published": "2026-07-10T16:34:46+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.5,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Fernández Albín amenazó de muerte a autoridades del INR y fue trasladado",
-      "summary": "En una carta cuestionó el régimen de máxima de seguridad que se le impuso y dijo que va a “quedar en la historia y no por algo positivo”.El Instituto Nacional de Rehabilitación presentó una denuncia penal contra Luis Fernando Fernández Albín, quien fue imputado por delitos de narcotráfico,...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/7/fernandez-albin-amenazo-de-muerte-a-autoridades-del-inr-y-fue-trasladado/",
-      "published": "2026-07-10T16:28:26+00:00",
+      "source": "El País Uy",
+      "title": "Quíntuple crimen en Villa García: una familia asesinada y el vínculo con la banda criminal “Los Suárez”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQOUJxTkxjRTZLUUFWNUNsTUM3X1RONVMwMVo4bVBTUGdyUTRBdlhldGNwd0RGRkpmYXh3MzFrYkNnUU1jWWpIUUFRMTZsUml6ejAtTzFSWkh0OHNOY05nZjVYUEJRT2dXZUw3WENMb0VmR0RoUlJLcS1oV28zdTdEMUdPZ3ljc2x3OG9RZmtobXZXSUwzRm9KdFViZXpIYXZ3ODdGd1BMcXJQajhuMlVzdlhVamN0LWN2RmJkWEFoRDFnQ0x0c0t5NFVsbW9aRUN0Z2hNUUdHOVFjUUFOdll3dV9xQQ?oc=5",
+      "published": "2026-07-10T17:37:38+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.46,
       "sources": [
-        "La Diaria"
+        "El País Uy"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "OSE invertirá 94 millones de dólares para ampliar el saneamiento en siete localidades de Colonia",
-      "summary": "Además de la reformulación del proyecto para culminar los trabajos en Juan Lacaze, el ente presentó obras para Nueva Helvecia, Rosario, Colonia Valdense, Tarariras, Nueva Palmira y Colonia del Sacramento.El directorio de OSE, encabezado por Pablo Ferreri, Guillermo Caraballo y José Amy, presentó...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/ose-invertira-94-millones-de-dolares-para-ampliar-el-saneamiento-en-siete-localidades-de-colonia/",
-      "published": "2026-07-10T16:06:35+00:00",
+      "title": "Acredita Educación Media Superior: empiezan inscripciones a la primera edición de la prueba para que adultos culminen bachillerato",
+      "summary": "La prueba se realizará el 28 de noviembre y el 5 de diciembre de forma presencial y evaluará competencias en comprensión lectora, escritura argumentativa, cultura científica y resolución de problemas matemáticos.A fines del año pasado, la Administración Nacional de Educación Pública (ANEP) definió...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/7/acredita-educacion-media-superior-empiezan-inscripciones-a-la-primera-edicion-de-la-prueba-para-que-adultos-culminen-bachillerato/",
+      "published": "2026-07-10T21:34:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.32,
+      "relevance": 19.44,
       "sources": [
         "La Diaria"
       ]
@@ -649,13 +636,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La Policía investiga un quíntuple homicidio en una vivienda del barrio El Monarca",
-      "summary": "Asesinaron a un hombre de 28 años, dos jóvenes de 18, una mujer de 32 y una adolescente de 14.Un comunicado que emitió la Jefatura de Policía de Montevideo (JPM) consignó que las autoridades investigan un quíntuple homicidio ocurrido en el barrio El Monarca durante la mañana de este viernes. De...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/7/la-policia-investiga-un-quintuple-homicidio-en-una-vivienda-del-barrio-el-monarca/",
-      "published": "2026-07-10T15:32:36+00:00",
+      "title": "Para Fernando Pereira, el rechazo de la oposición a la rendición es “de las cosas que desencantan a las personas con la política”",
+      "summary": "El presidente del FA sostuvo que el expresidente Luis Lacalle Pou es uno de los responsables de la decisión tomada por la Coalición, en su calidad de “jefe simbólico”.El presidente del Frente Amplio (FA), Fernando Pereira, expresó su repudio a la decisión de legisladores nacionalistas, colorados e...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/para-fernando-pereira-el-rechazo-de-la-oposicion-a-la-rendicion-es-de-las-cosas-que-desencantan-a-las-personas-con-la-politica/",
+      "published": "2026-07-10T20:22:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.11,
+      "relevance": 18.99,
       "sources": [
         "La Diaria"
       ]
@@ -663,13 +650,27 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Frente Amplio reflota proyecto que pretende regular la compra de inmuebles rurales por parte de extranjeros",
-      "summary": "Aníbal Pereyra sostuvo que la iniciativa busca reivindicar la soberanía sobre los recursos naturales y “generar elementos legales que determinen más arraigo o relación con el país” por parte de los dueños de tierras extranjeros.El oficialismo reflotó un proyecto de ley que pretende regular la...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/frente-amplio-reflota-proyecto-que-pretende-regular-la-compra-de-inmuebles-rurales-por-parte-de-extranjeros/",
-      "published": "2026-07-10T14:44:07+00:00",
+      "title": "El cuerpo no está de acuerdo con “darlo todo” por ser mamá",
+      "summary": "En plena crisis de fertilidad y como terapeuta en fertilidad, vengo a explicar por qué no estoy de acuerdo con el discurso de “darlo todo” por ser mamá ni con que “valdrá la pena el sacrificio” que puede implicar. Sobre todo, quiero proponer una alternativa más respetuosa con nuestros cuerpos....",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/el-cuerpo-no-esta-de-acuerdo-con-darlo-todo-por-ser-mama/",
+      "published": "2026-07-10T20:02:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.81,
+      "relevance": 18.87,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "PIT-CNT busca incorporar cláusulas sobre inteligencia artificial en los Consejos de Salarios",
+      "summary": "La central sindical creó una comisión sobre IA y lanzó una encuesta nacional para medir cómo esta tecnología está transformando el mundo laboral. El objetivo es llegar a la negociación colectiva con propuestas.La inteligencia artificial (IA) ya empezó a modificar la forma en que trabajan miles de...",
+      "url": "https://ladiaria.com.uy/futuro/articulo/2026/7/pit-cnt-busca-incorporar-clausulas-sobre-inteligencia-artificial-en-los-consejos-de-salarios/",
+      "published": "2026-07-10T19:08:46+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.53,
       "sources": [
         "La Diaria"
       ]
