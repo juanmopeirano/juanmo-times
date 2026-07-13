@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-13T17:47:13.856705+00:00",
+  "updated_at": "2026-07-13T22:42:28.652658+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,7 +10,7 @@
       "published": "2026-07-13T16:52:01+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/OFTATMN34NMZJF5YT7QY3EJC74.jpg?auth=06f098aeaf11c19e87a89307d1768a62be619ff3dcf107ed1fae25d1ca7e46ab",
       "coverage": 1,
-      "relevance": 21.05,
+      "relevance": 19.21,
       "sources": [
         "El País Eco"
       ]
@@ -24,7 +24,7 @@
       "published": "2026-07-13T16:17:31+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/4HSQWGO3KNBZHKKRU5QQI7FKS4.jpg?auth=9861e94c3c03248a461eec0708ee2c4b63fe5ec3524b188dabd736123609fddf",
       "coverage": 1,
-      "relevance": 20.84,
+      "relevance": 18.99,
       "sources": [
         "El País Eco"
       ]
@@ -38,9 +38,65 @@
       "published": "2026-07-13T15:42:54+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/4XV5TA4JEZJZHK5UEBLIQQTKRU.jpg?auth=7f2534481e145605f2f2072c4729cb8ea91c1759d277208974f6bb8c254acdfd",
       "coverage": 1,
-      "relevance": 20.62,
+      "relevance": 18.78,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este lunes 13 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU2VRWHZnTC1id3g0emtjRkhzV2lubmx4NHR6VEttTkMwRUxEX09YN3NxNUJKN28zNHNucS04aFNURU50YVN3VHYyZUNQYzdRc01OQTBPMlBDTVhkcVRXeEdOWkVyTVhUNGtXRnBialhVRy1RS0tudlpxTld6clQ4dVZtVWwtSTFHYW84YmFXbjdQZ2l0aWVxc2lzR2FYbmlEVVVhV0d6Q0NLMG1rUVM4THZfQ1VNTG5kNjROT9IB1wFBVV95cUxOS3ZURjRJcy1LSFltMXc3TGhzMkhwd1lTemtNYU9BZTBLRmVjRTN2aGFYTzlsQ3ZIUnpHMnVTR0QtRHVuOE9GOEpRemdlVnd6WjllMG1udmZVS2V2dWxTb0o5YnhBVHlGclkwLWVXV054WnFWSHY4M2JuSWItZGJIWFJ4eldjbEFvbUlrZDVBRXpVVHlCZ2lKOFo0Z2t5Y2ZWR0R2VjV3VXpaeTQyZmNjOGhIRnozTVBnN3lNOW9lTzhjYW9RSEp5QmdEOVZqNEVjaktjVko5cw?oc=5",
+      "published": "2026-07-13T22:00:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.74,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "REAL: a cuánto cerró la cotización este lunes 13 de julio en Colombia",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0x5a1g3ckRBZFFQZDdiTDBkU21Kb0VwX0lVbWhHSXg1czN1VVRpOUdzandodmhTSzB3ZVlXU1hsSjZtWlBQQzhxSHBXeTVpR1RCQXN3QWM0M0l5VTZ3cnZsR3VBS1ZOMXVuT244dnZnQml1VjFXdHhyV2ZaU3VTTDYyT0FSdVlBUlpVWjRLVVlrLVk3anZ5S3FZTjAyWlBtQ05lbk9HRUdwU2xOa0FHTEI1RXAwSDhCR3fSAdQBQVVfeXFMUEdrQjVrbkc5WmRYbDNrbERZVzVmUUZrZHBXcVlWbko4ODhmOHlTeGZvcDNzNkY4NldmcnRvTGxwa1hVS0owMFBoZl9MdTZWV2VFNTZsVFFKVkc1NHJDNlFiTF9scHVaQWdQTkIzT2FiODMtVmVYdnUtMTFhQVpSR1JvNm9kRkhLcnlEclU5a21pLVhybGQ1MUU2bEY5WEVWMHF2WjU4aFJRQmVaVWxPbTZIckZVMzBEVjNyXzg0LUhrUDJMTVJKLUJPbEpvUmMzZVNhZVA?oc=5",
+      "published": "2026-07-13T22:00:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.74,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar se impone al peso mexicano por incertidumbre en los mercados; así cotiza al cierre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWjlId3FCUVFURXp4aXhLak1LR2hxTW1UY244ckF0a0NkZXBNdW4tMHpibzl3djIwLVl1YXl3bmNLR1kzSGE0STZBVjRvZUlfMmJzN2pxVUtfRGVmWjRNWVFYelc4U1pyVnpWNGljdUVyckozbzRJYjJXMXlETmg3d01MU095RVlkS1VjSTk4N0ktX3RNRldlMlozYVlOWGxVbFl3UEVxREpENDRtaWxYbE93S1hudUthVkpfRThZbXprZmhPQTdoRjNKLUNNQ0NETTB2aW5aWVU0RXc0d1N4ZDJLUQ?oc=5",
+      "published": "2026-07-13T21:52:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.68,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar en casas de cambio: precio para el lunes 13 de julio de 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUzNlWWVyT1RyXzBqZkZDbmQySERqTnhKSk5KZTNqT0JhTTF1REt2ZVNweGV0U1JWSTFzRzZhZTlaUkI0TlZMOGo1ZlctdlFHbmxIRXFCZVpQaWJKelcyT2xFVDItQXBjVzlVakJvMm83eW5lNWxXNHNrYkE3dWxVWTNNalNkbTV0THhTRmdaSUd5UlI4Zm1SeE1tMkRHZ1FnbzNrQnNJWVpjYTlVdEV3d2pneW9uR2dsRkJaOHItZXlKQXpaWVVOalNVR0bSAcwBQVVfeXFMTVMzZVllck9Ucl8wamZGQ25kMkhEak54SkpOSmUzak9CYU0xdURLdmVTcHhldFNSVkkxc0c2YWU5WlJCNE5WTDhqNWZXLXZRR25sSEVxQmVaUGliSnpXMk9sRVQyLUFwY1c5VWpCbzJvN3luZTVsVzRza2JBN3VsVVkzTWpTZG01dEx4U0ZnWklHeVJSOGZtUnhNbTJER2dRZ28za0JzSVlaY2E5VXRFd3dqZ3lvbkdnbEZCWjhyLWV5SkF6WllVTmpTVUdG?oc=5",
+      "published": "2026-07-13T21:40:57+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.62,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -52,65 +108,93 @@
       "published": "2026-07-13T15:02:39+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/JEVMLDVE7NIQ3GALYJPSMJCZPM.jpg?auth=dd3689224cba218b8e26b0539e66d2aa21b37f7c43f965dfc44d7be4be0f1522",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 18.53,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "CEOE carga contra la propuesta de Bruselas de subir el IVA al turismo",
-      "summary": "El servicio de estudios de la patronal alerta sobre el impacto negativo que tendría en la actividad y en el empleo basándose en los incrementos aprobados en Portugal y Alemania",
-      "url": "https://elpais.com/economia/2026-07-13/ceoe-carga-contra-la-propuesta-de-bruselas-de-subir-el-iva-al-turismo.html",
-      "published": "2026-07-13T12:43:57+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/2JKBM2UHWRG7ZPTZU7T3IXYS4A.jpg?auth=cb8b8ac21eeedceac60a0c4d84376227590cf61a72bbeefe267497aa6947cfa6",
-      "coverage": 1,
-      "relevance": 19.5,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Junts confirma que no apoyará la senda de déficit para los Presupuestos en el Congreso",
-      "summary": "El partido de Puigdemont votará en contra en el pleno de este martes y aprieta al Ejecutivo también con la financiación autonómica",
-      "url": "https://elpais.com/espana/catalunya/2026-07-13/junts-confirma-que-no-apoyara-la-senda-de-deficit-para-los-presupuestos-en-el-congreso.html",
-      "published": "2026-07-13T12:20:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/YGHBVARML5MXNFWHI2PY5FANNM.jpg?auth=8c6f00f5b8ffae5b63af15043917301d570c990a2a982a0632532114a61fa838",
-      "coverage": 1,
-      "relevance": 19.35,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La policía desarticula la mayor red de robo de móviles en España con un perjuicio de 1,09 millones para Telefónica",
-      "summary": "La infiltración de las mafias en la cadena de distribución de las operadoras, principal canal de venta de ‘smartphones’ de alta gama, desplaza al hurto callejero",
-      "url": "https://elpais.com/economia/2026-07-13/la-policia-desarticula-la-mayor-red-de-robo-de-moviles-en-espana-con-un-perjuicio-de-109-millones-para-telefonica.html",
-      "published": "2026-07-13T10:21:08+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5L53ECOSTBDUDD467ZL4FUR2GE.png?auth=7f9108d6fb7293c362a0a18afec8ddc1e509c53add35e40a12a9feee32865c94",
-      "coverage": 1,
-      "relevance": 18.61,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Casas de cambio serán fiscalizadas para controlar el precio del dólar",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT3lraXdRM1hrc25hbkgyV0xUYV9uUjNSMGQ3LWxLWEFxQnhOWGhCbFgxWUNtX29nbHB5WEt3cWxaTDRzeUhlOTN0aWtFTGo4Qmd5VTZOVVUxeUVNaTRjalJKSzgwY2hPTHhkN2JJZ2ZrWGc0X0ZXVndiTldZTE1QeVhRQUVWNnBtWmpiRXp6ZEFYUkJTRmNIRmJLOFFHcGVVN01CRlYzT3RaVmhDbFlnSjc1aUpvZ21ObjVwcUd6MDJqZVRMSFI5T2Z0aw?oc=5",
-      "published": "2026-07-13T16:36:50+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿La búsqueda de la “pareja ideal” puede arruinar el amor?",
+      "summary": "Seguro has llegado a escuchar: “Qué difícil es conseguir pareja” o “no encuentro a la persona ideal para mí” o quizás escuchaste a un amigo decir: “Tiene muchas cualidades, pero mejor no, seguiré buscando”. Esta serie de comentarios nos hace sumergirnos en un dilema actual: ¿Existe la pareja...",
+      "url": "https://es.aleteia.org/2026/07/14/la-busqueda-de-la-pareja-ideal-puede-arruinar-el-amor/",
+      "published": "2026-07-13T22:21:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.56,
+      "relevance": 20.07,
       "sources": [
-        "Google Economía"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Una persona no católica puede usar el escapulario?",
+      "summary": "El escapulario es un popular sacramental mariano, cuyo uso se ha difundido en todo el mundo porque la Virgen María, en su advocación del Carmen, prometió grandes cosas a quienes lo usen. Por eso, surge una duda, ¿se le podrá imponer a una persona no católica? El escapulario es un sacramental que se...",
+      "url": "https://es.aleteia.org/2026/07/13/una-persona-no-catolica-puede-usar-el-escapulario/",
+      "published": "2026-07-13T21:32:47+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.76,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Guerras, UNESCO: «Proteger la cultura significa defender la identidad de los pueblos»",
+      "summary": "Entrevista con el portavoz de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura: «Si se integra en estrategias más amplias de paz, educación y desarrollo, la cultura puede contribuir a reconstruir las sociedades de manera sostenible, al tiempo que reabre vías de...",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-07/unesco-guerras-proteger-cultura-identidad-pueblos.html",
+      "published": "2026-07-13T18:13:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2024/07/15/14/1721045623778.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.12,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "(VIDEO) La lección de san Camilo para quienes cuidan de otros",
+      "summary": "Cuidar de una persona enferma cambia la vida. Quien acompaña a un padre con Alzheimer, a un hijo con una enfermedad crónica, a un esposo en tratamiento o a un adulto mayor sabe que el cuidado exige paciencia, fortaleza y una entrega que muchas veces pasa desapercibida. San Camilo de Lelis...",
+      "url": "https://es.aleteia.org/2026/07/13/video-la-leccion-de-san-camilo-para-quienes-cuidan-de-otros/",
+      "published": "2026-07-13T18:49:41+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.75,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Este laico beato ayudó a la gente a enamorarse de la misa",
+      "summary": "Durante la primera mitad del siglo XX, el hoy beato Carlos Manuel Rodríguez Santiago comenzó a adentrarse en la riqueza de la misa, donde encontró una gran belleza que deseaba compartir con los demás. No era sacerdote ni religioso, sino un simple laico de Puerto Rico que quería poner sus dones y...",
+      "url": "https://es.aleteia.org/2026/07/13/este-laico-beato-ayudo-a-la-gente-a-enamorarse-de-la-misa/",
+      "published": "2026-07-13T18:46:56+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.73,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Geografía del Vaticano: El estado más pequeño del mundo en mapas",
+      "summary": "Mucho antes de convertirse en Estado, en el siglo XX, el Vaticano fue designado como formación geográfica, Mons Vaticanus. Se sabe que fue identificado como tal al menos desde el siglo I a. C. Mientras que las siete colinas de la antigua Roma —Palatina, Capitolina, etc.— se ubican en la margen...",
+      "url": "https://es.aleteia.org/2026/07/13/geografia-del-vaticano-el-estado-mas-pequeno-del-mundo-en-mapas/",
+      "published": "2026-07-13T18:42:23+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.7,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +206,7 @@
       "published": "2026-07-13T15:18:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/settembre/04/10.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 18.02,
       "sources": [
         "Vatican News"
       ]
@@ -136,93 +220,93 @@
       "published": "2026-07-13T16:46:24+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 17.97,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Donde uno aprende a preservar la memoria de la Iglesia",
-      "summary": "Fundada por León XIII en 1884 y ubicada en los Archivos Apostólicos Vaticanos, la Escuela Vaticana de Paleografía, Diplomacia y Archivos forma especialistas para leer, interpretar y preservar el patrimonio documental de la Santa Sede. Para el profesor Enrico Flaiani, la pericia en archivística es...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-07/donde-uno-aprende-a-preservar-la-memoria-de-la-iglesia.html",
-      "published": "2026-07-13T14:36:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/07/img-0852aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "iOS 27 lanza su beta pública con Siri AI: cómo instalarla y iPhone compatibles",
+      "summary": "Apple acaba de lanzar la primera beta pública de iOS 27, su nuevo sistema operativo para el iPhone. Después de iniciar las pruebas con la versión para desarrolladores, los de Cupertino han habilitado el acceso general a la edición todavía no finalizada de su software. Y esto es una gran noticia...",
+      "url": "https://hipertextual.com/apple/ios-27-beta-publica-ya-disponible-como-instalar-iphone-compatibles/",
+      "published": "2026-07-13T21:40:36+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ios-27-beta.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 19.81,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "“Mi trabajo es una oración continua”: la búsqueda de Clémence, escultora de lo sagrado",
-      "summary": "Desde niña, Clémence soñaba con ser arquitecta. Esta profesión reunía todo lo que le apasionaba: el dibujo, la observación, la creación y el patrimonio. Sin embargo, tras cinco años de estudio y varias experiencias profesionales, se dio cuenta de que algo le faltaba. El trabajo frente a la...",
-      "url": "https://es.aleteia.org/2026/07/13/mi-trabajo-es-una-oracion-continua-la-busqueda-de-clemence-escultora-de-lo-sagrado/",
-      "published": "2026-07-13T15:43:21+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Apple prepara una revolución: el chip M7 Ultra triplicará la memoria de sus Mac más potentes",
+      "summary": "Apple prepara una revolución para su próximo procesador de gama alta. El M7 Ultra podría llegar con soporte para hasta 1,5 TB de memoria unificada según nuevas filtraciones. Esta cifra multiplicaría por tres la capacidad máxima que hasta hace unos meses ofrecía el M3 Ultra en el Mac Studio. Según...",
+      "url": "https://hipertextual.com/apple/apple-m7-ultra-memoria-unificada-1-5-tb/",
+      "published": "2026-07-13T21:15:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2022/05/apple-silicon-m1-m1x-edited-scaled.jpeg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.43,
+      "relevance": 19.65,
       "sources": [
-        "Aleteia"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "La Red Mundial de Oración del Papa: “Nos invita a regresar al corazón”",
-      "summary": "El padre Miguel Melo, vicedirector de la Red Mundial de Oración del Papa, reflexiona sobre el llamado de León XIV a rezar por el respeto de la vida humana en todas sus etapas. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/red-mundial-de-oracion-del-papa-respeto-humana.html",
-      "published": "2026-07-13T13:36:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/07/04/2026-07-04-visita-pastorale-a-lampedusa---sosta-al-molo-favaloro/1783158063290.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Un nuevo reboot de ‘Pesadilla en Elm Street’ está en camino",
+      "summary": "Pesadilla en Elm Street, la película que convirtió a Freddy Krueger en un ícono del cine de terror y que dio inicio a una de las franquicias más prolíficas de los ochenta y noventa, tendrá un nuevo reboot. Esta vez será de la mano de Paramount Pictures, que ha comprado los derechos sobre el guion...",
+      "url": "https://hipertextual.com/cine-television/pesadilla-en-elm-street-freddy-krueger-reboot-paramount/",
+      "published": "2026-07-13T20:07:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Pesadilla.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
       "relevance": 19.23,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "México: la Basílica de Guadalupe emprende una renovación pastoral",
-      "summary": "El Cardenal Carlos Aguiar Retes anunció el nombramiento del Canónigo Daniel Víctor Villalobos Ortiz como nuevo Rector de la Insigne y Nacional Basílica de Guadalupe, en el marco de una etapa de renovación institucional y pastoral rumbo a la celebración de los 500 años del Acontecimiento...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/basilica-guadalupe-mexico-rector-proceso-renovacion-jubilar.html",
-      "published": "2026-07-13T13:21:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/13/img-1499aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "China acaba de lograr algo que solo sabían hacer SpaceX y Blue Origin: recuperar la primera etapa de un cohete, y lo ha hecho a su manera",
+      "summary": "China se parece ahora un poquito más a SpaceX, pues por primera vez ha logrado reciclar la primera etapa de un cohete después de separarse de la segunda, que pudo colocar sin problema su carga útil en órbita terrestre baja. Esto es algo que durante mucho tiempo solo había conseguido la compañía de...",
+      "url": "https://www.xataka.com/espacio/china-acaba-lograr-algo-que-solo-sabian-hacer-spacex-blue-origin-recuperar-primera-etapa-cohete-ha-hecho-a-su-manera",
+      "published": "2026-07-13T18:30:07+00:00",
+      "image": "https://i.blogs.es/e6c6d3/cohete-chino3/1024_2000.png",
       "coverage": 1,
-      "relevance": 19.14,
+      "relevance": 18.92,
       "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Cafarnaúm, donde Jesús encontró una casa",
-      "summary": "En el sitio arqueológico, cada peregrino puede imaginar las escenas narradas en los Evangelios y ambientadas aquí. En Galilea, Cristo vivió durante unos tres años; aquí llamó a sus discípulos, predicó, sanó a los enfermos y realizó esos signos poderosos que revelan su identidad profunda como Mesías...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/cafarnaum-donde-jesus-encontro-casa.html",
-      "published": "2026-07-13T13:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2024/ottobre/10/cafarnaoaem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Microsoft prueba una IA que identifica por qué tu Windows 11 va lento",
+      "summary": "Microsoft está probando una función que analiza el estado de tu equipo en tiempo real para detectar qué provoca las ralentizaciones. El gigante tecnológico decidió darle un buen uso a su IA y ahora la ha convertido en una herramienta de diagnóstico dentro de Windows 11. Lo malo es que la propia app...",
+      "url": "https://hipertextual.com/inteligencia-artificial/copilot-pc-insights-windows-11-ralentizaciones/",
+      "published": "2026-07-13T19:12:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/windows-11-task-manager.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.13,
+      "relevance": 18.88,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Obispo de Almería: Seamos las manos de Dios para quienes sufren",
-      "summary": "Monseñor Antonio Gómez Cantero reflexiona sobre la tragedia de los incendios en Bédar y Los Gallardos, destacando la solidaridad de la población y la respuesta de la Iglesia local. En medio del dolor y las pérdidas, hace un llamamiento a la esperanza, al cuidado de la creación y a vivir la fe desde...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/obispo-almeria-incendios-cuidado-creacion-naturaleza.html",
-      "published": "2026-07-13T13:05:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/13/08/1783923964676.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "11 años después de su final, llega a 'streaming' y completamente gratis esta obra maestra del suspense británico",
+      "summary": "El día que emitió su último capítulo y con ello cerraba definitivamente su apasionante historia, la mitad de la audiencia televisiva británica de esa noche estaba enganchada al final. Han pasado tres años de aquello (y once de la emisión del primer episodio), y ahora la extraordinaria 'Happy...",
+      "url": "https://www.xataka.com/streaming/11-anos-despues-su-final-llega-a-streaming-completamente-gratis-esta-obra-maestra-suspense-britanico",
+      "published": "2026-07-13T18:00:07+00:00",
+      "image": "https://i.blogs.es/9f6c90/captura-de-pantalla-2026-07-13-a-las-12.42.21/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.04,
+      "relevance": 18.74,
       "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
@@ -234,63 +318,7 @@
       "published": "2026-07-13T17:30:07+00:00",
       "image": "https://i.blogs.es/2ad35d/ryanair-pasajero-cinturon-de-seguridad/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.39,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "China conquistó el mercado europeo del neumático barato. La UE acaba de ponerle freno",
-      "summary": "La Comisión Europea ha aprobado aranceles antidumping definitivos sobre los neumáticos para turismos y furgonetas ligeras procedentes de China, que oscilan entre el 4,3% y el 45,3% según el fabricante. La medida llega tras una investigación abierta en noviembre del año pasado y suma otro golpe en...",
-      "url": "https://www.xataka.com/movilidad/china-conquisto-mercado-europeo-neumatico-barato-ue-acaba-ponerle-freno",
-      "published": "2026-07-13T17:16:06+00:00",
-      "image": "https://i.blogs.es/6f66c9/neumaticos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.31,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Un conductor ha cruzado uno de los túneles más largos de Europa a más de 170 km/h. Ahora tiene prohibido conducir en toda Suiza",
-      "summary": "Un joven alemán de 22 años ha protagonizado una de las persecuciones más comentadas de las últimas semanas en Suiza. Y es que su recorrido por el túnel de San Gotardo, una de las arterias más transitadas de Europa camino a Italia, terminaba con una velocidad media que triplicaba el límite...",
-      "url": "https://www.xataka.com/movilidad/conductor-ha-cruzado-uno-tuneles-largos-europa-triplicando-velocidad-permitida-ahora-tiene-prohibido-conducir-toda-suiza",
-      "published": "2026-07-13T17:00:07+00:00",
-      "image": "https://i.blogs.es/b41d18/tunel/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.21,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Si te esfuerzas al 95%, equivale al 0%\", un CEO de 22 años defiende la jornada 996 como un \"producto\" voluntario",
-      "summary": "A finales de 2024, Daksh Gupta, fundador y CEO de una pequeña startup de IA de Silicon Valley, escribió un tuit que encendió las redes en su contra. Contaba que su startup no ofrecía conciliación laboral y buscaba a empleados que fueran capaces de comprometerse hasta tal nivel con su empresa que no...",
-      "url": "https://www.xataka.com/empresas-y-economia/te-esfuerzas-al-95-equivale-al-0-ceo-22-anos-defiende-jornada-996-como-producto-voluntario",
-      "published": "2026-07-13T16:46:05+00:00",
-      "image": "https://i.blogs.es/2161bc/996-en-silicon-valley/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"¿Merece la pena el esfuerzo de comprar un MacBook Air M5 con más RAM?\" - Esto es lo que recomendamos",
-      "summary": "A la hora de comprar un nuevo ordenador, la memoria RAM es una de las características más importantes que debes mirar. Pero claro, comprar un modelo de un ordenador con más RAM también significa gastar un poco más, y no siempre sabemos si merece la pena para el uso que le queremos dar. Sobre esta...",
-      "url": "https://www.xataka.com/xataka-xtra/merece-pena-esfuerzo-comprar-macbook-air-m5-ram-esto-que-recomendamos",
-      "published": "2026-07-13T16:30:06+00:00",
-      "image": "https://i.blogs.es/c6a413/macbook-air/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.02,
+      "relevance": 18.55,
       "sources": [
         "Xataka"
       ]
@@ -298,55 +326,27 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "La Unión Europea advierte: no puede impedir que PlayStation mate los juegos en disco",
-      "summary": "Las repercusiones de que PlayStation deje de lanzar juegos en disco a partir de 2028 siguen a la orden del día. Más allá de las quejas y los petitorios para evitar que Sony siga con este plan, no parece haber mucho más que se pueda hacer. De hecho, la propia Unión Europea reconoce que no […] Seguir...",
-      "url": "https://hipertextual.com/videojuegos/europa-advierte-no-puede-impedir-playstation-mate-juegos-disco/",
-      "published": "2026-07-13T17:15:45+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/juegos-PS5-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Samsung borrará tus datos de salud si no dejas que entrenen su IA con ellos",
+      "summary": "Samsung acaba de aplicar una medida que va a causar dolores de cabeza a muchos usuarios de Galaxy. La compañía anunció que Samsung Health ahora vincula la sincronización de tu información con el entrenamiento de sus modelos de inteligencia artificial. Lo peor de todo es que si te niegas a...",
+      "url": "https://hipertextual.com/mobile/samsung-health-datos-salud-ia-entrenamiento/",
+      "published": "2026-07-13T18:14:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/samsung-health.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 18.52,
       "sources": [
         "Hipertextual"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Ya es oficial: llegan los nuevos auriculares Razer dedicados a PlayStation y Xbox que prometen latencia ultrabaja y sonido envolvente",
-      "summary": "¿Qué auriculares utilizas para jugar a la consola? Si hasta ahora no estabas utilizando ningún modelo o si, simplemente, llevas un tiempo queriendo renovar los que ya tienes, atento porque Razer ha lanzado sus Razer Hammerhead V3 X HyperSpeed en edición PlayStation y Xbox. Eso sí, mucho ojo con...",
-      "url": "https://www.xataka.com/seleccion/oficial-llegan-nuevos-auriculares-razer-dedicados-a-playstation-xbox-que-prometen-latencia-ultrabaja-sonido-envolvente",
-      "published": "2026-07-13T16:16:06+00:00",
-      "image": "https://i.blogs.es/ae43b6/razer-hammerhead-v3-x-hyperspeed/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.93,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Italia lleva años privatizando sus playas. Ahora la gran batalla se libra por algo mucho más simple: traer el bocadillo de casa",
-      "summary": "Una madre escondió unos bocadillos en el fondo de su mochila para que sus hijos pudieran comer en la playa sin tener que pasar por el restaurante del establecimiento. Cuando llegó la hora de la comida, les pidió que se alejaran hacia la orilla para no llamar la atención del personal. El episodio ha...",
-      "url": "https://www.xataka.com/magnet/italia-lleva-anos-privatizando-sus-playas-ahora-gran-batalla-se-libra-algo-mucho-simple-traer-bocadillo-casa",
-      "published": "2026-07-13T16:00:07+00:00",
-      "image": "https://i.blogs.es/803caa/tramezzino_-5268587628-/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.83,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
       "category": "deportes",
       "source": "Marca",
-      "title": "Trump recibe a Álex Palou en la Casa Blanca, en directo",
-      "summary": "",
-      "url": "https://www.marca.com/motor/indycar/2026/07/13/donald-trump-recibe-alex-palou-casa-blanca-siguelo-directo-19-30-horas-video.html",
-      "published": "2026-07-13T17:17:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/dvdlO8B0Hf4.jpeg",
+      "title": "\"El gran día de Lamine en el Mundial está por llegar\"",
+      "summary": "El seleccionador español, Luis de la Fuente, y la estrella del equipo, Lamine Yamal, comparecen ante los medios.",
+      "url": "https://www.marca.com/futbol/seleccion/2026/07/14/6a5532cb6c283cdca86a9fa7.html",
+      "published": "2026-07-13T22:24:31+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/14/17839686342049.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 20.39,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El corredor del Uno-X muestra la cara menos glamurosa del Tour: “Puede ser peor, este es nuestro hotel”",
-      "summary": "Anders Halland Johannessen respondió a las quejas por el alojamiento del UAE enseñando en varios vídeos las instalaciones asignadas a su equipo durante la jornada de descanso",
-      "url": "https://www.marca.com/ciclismo/tour-francia/2026/07/13/corredor-x-muestra-cara-glamurosa-tour-peor-nuestro-hotel.html",
-      "published": "2026-07-13T17:04:29+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a55192c0b6a0.jpeg",
+      "title": "\"Confirmo que España es la favorita\"",
+      "summary": "El seleccionador francés analizó la batalla frente a España en la previa de la primera semifinal del Mundial",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/14/deschamps-quiero-poner-presion-luis-fuente-gente-esperando-espana.html",
+      "published": "2026-07-13T22:17:34+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/14/6a5563ea23e58.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.34,
       "sources": [
         "Marca"
       ]
@@ -368,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Jantunen, en el radar del Real Madrid",
-      "summary": "El finlandés, según Eurohoops, está en conversaciones avanzadas con el club blanco para incorporarse a la entidad después de su paso por el Fenerbahçe",
-      "url": "https://www.marca.com/baloncesto/acb/2026/07/13/jantunen-radar-real-madrid.html",
-      "published": "2026-07-13T17:04:02+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5518a499541.jpeg",
+      "title": "\"También se habló de eso antes de jugar contra el PSG\"",
+      "summary": "El centrocampista francés analizó la semifinal entre Francia y España",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/13/zaire-emery-partido-juega-redes-sociales-medios-juega-manana-campo.html",
+      "published": "2026-07-13T21:47:01+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a555cca7282a.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.15,
       "sources": [
         "Marca"
       ]
@@ -382,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Matxin: \"Puede haber más explosiones de corredores que una etapa especialmente decisiva\"",
-      "summary": "El director deportivo del UAE habla con MARCA del calor extremo, la ventaja de Pogacar y el órdago que espera de Visma",
-      "url": "https://www.marca.com/ciclismo/tour-francia/2026/07/13/matxin-haber-explosiones-corredores-etapa-especialmente-decisiva.html",
-      "published": "2026-07-13T16:55:05+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a551857242d2.jpeg",
+      "title": "Fabià Sintes ficha por la UFC: otro español a la mejor liga del mundo",
+      "summary": "El menorquín debutará el 5 de septiembre en UFC París",
+      "url": "https://www.marca.com/combates-ufc/2026/07/13/fabia-sintes-ufc-espanol-mejor-liga-mundo.html",
+      "published": "2026-07-13T21:36:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5559b811a7d.jpeg",
       "coverage": 1,
-      "relevance": 20.17,
+      "relevance": 20.09,
       "sources": [
         "Marca"
       ]
@@ -396,25 +396,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Un bisonte hiere gravemente a un turista en Yellowstone tras lanzarlo casi tres metros por los aires",
-      "summary": "El hombre, de edad avanzada, paseaba con su nieto y se encontraba a unos 100 metros del animal cuando fue embestido",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/07/13/bisonte-hiere-gravemente-turista-yellowstone-lanzarlo-tres-metros-aires.html",
-      "published": "2026-07-13T16:44:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5515d2e54f2.jpeg",
-      "coverage": 1,
-      "relevance": 20.11,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Falsa alarma con Courtois",
-      "summary": "El portero fue a realizarse pruebas médicas a Valdebebas y estas descartan una lesión",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/07/13/falsa-alarma-courtois.html",
-      "published": "2026-07-13T16:33:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5512c19784c.jpeg",
+      "title": "La curiosa historia de las zapatillas de Pogacar: cordones en la era tecnológica y un matrimonio para siempre",
+      "summary": "El esloveno seguirá vinculado a DMT incluso después de retirarse: una relación nacida en 2019 que ha convertido sus zapatillas ligeras y de aspecto clásico en una de las imágenes más reconocibles del pelotón",
+      "url": "https://www.marca.com/ciclismo/tour-francia/2026/07/13/curiosa-historia-zapatillas-pogacar-cordones-tecnologica-matrimonio-siempre.html",
+      "published": "2026-07-13T21:28:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5558629ece6.jpeg",
       "coverage": 1,
       "relevance": 20.04,
       "sources": [
@@ -424,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Un estudio vincula la ideología política con la preferencia por Messi o Cristiano",
-      "summary": "La rivalidad entre los dos astros del fútbol trasciende el ámbito estrictamente deportivo y se vincula con la ideología política de los aficionados",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/13/estudio-senala-perfiles-progresistas-prefieren-messi-conservadores-cristiano.html",
-      "published": "2026-07-13T16:13:57+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a550e64f0cd0.jpeg",
+      "title": "Empiezan a dar miedo... y lo que queda",
+      "summary": "Barça, Madrid y Atlético se han reforzado con grandes nombres a la espera del 'boom' final del mercado",
+      "url": "https://www.marca.com/futbol/primera-division/2026/07/13/tres-gigantes-mueven-ficha-tormenta.html",
+      "published": "2026-07-13T20:29:13+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a54eb927a5bd.png",
       "coverage": 1,
-      "relevance": 19.92,
+      "relevance": 19.67,
       "sources": [
         "Marca"
       ]
@@ -438,13 +424,27 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Monopoly revoluciona el Mundial: reparte 500€ en apuestas gratis con el ranking de España y activa un seguro de goleada",
-      "summary": "La plataforma estrena dos campañas simultáneas para la fase final: asciende en la clasificación apostando por España para cazar hasta 150€ o llévate hasta 30€ gratis si tu favorito golea",
-      "url": "https://www.marca.com/apuestas-deportivas/predicciones/2026/07/13/monopoly-revoluciona-copa-mundo-reparte-500-apuestas-gratis-ranking-roja-activa-seguro-goleada.html",
-      "published": "2026-07-13T16:04:49+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/10/6a5167752eea2.jpeg",
+      "title": "La imagen de Haaland con el compañero más surrealista vale 750 euros",
+      "summary": "\"Me siguió a casa\", bromeó el delantero en redes sociales",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/13/haaland-deja-imagen-dia-aterriza-oslo-mapache.html",
+      "published": "2026-07-13T20:08:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a5543d0b6561.jpeg",
       "coverage": 1,
-      "relevance": 19.86,
+      "relevance": 19.53,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "\"Será especial enfrentarme a Messi, le llevo viendo desde pequeño\"",
+      "summary": "El portero inglés elogió al astro argentino antes del partido del miércoles",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/13/pickford-sera-especial-enfrentarme-messi-le-llevo-viendo-pequeno.html",
+      "published": "2026-07-13T19:52:02+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/13/6a553fb1c043c.jpeg",
+      "coverage": 1,
+      "relevance": 19.43,
       "sources": [
         "Marca"
       ]
@@ -452,16 +452,85 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Irán intensifica los ataques contra los Estados del Golfo tras los bombardeos estadounidenses",
-      "summary": "Estados Unidos dijo haber golpeado este domingo 12 de julio cientos de objetivos iraníes tras los ataques iraníes contra buques. Irán tomó represalias contra varios Estados del Golfo designados como su blanco. El Gobierno de la República Islámica aclaró que reanudará la emisión de permisos de...",
-      "url": "https://www.france24.com/es/medio-oriente/20260713-ir%C3%A1n-intensifica-los-ataques-contra-los-estados-del-golfo-tras-los-bombardeos-estadounidenses",
-      "published": "2026-07-13T02:18:48+00:00",
-      "image": "https://s.france24.com/media/display/ca77167c-7e4b-11f1-9bff-005056bf30b7/w:1024/p:16x9/2026-07-12T083107Z-212065747-RC25CMA1A4YX-RTRMADP-3-IRAN-CRISIS.jpg",
-      "coverage": 2,
-      "relevance": 25.0,
+      "title": "¿Pueden los acuerdos de la Coalición de Voluntarios cambiar el curso de la guerra en Ucrania?",
+      "summary": "La Coalición de Voluntarios reunió este lunes en París a 25 líderes internacionales, encabezados por Emmanuel Macron y Volodímir Zelenski. En el encuentro se anunció la creación de una alianza de nueve países europeos más Ucrania —entre ellos España, Francia, Alemania, Reino Unido e Italia— para...",
+      "url": "https://www.france24.com/es/video/20260713-pueden-los-acuerdos-de-la-coalici%C3%B3n-de-voluntarios-cambiar-el-curso-de-la-guerra-en-ucrania",
+      "published": "2026-07-13T22:14:53+00:00",
+      "image": "https://s.france24.com/media/display/5101b16c-7f04-11f1-8d64-005056a97e36/w:1024/p:16x9/ES-20260713-150350-150951-CS.jpg",
+      "coverage": 1,
+      "relevance": 20.63,
       "sources": [
-        "France 24",
-        "Google Noticias"
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Trump amenaza con lanzar un fuerte ataque contra Irán esta noche y mañana",
+      "summary": "",
+      "url": "https://www.france24.com/es/medio-oriente/20260713-en-directo-trump-afirma-que-ee-uu-ser%C3%A1-guardi%C3%A1n-de-ormuz-pero-ir%C3%A1n-responde-que-no-lo-permitir%C3%A1",
+      "published": "2026-07-13T21:19:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 20.28,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Trump restablece el bloqueo a los puertos iraníes e impone un recargo del 20% a la carga que transita por el estrecho de Ormuz",
+      "summary": "Menos de un mes después de la firma del cese el fuego, Irán y EE.UU. vuelven a intercambiar ataques y Trump restableció el bloqueo naval al comercio iraní.",
+      "url": "https://www.bbc.com/mundo/articles/c9q28zz403no?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-13T18:37:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/838f/live/8bd9df60-7ee8-11f1-be81-dbb01b5ceb35.jpg",
+      "coverage": 1,
+      "relevance": 20.17,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Alemania condena a exmiembros del autodenominado Estado Islámico por genocidio y crímenes de guerra",
+      "summary": "Dos exmiembros del autodenominado Estado Islámico fueron condenados en Alemania: un tribunal de Múnich sentenció al hombre a cadena perpetua por genocidio, crímenes de guerra y contra la humanidad, mientras que su esposa recibió nueve años y medio de prisión bajo legislación juvenil. Ambos fueron...",
+      "url": "https://www.france24.com/es/video/20260713-alemania-condena-a-exmiembros-del-autodenominado-estado-isl%C3%A1mico-por-genocidio-y-cr%C3%ADmenes-de-guerra",
+      "published": "2026-07-13T20:07:11+00:00",
+      "image": "https://s.france24.com/media/display/c531c2ca-7ef5-11f1-b771-005056a90284/w:1024/p:16x9/ES-20260713-121049-121239-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.83,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Informe desde Washington: Trump denominó a EE. UU. \"el guardián del estrecho de Ormuz\"",
+      "summary": "El presidente de Estados Unidos, Donald Trump, anunció que el país impondrá un impuesto del 20% a los buques que transiten por el estrecho de Ormuz, como compensación por la protección militar que Washington asegura brindar en la zona. La medida llega en medio de la escalada de tensiones con Irán....",
+      "url": "https://www.france24.com/es/video/20260713-informe-desde-washington-donald-trump-se-autodenomin%C3%B3-el-guardi%C3%A1n-de-ormuz",
+      "published": "2026-07-13T20:02:25+00:00",
+      "image": "https://s.france24.com/media/display/c91482aa-7ef1-11f1-9db3-005056bfb2b6/w:1024/p:16x9/ES-20260713-133158-133610-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.8,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Evacuaciones y desaparecidos: incendios forestales azotan a Francia y España",
+      "summary": "Mientras casi 1.000 hectáreas del bosque de Fontainebleau, al sureste de París, han sido ya arrasadas por un incendio, diez personas siguen desaparecidas en Almería, España, tras la deflagración forestal que dejó al menos 13 víctimas mortales. Ambos países, así como gran parte de Europa occidental...",
+      "url": "https://www.france24.com/es/europa/20260713-evacuaciones-y-desaparecidos-incendios-forestales-azotan-a-francia-y-espa%C3%B1a",
+      "published": "2026-07-13T18:45:21+00:00",
+      "image": "https://s.france24.com/media/display/2f52478a-7eea-11f1-aed6-005056bfb2b6/w:1024/p:16x9/2026-07-13T135128Z-2018946171-RC21DMAU591S-RTRMADP-3-EUROPE-WEATHER-FRANCE-WILDFIRE.jpg",
+      "coverage": 1,
+      "relevance": 19.32,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -473,105 +542,49 @@
       "published": "2026-07-13T17:39:19+00:00",
       "image": "https://s.france24.com/media/display/a6d34762-7a14-11f1-be6d-005056a97e36/w:1024/p:16x9/capture-13935597006a4d14a5b1de39-08974704.jpg",
       "coverage": 1,
-      "relevance": 20.75,
+      "relevance": 18.91,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "¿Por qué aumenta la tensión entre Costa de Marfil y Burkina Faso?",
-      "summary": "La frontera entre Costa de Marfil y Burkina Faso se ha convertido en uno de los nuevos focos de tensión en África Occidental. A la expansión de la violencia yihadista desde el Sahel se suman las denuncias contra los Voluntarios para la Defensa de la Patria (VDP), milicias que apoyan al ejército...",
-      "url": "https://www.france24.com/es/programas/reporteros/20260713-por-qu%C3%A9-aumenta-la-tensi%C3%B3n-entre-costa-de-marfil-y-burkina-faso",
-      "published": "2026-07-13T16:45:48+00:00",
-      "image": "https://s.france24.com/media/display/00366502-7ed2-11f1-a6fe-005056a97e36/w:1024/p:16x9/REPORTEROS-2-1.png",
+      "source": "Google Noticias",
+      "title": "Pasan de 100 los buques de la 'flota fantasma' de Rusia atacados por Ucrania en una semana",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BX2QwWTZGRTF1UnZITGEyMS0zRXZKdlFTRnVldlZSbmJhcEI4RklOel92UTBXb0NkREtZY05yQlF0cUl3eTZqZlhpeklLZllKVUl4aTVyZnhXNHd1RDdvN05tZzgybjlHY2NKWQ?oc=5",
+      "published": "2026-07-13T22:18:40+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.42,
+      "relevance": 18.85,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU. ataca Irán y Teherán amplía ofensivas en el Golfo: ¿nueva escalada militar?",
-      "summary": "El mandatario estadounidense, Donald Trump, anunció que su país bloqueará el estrecho de Ormuz y cobrará un 20% de impuesto al transporte de mercancías en esa zona. Sin embargo, el mando militar iraní advirtió que no permitirá que Washington \"intervenga\" en el manejo de esa vía estratégica....",
-      "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20260713-ee-uu-ataca-ir%C3%A1n-y-teher%C3%A1n-ampl%C3%ADa-ofensivas-en-el-golfo-nueva-escalada-militar",
-      "published": "2026-07-13T15:47:26+00:00",
-      "image": "https://s.france24.com/media/display/1cade7e6-7ed2-11f1-99df-005056bfb2b6/w:1024/p:16x9/capture-8745098516a55087ee707d1-81538051.jpg",
-      "coverage": 1,
-      "relevance": 20.05,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Presupuesto, economía de guerra: lo que hay que recordar del discurso de Macron ante las Fuerzas Armadas",
-      "summary": "Durante su tradicional discurso ante las Fuerzas Armadas, este lunes 13 de julio el presidente de Francia, Emmanuel Macron, destacó que desde su llegada al poder en 2017 ha “cumplido” sus compromisos, especialmente en materia de presupuesto. El mandatario también hizo un llamado a continuar con los...",
-      "url": "https://www.france24.com/es/francia/20260713-presupuesto-econom%C3%ADa-de-guerra-lo-que-hay-que-recordar-del-discurso-de-macron-ante-las-fuerzas-armadas",
-      "published": "2026-07-13T15:18:47+00:00",
-      "image": "https://s.france24.com/media/display/ac048d5a-7eaf-11f1-b04f-005056a97e36/w:1024/p:16x9/2026-07-13T113520Z-1486013132-RC2ZCMA1OAJ6-RTRMADP-3-FRANCE-DEFENCE-ARMY.jpg",
-      "coverage": 1,
-      "relevance": 19.87,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Incendios forestales azotan Francia y España por la ola de calor en Europa",
-      "summary": "La ola de calor que sofoca a Europa occidental ha generado altas temperaturas e incendios en Francia y España. Más de 400 bomberos trabajan para contener un incendio forestal en el bosque de Fontainebleau, donde la superficie quemada alcanzó las 32.000 hectáreas. En paralelo, uno de los incendios...",
-      "url": "https://www.france24.com/es/video/20260713-incendios-forestales-azotan-francia-y-espa%C3%B1a-por-la-ola-de-calor-en-europa",
-      "published": "2026-07-13T15:13:24+00:00",
-      "image": "https://s.france24.com/media/display/c64d5226-7ec5-11f1-9c8e-005056bfb2b6/w:1024/p:16x9/ES-20260713-071023-071223-CS.jpg",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Ferro, Libertad, Barracas y Wanderers de Durazno, los cuatro que van por ser los mejores del interior",
+      "summary": "La Copa Nacional de Clubes A definió el pasado fin de semana a sus semifinalistas, y a sus diez representantes en la Copa Uruguay.El pasado fin de semana quedaron definidos los cuatro semifinalistas de la 22ª Copa Nacional de Clubes, el 61º Campeonato del Interior: Ferro Carril de Salto, Libertad...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/ferro-libertad-barracas-y-wanderers-de-durazno-los-cuatro-que-van-por-ser-los-mejores-del-interior/",
+      "published": "2026-07-13T22:32:06+00:00",
+      "image": null,
       "coverage": 1,
       "relevance": 19.84,
       "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Informe desde Beirut: Irán retoma represalias contra Estados Unidos por ataques en Ormuz",
-      "summary": "Irán amplía sus ataques contra intereses de Estados Unidos en el Golfo Pérsico en represalia por ofensivas estadounidenses en el estrecho de Ormuz, que estaría nuevamente bloqueado desde el 12 de julio, según informó Teherán. El cruce de ataques, que también afecta los precios del petróleo y la...",
-      "url": "https://www.france24.com/es/video/20260713-informe-desde-beirut-ir%C3%A1n-retoma-represalias-contra-estados-unidos-por-ataques-en-ormuz",
-      "published": "2026-07-13T14:08:08+00:00",
-      "image": "https://s.france24.com/media/display/0ce3eabc-7ec4-11f1-b428-005056a97e36/w:1024/p:16x9/ES-20260713-070208-070711-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.43,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Francia acoge la reunión de la Coalición de Voluntarios por Ucrania",
-      "summary": "Al menos 25 líderes de la Coalición de Voluntarios se reunirán con el presidente ucraniano, Volodímir Zelenski, en París este 13 de julio para abordar el fortalecimiento de la defensa aérea de Ucrania, especialmente frente a los misiles balísticos rusos. Con el avance del conflicto, la falta de...",
-      "url": "https://www.france24.com/es/video/20260713-francia-acoge-la-reuni%C3%B3n-de-la-coalici%C3%B3n-de-voluntarios-por-ucrania",
-      "published": "2026-07-13T14:07:45+00:00",
-      "image": "https://s.france24.com/media/display/8d9b091e-7ec0-11f1-952c-005056a97e36/w:1024/p:16x9/ES-20260713-081336-081541-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.43,
-      "sources": [
-        "France 24"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Para Chasquetti, Cabildo Abierto “adoptó un posicionamiento político y la gente lo está ubicando como aliados del gobierno”",
-      "summary": "El politólogo dijo que la revisión y reducción de gastos en el Estado es “lo que pedía” el líder de Cabildo Abierto, Guido Manini Ríos, por lo que entiende “que hay un acuerdo y los votos están”La Coalición Republicana –integrada por el Partido Colorado (PC), el Partido Nacional (PN) y el Partido...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/para-chasquetti-cabildo-abierto-adopto-un-posicionamiento-politico-y-la-gente-lo-esta-ubicando-como-aliados-del-gobierno/",
-      "published": "2026-07-13T17:33:52+00:00",
+      "title": "Nayib Bukele fue ratificado como candidato a un tercer mandato",
+      "summary": "El partido gobernante en El Salvador, Nuevas Ideas, decidió postular una vez más al dirigente, que llegó al poder en 2019.Nuevas Ideas, el partido que gobierna El Salvador, ratificó este lunes que en las próximas elecciones volverá a postular a Nayib Bukele a la presidencia, por lo que su líder...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/nayib-bukele-fue-ratificado-como-candidato-a-un-tercer-mandato/",
+      "published": "2026-07-13T22:20:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 19.76,
       "sources": [
         "La Diaria"
       ]
@@ -579,13 +592,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Murió Sam Neill, el actor que nos convenció de que los dinosaurios habían vuelto",
-      "summary": "Además de su papel en Parque Jurásico y dos secuelas, el británico estuvo en La lección de piano y casi fue James Bond.En una de las escenas más icónicas del cine de todos los tiempos, el paleontólogo Alan Grant observa algo desde dentro de un jeep. Primero se saca el sombrero, luego los lentes...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/murio-sam-neill-el-actor-que-nos-convencio-de-que-los-dinosaurios-habian-vuelto/",
-      "published": "2026-07-13T17:16:35+00:00",
+      "title": "Sindicato de maestros reclama un mayor incremento en la Rendición de Cuentas y analiza realizar paro en agosto",
+      "summary": "La FUM-TEP pide un mayor incremento para la creación de más cargos y la construcción de nuevos locales para escuelas y jardines públicos.La Federación Uruguaya de Magisterio-Trabajadores de la Educación Primaria (FUM-TEP) emitió una declaración luego de la última reunión de su mesa representativa,...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/7/sindicato-de-maestros-reclama-un-mayor-incremento-en-la-rendicion-de-cuentas-y-analiza-realizar-paro-en-agosto/",
+      "published": "2026-07-13T22:19:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.71,
+      "relevance": 19.75,
       "sources": [
         "La Diaria"
       ]
@@ -593,66 +606,10 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Oposición cuestiona recursos previstos para Defensa en la rendición de cuentas: “No hay un solo peso para los soldados”",
-      "summary": "El diputado nacionalista Gabriel Gianoli dijo que la cartera “no sólo no recibe recursos del Poder Ejecutivo sino que resigna recursos por 132 millones de pesos”Las autoridades del Ministerio de Defensa Nacional (MDN) asisten desde la mañana de este lunes a la comisión de Presupuestos integrada con...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/oposicion-cuestiona-recursos-previstos-para-defensa-en-la-rendicion-de-cuentas-no-hay-un-solo-peso-para-los-soldados/",
-      "published": "2026-07-13T17:06:11+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.64,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Premio Amanda Rorra pone énfasis en mujeres afro de pequeñas localidades",
-      "summary": "Se trata de reconocer y visibilizar el aporte que realizan.Desde el año 2010 hasta el 2024 se han entregado más de un centenar de reconocimientos Amanda Rorra: 95 premios, 31 menciones y se efectuaron diez homenajes. La presentación de la actividad este año estuvo a cargo de Johana Martínez, del...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/7/premio-amanda-rorra-pone-enfasis-en-mujeres-afro-de-pequenas-localidades/",
-      "published": "2026-07-13T17:02:21+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.62,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Liga Uruguaya de Básquetbol: movimientos fuertes en el mercado de pases",
-      "summary": "Peñarol, el último campeón, volverá a ser candidato mientras que Defensor Sporting apuntó fuerte con la llegada de Juan Santiso y Bernardo Barrera; Nacional y Aguada cambiarán mucho su plantel.Peñarol fue campeón de la Liga Uruguaya de Básquetbol 2025-2026. Si bien faltan entre dos y tres meses...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/liga-uruguaya-de-basquetbol-movimientos-fuertes-en-el-mercado-de-pases/",
-      "published": "2026-07-13T16:31:37+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.43,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Salto moderniza su flota de ómnibus y apuesta a mejorar el servicio sin aumentar el precio del boleto",
-      "summary": "La incorporación de 12 unidades, tecnología para los boletos y futuros servicios a bordo marcan una nueva etapa del transporte.A un año de haber asumido la conducción del servicio urbano de pasajeros de la Intendencia de Salto, Francisco Blardoni, en diálogo con la diaria, hizo un balance que...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/7/salto-moderniza-su-flota-de-omnibus-y-apuesta-a-mejorar-el-servicio-sin-aumentar-el-precio-del-boleto/",
-      "published": "2026-07-13T16:18:39+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.35,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "La AUF da pasos para conformar el cuerpo técnico de Diego Forlán",
-      "summary": "Diego Ruso Pérez, Diego Jaume y Santiago Espasandín son los elegidos para trabajar con quien sería el nuevo entrenador de la sub 20 y la selección mayor.Diego Forlán es el elegido por el Comité Ejecutivo para transformarse en nuevo entrenador de la selección sub 20 y la mayor de Uruguay. Todavía...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/la-auf-da-pasos-para-conformar-el-cuerpo-tecnico-de-diego-forlan/",
-      "published": "2026-07-13T15:48:00+00:00",
+      "title": "El Poder Ejecutivo firmó un decreto para unificar la secretaría de Derechos Humanos con la de Pasado Reciente",
+      "summary": "Los cometidos actuales del organismo dirigido por Alejandra Casablanca serán asignados a la que dirigirá Iliana da Silva y se designará a un coordinador para los temas vinculados a la dictadura cívico-militar.El prosecretario de Presidencia, Jorge Díaz, anunció el viernes en su cuenta de X que el...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/el-poder-ejecutivo-firmo-un-decreto-para-unificar-la-secretaria-de-derechos-humanos-con-la-de-pasado-reciente/",
+      "published": "2026-07-13T20:42:08+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.15,
@@ -663,13 +620,55 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "En frasco chico: canciones breves de Jorge Alastra",
-      "summary": "Micro, un disco de temas que promedian el minuto.“Cuando despertó, el dinosaurio todavía estaba allí” es el texto completo de “El dinosaurio”, un cuento del escritor guatemalteco-hondureño Augusto Monterroso publicado en 1959. No es ni el único ni el más breve de su especie, pero es considerado uno...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/en-frasco-chico-canciones-breves-de-jorge-alastra/",
-      "published": "2026-07-13T15:35:58+00:00",
+      "title": "Más allá del 20 de mayo: ¿qué queda por fuera del consenso sobre los desaparecidos?",
+      "summary": "La Marcha del Silencio de 2026 cierra un ciclo de gran valor conmemorativo. En 2023 se cumplieron 50 años del golpe de Estado, en 2025 se celebraron los 40 años del fin de la dictadura y este año se cumplieron los 30 años de la primera marcha y los 50 del hecho que dio origen a la movilización: los...",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/mas-alla-del-20-de-mayo-que-queda-por-fuera-del-consenso-sobre-los-desaparecidos/",
+      "published": "2026-07-13T20:07:07+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.08,
+      "relevance": 18.93,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Combate al picudo rojo: la intendencia declaró emergencia sanitaria en la zona oeste y pidió a privados que “acompañen esta pelea”",
+      "summary": "Solo el 11% de las palmeras afectadas en Maldonado se encuentra en espacios públicos; la comuna prevé invertir 70 millones de pesos hasta 2030 para controlar al insecto.La Intendencia de Maldonado (IDM) declaró a la zona oeste del departamento en “emergencia sanitaria” por la presencia del picudo...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/7/combate-al-picudo-rojo-la-intendencia-declaro-emergencia-sanitaria-en-la-zona-oeste-y-pidio-a-privados-que-acompanen-esta-pelea/",
+      "published": "2026-07-13T20:03:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.9,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "En encuentro con Orsi, Sunca de Colonia solicitó contratación de trabajadores locales en obras de saneamiento que realizará OSE",
+      "summary": "El referente del sindicato de la construcción Gustavo Robatti dijo que “es importante incluir” a los trabajadores en las reuniones de planificación de esas obras.Durante la visita del presidente Yamandú Orsi a Juan Lacaze, en el marco de la presentación de OSE sobre las obras de saneamiento que...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/en-encuentro-con-orsi-sunca-de-colonia-solicito-contratacion-de-trabajadores-locales-en-obras-de-saneamiento-que-realizara-ose/",
+      "published": "2026-07-13T19:56:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.86,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Trabajadores de la Terminal Cuenca del Plata acordaron un cronograma de negociaciones con la empresa y levantaron el paro",
+      "summary": "Ambas partes entendieron necesario propiciar “un clima de paz laboral” para “permitir que la negociación fluya”, dijo el dirigente sindical Álvaro Reinaldo.El sindicato de trabajadores de la Terminal Cuenca del Plata (TCP) alcanzó un acuerdo preliminar con la empresa y decidió levantar el paro de...",
+      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/7/trabajadores-de-la-terminal-cuenca-del-plata-acordaron-un-cronograma-de-negociaciones-con-la-empresa-y-levantaron-el-paro/",
+      "published": "2026-07-13T18:47:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.43,
       "sources": [
         "La Diaria"
       ]
