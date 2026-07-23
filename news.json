@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23T17:07:14.249913+00:00",
+  "updated_at": "2026-07-23T22:44:47.337093+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,10 +10,66 @@
       "published": "2026-07-23T10:30:20+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/NR4UAPHYFRNH7EKMPI5VFYUH6A.jpg?auth=a8650eabf3e5122cb7c45f88fa6def78aa49f3acc81cbd76e89793741ed91960",
       "coverage": 2,
-      "relevance": 28.92,
+      "relevance": 26.81,
       "sources": [
         "El País Eco",
         "Hipertextual"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este jueves 23 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNVU2Y2RaWWtOZE9KZ1pWNEMyY1YwaWtDRGVSNFlqdkxqNTdQQzIxX00tS2VxdXJ0dWpEUWJNZVpPMEVaV0ZnTnF0akNSdVpuTFpOaWNDbDVrdjFWTTR0UHVEMUlSSFI0UlNybW1YbjA3S014ekUyXzdrMFI2V0ZKNTJsT25fX1NuWGlMV3ZDQmw3SmNtOWFDM0xDVzJTLUFGM0FFcnhVV3oyaThYMTQ1WVd3bUJDMjQ3WHdqM3d30gHYAUFVX3lxTE56YUg4LWdWcFR5RGNvQTVyZmpuRXdBWkN2aHlxaXQ2U0E5MFRvMGJjVjZoNVhTVUxkaXo1NmI2WUg4Z0Rjb0x5ZWpMRDg5NjN6TTZtUFg4NmtlR2xjV1VNalY5UklFZWR0cnRHbGk4WFFkTmxxc3dfV3VkZ1FrVlRmc1pyMWFnUTkyVGRlTV81aDJzanhFVnlqanMyY2oyNnJnLVpUNURjdzljYVBLeFpSOWJoRkxIMjBtNTN2VWMybGdQY3k0LTJJcWV1VTQ4QTlzM0xpTmdzYw?oc=5",
+      "published": "2026-07-23T22:00:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este jueves 23 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYXpGOG0xVW9zbi1xOXg5SEtyVmNENlgtelpBQ0E3dWpHYW9MQlg5aTRGUjFBVE5aZ0JlWjVBcnNtMkE3NVVfbU1GRlZmZmNZQnpiQzY1Uk1DUDE2dS1ieURMUmVMSU9oUVctQkpjZkVyRUd2Z3ViRWlHeWhuOTF0LXFTQk1VTDlOM2pfR3d3b1VkM1JYeEpfQnlQYWpvZHFpMmpieGtTdVZxRVnSAcYBQVVfeXFMTl80bXpEclNzbnZkUU1MSzF3SktIWmdIMmx6Y3BUQUFZelp6dzdzMW9hc29wNGN4WjBfRWNLT25FeGc4ZDNuaFo0ODB4RkpweFZVRElBRWFXQlBsaDFOanctUzZhSWsyN3RYbGNlVS0tdURsNi1BUDJWTldxMmFORU9FbTN5YWVBYzFYanJPZDduNHVXbDJVYmxfVGphemNxZnRYY05uVGVsRzY5MDRiR0Nyd2J2VGVWd2xFU2FzUFk0ZzlKTkdB?oc=5",
+      "published": "2026-07-23T22:00:23+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "La tensión en Medio Oriente golpeó a los mercados: subieron el dólar y el riesgo país",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOWJIWm1oaWpoRl9oQjlMUlZzS2FCYm9sNlF1eVg3RkMwanJsc3RMQXlxOFU2bGlHdTZyV1JMTW1aOTZrWk5hMEJUUVozNDR4aE1LdXFTakdnYVlRcEdjVzR2Q2F3WXhNY2ppRk1GNGFDWUs2UHFxak13WmVhTTdYbzJaNDE2eWVLUEVFRC1nejYtQTNOWFJQeXFtU04zVjZqUURwWkxrZ3NNbXNEU2ZRMUlXQ092OTdBM045WU10S1FLeXJiWWNsbzZR0gHSAUFVX3lxTE5pSUhONDhSR2otbXh1eGlZbWd4TERvSHFpQUlYS01YN0REOGQyTjF1bUtwYi1NcGFldnhSaUk1RndpV1RYNndyTHRmR1BOcVEyOEh0WlBxTVFvTVU0YjJ4OTZERzVUNFQ2UjhkdmwybFByUmMtNDZsTWVjMHhVeTlDdmFSaExfY0E4dVNSY1NaMGREcm5zRFgyenh4bmZ0UXhxbnVtTnQtUjRUcXlMNXQ3Z2F2d2RMZkxCM09HWUY0ZDlycWthQTBib1VVTDRuUzdqQQ?oc=5",
+      "published": "2026-07-23T21:12:25+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.42,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El dólar cerró en $1.510 en el Banco Nación y alcanzó su nivel más alto en 15 días",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWllDclhSNFZsRGFHSG11LXdraTcwR2cyTkVGc0U0LWJwM0swOWFuVWRjOUh3OUVZSUZWVXlUeTMwdlNjSmpIM2habkJ5YmVVNTVtYVJiZjJOak5OSUpQVWxVdF9kdThCMVlwZjI4bXJHZWE5aDRpNnZRT05SeElHMHhwc1VvOGhMbzlhTmV1ZTBEbVhiVldOTUU3UTQxOExTcDhlWGxmM1lwX1RvOEHSAbMBQVVfeXFMTm84SFY5NldrUGMzaC1jU01HSjI5X2xRYmZELVBfMEhrcXJvdUJOMnYzaHBiNW9NbmpFaXZwNUJwQ0owUkwzbkx3cGtnZXhyY2Q1MFVWZldYX0VaZWRMNVJTU1hWbHZ3RjJtX0llNC1EcmhtakdVX2J0VVRnUHBVbjhkOUR2NmNJQWRtU0dla1E2Y256N3NXakJBNDhxUXQ0RVhpUlFYbmJNdTZwdWJQQ1Jia1E?oc=5",
+      "published": "2026-07-23T20:18:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.08,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -25,7 +81,7 @@
       "published": "2026-07-23T13:54:02+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XWHAXGYYFFHIHLXWPJXT3AD53U.jpg?auth=475ef8d86efb3dde1098c8b983e136d5e042f0968b8125b9912171c78b7b4af1",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 18.08,
       "sources": [
         "El País Eco"
       ]
@@ -39,49 +95,7 @@
       "published": "2026-07-23T12:31:02+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/OMWZWXPZYJC5BITN7YNJWX6L4Q.jpg?auth=6800e02482ade8c8feeddced9a4989fe828f893b4ebf17bc17b15b2cbd3a0f07",
       "coverage": 1,
-      "relevance": 19.67,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El ingreso mínimo vital apenas llega al 44% de los hogares con condiciones para recibirlo",
-      "summary": "La Airef concluye que más de la mitad de los posibles beneficiarios ni siquiera solicitan esta renta y anuncia que dejará de hacer la evaluación",
-      "url": "https://elpais.com/economia/2026-07-23/el-ingreso-minimo-vital-apenas-llega-al-44-de-los-hogares-con-condiciones-para-recibirlo.html",
-      "published": "2026-07-23T11:14:33+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/3P2TFTWAJVHEHOZI4ZEH5KWZPU.JPG?auth=e0d9e003037d283d7c56e90dfe17df5518b3b6b1a16d6a9e1aff63bae9dae6dd",
-      "coverage": 1,
-      "relevance": 19.2,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Bruselas multa a Google con 890 millones por favorecer a sus propios servicios y obstaculizar los de la competencia",
-      "summary": "La Comisión Europea da 60 días a la filial de Alphabet para proponer soluciones",
-      "url": "https://elpais.com/economia/2026-07-23/bruselas-multa-a-google-con-890-millones-por-favorecer-a-sus-propios-servicios-y-obstaculizar-los-de-la-competencia.html",
-      "published": "2026-07-23T10:05:46+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/BQLTFCQ3K5OXNBAMDDMA5OBCKQ.jpg?auth=05da6a5d514bf18678af7fdfd904d91ca0757c80eed3e68707a3d419a957e0cf",
-      "coverage": 1,
-      "relevance": 18.77,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Telefónica y Cellnex amplían su acuerdo para evitar apagones en el móvil",
-      "summary": "Las compañías equiparán 3.800 torres de telefonía móvil con baterías para asegurar un mínimo de dos horas de autonomía eléctrica",
-      "url": "https://cincodias.elpais.com/companias/2026-07-23/telefonica-y-cellnex-amplian-su-acuerdo-para-evitar-apagones-en-el-movil.html",
-      "published": "2026-07-23T09:47:54+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/DIWHTTQI2NERXICCQHMEOVIMUE.png?auth=1346d86678c1097a7af5fb13ef763ac3accc74b767a47876f2e09cdbf7224cdc",
-      "coverage": 1,
-      "relevance": 18.65,
+      "relevance": 17.56,
       "sources": [
         "El País Eco"
       ]
@@ -89,29 +103,43 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Aumenta la volatilidad global en los mercados financieros; peso se deprecia a las 17.53 unidades",
+      "title": "💰 ¿Cómo se encuentra el precio del dólar este jueves 23 de julio? Consulta el tipo de cambio: https://mile.io/4fttm5L",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNmwwcUtqUHVRTWtuWDkzZ1kzQklTYXU5ZGlEY0l6YUlaSG1CdWJvNjhDYjVYZldrRXA2Zl9KeUxLenpGbDRQQlFIYmZEdjdzV3VBclZ5X2VjVFNHRTNoVWtLU3lrelJMWTVrUUI4MVdaQW9QTGoyVkdmZFZxelhtVlZLUnc5eEtXQWpUOUI4RHJwdE5YbzRTZG1PbXl4SndiWjhBX1cwdUZRSVRCbjJHdHZmdGdndS1NLWwyODBiZ0t5Q2hVc0dOdlNiZHVDWGJNLWVuWldodlBwS29Vd2xtT2E5OA?oc=5",
-      "published": "2026-07-23T15:28:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZ0RGbUgta3lubDZCYV9mNk9DOW9OekkxWFh1aVVBVzdIMUstQU52VGVuMVZKcVhaZm9SOGdxTS1PbTZxaUxIYnhwT3k5N1l5VXBTVS1pQkpUdXp5QjFMbE45T3FPbjlDTVEtemlqVW9iMGlJOEwwaU9teTBfMlJUTndVS1JYSVd4Vmt3RHhoV3ItM1hqTVZuTlN1bE5fMkdyZVZvVExNdmFDbjcxU2VlWkdLQkR0V0ZIb3A5T1A0VjJOV1EtenVvM3ZBcU8ydElMSTctNzhPSzFMRVFEQzRONENfVDR2MTdj?oc=5",
+      "published": "2026-07-23T18:42:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.38,
+      "relevance": 17.48,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio peso dólar hoy 23 de julio de 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNclJ0Rk5Hd1Foaks0eTA3OGZVNktKcWZTU2NHQzU3QUt3WmJxUTdHVEpTbVQxWDRSUXp6ZWlGdG85ZHl2cjFVNHlRMVZhQjRPd0MwS1hxLWVXY0Myd1N5a21wX0dWWWM2TkFCWHJDSTFfX2MxRDJWX2U3LUEyZ2hlQWlRbw?oc=5",
-      "published": "2026-07-23T14:10:22+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "El secreto de C.S Lewis para mantener vínculos duraderos",
+      "summary": "A medida que maduramos y llegan nuevas etapas y responsabilidades como la familia, el trabajo, la rutina, etc. Las amistades parecen desvanecerse. Tenemos cientos de seguidores en redes, pero pocos a quién llamar o salir. Formar y mantener vínculos es cada vez más difícil en la edad adulta. C.S....",
+      "url": "https://es.aleteia.org/2026/07/24/el-secreto-de-c-s-lewis-para-mantener-vinculos-duraderos/",
+      "published": "2026-07-23T22:28:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.89,
+      "relevance": 20.1,
       "sources": [
-        "Google Economía"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "“La espera de un hijo también es un espacio para la gracia”",
+      "summary": "Esa noche de febrero de 2023, Anne-Louise no tiene ganas de salir. Unos amigos le proponen ir a ver una película al cine. Ella quiere rechazar la invitación, pero al final decide ir. Al llegar, se encuentra con una decena de jóvenes que no conoce. Ella, que se describe a sí misma como introvertida,...",
+      "url": "https://es.aleteia.org/2026/07/23/la-espera-de-un-hijo-tambien-es-un-espacio-para-la-gracia/",
+      "published": "2026-07-23T21:34:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.76,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -123,7 +151,7 @@
       "published": "2026-07-23T16:38:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/10/14/2025-10-14-visita-ufficiale-al-presidente-della-epubblica-italia/1760441218156.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.62,
+      "relevance": 18.51,
       "sources": [
         "Vatican News"
       ]
@@ -137,7 +165,7 @@
       "published": "2026-07-23T17:05:12+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 18.08,
       "sources": [
         "Aleteia"
       ]
@@ -151,7 +179,7 @@
       "published": "2026-07-23T17:01:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 18.05,
       "sources": [
         "Aleteia"
       ]
@@ -165,7 +193,7 @@
       "published": "2026-07-23T16:31:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 17.87,
       "sources": [
         "Aleteia"
       ]
@@ -179,7 +207,7 @@
       "published": "2026-07-23T14:12:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/18/02/1784332876115.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.7,
+      "relevance": 17.6,
       "sources": [
         "Vatican News"
       ]
@@ -193,49 +221,77 @@
       "published": "2026-07-23T15:34:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.62,
+      "relevance": 17.51,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Chile: impulsa una campaña solidaria ante inundaciones",
-      "summary": "A través de Cáritas Diocesana, la Iglesia de Copiapó impulsa una campaña solidaria para apoyar a las familias afectadas por el temporal en Vallenar, Alto del Carmen, Freirina, Huasco y Copiapó. “Queremos que nadie se sienta solo”, expresó el obispo Ricardo Morales. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/chile-lluvias-danmificados-ayuda-caritas-obispados.html",
-      "published": "2026-07-23T13:26:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/23/caritas-cile.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Estados Unidos propone un botón para apagar la IA antes de que se descontrole",
+      "summary": "Estados Unidos podría tener una forma de apagar la inteligencia artificial que se salga de control. Un proyecto de ley busca dar al gobierno la capacidad de intervenir directamente sobre los modelos más potentes del mercado. El \"botón\" para apagar la IA llega a unos días de que OpenAI confirmara...",
+      "url": "https://hipertextual.com/inteligencia-artificial/boton-apagado-ia-estados-unidos/",
+      "published": "2026-07-23T21:25:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/terminator-skynet-inteligencia-artificial.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.42,
+      "relevance": 19.7,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Nicaragua: la ONU condena la decisión de suspender las elecciones",
-      "summary": "La Oficina del Alto Comisionado de las Naciones Unidas para los Derechos Humanos ha adoptado una postura firme respecto al restablecimiento del estado de derecho en el país tras la decisión del presidente nicaragüense Ortega de suspender la celebración de nuevas elecciones. Leer todo",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-07/nicaragua-la-onu-condena-la-decision-de-suspender-las-elecciones.html",
-      "published": "2026-07-23T13:15:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/20/05/1784519155183.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "‘Avatar: La Leyenda de Aang’ se expande con una nueva serie, ‘Avatar: Seven Havens’, que ya tiene tráiler y fecha de estreno",
+      "summary": "La franquicia de Avatar: La Leyenda de Aang estrenará este mismo 2026 una nueva serie, Avatar: Seven Havens. Será el tercer proyecto televisivo de la saga (el cuarto si sumamos el remake live-action de Netflix). Y durante el panel de la San Diego Comic Con dedicado a la inminente película Avatar...",
+      "url": "https://hipertextual.com/cine-television/avatar-la-leyenda-de-aang-nueva-serie-avatar-seven-havens-trailer-fecha-de-estreno/",
+      "published": "2026-07-23T21:21:17+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Avatar-Seven-Heavens.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 19.68,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "China acaba de estrenar tres líneas gigantes de fibra de carbono: malas noticias para EEUU y Japón",
-      "summary": "China ha dado un nuevo paso en su carrera por dominar el sector de los materiales avanzados. Y es que el gigante estatal CNBM (China National Building Material Group) ha puesto en marcha tres nuevas líneas de producción de fibra de carbono de alto rendimiento en su planta de Lianyungang, en la...",
-      "url": "https://www.xataka.com/materiales/china-acaba-estrenar-tres-lineas-gigantes-fibra-carbono-malas-noticias-para-eeuu-japon",
-      "published": "2026-07-23T16:31:15+00:00",
-      "image": "https://i.blogs.es/05fb90/original-2/1024_2000.jpeg",
+      "title": "China acaba de poner en marcha su nuevo acelerador de iones pesados. No lo ha construido solo para estudiar átomos",
+      "summary": "Hay máquinas que se construyen para observar lo que ya conocemos y otras para empujar la materia hasta lugares en los que apenas sabemos qué vamos a encontrar. En Huizhou, China ha levantado un complejo cuya línea de haz recorre dos kilómetros y que es capaz de acelerar iones pesados y dirigirlos...",
+      "url": "https://www.xataka.com/investigacion/china-acaba-poner-marcha-su-nuevo-acelerador-iones-pesados-no-ha-construido-solo-para-estudiar-atomos",
+      "published": "2026-07-23T20:00:39+00:00",
+      "image": "https://i.blogs.es/b81981/acelerador-de-iones-pesados-chino.png/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.28,
+      "relevance": 19.47,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "‘EA Sports FC 27’ vuelve a probar suerte con el fútbol callejero y estrena la edición más cara de la historia de la saga",
+      "summary": "Tal y como se esperaba, Electronic Arts ha presentado oficialmente EA Sports FC 27, la nueva entrega de su saga de juegos de fútbol. El nuevo título mantiene mucho de lo ya conocido de entregas previas, pero incorpora mejoras de jugabilidad y estrena una nueva modalidad vinculada con el fútbol...",
+      "url": "https://hipertextual.com/videojuegos/ea-sports-fc-27-caracteristicas-precios-y-fecha-de-lanzamiento/",
+      "published": "2026-07-23T20:13:36+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/FC27-1-scaled.jpg?fit=1024%2C768&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.26,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "China llevaba años persiguiendo el “oro negro”. Ahora ha comenzado a convertirlo en algo mucho más grande",
+      "summary": "Una fibra casi invisible puede acabar soportando parte de una pala eólica gigantesca, formando parte de las estructuras principales de carga de un tren de metro o protegiendo varios satélites durante el ascenso de un cohete. Eso es lo que hemos visto con la fibra de carbono: un material que parece...",
+      "url": "https://www.xataka.com/magnet/china-llevaba-anos-persiguiendo-oro-negro-ahora-ha-comenzado-a-convertirlo-algo-mucho-grande",
+      "published": "2026-07-23T19:01:15+00:00",
+      "image": "https://i.blogs.es/4b376f/china-fibra-de-carbono-1/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.1,
       "sources": [
         "Xataka"
       ]
@@ -243,13 +299,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Tom Hanks renunció a su salario de 7 millones de dólares por su trabajo en Forrest Gump: fue la mejor inversión de su vida",
-      "summary": "Que Tom Hanks es uno de los actores mejor pagados de Hollywood no es una sorpresa para nadie. Sin embargo, hubo una película en la que, debido al alto coste de producción, tanto el director como el actor principal tuvieron que reducirse el salario pactado inicialmente. Hanks no se limitó a...",
-      "url": "https://www.xataka.com/cine-y-tv/tom-hanks-renuncio-a-su-salario-7-millones-dolares-su-trabajo-forrest-gump-fue-mejor-inversion-su-vida",
-      "published": "2026-07-23T16:21:57+00:00",
-      "image": "https://i.blogs.es/701a2d/forrest-gump-protagoniazada-por-tom-hanks/1024_2000.jpeg",
+      "title": "Una nube europea con cifrado postcuántico para evitar problemas de seguridad futuros: Internxt sigue con su promo estrella activa",
+      "summary": "Aunque suene un poco a ciencia ficción, la computación cuántica está cerca de ser una realidad a gran escala. Pero, ¿y eso en qué nos afecta a nosotros? Este tipo de ordenadores, entre otras muchas cosas, son capaces de descifrar los sistemas de cifrado que más se utilizan hoy en día. Por eso...",
+      "url": "https://www.xataka.com/seleccion/nube-europea-cifrado-postcuantico-para-evitar-problemas-seguridad-futuros-internxt-sigue-su-promo-estrella-activa",
+      "published": "2026-07-23T18:45:15+00:00",
+      "image": "https://i.blogs.es/00c9b9/portada-internxt-codigo-de-descuento/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.22,
+      "relevance": 19.0,
       "sources": [
         "Xataka"
       ]
@@ -257,97 +313,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Los embalses de España están vaciándose poco a poco y eso nos recuerda algo: el fantasma de la sequía aún no se ha ido",
-      "summary": "Los embalses de España acumulan agua. Bastante. El balance publicado el lunes por el Gobierno muestra que la reserva hídrica se sitúa al 73,4% de su capacidad, lo que equivale a unos 41.100 hectómetros cúbicos (hm3), casi 3.000 más que el año pasado y 9.300 que la media de la última década. Ahora,...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/embalses-espana-estan-vaciandose-poco-a-poco-eso-nos-recuerda-algo-fantasma-sequia-no-se-ha-ido",
-      "published": "2026-07-23T16:01:15+00:00",
-      "image": "https://i.blogs.es/af648f/47381578972_813fa808b8_k/1024_2000.jpeg",
+      "title": "Este controlador te permite usar cualquier dispositivo con la lengua: se conecta por bluetooth y es un trackpad en tu paladar",
+      "summary": "Manejar el ratón de un ordenador con la lengua puede parecerte algo excéntrico. Pero más de 100 millones de personas con movilidad reducida no tienen tan fácil usar un ratón con sus manos, y es aquí donde entra, dispositivos como MouthPad^. Creado por la empresa estadounidense ^Augmental, se trata...",
+      "url": "https://www.xataka.com/accesorios/este-controlador-te-permite-usar-cualquier-dispositivo-lengua-se-conecta-bluetooth-trackpad-tu-paladar",
+      "published": "2026-07-23T18:31:15+00:00",
+      "image": "https://i.blogs.es/49b34a/mouthpad/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 18.92,
       "sources": [
         "Xataka"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Hace tantísimo calor que Alicante ha tomado una decisión: cerrar sus playas por el reventón térmico",
-      "summary": "Las olas de calor están cambiando el comportamiento de los turistas en España, pero no nos podemos olvidar de las personas que viven los 365 días del año en las ciudades turísticas. Quienes viajan hasta allí pueden evitar hacerlo en las épocas de más calor, pero cuando se trata de tu lugar de...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/vientos-huracanados-subidas-15oc-cuestion-minutos-asi-reventon-termico-que-amenaza-costa-alicantina",
-      "published": "2026-07-23T15:45:15+00:00",
-      "image": "https://i.blogs.es/048d69/playa-alicante/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Grabar a extraños con las Ray-Ban Meta ya te puede costar la cuenta de Instagram",
+      "summary": "Meta se ha cansado de las bromas pesadas que hacen los dueños de las Ray-Ban Meta y ha anunciado una solución. A partir de hoy, Instagram prohibirá los vídeos que muestren acoso a extraños o comportamientos indebidos en la vía pública. La medida llega tras meses de polémica por el uso de estos...",
+      "url": "https://hipertextual.com/tecnologia/instagram-prohibe-videos-acoso-gafas-ray-ban-meta/",
+      "published": "2026-07-23T19:10:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/08/ray-ban-meta-mark-zuckerberg.jpg?fit=1024%2C658&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.99,
+      "relevance": 18.86,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Google tiene chips de sobra para vender. Prefiere quedárselos para no quedarse atrás en la carrera de la AGI",
-      "summary": "Alcanzar la AGI (Inteligencia Artificial General) es una de las grandes metas de las Big Tech en este momento. Aunque se hayan rebajado las expectativas en torno a este concepto de IA gobernante que hace de todo, Alphabet, la matriz de Google, no quiere quedarse atrás en esta carrera, y por ello ha...",
-      "url": "https://www.xataka.com/empresas-y-economia/google-tiene-chips-sobra-para-vender-prefiere-quedarselos-para-no-quedarse-atras-carrera-agi",
-      "published": "2026-07-23T15:31:15+00:00",
-      "image": "https://i.blogs.es/457cc3/original/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.9,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Galaxy Watch8, Galaxy Watch9 y Galaxy Watch Ultra y Ultra2: qué cambia (y qué no) en la nueva generación de relojes inteligentes de Samsung",
-      "summary": "El último Unpacked de Samsung ha estado protagonizado por los tres nuevos plegables de la marca (sí, en esta generación hay tres modelos diferentes), pero no podemos olvidarnos de los smartwatch, porque hay mucho que contar. En este artículo vamos a repasar las diferencias más importantes que hay...",
-      "url": "https://www.xataka.com/seleccion/galaxy-watch8-galaxy-watch9-galaxy-watch-ultra-ultra2-que-cambia-que-no-nueva-generacion-relojes-inteligentes-samsung",
-      "published": "2026-07-23T15:15:15+00:00",
-      "image": "https://i.blogs.es/9466c5/samsung-galaxy-watch9-y-samsung-galaxy-watch-ultra2/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.8,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Tres erupciones, 35 años de espera y una respuesta inesperada: así resolvieron el misterio del agujero negro de IC 3599",
-      "summary": "En 1990 se detectó una gran erupción en el agujero negro ubicado en el centro de la galaxia IC3599, a 280 millones de años luz de la Tierra. Más tarde, en 2010, se detectó una nueva erupción. Este tipo de fenómenos se producen aproximadamente una vez cada 10.000 a 100.000 años por galaxia. Es...",
-      "url": "https://www.xataka.com/espacio/tres-erupciones-35-anos-espera-respuesta-inesperada-asi-resolvieron-misterio-agujero-negro-ic-3599",
-      "published": "2026-07-23T15:01:15+00:00",
-      "image": "https://i.blogs.es/77fe4e/erupcion-agujero-negro/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.71,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los genios chinos de la IA podrían ser multimillonarios en EEUU. Lo malo para EEUU es que prefieren volver a China",
-      "summary": "Lo normal es que alguien tarde seis años en completar un doctorado en la Universidad Carnegie Mellon (CMU). Un joven llamado Yang Zhilin lo consiguió en cuatro, y acto seguido pasó lo que tenía que pasar: las grandes tecnológicas se lo rifaban. Lo querían fichar en Apple, Google o Meta, y tanto el...",
-      "url": "https://www.xataka.com/robotica-e-ia/genios-chinos-ia-podrian-ser-multimillonarios-eeuu-malo-para-eeuu-que-prefieren-volver-a-china",
-      "published": "2026-07-23T14:31:15+00:00",
-      "image": "https://i.blogs.es/bf02fe/ingenieros-ia-china/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.53,
-      "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"En el Mundial me dijeron que era una lesión pequeña y que no iría a peor si continuaba jugando...\"",
-      "summary": "El neerlandés explica su lesión",
-      "url": "https://www.marca.com/futbol/barcelona/2026/07/23/jong-rompe-silencio-dificil-mi-ver-gente-cuestiona-mi-compromiso.html",
-      "published": "2026-07-23T16:52:34+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a6246189086e.jpeg",
+      "title": "Las portadas de este viernes",
+      "summary": "",
+      "url": "https://www.marca.com/mundo-marca/album/2026/07/24/portadas-periodicos-deportivos-viernes-24-julio.html",
+      "published": "2026-07-23T22:36:39+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/24/6a6297313fac5.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 20.45,
       "sources": [
         "Marca"
       ]
@@ -355,13 +355,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Manchester City oficializa al hombre de los 135 millones de euros",
-      "summary": "El excentrocampista del Nottingham Forest se compromete por cinco temporadas",
-      "url": "https://www.marca.com/futbol/premier-league/2026/07/23/manchester-city-oficializa-hombre-135-millones-euros-elliot-anderson.html",
-      "published": "2026-07-23T16:46:26+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a62450e242e4.jpeg",
+      "title": "Otamendi anuncia que deja la selección argentina",
+      "summary": "El defensa de 38 años ha compartido un comunicado en sus redes sociales",
+      "url": "https://www.marca.com/futbol/mundial/2026/07/24/otamendi-anuncia-deja-seleccion-argentina.html",
+      "published": "2026-07-23T22:14:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/24/6a6291dea8d12.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 20.31,
       "sources": [
         "Marca"
       ]
@@ -369,13 +369,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Casemiro: “Le dejé claro a los Galaxy que sólo quiero jugar en Inter Miami”",
-      "summary": "El brasileño aclaró que su deseo es el de jugar en Florida, por encima de Los Ángeles",
-      "url": "https://www.marca.com/futbol/2026/07/23/casemiro-le-deje-claro-galaxy-quiero-jugar-inter-miami.html",
-      "published": "2026-07-23T16:38:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a62402d35d1a.jpeg",
+      "title": "El portero húngaro Peter Gulacsi, muy cerca de fichar por el Villarreal",
+      "summary": "El internacional magiar supliría la probable salida de Arnau Tenas",
+      "url": "https://www.marca.com/futbol/villarreal/2026/07/23/portero-hungaro-peter-gulacsi-cerca-fichar-villarreal.html",
+      "published": "2026-07-23T21:50:06+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a628c7d35f71.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 20.16,
       "sources": [
         "Marca"
       ]
@@ -383,53 +383,11 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Confirmado: el Barça pierde a De Jong",
-      "summary": "El neerlandés, que no pasará por quirófano, estará varias semanas de baja",
-      "url": "https://www.marca.com/futbol/barcelona/2026/07/23/jong-sufre-rotura-ligamento-lateral-interno-rodilla-derecha.html",
-      "published": "2026-07-23T16:32:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/17/6a59ed1fa15a7.jpeg",
-      "coverage": 1,
-      "relevance": 20.28,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Tenemos Modric para rato: renueva un año más con el Milan",
-      "summary": "El centrocampista croata, de 40 años, disputará su segunda temporada como futbolista del conjunto rossonero",
-      "url": "https://www.marca.com/futbol/liga-italiana/2026/07/23/modric-rato-renueva-ano-milan.html",
-      "published": "2026-07-23T16:22:15+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a623f00b1631.jpeg",
-      "coverage": 1,
-      "relevance": 20.22,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Alemania podría presentar a Klopp mañana",
-      "summary": "La Federación ha convocado una rueda de prensa sorpresa sin ofrecer detalles al respecto",
-      "url": "https://www.marca.com/futbol/2026/07/23/alemania-podria-presentar-manana-klopp.html",
-      "published": "2026-07-23T16:19:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a623efe24080.jpeg",
-      "coverage": 1,
-      "relevance": 20.2,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La Federación bloquea las licencias del Andorra por la deuda con Sarabia",
-      "summary": "El club tricolor no podrá tramitar ni renovar licencias hasta que abone el pago, aunque la postura del club es de tranquilidad",
-      "url": "https://www.marca.com/futbol/andorra/2026/07/23/federacion-bloquea-licencias-andorra-deuda-sarabia.html",
-      "published": "2026-07-23T15:56:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a62372b29002.jpeg",
+      "title": "El Sevilla se lleva en los penaltis el Trofeo Puertas de Córdoba",
+      "summary": "Carmona y Kevin Medina dejaron a sus respectivos equipos con diez en los minutos finales",
+      "url": "https://www.marca.com/futbol/sevilla/2026/07/23/sevilla-lleva-penaltis-trofeo-puertas-cordoba.html",
+      "published": "2026-07-23T21:34:17+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a62829990f94.jpeg",
       "coverage": 1,
       "relevance": 20.06,
       "sources": [
@@ -439,13 +397,55 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Badosa sigue 'on fire'",
-      "summary": "Logra su undécima victoria en los doce últimos partidos que ha disputado para alargar su escalada en la clasificación femenina",
-      "url": "https://www.marca.com/tenis/2026/07/23/badosa-alarga-racha-victoriosa-udvardy-reencuentra-sherif.html",
-      "published": "2026-07-23T15:42:54+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62367175bb2.r_d.927-686-0.jpeg",
+      "title": "El Ajax de Míchel comienza goleando en Europa y el Benfica se la 'pega'",
+      "summary": "El nuevo equipo del ex del Girona goleó a la Vojvodina (1-4) en la 2ª previa de Conference",
+      "url": "https://www.marca.com/futbol/europa-league/2026/07/23/ajax-michel-comienza-goleando-europa-benfica-pega.html",
+      "published": "2026-07-23T21:21:31+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a62856acdcc1.jpeg",
+      "coverage": 1,
+      "relevance": 19.98,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Mastantuono se gana a Mourinho",
+      "summary": "El argentino es uno de los jugadores que más ha sorprendido al luso en estos primeros diez días de pretemporada",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/07/23/mastantuono-gana-mourinho.html",
+      "published": "2026-07-23T21:19:24+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a61e8c746a5a.jpeg",
       "coverage": 1,
       "relevance": 19.97,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "CONMEBOL planea nuevo torneo con clubes de México, Concacaf y Sudamérica",
+      "summary": "El megaproyecto de CONMEBOL con equipos de EE. UU. y México",
+      "url": "https://www.marca.com/co/2026/07/23/conmebol-planea-nuevo-torneo-clubes-mexico-concacaf-sudamerica.html",
+      "published": "2026-07-23T20:48:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a627d6f45e6e.jpeg",
+      "coverage": 1,
+      "relevance": 19.77,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Juanfer Quintero descarta su regreso a River Plate y revela fuerte conflicto con Eduardo Coudet",
+      "summary": "\"No soy prioridad para él\": Juanfer Quintero rompe el silencio",
+      "url": "https://www.marca.com/co/2026/07/23/juanfer-quintero-descarta-regreso-river-plate-revela-fuerte-conflicto-eduardo-coudet.html",
+      "published": "2026-07-23T20:43:18+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/23/6a627c32bf46e.jpeg",
+      "coverage": 1,
+      "relevance": 19.74,
       "sources": [
         "Marca"
       ]
@@ -459,7 +459,7 @@
       "published": "2026-07-23T14:15:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/246c/live/3ee56340-868c-11f1-bee8-53ce494e1abc.jpg",
       "coverage": 2,
-      "relevance": 30.63,
+      "relevance": 28.52,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -468,41 +468,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "China desafía a EE. UU. con su mayor ofensiva por la IA",
-      "summary": "China ha dado un nuevo paso para reforzar su posición en la carrera mundial por la inteligencia artificial con el lanzamiento de una organización internacional de cooperación en este ámbito. La iniciativa busca fortalecer el desarrollo tecnológico del país y ampliar su influencia en un sector...",
-      "url": "https://www.france24.com/es/programas/as%C3%AD-es-asia/20260723-china-desaf%C3%ADa-a-ee-uu-con-su-mayor-ofensiva-por-la-ia",
-      "published": "2026-07-23T15:45:56+00:00",
-      "image": "https://s.france24.com/media/display/93de5494-8694-11f1-98d3-005056a90284/w:1024/p:16x9/WEB-PORTADA-AEA-27JUL.png",
+      "title": "Ben Gvir, ministro israelí, desafía el status quo y reza en la Explanada de las Mezquitas",
+      "summary": "El ministro israelí de Seguridad Nacional, Itamar Ben Gvir, irrumpió el 23 de julio de 2026 en la Explanada de las Mezquitas, desafiando el status quo que reserva el recinto al culto musulmán. La acción, coincidente con la festividad judía de Tisha B’Av, provocó condenas de Jordania, la Autoridad...",
+      "url": "https://www.france24.com/es/video/20260723-ben-gvir-ministro-israel%C3%AD-desaf%C3%ADa-el-status-quo-y-reza-en-la-explanada-de-las-mezquitas",
+      "published": "2026-07-23T22:42:59+00:00",
+      "image": "https://s.france24.com/media/display/9c2e2dc2-86e4-11f1-9312-005056bfb2b6/w:1024/p:16x9/ES-20260723-160541-160737-CS.jpg",
       "coverage": 1,
-      "relevance": 20.29,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Los hutíes de Yemen afirman haber atacado petroleros en el mar Rojo luego de anunciar un \"embargo marítimo\"",
-      "summary": "Un vocero de los hutíes dijo que habían atacado los buques por violar su bloqueo naval. En Irán, medios estatales informaron de la muerte de dos personas en ataques estadounidenses.",
-      "url": "https://www.bbc.com/mundo/articles/c4g3x93l39po?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-23T12:17:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/192a/live/48406940-8681-11f1-bee8-53ce494e1abc.jpg",
-      "coverage": 1,
-      "relevance": 19.89,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Colombia: conflicto armado dejó 80.000 desplazados y confinados en los primeros seis meses de 2026",
-      "summary": "El conflicto armado en Colombia afectó a más de 80.000 personas durante el primer semestre de 2026 entre desplazamientos forzados y confinamientos, según un informe divulgado este jueves 23 de julio por la Defensoría del Pueblo, que alertó sobre la persistencia de la crisis humanitaria en varias...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260723-colombia-conflicto-armado-dej%C3%B3-80-000-desplazados-y-confinados-en-los-primeros-seis-meses-de-2026",
-      "published": "2026-07-23T14:39:44+00:00",
-      "image": "https://s.france24.com/media/display/fe867abe-d83b-11ef-823e-005056bf30b7/w:1024/p:16x9/cata%202.jpg",
-      "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 20.79,
       "sources": [
         "France 24"
       ]
@@ -510,13 +482,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Hutíes de Yemen atacan dos petroleros de Arabia Saudita en el mar Rojo",
-      "summary": "Los rebeldes hutíes de Yemen pusieron fin a su relativa discreción sobre la guerra de Estados Unidos en Irán y reivindicaron un ataque contra dos petroleros de Arabia Saudita en el mar Rojo, donde las fuerzas pro iraníes tienen un bloqueo desde hace tres días. El repunte de tensiones empezó el 13...",
-      "url": "https://www.france24.com/es/video/20260723-hut%C3%ADes-de-yemen-atacan-dos-petroleros-de-arabia-saudita-en-el-mar-rojo",
-      "published": "2026-07-23T14:21:46+00:00",
-      "image": "https://s.france24.com/media/display/1507bb3c-869f-11f1-acf9-005056bf30b7/w:1024/p:16x9/ES-20260723-073145-073312-CS.jpg",
+      "title": "¿Por qué Irán ataca las plantas desalinizadoras de Kuwait como parte de su estrategia de guerra?",
+      "summary": "Los ataques iraníes han golpeado las plantas desalinizadoras y centrales eléctricas de Kuwait. Los bombardeos ejercen una presión sin precedentes sobre un país del Golfo que depende en gran medida de la desalinización para su suministro de agua. Según algunos analistas, Irán intenta librar una...",
+      "url": "https://www.france24.com/es/medio-oriente/20260723-por-qu%C3%A9-ir%C3%A1n-ataca-las-plantas-desalinizadoras-de-kuwait-como-parte-de-su-estrategia-de-guerra",
+      "published": "2026-07-23T22:32:59+00:00",
+      "image": "https://s.france24.com/media/display/c6ab2b0e-85ea-11f1-a430-005056bfb2b6/w:1024/p:16x9/2026-07-21T135520Z-950614241-RC2DIMA49QH1-RTRMADP-3-IRAN-CRISIS-KUWAIT.jpg",
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 20.73,
       "sources": [
         "France 24"
       ]
@@ -524,13 +496,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "¿Por qué Trump condiciona el acuerdo nuclear con Arabia Saudita a un pacto con Israel?",
-      "summary": "El presidente de Estados Unidos, Donald Trump, afirmó que el acuerdo de cooperación nuclear civil con Arabia Saudita solo avanzará si Riad se suma a los Acuerdos de Abraham, el mecanismo impulsado por Washington para normalizar las relaciones entre países árabes e Israel. La declaración introduce...",
-      "url": "https://www.france24.com/es/medio-oriente/20260723-por-qu%C3%A9-trump-condiciona-el-acuerdo-nuclear-con-arabia-saudita-a-un-pacto-con-israel",
-      "published": "2026-07-23T13:54:54+00:00",
-      "image": "https://s.france24.com/media/display/db2b5eae-8690-11f1-a772-005056a97e36/w:1024/p:16x9/AP26051271110154.jpg",
+      "title": "Israel encierra la aldea palestina que inspiró un Óscar para que colonos judíos recen en ella",
+      "summary": "Bajo el pretexto de que en Al-Tuwani –en el sur de Cisjordania ocupada– se encontrarían los restos de una sinagoga, el Ejército israelí bloqueó durante una noche todos los movimientos para que medio centenar de colonos de la zona rezaran por la festividad judía de Tisha B'Av. Esto solo cuatro días...",
+      "url": "https://www.france24.com/es/video/20260723-israel-encierra-la-aldea-palestina-que-inspir%C3%B3-un-%C3%B3scar-para-que-colonos-jud%C3%ADos-recen-en-ella",
+      "published": "2026-07-23T21:07:17+00:00",
+      "image": "https://s.france24.com/media/display/0ec46ec4-86da-11f1-8f97-005056bf30b7/w:1024/p:16x9/WhatsApp-Image-2026-07-23-at-12-45-59-PM.jpeg",
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 20.19,
       "sources": [
         "France 24"
       ]
@@ -538,41 +510,69 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "China realiza maniobras cerca de Taiwán mientras crecen las tensiones con Filipinas",
-      "summary": "China inició este jueves dos días de ejercicios militares con fuego real en el estrecho de Taiwán, mientras nuevos enfrentamientos con Filipinas en el mar de China Meridional llevaron a Estados Unidos a denunciar las acciones de Beijing y reafirmar su compromiso de defensa con Manila.",
-      "url": "https://www.france24.com/es/asia-pac%C3%ADfico/20260723-china-realiza-maniobras-cerca-de-taiw%C3%A1n-mientras-crecen-las-tensiones-con-filipinas",
-      "published": "2026-07-23T12:42:30+00:00",
-      "image": "https://s.france24.com/media/display/9611d51a-84d2-11f1-b312-005056bfb2b6/w:1024/p:16x9/2026-07-21T022904Z-99933727-RC2DHMAJEZPO-RTRMADP-3-SOUTHCHINASEA-PHILIPPINES-CHINA.jpg",
+      "title": "Cisjordania: Sebastia busca ser Patrimonio Mundial de la UNESCO en medio de tensiones con Israel",
+      "summary": "Sebastia, en Cisjordania, busca ser reconocida como Patrimonio Mundial de la UNESCO. El yacimiento arqueológico, con restos desde el siglo IX a.C. hasta la época otomana, enfrenta amenazas de expropiación por parte de Israel.",
+      "url": "https://www.france24.com/es/video/20260723-cisjordania-sebastia-busca-ser-patrimonio-mundial-de-la-unesco-en-medio-de-tensiones-con-israel",
+      "published": "2026-07-23T21:00:38+00:00",
+      "image": "https://s.france24.com/media/display/4df58792-86d8-11f1-b0aa-005056bfb2b6/w:1024/p:16x9/ES-20260723-150754-151000-CS.jpg",
       "coverage": 1,
-      "relevance": 19.15,
+      "relevance": 20.15,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "Google Noticias",
-      "title": "TRUMP EVALÚA UN “ATAQUE MASIVO” CONTRA IRÁN EN MEDIO DE LA ESCALADA MILITAR",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1KVFZES2JTcEpxTnQ1RURxN0ptZ2VoSno4UWFrMjZDNmpsNVd3OC1pcmRSbW0xSGZ3VnFuY1VnRk9tNnc0c1daWWh6RmVYZDZ1VE16UEthelBDcGhuMVJTVklsTUZqNEZPbmdxakdDRkJNNVM3QWFRQVRHN2JGVkhfOG1XanVMblVrODVKaWZ5YlUwUkdWb1FzbE5OZTFRbVlmdGxQcVJsTVIxMHpSNFhhRUZxdVkt?oc=5",
-      "published": "2026-07-23T16:51:07+00:00",
-      "image": null,
+      "source": "France 24",
+      "title": "¿Cuál es el panorama actual del sector petrolero tras ataques a buques saudíes en el mar Rojo?",
+      "summary": "Los hutíes atacaron dos petroleros saudíes en el mar Rojo, abriendo un nuevo frente de conflicto y poniendo en riesgo una ruta clave para el comercio mundial de crudo. Mientras, el precio del Brent subió más de 4% en un día. Oswaldo Felizzola, investigador especializado en análisis del sector...",
+      "url": "https://www.france24.com/es/video/20260723-cu%C3%A1l-es-el-panorama-actual-del-sector-petrolero-tras-ataques-a-buques-saud%C3%ADes-en-el-mar-rojo",
+      "published": "2026-07-23T20:56:54+00:00",
+      "image": "https://s.france24.com/media/display/65984e9e-86d7-11f1-b234-005056bf30b7/w:1024/p:16x9/ES-20260723-150421-150713-CS.jpg",
       "coverage": 1,
-      "relevance": 18.9,
+      "relevance": 20.13,
       "sources": [
-        "Google Noticias"
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Informe desde Beirut: Hutíes atacaron dos petroleros de Arabia Saudita; Trump lanza amenaza",
+      "summary": "Los hutíes de Yemen atacaron dos petroleros saudíes en el mar Rojo con misiles y drones, en la primera acción de su bloqueo naval contra Arabia Saudita. Donald Trump reaccionó responsabilizando a Irán y advirtiendo que EE.UU. impondrá un “castigo militar severo”. Desde Beirut, nuestra corresponsal...",
+      "url": "https://www.france24.com/es/video/20260723-informe-desde-beirut-hut%C3%ADes-atacaron-dos-petroleros-de-arabia-saudita-trump-lanza-amenaza",
+      "published": "2026-07-23T20:52:21+00:00",
+      "image": "https://s.france24.com/media/display/1f7a714c-86d4-11f1-97fb-005056bfb2b6/w:1024/p:16x9/ES-20260723-130410-130545-CS.jpg",
+      "coverage": 1,
+      "relevance": 20.1,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Trump condiciona acuerdo de cooperación nuclear con Arabia Saudita a los Acuerdos de Abraham",
+      "summary": "El presidente de Estados Unidos, Donald Trump, aseguró este jueves 23 de julio que el acuerdo de cooperación nuclear civil negociado por su Gobierno con Arabia Saudita está condicionado a que el reino establezca relaciones diplomáticas con Israel mediante su adhesión a los Acuerdos de Abraham....",
+      "url": "https://www.france24.com/es/video/20260723-trump-condiciona-acuerdo-de-cooperaci%C3%B3n-nuclear-con-arabia-saudita-a-los-acuerdos-de-abraham",
+      "published": "2026-07-23T19:54:36+00:00",
+      "image": "https://s.france24.com/media/display/709cbfda-86cf-11f1-a292-005056a90284/w:1024/p:16x9/ES-20260723-123204-123527-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.74,
+      "sources": [
+        "France 24"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Demanda laboral cayó 6,6% en el primer semestre del año respecto a 2025",
-      "summary": "Según el monitor laboral de Advice, “mientras la economía nacional atraviesa una fase de bajo crecimiento, el mercado de trabajo se retrae”De acuerdo con el monitor laboral de la consultora Advice, durante el primer semestre del año se publicaron 39.190 oportunidades de empleo, lo que representa...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/7/demanda-laboral-cayo-66-en-el-primer-semestre-del-ano-respecto-a-2025/",
-      "published": "2026-07-23T15:26:08+00:00",
+      "title": "Es falso que hackearon los sistemas de Ceibal: el organismo aclaró que se trató de un problema de configuración",
+      "summary": "Un mensaje viral asegura que Ceibal volvió a ser hackeado y recomienda no encender las computadoras ni conectarlas a internet. Sin embargo, la propia institución desmintió esa versión.En las últimas horas comenzó a circular por WhatsApp y en otras redes sociales un mensaje que afirma: “Atención, al...",
+      "url": "https://ladiaria.com.uy/verifica/articulo/2026/7/es-falso-que-hackearon-los-sistemas-de-ceibal-el-organismo-aclaro-que-se-trato-de-un-problema-de-configuracion/",
+      "published": "2026-07-23T22:36:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.27,
+      "relevance": 19.85,
       "sources": [
         "La Diaria"
       ]
@@ -580,13 +580,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Intendente de Durazno dijo que a Orsi “lo han dejado solo en muchos temas”, incluyendo el debate por la planta solar en Baygorria",
-      "summary": "Felipe Algorta señaló que “no supieron, de parte de su equipo y de su entorno, resolver con sentido común” el asunto, aunque mantiene la esperanza de que UTE ceda “la posibilidad de desarrollar ese lugar” con fines turísticos.Entrevistado por Panorama informativo de la diaria Radio, el intendente...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/intendente-de-durazno-dijo-que-a-orsi-lo-han-dejado-solo-en-muchos-temas-incluyendo-el-debate-por-la-planta-solar-en-baygorria/",
-      "published": "2026-07-23T15:22:25+00:00",
+      "title": "23 de julio de 1995: la medalla invisible y el siglo invicto",
+      "summary": "31 años del último título continental en Uruguay.Los 23 de julio, desde hace ya 31 años, han pasado a ser una fecha tan significativa en mi vida como mi cumpleaños, los de la familia u otros eventos que quedaron marcados a fuego en mi alma. Antes de que llegue el día, algo me avisa; una suerte de...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/23-de-julio-de-1995-la-medalla-invisible-y-el-siglo-invicto/",
+      "published": "2026-07-23T22:34:06+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.24,
+      "relevance": 19.83,
       "sources": [
         "La Diaria"
       ]
@@ -594,13 +594,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Copa Sudamericana: Lanús sacó diferencias de local",
-      "summary": "Además hubo empates en Sporting Cristal-Bragantino y en Independiente Medellín-Vasco da Gama.El miércoles se disputaron tres encuentros de ida por la Copa Sudamericana en su etapa de dieciseisavos de final. Lanús fue el único ganador tras superar 2-0 a Cienciano en Buenos Aires. Franco Watson anotó...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/copa-sudamericana-lanus-saco-diferencias-de-local/",
-      "published": "2026-07-23T15:19:40+00:00",
+      "title": "Trump presiona a Arabia Saudita a sumarse a los Acuerdos de Abraham a cambio de un pacto sobre desarrollo nuclear",
+      "summary": "Para el reino árabe, acceder implicaría establecer relaciones con Israel, algo a lo que históricamente se negó mientras no se avance hacia un Estado palestino.Estados Unidos y Arabia Saudita firmaron el miércoles el “Acuerdo 123” para que el reino desarrolle un programa de energía nuclear con fines...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/trump-presiona-a-arabia-saudita-a-sumarse-a-los-acuerdos-de-abraham-a-cambio-de-un-pacto-sobre-desarrollo-nuclear/",
+      "published": "2026-07-23T22:22:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.23,
+      "relevance": 19.76,
       "sources": [
         "La Diaria"
       ]
@@ -608,13 +608,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Trabajadores de OSE realizan un paro nacional de 24 horas este jueves",
-      "summary": "La regularización de los trabajadores tercerizados, la mejora de las condiciones laborales y el ingreso de personal son los principales reclamos del sindicato.La Federación de Funcionarios de OSE (FFOSE) realiza este jueves un paro nacional de 24 horas. La medida incluyó inicialmente la ocupación...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/7/trabajadores-de-ose-realizan-un-paro-nacional-de-24-horas-este-jueves/",
-      "published": "2026-07-23T14:58:31+00:00",
+      "title": "103 intervenciones en 24 horas: el balance de Bomberos tras el temporal en Salto",
+      "summary": "El temporal del 18 de julio obligó al destacamento de Salto a desplegar todo su personal.El destacamento de Bomberos de Salto realizó 103 intervenciones durante la turbonada que afectó a la ciudad el pasado 18 de julio, una cifra que equivale a más de dos meses de trabajo para la subunidad local,...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/7/103-intervenciones-en-24-horas-el-balance-de-bomberos-tras-el-temporal-en-salto/",
+      "published": "2026-07-23T22:13:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.1,
+      "relevance": 19.7,
       "sources": [
         "La Diaria"
       ]
@@ -622,57 +622,57 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Falleció el futbolista Bruno Betancor",
-      "summary": "Deportivo Italiano, club de la C donde estaba jugando el delantero ex Peñarol, comunicó que el motivo fue un paro cardiorrespiratorio.Falleció el futbolista de 22 años Bruno Betancor por un paro cardiorrespiratorio, según informó el club Deportivo Italiano, que milita en la C y donde estaba jugando...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/fallecio-el-futbolista-bruno-betancor/",
-      "published": "2026-07-23T14:38:46+00:00",
+      "title": "Nacional pierde a Coates por lesión",
+      "summary": "El capitán sufrió un desgarro en el sóleo izquierdo y estará cerca de un mes afuera.Nacional pierde a su capitán en un momento crítico en cuanto a resultados y capacidad de juego. El club anunció que Sebastián Coates sufrió un desgarro en el sóleo de la pierna izquierda y estará aproximadamente...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/nacional-pierde-a-coates-por-lesion/",
+      "published": "2026-07-23T21:23:40+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.97,
+      "relevance": 19.39,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El Banco Central del Uruguay exigirá a plataformas de criptomonedas garantías en dólares y reporte de datos de usuarios",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSG1iMFpkUUpxYW1YcVlJZzdBeWtwN3FmQWNCaDBFdkFiNHgzYWNvbERNOU9vd0w2Y1VYWnNvSndqdlEtRFBqTUZGTjBkcGl0R2xFVkV0MkdDM0YzM2hma0E0UzAwd2xra3dKRW5qVFhQUzFOTGpxVGhtNVJpWmhsN01GaHd4ZTVMbkcySFFUTEdLZ3h0SFoyamR4ektqa0NsYTFzYk9tbEg3b0dOcXBvNEpDVXFQbFBrV21xbEpiVEJ2YUJjc1pXVVBHZGFuM0x0aFd5VzN3Yw?oc=5",
-      "published": "2026-07-23T15:38:55+00:00",
+      "source": "La Diaria",
+      "title": "Llegan goles: Defensor Sporting, Danubio y Boston River sumaron delanteros",
+      "summary": "José Neris llegará al violeta, Bautista Tomatis al franjeado y Nicolás Siri al sastre.En plena disputa del torneo Intermedio, los equipos continúan reforzando sus planteles para el segundo semestre del fútbol uruguayo, cuando se define todo: el campeón, los clasificados a copas internacionales y el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/llegan-goles-defensor-sporting-danubio-y-boston-river-sumaron-delanteros/",
+      "published": "2026-07-23T21:20:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.45,
+      "relevance": 19.37,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "CAF financia carreteras, energía y agua en Argentina, Bolivia y Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM09tSEZ4TWpHeTE1Mi01bGFlTEs2V0lqLUZTUWE5bW9aVTZVRnNVNS1xcmFmdXF0algwejJVbnlWOEMwSVEwYmxIbm1pOEJYMnB2VXloSW1XR0t3ZVFjYjVnRmFHS1BxeDBwLU1sOTVXS3A0cTduZ1A1REtyaGwxd3NMUWYtMzlpQTBwSWJDVGRnV01zSlAtNE8tV1A0eHdjSGpiNGc0NkJKaHBR?oc=5",
-      "published": "2026-07-23T15:13:19+00:00",
+      "source": "La Diaria",
+      "title": "El PIT-CNT definió convocar a un paro general parcial con movilización el 11 de agosto",
+      "summary": "La plataforma de reivindicaciones incluye el rechazo a la decisión del gobierno de revisar las recomendaciones del Diálogo Social, algo que “debilita la confianza” y “afecta la credibilidad” de los espacios de intercambio.La Mesa Representativa del PIT-CNT resolvió este jueves convocar a un paro...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/el-pit-cnt-definio-convocar-a-un-paro-general-parcial-con-movilizacion-el-11-de-agosto/",
+      "published": "2026-07-23T21:12:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.29,
+      "relevance": 19.33,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Perú y Uruguay se enfocan en los preparativos para la próxima visita papal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3BQMVlhR2h0WDAyX3I3UkFMbjdzaUxtUUtfT0JTSkhDMHlSVXc2Tnc4VUtGTmp6UkE0LThkSVJJOUd4N180RE1TMVBwMUVYdXMwVXVMaXNHQUk0TmtBbzczOGEzZmg3UmMxV2tlbXJfVUZFMkFvZXdUamUyNkxPbUtkSUJoY3hjRl9GWW96TXFpeGhNM1hUUW5weHg?oc=5",
-      "published": "2026-07-23T14:54:26+00:00",
+      "source": "La Diaria",
+      "title": "Las AFAP valoraron los “avances alcanzados” en la negociación con el Poder Ejecutivo",
+      "summary": "El ministro de Economía, Gabriel Oddone, dijo que la desvinculación de las administradoras con las cuentas de ahorro individual se descartó porque “las condiciones económicas, financieras e institucionales no están maduras”.A través de un comunicado, la Asociación Nacional de AFAP, que nuclea a las...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/las-afap-valoraron-los-avances-alcanzados-en-la-negociacion-con-el-poder-ejecutivo/",
+      "published": "2026-07-23T20:08:34+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.17,
+      "relevance": 18.92,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     }
   ]
