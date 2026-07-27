@@ -1,6 +1,48 @@
 {
-  "updated_at": "2026-07-27T17:27:15.240414+00:00",
+  "updated_at": "2026-07-27T22:48:17.282221+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Merlin nombra a Miguel Oñate Rino nuevo director general corporativo",
+      "summary": "El ejecutivo entra también en el consejo de la socimi",
+      "url": "https://elpais.com/economia/2026-07-27/merlin-nombra-a-miguel-onate-rino-nuevo-director-general-corporativo.html",
+      "published": "2026-07-27T19:44:32+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/PC4MAPYOYNJX7A7ZKCKCCU6XMU.jpg?auth=afad68ee9fc8ff0f5e677f1be81ec22541482a5acfa64df3d9bc031540b1ef54",
+      "coverage": 1,
+      "relevance": 20.25,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Las comunidades del PP piden aplazar la reunión sobre la reforma de la financiación autonómica",
+      "summary": "Los consejeros de Hacienda envían una carta al ministerio solicitando retrasar a septiembre el Consejo de Política Fiscal y Financiera previsto para este miércoles",
+      "url": "https://elpais.com/economia/2026-07-27/las-comunidades-del-pp-piden-aplazar-la-reunion-sobre-la-reforma-de-la-financiacion-autonomica.html",
+      "published": "2026-07-27T19:04:25+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ITNLLFGQ6VMSRDMTZL2S35JJDQ.jpg?auth=4c875218e3cc247935e20a06ee23dca5022604f63df3af8bccc635348639c2c2",
+      "coverage": 1,
+      "relevance": 20.0,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "¿Dólar a $1800? Hay una pregunta más importante que esa",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVWtKWVhZRlNmUU01TGdEd2lLVDJNdUVRaXVPcUVKZmx6LVE1TTdOeGo0a0V5ZjE5TG9sLWFoWUtPc0FlRGRGcWR0NGFoVzV3VWV5TkdrTm12bTd5eEkyOVVsa3FCMXJtektJTjFZOFA1QWdOaG55V21TY0RzSnhGbERiTEM2MFpENE1LRFJzTGpEVUVQd3Fxa1B0Y24?oc=5",
+      "published": "2026-07-27T22:28:20+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,9 +52,37 @@
       "published": "2026-07-27T15:39:20+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/RHSFZS7IZFG4PBLJ4ZQKZLRAKE.jpg?auth=e77fa9756b62081b8ab2d95fb49ab773c9d2c68e563f9875392a47e90aaf56eb",
       "coverage": 1,
-      "relevance": 20.73,
+      "relevance": 18.72,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este lunes 27 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOd2pJODBkNWFsMGtDUVFLeTJaNjdTdklicHRfU3VsZmlWamdKbk5PNGVIZjRNQ3A4aUJnaUFGQzVWRmNJYnlFVFRwajNsRkVPUlRNSjZMTWt1bmFBaERJRUp4TGV2VXlvU1FMWWRrUmpLNkhqQnhFYXBTaWhPYl9iUG1GSjZLZ1RfVkQ2QUlqS2xwNFRUTE1YX3pBc2hRYmYxdFZMQzFTOElTQdIBxAFBVV95cUxNclhKZkVCbDlEVWZjVnd5S21OeEtPVHJSbGs5dlB3bEljMHVDV082THloeXVYRHJDeW5qTVdaM2dlTkpGNmNlVi1ZU1B1czFGdGhoaUJ1bE96VE9uRjBTZGt3bzgzeU0zMkhyTlhqOEh5UjQtLUwtZXMtU3hGTFJHZTEteWhDVXVabUN0WllpUDFqMmdrY3A0Nmh4T1dxZVc5c2JTM0VDbHI0V1plYzFqTHRSY2gzam5YejRhOXRRamRxUmpu?oc=5",
+      "published": "2026-07-27T22:00:29+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.7,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El dólar mayorista se mantuvo cerca de los $1.500 y el mercado sigue atento al tipo de cambio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0gtT25HOGg5R3RFcG1sLWFFNmhBSHJweWVLQzJmYXprdDJ5RWRSYXB2aGRVNFlaZjJTQXRuVVJTWDdZSUlzbjNMMVlpWHZYTHdlbGZBV0huZ0JydWpBX21uNUtWcUEzczduTDRwUEN0eWU4VDdVOHQ4WW1EUlhXbW0yNF9UYnVwcDR4RUQ0UHdIRlZyR0FHbHZKbFhoT2xLbm1fc0x0ZU16Z2g1NVhZUUJLeDNkeER4RmhUTkVpTUzSAcYBQVVfeXFMT3FGbHRpN2JGdTZCMy05OXk5Y3BCNkNDX1VlbVRFWEROV0o4U0JnSE10MGxVcVRhbEJxdG1iUFEtVnBjRFd4blRQLVZ6R1ZkS2E0LXR4UlY4UHJ5R1B4clphNkxhT3NnN2pBRmJtaExhSjViNmNzdUIxU0prUWRfY1hZdVA3UzA5X0I5WEthckp2ZmNxWGJYbjdqR0llMmY5UTdpTFZuSlRNZFVIQlFJUmlBUkhMODBabXVVTEkwN0YxQXRoWGFB?oc=5",
+      "published": "2026-07-27T21:03:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.34,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,63 +94,7 @@
       "published": "2026-07-27T14:35:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/XWHAXGYYFFHIHLXWPJXT3AD53U.jpg?auth=475ef8d86efb3dde1098c8b983e136d5e042f0968b8125b9912171c78b7b4af1",
       "coverage": 1,
-      "relevance": 20.32,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Los nuevos alquileres bajan un 3,5% en Gipuzkoa tras la aplicación de topes de precio en las principales localidades",
-      "summary": "El Gobierno vasco constata una caída de los importes en el último trimestre del año pasado: en San Sebastián, la ciudad más cara, las rentas se abarataron un 3,7%",
-      "url": "https://elpais.com/economia/vivienda/2026-07-27/los-nuevos-alquileres-bajan-un-35-en-gipuzkoa-tras-la-aplicacion-de-topes-de-precio-en-las-principales-localidades.html",
-      "published": "2026-07-27T12:33:51+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/UC2G263YZZDAFC33S34OYOLBFM.jpg?auth=86d6a292255043995ed48b33713dbafff895dc335699ba2896d8d33ac017aa12",
-      "coverage": 1,
-      "relevance": 19.57,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El Gobierno aprobará una prestación para los trabajadores y empresas afectados por los incendios",
-      "summary": "El Ministerio asumirá desde el primer día el coste del salario y la cotización y ampliará cinco días los permisos por fallecimiento",
-      "url": "https://elpais.com/economia/2026-07-27/el-gobierno-aprobara-una-prestacion-para-los-trabajadores-afectados-por-los-incendios.html",
-      "published": "2026-07-27T12:10:19+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/MYQXT2CV3ZERLBJBETCOZ7HKGY.jpg?auth=cb40ad6059ce6eea31ade4c4537a6d389c7ba6b8c017c03d58c01dafcff2f823",
-      "coverage": 1,
-      "relevance": 19.42,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Vodafone, MasOrange y Telefónica restablecen redes y habilitan tecnologías de respaldo por los incendios",
-      "summary": "Las operadoras despliegan unidades móviles y cobertura satelital tras los incendios en en Madrid, Ávila y Toledo",
-      "url": "https://elpais.com/economia/2026-07-27/vodafone-masorange-y-telefonica-restablecen-redes-y-habilitan-tecnologias-de-respaldo-por-los-incendios.html",
-      "published": "2026-07-27T11:46:24+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/YR5JBB4IZRBG7PBZZDDPQP3KSI.png?auth=d2a4c0c858a76d3d3a4ffc15dd1a2865b3f924923902023364402a4c74732f09",
-      "coverage": 1,
-      "relevance": 19.27,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Canarias apoyará la nueva financiación autonómica del Gobierno",
-      "summary": "El presidente Fernando Clavijo asegura que este acuerdo reportará más de 1.300 millones al año al archipiélago “para sus servicios públicos y esenciales”",
-      "url": "https://elpais.com/economia/2026-07-27/canarias-apoyara-la-nueva-financiacion-autonomica-del-gobierno.html",
-      "published": "2026-07-27T11:18:48+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/UEZU3KYMNRNOTKINLZLWMJXL3Y.jpg?auth=028b338af81a8617a15c271ae787b95749f3eb65fd26de9b30360b5f9311fcd6",
-      "coverage": 1,
-      "relevance": 19.1,
+      "relevance": 18.32,
       "sources": [
         "El País Eco"
       ]
@@ -88,29 +102,71 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Peso avanza mientras México rebasó las expectativas del mercado sobre exportaciones",
+      "title": "Pronóstico del euro/dólar: cotización del EUR/USD para 2026, años 2027–2028 hasta 2030",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWUN5ZjA1REZUZjRYT2lLX2hHWU9pNFZZQjdKRXFlczh4eWpRQkpKRmoxYmZfVmlpMnVVcDNCaHQyZlpBNmJINTRyUk5LaDJMWkdXVjZLazNPYVNVSWpSMzQtM0hPdHF1OUVzc2E0eGU2X1JvRndMSngzTjJxOW5QN0RGcmtza3lvX1Y0SGRhQXFaQTFWTWRtRHlZcVNUX0lrai1KdXVCY19kWFdrVW9YOU9PS19wTC1aVlJVc0x2WFk2Z2xqZ1FKNU5keUw0WDlZdXhYVlplanQ?oc=5",
-      "published": "2026-07-27T17:22:29+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmdfNEZDV21FX3VIdDZNSm1XQVB1VDM0QmpWWV9JbURTdUFKMEdnRnJEYzRoYTNXTFp3cy1jUks5Y2xXeFcwQUZRblJmSGRFZnhMQVJ5N1JHZ0hvWjY1RnBWWU1hNFd2OGtvUTBub2tRMWVrOWNnTzYxZ21UR1hDSg?oc=5",
+      "published": "2026-07-27T20:33:18+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.97,
+      "relevance": 18.16,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar abre con nueva caída, cerca de los $3.200, en una semana clave para el Banco de la República",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQd01pUENOM2RDeVBRUE4yM0M1cHp5MU5IYVVsVWt4cllIUzdVQ1dRMTVxWlZEc0U5RkZBUnRsTUFheVVrbnM5UU1ldUF4Ymx0QlBza2xtUHR5SnF0TWhUTWdQcUtLclV0V3dqRERxQ2JzbEFnbWwtZEpja2Rvamk1bHpibDF5Si1rbjd6Z3g2S3UyNUNhNG1WMnUweXdKZm0wWjk1cUM1dUMtemtFZVE?oc=5",
-      "published": "2026-07-27T16:30:24+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Orbiting: un nuevo comportamiento en las redes sociales",
+      "summary": "¿Es posible estar presente y ausente al mismo tiempo en la vida de alguien? En la era digital, sí. El Orbiting ocurre cuando un individuo decide cortar el contacto directo con una persona, pero no se pierde ni una sola de sus publicaciones en redes sociales. Ni te habla, ni te deja ir: simplemente...",
+      "url": "https://es.aleteia.org/2026/07/28/orbiting-un-nuevo-comportamiento-en-las-redes-sociales/",
+      "published": "2026-07-27T22:00:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.64,
+      "relevance": 19.9,
       "sources": [
-        "Google Economía"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "De la fe a la acción: un encuentro para motivar la participación ciudadana",
+      "summary": "“Eso es meterse en política” dicen algunos cuando, desde la Iglesia, se invita a los laicos a participar en la vida pública. La frase aparece con rapidez, es casi instintiva: mejor no hablar de esos temas, mejor no involucrarse, mejor dejar la fe en el ámbito privado. Pero la Doctrina Social de la...",
+      "url": "https://es.aleteia.org/2026/07/27/de-la-fe-a-la-accion-un-encuentro-para-motivar-la-participacion-ciudadana/",
+      "published": "2026-07-27T21:50:33+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.84,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Les dijeron que no podrían tener hijos, pero hoy son padres de trillizos",
+      "summary": "Cuando Marina y Bishoy Salib, originarios de Inglaterra, decidieron tener hijos, no tenían ni idea de lo difícil que sería su camino. Tras meses de intentos infructuosos, Marina buscó ayuda médica en agosto de 2024, y los resultados de las pruebas no fueron alentadores. Los médicos le dijeron que...",
+      "url": "https://es.aleteia.org/2026/07/27/les-dijeron-que-no-podrian-tener-hijos-pero-hoy-son-padres-de-trillizos/",
+      "published": "2026-07-27T21:19:22+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.64,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Lo que la visita de León XIV cambió en España… y podría cambiar en otros países",
+      "summary": "Tan solo unas semanas después del viaje de León XIV a España, una encuesta encargada por la Conferencia Episcopal Española arroja luz sobre los efectos duraderos de su viaje apostólico. Realizada por el Instituto GAD3, con más de 5000 participantes y voluntarios, la encuesta revela que, un mes...",
+      "url": "https://es.aleteia.org/2026/07/27/lo-que-la-visita-de-leon-xiv-cambio-en-espana-y-podria-cambiar-en-otros-paises/",
+      "published": "2026-07-27T19:21:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.9,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,119 +178,147 @@
       "published": "2026-07-27T16:25:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/27/ulisse-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 18.4,
       "sources": [
         "Vatican News"
       ]
     },
     {
       "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Amazonia en positivo: La menor superficie quemada desde 1985",
-      "summary": "Según el nuevo informe anual sobre incendios de MapBiomas, 3,1 millones de hectáreas de la selva amazónica se han quemado, en comparación con los 15,8 millones de hectáreas del año anterior. En todo Brasil, la superficie afectada por incendios se ha reducido a 12,7 millones de hectáreas, casi la...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-07/amazonia-en-positivo-la-menor-superficie-quemada-desde-1985.html",
-      "published": "2026-07-27T15:48:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/giugno/17/AMAZONIA-4aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "source": "Aleteia",
+      "title": "(VIDEO) ¿Se puede nacer con nacionalidad Vaticana?",
+      "summary": "Si un niño naciera dentro del Vaticano, ¿contaría automáticamente con esta nacionalidad? La respuesta negativa a esta pregunta puede sorprender. A diferencia de países donde la nacionalidad puede adquirirse por haber nacido en su territorio, el Estado de la Ciudad del Vaticano tiene un sistema de...",
+      "url": "https://es.aleteia.org/2026/07/27/video-se-puede-nacer-con-nacionalidad-vaticana/",
+      "published": "2026-07-27T17:52:46+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.35,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo pasar unas vacaciones más relajantes y espirituales",
+      "summary": "La palabra inglesa “vacaciones” proviene del latín “vacare“, que significa “estar vacío, libre o ocioso”. Con el tiempo, en el idioma inglés se definió como “ausencia de obligaciones, tiempo libre, descanso”. En esencia, significa que cuando estás de vacaciones, estás libre de las obligaciones de...",
+      "url": "https://es.aleteia.org/2026/07/27/como-pasar-unas-vacaciones-mas-relajantes-y-espirituales/",
+      "published": "2026-07-27T17:46:55+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.32,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Esto recomienda San Pablo VI para las vacaciones de verano",
+      "summary": "Muchos papas de los últimos siglos han pasado sus veranos, no en el Palacio Apostólico del Vaticano, sino en las tranquilas villas de Castel Gandolfo. Al estar lejos del ajetreo de la ciudad y del calor abrasador de Roma, este lugar ha brindado descanso y relajación a diversos papas como San Pablo...",
+      "url": "https://es.aleteia.org/2026/07/27/esto-recomienda-san-pablo-vi-para-las-vacaciones-de-verano/",
+      "published": "2026-07-27T17:37:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.26,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "\"Es como tener una aspiradora encendida en el salón\": un centro de datos convirtió la vida del vecindario en una pesadilla",
+      "summary": "Durante años, los centros de datos permanecieron fuera de nuestra vista, aunque buena parte de lo que hacemos en internet depende de ellos. En Dowagiac, una ciudad del suroeste de Michigan, esa infraestructura se ha vuelto imposible de ignorar: varios vecinos aseguran que una instalación dedicada a...",
+      "url": "https://www.xataka.com/empresas-y-economia/como-tener-aspiradora-encendida-salon-centro-datos-convirtio-vida-vecindario-pesadilla",
+      "published": "2026-07-27T21:57:35+00:00",
+      "image": "https://i.blogs.es/f944ec/centro-de-datos/1024_2000.jpeg",
       "coverage": 1,
       "relevance": 20.18,
       "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Gaza, Padre Romanelli: \"Gracias al Papa por su cercanía y oraciones\"",
-      "summary": "En un video, el párroco de la Sagrada Familia compartió un breve mensaje que León XIV envió ayer a su comunidad, que sufre una guerra aparentemente interminable: «Los días, nos dijo, pasan como las semanas. Pero veo que la situación sigue siendo muy difícil. No pasa un momento sin que el Pontífice...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/gaza-padre-romanelli-gracias-al-papa-por-su-cercania-y-oraciones.html",
-      "published": "2026-07-27T14:35:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/settembre/10/Screenshot-2025-09-10-alle-16.18.40.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "La batería del Samsung Galaxy S27 Ultra traerá una mejora muy esperada",
+      "summary": "Falta más de medio año para que Samsung lance los Galaxy S27, pero una filtración afirma que la variante Ultra traerá una mejora muy esperada en un apartado clave: la batería. Según recoge 9to5Google, el fabricante coreano por fin le dará una merecida actualización a dicho apartado, que suele ser...",
+      "url": "https://hipertextual.com/mobile/bateria-galaxy-s27-ultra-mejora-muy-esperada/",
+      "published": "2026-07-27T21:59:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/galaxy-s27.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.72,
+      "relevance": 19.89,
       "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "México: 6 mil jovenes son enviados a llevar la esperanza del Evangelio en el CONAJUM 2026",
-      "summary": "Jovenes de todo México se reunieron en San Luis Potosí para vivir el XV Congreso Nacional Juvenil Misionero (CONAJUM 2026), del 23 al 27 de julio. Una experiencia de formación, oración y encuentro que los impulsó a regresar a sus comunidades como discípulos misioneros, llamados a llevar la...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/jovenes-mexico-mision-ompe-conajum-2026-envio-evangelio.html",
-      "published": "2026-07-27T14:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/27/fb-img-1785161794483okaem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.63,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Los obispos de África Oriental piden educación y trabajo decente para los jóvenes",
-      "summary": "Al término de los ocho días de trabajo en Nairobi, los 140 prelados de la Asamblea Plenaria de la Asociación de Conferencias Episcopales de África Oriental recuerdan la necesidad de prestar atención a las nuevas generaciones: los jóvenes africanos —advierten— están preocupados por ser \"explotados\"...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/los-obispos-de-africa-oriental-piden-educacion-y-trabajo-decente.html",
-      "published": "2026-07-27T12:22:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/26/img-20260726-wa0042aem1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.89,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "En Castel Gandolfo: con el Papa, las voces por la paz de jóvenes coralistas y de Bocelli",
-      "summary": "La tarde del 29 de julio, en el Borgo Laudato si’, el Centro de Alta Formación y la Fundación creada por el gran tenor italiano promueven «Cántico de Paz», un concierto y una oración, guiados por León XIV, bajo el signo de san Francisco y de la paz entre los pueblos. Protagonista será el coro ABF...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-07/castel-gandolfo-papa-voces-paz-jovenes-coralistas-bocelli.html",
-      "published": "2026-07-27T11:32:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/27/giovani-coro-andrea-bocelli-foundation-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.58,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "R. D. del Congo, el brote de ébola empeora: 1.405 víctimas de más de 3.000 casos",
-      "summary": "La epidemia, declarada el 15 de mayo en la provincia oriental de Ituri, se ha extendido también a Kivu del Norte, Kivu del Sur, Alto Uele y Tshopo. Las autoridades sanitarias mantienen operaciones activas de vigilancia y respuesta, pero informan de dificultades relacionadas con la resistencia de...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-07/r-d-del-congo-el-brote-de-ebola-empeora-1-405-victimas-de-ma.html",
-      "published": "2026-07-27T11:10:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/23/13/1784805063659.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El obispo Berardi visita las comunidades cristianas de Arabia del Norte",
-      "summary": "Durante el primer semestre de 2026, el Vicario Apostólico de Arabia del Norte visitó comunidades cristianas en un periodo de gran tensión en Oriente Medio, con los países del Golfo Pérsico convertidos en objetivos de la guerra entre Estados Unidos e Irán. Esperanza, fe y unidad fueron los conceptos...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/el-obispo-berardi-visita-las-comunidades-cristianas-de-arabia-de.html",
-      "published": "2026-07-27T10:25:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/25/35.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.16,
-      "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Xbox está caído: los servicios en línea de la consola de Microsoft están dando fallos a nivel global",
-      "summary": "Si pensabas terminar la tarde encendiendo la Xbox y desconectando durante un rato, puede que hoy no sea el mejor momento. Los servicios online de Microsoft están atravesando una caída que ya está dejando a jugadores de distintos lugares frente a errores y pantallas que no deberían estar ahí. El...",
-      "url": "https://www.xataka.com/videojuegos/xbox-esta-caido-servicios-linea-consola-microsoft-estan-dando-fallos-a-nivel-global",
-      "published": "2026-07-27T16:55:12+00:00",
-      "image": "https://i.blogs.es/12920b/xbox-caido/1024_2000.jpeg",
+      "title": "EEUU construyó el ejército más poderoso del mundo. Ahora hay quienes señalan su talón de Aquiles: la ciberguerra",
+      "summary": "Pocos países reúnen una combinación militar comparable a la de Estados Unidos: fuerzas terrestres, navales, aéreas y espaciales, capacidad industrial y medios para operar lejos de sus fronteras. Sin embargo, los conflictos recientes han dejado claro que la superioridad ya no depende únicamente de...",
+      "url": "https://www.xataka.com/magnet/eeuu-construyo-ejercito-poderoso-mundo-ahora-hay-quienes-senalan-su-talon-aquiles-ciberguerra",
+      "published": "2026-07-27T20:18:44+00:00",
+      "image": "https://i.blogs.es/c7f90b/guerra-cibernetica-eeuu-1/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.3,
+      "relevance": 19.57,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Lo que faltaba: Microsoft mete anuncios en Office y no puedes quitarlos ni pagando",
+      "summary": "Microsoft vuelve a estar en el centro de la polémica por meter anuncios en sus aplicaciones. Varios usuarios comenzaron a ver publicidad en Word, Excel y PowerPoint en forma de avisos para mejorar la suscripción de Office. La medida está colmando la paciencia de muchos, puesto que estos anuncios...",
+      "url": "https://hipertextual.com/software/anuncios-microsoft-office-suscriptores/",
+      "published": "2026-07-27T21:03:23+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/07/microsoft-office-iconos.jpg?fit=1024%2C667&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.54,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Las ciudades españolas están llenas de un árbol que lo ensucia todo de flores y frutos. Tienen una razón para estar ahí",
+      "summary": "Si durante estas semanas de verano has paseado por las calles de tu ciudad, es muy probable que hayas pisado una densa alfombra de pequeñas flores de color blanco cremoso. El responsable de esta lluvia floral veraniega es un viejo conocido del arbolado urbano al que popularmente conocemos como...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/ciudades-espanolas-estan-llenas-arbol-que-ensucia-todo-flores-frutos-tienen-razon-para-estar-ahi",
+      "published": "2026-07-27T19:01:36+00:00",
+      "image": "https://i.blogs.es/c68822/styphnolobium-japonicum/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.08,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "GTA 6 dispara la fiebre de los vídeos falsos hechos con IA, que acumulan millones de reproducciones",
+      "summary": "Con las reservas de GTA 6 a todo vapor desde hace varias semanas, la expectación de los fanáticos está por el aire. Pero a pesar de que está todo encaminado para que el juego debute el 19 de noviembre, la pereza de Rockstar y Take-Two Interactive para liberar nuevos materiales del juego está...",
+      "url": "https://hipertextual.com/videojuegos/gta-6-fiebre-videos-falsos-gameplay-hechos-con-ia/",
+      "published": "2026-07-27T19:45:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Official_Cover_Art_landscape-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.05,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "\"Sinceramente, una obra maestra\": una de las películas de fantasía de 2025 está también entre las mejor valoradas de Gerard Butler",
+      "summary": "Es uno de los papeles mejor valorados de Gerard Butler (\"sinceramente, una obra maestra\" decía uno de los usuarios de la web AlloCiné), aunque no sea precidamente una de sus interpretaciones más conocidas. Y de hecho, no era la primera vez que Butler daba vida a Estoico el Vasto: ya le había puesto...",
+      "url": "https://www.xataka.com/streaming/sinceramente-obra-maestra-peliculas-fantasia-2025-esta-tambien-mejor-valoradas-gerard-butler",
+      "published": "2026-07-27T18:31:35+00:00",
+      "image": "https://i.blogs.es/c6ac3c/captura-de-pantalla-2026-07-27-a-las-15.30.43/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.9,
       "sources": [
         "Xataka"
       ]
@@ -242,97 +326,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "En Italia alguien construyó un anfiteatro romano \"fake\". Acabó con visitantes pagando 40€ convencidos de que era original",
-      "summary": "Durante un tiempo Arcugnano, una pequeña villa de la provincia de Vicenza, pudo presumir de un reclamo exótico al alcance de muy pocos municipios, ni siquiera en Italia: un espectacular anfiteatro romano con sus gradas de piedra, columnas, estatuas e incluso un estanque. Supuestamente el conjunto...",
-      "url": "https://www.xataka.com/magnet/italia-alguien-construyo-anfiteatro-romano-fake-acabo-vistantes-pagando-40eur-convencidos-que-era-original",
-      "published": "2026-07-27T16:31:36+00:00",
-      "image": "https://i.blogs.es/7b2f5a/pompeji_-_arena/1024_2000.jpeg",
+      "title": "Ana Crespo Blanc, catedrática de geología, sobre los terremotos de Granada: “En ese aspecto, es mejor tener una casa en el Albaicín que en el Zaidín”",
+      "summary": "Mientras que Tenerife pone atención a los pequeños terremotos que sacuden su territorio volcánico, otra provincia española que también se está haciendo experta en enjambres sísmicos ha tenido su propia sucesión de temblores. Y es que este sábado, 26 de julio, tuvo lugar en Granada un temblor de...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/ana-crespo-blanc-catedratica-geologia-terremotos-granada-fallas-que-tenemos-activas-demasiado-cortas-para-acumular-mucha-energia",
+      "published": "2026-07-27T18:01:36+00:00",
+      "image": "https://i.blogs.es/290730/terremotos-en-granada/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.15,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El humo de los incendios del centro peninsular está cruzando media España: los satélites ya lo ven sobre Andalucía y Extremadura",
-      "summary": "Los grandes incendios forestales que asolan el centro de la Península, especialmente en la Comunidad de Madrid y la provincia de Ávila, están dejando una huella que va mucho más allá del área calcinada. Y es que si has salido de casa y pensabas que cerca había un incendio, la posibilidad más...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/humo-incendios-centro-peninsular-esta-cruzando-media-espana-satelites-ven-andalucia-extremadura",
-      "published": "2026-07-27T16:01:36+00:00",
-      "image": "https://i.blogs.es/5c1a84/humo-incendio/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.96,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Temperatura\" y \"longitud de respuesta\": dos parámetros muy poco conocidos que lo cambian todo con la IA",
-      "summary": "ChatGPT, Gemini, Claude, DeepSeek y otras inteligencias artificiales (IA) parecen simples: escribimos, les entregamos nuestra petición o pregunta y recibimos una respuesta. No obstante, detrás de esta sencillez de uso hay dos parámetros que condicionan en gran medida la calidad de la respuesta que...",
-      "url": "https://www.xataka.com/robotica-e-ia/temperatura-longitud-respuesta-dos-parametros-muy-poco-conocidos-que-cambian-todo-ia",
-      "published": "2026-07-27T15:31:36+00:00",
-      "image": "https://i.blogs.es/acb262/temperaturadeia/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.78,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "AOC presenta el primer monitor de la serie AGON 7 que promete estar totalmente optimizado para PS5 y Xbox Series X/S",
-      "summary": "AOC ha presentado su nuevo monitor gaming, el primero de la gama AGON 7 que sin duda tiene una ficha técnica de lo más atractiva para usuarios que buscan exprimir sus ordenadores e incluso consolas. Su precio, eso sí, parte de los 899 euros recomendados (en la web oficial), mientras que en tiendas...",
-      "url": "https://www.xataka.com/seleccion/aoc-presenta-primer-monitor-serie-agon-7-que-promete-estar-totalmente-optimizado-para-ps5-xbox-series-x-s",
-      "published": "2026-07-27T15:15:36+00:00",
-      "image": "https://i.blogs.es/f765c8/aoc-agon/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.68,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Se está violando el derecho a un transporte seguro\": Renfe ya enfrenta una denuncia por la falta de aire acondicionado en sus trenes",
-      "summary": "Cansados de \"viajar en vagones abarrotados y convertidos en verdaderas saunas\". Así se sienten los usuarios según Acusval, la última asociación de consumidores en denunciar la falta de climatización en los trenes de Renfe. Esta vez, concretamente, en los de Cercanías de Madrid donde, aseguran, hay...",
-      "url": "https://www.xataka.com/movilidad/se-esta-violando-derecho-a-transporte-seguro-renfe-enfrenta-denuncia-falta-aire-acondicionado-sus-trenes",
-      "published": "2026-07-27T15:01:36+00:00",
-      "image": "https://i.blogs.es/b261a0/cercanias_madrid_atocha_2008/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.59,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Europa quiere pagar sin depender de Visa ni Mastercard, y Lidl acaba de dar un paso clave para conseguirlo: con Wero",
-      "summary": "Lidl ha empezado a aceptar Wero, el sistema de pagos impulsado por la banca en Europa, en su tienda online alemana. Igual así de primeras puede no decirnos mucho, pero un supermercado de la talla de Lidl que suma un método de pago más, forma parte de un movimiento mucho más amplio: un intento de...",
-      "url": "https://www.xataka.com/empresas-y-economia/europa-quiere-pagar-depender-visa-mastercard-lidl-acaba-dar-paso-clave-para-conseguirlo-wero",
-      "published": "2026-07-27T14:45:36+00:00",
-      "image": "https://i.blogs.es/c40b09/pagos-europa-lidl/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.49,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Cuatro chips de Huawei por uno de Nvidia\": el CEO de DeepSeek explica cómo ha transformado la escasez de chips en su coartada estratégica",
-      "summary": "Una de las muchas batallas que China y Estados Unidos están librando es la tecnológica, concretamente una relacionada con la inteligencia artificial. El gasto de las empresas estadounidenses en la IA es astronómico, pero en China la ambición no es menor y el Gobierno quiere que sea uno de los...",
-      "url": "https://www.xataka.com/robotica-e-ia/cuatro-chips-huawei-uno-nvidia-ceo-deepseek-explica-como-ha-transformado-escasez-chips-su-coartada-estrategica",
-      "published": "2026-07-27T14:31:36+00:00",
-      "image": "https://i.blogs.es/6df73c/587c68dd-061c-4e1e-88ad-497454294f81/1024_2000.png",
-      "coverage": 1,
-      "relevance": 19.4,
+      "relevance": 18.71,
       "sources": [
         "Xataka"
       ]
@@ -340,13 +340,55 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ya queda menos para conocer la nueva casa del Valencia: así avanzan las obras del Nuevo Mestalla",
+      "title": "Atlético Dallas anuncia el primer fichaje de su historia: ¡Chicharito!",
+      "summary": "El delantero mexicano iniciará su nueva andadura en 2027",
+      "url": "https://www.marca.com/futbol/2026/07/28/chicharito-hernandez-primer-fichaje-historia-atletico-dallas.html",
+      "published": "2026-07-27T22:43:18+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a67dd9c57548.jpeg",
+      "coverage": 1,
+      "relevance": 20.47,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Durísima respuesta de Tebas a Infantino",
+      "summary": "El presidente de LaLiga fue muy duro con el máximo dirigente de la FIFA, que había salido al paso de las críticas recibidas durante el Mundial",
+      "url": "https://www.marca.com/futbol/seleccion/2026/07/27/dura-respuesta-tebas-infantino-escrito-patetico-mensaje.html",
+      "published": "2026-07-27T20:59:06+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/21/6a5f2b7a0c45a.jpeg",
+      "coverage": 1,
+      "relevance": 19.82,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El Madrid se mete en un problema",
+      "summary": "Las llegadas del verano obligan al club a activar una operación salida que afecta a todas las líneas. Asencio, Camavinga, Endrick y Mastantuono encabezan un mercado lleno de decisiones incómodas",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/07/27/madrid-mete-problema.html",
+      "published": "2026-07-27T20:33:36+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a672966ebbe6.jpeg",
+      "coverage": 1,
+      "relevance": 19.66,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La emotiva despedida de Cucurella del Chelsea",
       "summary": "",
-      "url": "https://www.marca.com/futbol/valencia/2026/07/27/queda-conocer-nueva-casa-valencia-asi-avanzan-obras-nuevo-mestalla-video.html",
-      "published": "2026-07-27T16:56:00+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/cvxk21gPup7ytvtWw.jpeg",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/07/27/tierna-despedida-cucurella-chelsea-vez-blue-siempre-blu-video.html",
+      "published": "2026-07-27T20:04:32+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/cwG2U1gPxhr6VvC9O.jpeg",
       "coverage": 1,
-      "relevance": 20.3,
+      "relevance": 19.48,
       "sources": [
         "Marca"
       ]
@@ -354,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Enzo Pérez llama ladrón al árbitro y escupe al cuarto tras ser expulsado",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/argentina/2026/07/27/enzo-perez-llama-ladron-arbitro-escupe-cuarto-expulsa-video.html",
-      "published": "2026-07-27T16:51:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/cvw9w1gPumhsRol5r.jpeg",
+      "title": "Salinas completa el lateral izquierdo",
+      "summary": "Llega cedido a La Rosaleda",
+      "url": "https://www.marca.com/futbol/malaga/2026/07/27/salinas-completa-lateral-izquierdo-malaga.html",
+      "published": "2026-07-27T19:41:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a67b45ceb525.jpeg",
       "coverage": 1,
-      "relevance": 20.28,
+      "relevance": 19.33,
       "sources": [
         "Marca"
       ]
@@ -368,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Yeremy Pino: \"Esto está en una dimensión que nunca había imaginado\"",
-      "summary": "Reconocimiento al extremo en su amada Gran Canaria",
-      "url": "https://www.marca.com/futbol/seleccion/2026/07/27/yeremy-pino-esto-dimension-nunca-habia-imaginado.html",
-      "published": "2026-07-27T16:41:49+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a67898267a7e.jpeg",
+      "title": "Djokovic y Sabalenka, pareja en el US Open",
+      "summary": "La organización del grande de Nueva York confirma una lista de 16 parejas que tiene como protagonistas al serbio y a la bielorrusa",
+      "url": "https://www.marca.com/tenis/us-open/2026/07/27/djokovic-sabalenka-protagonistas-lista-estelar-dobles-mixto-us-open.html",
+      "published": "2026-07-27T19:39:59+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a67b3c12961b.jpeg",
       "coverage": 1,
-      "relevance": 20.22,
+      "relevance": 19.32,
       "sources": [
         "Marca"
       ]
@@ -382,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Águeda Marqués renuncia al Europeo y no volverá a competir esta temporada",
-      "summary": "Una lesión en la cadera ha frenado a la segoviana, que se centra ya en recuperarse bien pensando en el Europeo indoor de Valencia en 2027",
-      "url": "https://www.marca.com/atletismo/2026/07/27/agueda-marques-renuncia-europeo-volvera-competir-temporada.html",
-      "published": "2026-07-27T16:39:58+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a6789bc4f5a4.jpeg",
+      "title": "¡La rompedora camiseta rosa oficial ya se vende en Francia!",
+      "summary": "MARCA descubre en una tienda de Normandía la nueva equipación rosa del Real Madrid para la temporada 2026-27, todavía inédita en España",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/07/27/descubrimos-tercera-equipacion-real-madrid-camiseta-rosa-oficial-vende-francia.html",
+      "published": "2026-07-27T19:33:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a67c18db2755.jpeg",
       "coverage": 1,
-      "relevance": 20.2,
+      "relevance": 19.28,
       "sources": [
         "Marca"
       ]
@@ -396,57 +438,30 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Rodri, en Madrid... para operarse",
-      "summary": "El mediocentro español se encuentra en la capital española para tratarse",
-      "url": "https://www.marca.com/futbol/2026/07/27/rodri-madrid-operarse-espalda.html",
-      "published": "2026-07-27T16:35:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a677cf2c4112.jpeg",
+      "title": "Willy Hernangómez jugará en el Unicaja",
+      "summary": "Según puede adelantar MARCA, el pívot internacional de 32 años y 2,11 metros ha alcanzado un acuerdo con el conjunto malagueño por una temporada",
+      "url": "https://www.marca.com/baloncesto/acb/2026/07/27/willy-hernangomez-jugara-unicaja.html",
+      "published": "2026-07-27T19:23:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/07/21/6a5f8ab824963.r_d.1016-285-0.jpeg",
       "coverage": 1,
-      "relevance": 20.18,
+      "relevance": 19.22,
       "sources": [
         "Marca"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El tanto del caboverdiano Sidny Lopes Cabral contra Argentina, mejor gol del Mundial",
-      "summary": "El gol que supuso el momentáneo empate a 2 ante Argentina en los octavos de final, el más valorado de la Copa del Mundo",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/27/tanto-caboverdiano-sidny-lopes-cabral-argentina-mejor-gol-mundial.html",
-      "published": "2026-07-27T15:37:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/06/cAnKQ1gIwgkf9C2CX.jpeg",
-      "coverage": 1,
-      "relevance": 19.81,
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "\"Todos en la playa miran los misiles en el cielo\": el contraste de Odesa, el balneario de lujo de Ucrania donde los turistas conviven con bombardeos diarios",
+      "summary": "En la llamada \"perla del mar Negro\" las playas y restaurantes están repletos de turistas a pesar de que todos los días allí mismo mueren personas por los bombardeos rusos.",
+      "url": "https://www.bbc.com/mundo/articles/c1w1003y4rzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-27T03:48:34+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/235f/live/55d32b00-8772-11f1-b430-afa19a42b819.jpg",
+      "coverage": 2,
+      "relevance": 24.58,
       "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El ciclista estadounidense Sepp Kuss se salvó de caer por un precipicio en el Tour de Francia.",
-      "summary": "",
-      "url": "https://www.marca.com/ciclismo/tour-francia/2026/07/27/ciclista-estadounidense-sepp-kuss-salvo-caer-precipicio-tour-francia-video.html",
-      "published": "2026-07-27T15:25:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/cvnQM1gPtWQG0uXNd.jpeg",
-      "coverage": 1,
-      "relevance": 19.74,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La bienvenida de los Sixers a LeBron James",
-      "summary": "",
-      "url": "https://www.marca.com/baloncesto/nba/2026/07/27/bienvenida-sixers-lebron-james-video.html",
-      "published": "2026-07-27T15:24:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/1gPtdgqN_xNx.jpeg",
-      "coverage": 1,
-      "relevance": 19.73,
-      "sources": [
-        "Marca"
+        "BBC Mundo",
+        "Google Noticias"
       ]
     },
     {
@@ -458,21 +473,35 @@
       "published": "2026-07-27T16:55:59+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/658a/live/19bf2440-8770-11f1-b430-afa19a42b819.jpg",
       "coverage": 1,
-      "relevance": 21.5,
+      "relevance": 19.5,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
+      "source": "France 24",
+      "title": "Rusia afirma estar abierta a nuevas propuestas de paz, de cara al encuentro Trump-Zelenski",
+      "summary": "Moscú aseguró este lunes 27 de julio que está dispuesto a considerar nuevas iniciativas para avanzar en un proceso de paz con Ucrania, en vísperas de una reunión prevista entre Donald Trump y Volodímir Zelenski en Washington. Sin embargo, la guerra continúa con intensos ataques de drones y...",
+      "url": "https://www.france24.com/es/europa/20260727-rusia-afirma-estar-abierta-a-nuevas-propuestas-de-paz-de-cara-al-encuentro-trump-zelenski",
+      "published": "2026-07-27T18:39:27+00:00",
+      "image": "https://s.france24.com/media/display/cc8c5b4e-ab69-11f0-9c77-005056bfb2b6/w:1024/p:16x9/TRUMPZELENSKI.png",
+      "coverage": 1,
+      "relevance": 19.24,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
       "source": "BBC Mundo",
-      "title": "Cruzamos el Atlántico en dos coches flotantes para cumplir el sueño de mi padre moribundo",
+      "title": "Cruzamos el Atlántico en dos autos flotantes para cumplir el sueño de mi padre",
       "summary": "Dos jóvenes italianos intentaron cruzar el Atlántico en coches flotantes por amor a un padre moribundo ¡y lo lograron!",
       "url": "https://www.bbc.com/mundo/articles/cgljx7jd1p0o?at_medium=RSS&at_campaign=rss",
       "published": "2026-07-27T14:36:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e087/live/cd0402e0-89c9-11f1-ba3d-411ff0e821a3.jpg",
       "coverage": 1,
-      "relevance": 20.64,
+      "relevance": 18.63,
       "sources": [
         "BBC Mundo"
       ]
@@ -486,7 +515,7 @@
       "published": "2026-07-27T16:59:55+00:00",
       "image": "https://s.france24.com/media/display/6d762dee-89d8-11f1-a491-005056bfb2b6/w:1024/p:16x9/ES-20260727-074230-074425-CS.jpg",
       "coverage": 1,
-      "relevance": 20.63,
+      "relevance": 18.62,
       "sources": [
         "France 24"
       ]
@@ -494,15 +523,29 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Trump pausa ataques, pero mantiene la amenaza: ¿hacia dónde apunta la estrategia que redefine la guerra contra Irán?",
-      "summary": "La decisión del presidente de EE. UU., Donald Trump, de suspender temporalmente los ataques contra Irán y abrir una nueva ventana diplomática no parece responder a un giro pacifista de la Casa Blanca, sino a una recalibración estratégica en medio de crecientes costos militares, riesgos regionales y...",
+      "title": "Trump pausa ataques, pero mantiene la amenaza: ¿hacia dónde apunta la estrategia que redefine la guerra contra Teherán?",
+      "summary": "La decisión de Donald Trump de suspender temporalmente los ataques contra Irán y abrir una nueva ventana diplomática no parece responder a un giro pacifista, sino a una recalibración en medio de crecientes costos militares, riesgos regionales y presiones económicas globales. El anuncio, este 27 de...",
       "url": "https://www.france24.com/es/medio-oriente/20260727-trump-pausa-ataques-pero-mantiene-la-amenaza-hacia-d%C3%B3nde-apunta-la-estrategia-que-redefine-la-guerra-contra-ir%C3%A1n",
       "published": "2026-07-27T16:53:04+00:00",
       "image": "https://s.france24.com/media/display/f7f88e82-72a7-11f1-b93b-005056bf30b7/w:1024/p:16x9/4bf941556b63ea8d457532dda89db3ca11fc63dd.jpg",
       "coverage": 1,
-      "relevance": 20.59,
+      "relevance": 18.58,
       "sources": [
         "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Ver Robots en la guerra: Ucrania presume sus avances tecnológicos por ViX",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zS2VCQWltUGJMMTJfNDc2XzgtdXZEV0Q4M3JZWDdqTTgxMGVCcDlOYjhEdGxkQ2hfVVZsYWhMdU9tOHB2ZnFpMjVmbUJWb2R1Y3Bj?oc=5",
+      "published": "2026-07-27T21:33:12+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.53,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
@@ -514,63 +557,35 @@
       "published": "2026-07-27T14:10:54+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/39c2/live/23e40ad0-88e2-11f1-aeef-edf7e578a56d.jpg",
       "coverage": 1,
-      "relevance": 20.47,
+      "relevance": 18.47,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Medio Oriente: tres días sin ataques cruzados entre Estados Unidos e Irán",
-      "summary": "Tras un fin de semana sin ataques cruzados entre Estados Unidos e Irán, la República Islámica aseguró que aún controla el estrecho de Ormuz y no tiene interés en retomar las negociaciones de paz con Washington y ratificó que se defenderán \"siempre que nuestros intereses y nuestras circunstancias lo...",
-      "url": "https://www.france24.com/es/video/20260727-medio-oriente-tres-d%C3%ADas-sin-ataques-cruzados-entre-estados-unidos-e-ir%C3%A1n",
-      "published": "2026-07-27T16:30:41+00:00",
-      "image": "https://s.france24.com/media/display/92b7d09e-89d3-11f1-bb9f-005056bf30b7/w:1024/p:16x9/ES-20260727-093934-094137-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.45,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump afirma que suspende ataques contra Irán para negociar un acuerdo, pero los reanudará si los diálogos fallan",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Peñarol inició negociaciones por Nicolás de la Cruz, quien ya dio el visto bueno para que se concrete",
       "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20260727-trump-pausa-ataques-pero-mantiene-la-amenaza-hacia-d%C3%B3nde-apunta-la-estrategia-que-redefine-la-guerra-contra-ir%C3%A1n",
-      "published": "2026-07-27T16:02:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNU2EyTUVsS0FGYS1feUhtdW56VWtyWm1kbG1LZmo0UklvVW90Y3dTLWpnbXdmVHdqcWFfWWg5NXpKQkowS0pMeGJaZnpkb3NNYWZqcUFLTWxFenp2dVVib0dDLVZHYWVfbEtPMHh1ZkVCNXFBR21yd2JIOXNzS1YzelhHaGtXSU00bmp4em9aWWFOM0JQSmtFWmRnQkFGQVUzeEI0ZmVWNi1rODQ1aVNmUlBHRGFJTFRLUWJRTW0ySms5Wm51amFPeGJKdUp4UFJJM28tZkJBZmM?oc=5",
+      "published": "2026-07-27T19:47:03+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 20.27,
       "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Jefe del PSUV a radicales chavistas: “No hay otro camino” que aceptar la propuesta de Estados Unidos",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa2JCU0xocUphaDFLb0JsVmJ0YThQeFRZM3JTaTkzZmJGdHllcDNfUUg1bWRlU3pLaV9hbDdlN0FsTlRVYWlwUkxoRDB1eDJXVkpwY2M5Z0dRQzJjTEN6MXRzMTlLcjhKX3JENkZLMHlRaS10dVFqZ1RXLTZVbjktWi00WGFXelNEdmo0MmtpSGttaDR3LXZrT0ZpeUZQR256ejl4S2h3eExoZHY3NTBnMU1QUldaRldoNWE2RnNrbkpRV0MzSF9xY0h1X1RUQ2NwX3ZXR2xjeXQxSXfSAfYBQVVfeXFMUFh3bHFIUWVYb3RzLXI5Rjg1aGtzZEZOalVPdm5ZU1FjNVJvaFNtemNUTS12ZWF2TnJLWDhQX1ZKWkdqbVVWRWVwNXloOHVfVlNzZlFqWkIzcllEeURYUUxlOHR6bjExbEdPY0VFUVFqZDJmV2ZfS0hDbWtDc3ZIT2s1UzdmZXZISXpvaTNmdTg1Q0xmeEFKdHlWTVZaYUxwQkV3U2lMSElaNW9POFBUOXJEQ2ZsVlp5QXJuQW43UmZMcTQtRzNjOExsQzhrZEFRRU5ZWFZWSkJPYjlVWU05TXpBNFpjZG4zcmI2c3FUQVRZRkZGbUxn?oc=5",
-      "published": "2026-07-27T16:29:49+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.64,
-      "sources": [
-        "Google Noticias"
+        "El País Uy"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "En junio, el 46% de la población de Canelones aprobó la gestión de Francisco Legnani y el 25% que la desaprobó, según Cifra",
-      "summary": "La aprobación al jerarca varía según la zona del departamento: alcanza el 46% en el eje de la Ruta 5 y el 51% en la costa.Este lunes, la diaria accedió a una nueva encuesta de la consultora Cifra sobre la evaluación del intendente de Canelones, el frenteamplista Francisco Legnani, tanto a nivel...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/en-junio-el-46-de-la-poblacion-de-canelones-aprobo-la-gestion-de-francisco-legnani-y-el-25-que-la-desaprobo-segun-cifra/",
-      "published": "2026-07-27T17:25:24+00:00",
+      "title": "Alejandro Asteggiante fue designado como juez de Crimen organizado de primer turno",
+      "summary": "Entre las causas que asumirá está la que investiga al exsenador Charles Carrera.La Suprema Corte de Justicia designó al juez Alejandro Asteggiante en la sede de Crimen Organizado de 1º turno, en sustitución del juez Fernando Islas, quien fue designado como ministro de Tribunal de Apelaciones....",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/7/alejandro-asteggiante-fue-designado-como-juez-de-crimen-organizado-de-primer-turno/",
+      "published": "2026-07-27T22:42:51+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 19.87,
       "sources": [
         "La Diaria"
       ]
@@ -578,10 +593,10 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Formar guionistas para series en Uruguay: Netflix, ACAU, K&S Films y CAF lanzan un programa gratuito",
-      "summary": "Temporada Cero busca desarrollar la especialización y encontrar talentos.Entre setiembre y noviembre de este año se desarrollará la fase piloto un programa gratuito para la formación de guionistas de series de televisión. Bautizado Temporada Cero, busca acompañar a quienes quieren especializarse en...",
-      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/formar-guionistas-para-series-en-uruguay-netflix-acau-kamps-films-y-caf-lanzan-un-programa-gratuito/",
-      "published": "2026-07-27T17:11:05+00:00",
+      "title": "Cenur e INAE impulsan Tocó Teatro con el objetivo de acercar las artes escénicas a la comunidad universitaria",
+      "summary": "La iniciativa financiará funciones y distribuirá entradas sin costo para promover el acceso de la comunidad universitaria a la producción escénica salteña.En la Sala de Consejo del Centro Universitario Regional (Cenur) Litoral Norte se presentó oficialmente Tocó Teatro, una iniciativa impulsada de...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/7/cenur-e-inae-impulsan-toco-teatro-con-el-objetivo-de-acercar-las-artes-escenicas-a-la-comunidad-universitaria/",
+      "published": "2026-07-27T22:32:36+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.8,
@@ -592,13 +607,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Alemán se coronó campeón del Torneo Apertura de Handball",
-      "summary": "El equipo de Juan Abdala superó 28-25 a Pontevedrés.El Colegio Alemán se coronó campeón del Torneo Apertura del Handball uruguayo al vencer 28-25 a Pontevedrés, el actual campeón federal. El ganador empezó pegando primero y los gallegos reaccionaron, generando un entretenido primer tiempo con...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/aleman-se-corono-campeon-del-torneo-apertura-de-handball/",
-      "published": "2026-07-27T17:10:12+00:00",
+      "title": "Estudiantes del IPA y CERP del Este ocuparon sus centros educativos en rechazo al plan de titulación docente",
+      "summary": "La medida se suma a la ocupación del jueves pasado por el Sidfe en el IPA y se mantendrá mientras los estudiantes del instituto reclaman la instalación de una mesa de negociación con el Codicen.Un día después de que el Sindicato de Docentes de Formación en Educación (Sidfe) ocupara el Instituto de...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/7/estudiantes-del-ipa-y-cerp-del-este-ocuparon-sus-centros-educativos-en-rechazo-al-plan-de-titulacion-docente/",
+      "published": "2026-07-27T22:23:35+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.79,
+      "relevance": 19.75,
       "sources": [
         "La Diaria"
       ]
@@ -606,24 +621,10 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Vacunas contra el meningococo: cuando el descrédito importa más que la verdad",
-      "summary": "La democracia necesita oposición y necesita debate. Lo que no puede permitirse es que la búsqueda del descrédito termine debilitando la confianza ciudadana en las instituciones y en las políticas públicas. Hay pocas cosas que movilicen tanto como la salud de nuestros hijos, de nuestros nietos o de...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/vacunas-contra-el-meningococo-cuando-el-descredito-importa-mas-que-la-verdad/",
-      "published": "2026-07-27T17:08:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.78,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Orsi y Lubetkin asistirán este martes a la asunción de Keiko Fujimori como presidenta de Perú",
-      "summary": "La mandataria electa de ese país tomará posesión oficial de su cargo en una ceremonia en el Congreso.El presidente Yamandú Orsi y el canciller Mario Lubetkin viajan este lunes a Perú para participar, el martes al mediodía, en la ceremonia oficial de asunción de Keiko Fujimori como presidenta de...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/orsi-y-lubetkin-asistiran-este-martes-a-la-asuncion-de-keiko-fujimori-como-presidenta-de-peru/",
-      "published": "2026-07-27T16:54:52+00:00",
+      "title": "Israel accede a la instalación de una fuerza internacional, pero únicamente en una zona de la Franja de Gaza",
+      "summary": "Antes de viajar a Estados Unidos, Netanyahu hizo ese anuncio alineado con el plan de Trump y habló con Marco Rubio contra la Corte Penal Internacional.El plan del presidente estadounidense, Donald Trump, para la Franja de Gaza abre un gran margen de dudas sobre el propio proceso y el papel que...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/israel-accede-a-la-instalacion-de-una-fuerza-internacional-pero-unicamente-en-una-zona-de-la-franja-de-gaza/",
+      "published": "2026-07-27T22:17:02+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.7,
@@ -634,13 +635,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Semana de revanchas: se definen los clasificados a octavos de final de Copa Sudamericana",
-      "summary": "En todas las series que se disputarán entre martes y jueves habrá jugadores uruguayos en cancha.La semana pasada se disputaron los partidos de ida de los dieciseisavos de final de la Copa Sudamericana, ronda que ofrece un repechaje para continuar en el torneo continental de segundo orden entre los...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/semana-de-revanchas-se-definen-los-clasificados-a-octavos-de-final-de-copa-sudamericana/",
-      "published": "2026-07-27T16:47:40+00:00",
+      "title": "Intendencia de Montevideo propone exoneraciones tributarias para atraer parques tecnológicos",
+      "summary": "La directora general de Recursos Financieros, Laura Tabárez, afirmó que la medida busca impulsar inversiones y empleo en zonas con baja recaudación por contribución inmobiliaria sin comprometer las finanzas de la intendencia.La Intendencia de Montevideo propone exonerar la contribución inmobiliaria...",
+      "url": "https://ladiaria.com.uy/futuro/articulo/2026/7/intendencia-de-montevideo-propone-exoneraciones-tributarias-para-atraer-parques-tecnologicos/",
+      "published": "2026-07-27T22:10:54+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.65,
+      "relevance": 19.67,
       "sources": [
         "La Diaria"
       ]
@@ -648,13 +649,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "MSP abrió la agenda para vacunar contra el meningococo a adolescentes de 11 a 15 años y prevé ampliar la campaña en agosto",
-      "summary": "La directora general de Salud, Laura Llambí, informó que esperan 300.000 dosis para la primera semana del próximo mes, para ampliar las franjas, con el objetivo de alcanzar a toda la población de entre 2 y 18 años.Este lunes, la directora general de Salud, Laura Llambí, brindó una conferencia de...",
-      "url": "https://ladiaria.com.uy/salud/articulo/2026/7/msp-abrio-la-agenda-para-vacunar-contra-el-meningococo-a-adolescentes-de-11-a-15-anos-y-preve-ampliar-la-campana-en-agosto/",
-      "published": "2026-07-27T15:50:20+00:00",
+      "title": "Libertad de San Carlos y Barracas de Dolores son los finalistas de la Copa Nacional de Clubes",
+      "summary": "Será una final inédita porque nunca antes un equipo de Soriano había llegado a tal instancia.La gloria se define entre el cerealero y el Penado 14: Barracas hace historia para Soriano y Libertad apela a su mística. El mapa del fútbol del interior volvió a acomodar sus fichas sobre el tablero de las...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/libertad-de-san-carlos-y-barracas-de-dolores-son-los-finalistas-de-la-copa-nacional-de-clubes/",
+      "published": "2026-07-27T21:05:44+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.29,
+      "relevance": 19.26,
       "sources": [
         "La Diaria"
       ]
@@ -662,13 +663,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Para una tumba sin nombre: límites de la comunicación normativa y límites éticos de la comunicación pública",
-      "summary": "Toda norma penal es un acto de comunicación y la prohibición de matar es el mensaje más firme del sistema. Una política criminal que desde 2018 respondió al aumento de los homicidios elevando penas apostó, así, a reforzar el único tramo de la comunicación que nunca estuvo en duda. El país marcó su...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/para-una-tumba-sin-nombre-limites-de-la-comunicacion-normativa-y-limites-eticos-de-la-comunicacion-publica/",
-      "published": "2026-07-27T15:46:26+00:00",
+      "title": "Alcalde de Guichón, Martín Álvarez, anunció obras de infraestructura y turismo para el quinquenio",
+      "summary": "Hizo un amplio repaso de la realidad del municipio, uno de los más extensos del país, y abordó los principales desafíos de la gestión para el actual período.El jefe municipal destacó el trabajo conjunto con el concejo y confirmó proyectos para modernizar Termas de Almirón, reclamó mayor...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/7/alcalde-de-guichon-martin-alvarez-anuncio-obras-de-infraestructura-y-turismo-para-el-quinquenio/",
+      "published": "2026-07-27T20:58:20+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.27,
+      "relevance": 19.21,
       "sources": [
         "La Diaria"
       ]
