@@ -1,6 +1,104 @@
 {
-  "updated_at": "2026-07-29T17:01:39.529303+00:00",
+  "updated_at": "2026-07-29T22:45:25.089310+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Microsoft dispara un 31% sus ganancias hasta los 133.749 millones de dólares al cierre del ejercicio fiscal",
+      "summary": "Su plataforma en la nube Azure ha propiciado a la compañía más de 100.000 millones de dólares de ingresos",
+      "url": "https://elpais.com/economia/2026-07-29/microsoft-dispara-un-31-sus-ganancias-hasta-los-133749-millones-de-dolares-al-cierre-del-ejercicio-fiscal.html",
+      "published": "2026-07-29T20:51:32+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/7DTGLFVD35LQHK7LQJEL2U5BYI.jpg?auth=7f0dffd032562e353d9a4458b464ed7ddd2a3f9c18ae9f673963cc52ccb000f5",
+      "coverage": 1,
+      "relevance": 20.69,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Meta incrementa sus beneficios un 22% en el primer semestre por la publicidad de sus redes y la IA",
+      "summary": "La compañía ganó 42.621 millones de dólares entre enero y junio, tras incrementar su facturación un 30% hasta los 117.117 millones de dólares",
+      "url": "https://elpais.com/economia/2026-07-29/meta-incrementa-sus-beneficios-un-22-en-el-primer-semestre-por-la-publicidad-de-sus-redes-y-la-ia.html",
+      "published": "2026-07-29T20:31:12+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/TPV76T24MZOXRG3HTQHMQADLHU.jpg?auth=0218d2305f8bcd0a1aeba42e705e4fd9a600dac5201e281d0f64c0ef4ecbb381",
+      "coverage": 1,
+      "relevance": 20.56,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Air France y Lufthansa presentan sus ofertas vinculantes por la portuguesa TAP",
+      "summary": "Las compañías francesa y alemana continuarán en el proceso en solitario",
+      "url": "https://elpais.com/economia/2026-07-29/air-france-y-lufthansa-presentan-sus-ofertas-vinculantes-por-la-portuguesa-tap.html",
+      "published": "2026-07-29T19:44:37+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/JSOYQQAFGZJIVHAIRZZIBDKM3I.jpg?auth=91341eb8fd03d8008b245caf94457fac143c8a8c93b44a2d42b25816cdfbbd38",
+      "coverage": 1,
+      "relevance": 20.27,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La Seguridad Social facilitará la prestación por cese de actividad a los autónomos afectados por los incendios",
+      "summary": "No tendrán que acreditar el parón de actividad por fuerza mayor. Las empresas en ERTE por los fuegos no pagarán cotizaciones entre agosto y noviembre",
+      "url": "https://elpais.com/economia/2026-07-29/la-seguridad-social-facilitara-la-prestacion-por-cese-de-actividad-a-los-autonomos-afectados-por-los-incendios.html",
+      "published": "2026-07-29T17:56:49+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/7ZKPSLIJ5RB4BO3F46WMVJ4CJE.JPG?auth=9a35ed21e982e7ff9ff0324c88f947a453f38d62317e1d470cd20e5f83dbb0f0",
+      "coverage": 1,
+      "relevance": 19.6,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El Gobierno libera frecuencias de radio de uso nacional para emergencias autonómicas sin trámite previo",
+      "summary": "Transformación Digital autoriza de oficio canales para evitar retrasos burocráticos en el despliegue interterritorial ante incendios forestales y catástrofes",
+      "url": "https://elpais.com/economia/2026-07-29/el-gobierno-libera-frecuencias-de-radio-de-uso-nacional-para-emergencias-autonomicas-sin-tramite-previo.html",
+      "published": "2026-07-29T17:11:13+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/AM2VVPXAP5BIXEAJZRFHYLVBMQ.png?auth=1be0780c06703faf81505ccd8c63692f25846ea2621b90d8ebce72b96ea83bbb",
+      "coverage": 1,
+      "relevance": 19.31,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este miércoles 29 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRVUzd0k2VGdla21FNExsVjZFQTQ1d01WTVNEMDdrUVhXcmU3S2pZQlhkeUxUNE5wazZJQXFBOUdfSzh6SkdNQjlvRGFYZU00VDlIOHlueDJQcE52bjRhRjk3Qno1b1IzUV9QcWxsYmJ5SmNzQ1Q4enZMNWRyUGMxN0pUVWpPamUwOTllN0ZoVkdXVWRDU2o3Ymx5M1JYRmRoQWlwaFNkNWpPaDRKbUxLU0s0VE1nR1ZhdkdkcnUxQS1Ld9IB3AFBVV95cUxPdXRnbVBhdnVDeWt4eG5CMDFseDVXMUxiMkIyaUpULURaYk9Qa1JPek5ESVE1YlZsSXlNLWxuTGNVUXg5MGg2Vmc5Y2tDNldIV0RhQ3pOV3BhTXptSk5IQW1oSFRJX1owQVduMUtheVRqV3lUd0RxQnhVT2E5Q2R3MTBGbm1uSExQR014RFRRem1xeFRJZV8yRVBrQ2FqX0tLSktXRlc2TGJrMHhZNlVSVFBtaVVmZ28tWTZyUzJmUk5WZElqWFV3Tm9xSUdTYkFDdmFSNFI3WnRTU0JU?oc=5",
+      "published": "2026-07-29T22:00:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este miércoles 29 de julio",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2pMRGFZX2FzT2hvNUQ4TFl6b3N2eXhzdEktOXhtaVZRZGl2SDJnWW5YS1huZWtwY3pqSC1mTXNES3J4SHI4anJtd1pHVV92Wk9TSFVYZ0d6WERBYUJBUTRwSjM0bXRBclZIa3VRc1I5TVZMbzk4WWVyTTFkaXZTRlVzUGVKZ1VvejZUSlg1RFJDNENDTDZIcGtNRHZQbVZfNXM0MmhzbjA5dG9BcHA40gHKAUFVX3lxTE1CUHNIYTdTd2VTY3FlWUFSS29xMTZPMlZCb2l0M3M4cEFGY1hlMndhLU0zb21XdHJTT2FmcVNIZGloamg3V2RVd3BFeHZzLU9ocWs0NkdNTnQwUXdHUDBYekJNNk1ROVZrOUswdUtiQXNsNkRMSHpON0libXljNDM4d3lYamxsd0lBX0Eydm5ra1lOVllJQzRneTN5R0NsTUIwclQya1JSc19SOUdwakJBd1MwUXhGcXQybzFXVVBJelhJcjk0MzdSdFE?oc=5",
+      "published": "2026-07-29T22:00:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,107 +108,79 @@
       "published": "2026-07-29T15:17:11+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/ZUVPP3GDEVJPHKOVXC5QYCADYI.jpg?auth=e67ab73a9731361bb3d6a124b9d2e2d520d6c9e088d0a65af0a2c93d250f2784",
       "coverage": 1,
-      "relevance": 20.75,
+      "relevance": 18.6,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Nueve de cada diez españoles consideran que se dedican “muy pocos” recursos públicos a la vivienda",
-      "summary": "Un estudio elaborado por el Centro de Investigaciones Sociológicas también muestra que el 80% creen que apenas se invierte en sanidad y ciencia",
-      "url": "https://elpais.com/economia/2026-07-29/nueve-de-cada-diez-espanoles-consideran-que-se-dedican-muy-pocos-recursos-publicos-a-la-vivienda.html",
-      "published": "2026-07-29T14:14:08+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/3LTLBCVROVHEFKFBA5D5W5KGH4.jpg?auth=6274e89146ba93a049f7a78f98fe94212ed3e23d43eb947b201ba7f1e11d4321",
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa: al igual que un arroyo, la música nos conduce a Dios",
+      "summary": "León XIV participa en el encuentro de oración y fraternidad «Cántico de Paz» en Borgo Laudato si’, en los Jardines Pontificios de Castel Gandolfo, junto a Andrea Bocelli y el coro ABF Voices: «El mundo entero no basta para saciar vuestra sed de sentido y de felicidad». Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-07/el-papa-al-igual-que-un-arroyo-la-musica-nos-conduce-a-dios.html",
+      "published": "2026-07-29T19:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/07/29/2026-07-29-incontro-di-preghiera-e-fraternita--cantico-di-pace-/1785348655514.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 19.58,
       "sources": [
-        "El País Eco"
+        "Vatican News"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Santiago de Compostela se une a las más de 300 ciudades con topes de precios para el alquiler",
-      "summary": "Vivienda calcula que 9,3 millones de personas viven ya en zonas tensionadas tras la incorporación de la capital gallega y otros núcleos del norte de España",
-      "url": "https://elpais.com/economia/vivienda/2026-07-29/santiago-de-compostela-se-une-a-las-mas-de-300-ciudades-con-topes-de-precios-para-el-alquiler.html",
-      "published": "2026-07-29T13:50:16+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/2PICCLWKZVA2VC2PZMGW3NQ5F4.JPG?auth=bac8532978b5781716609c2c672a763d92260ae8d1f374a01b2d25ca19e98d1b",
-      "coverage": 1,
-      "relevance": 20.2,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Las comunidades recibirán en 2027 un récord de 170.000 millones del sistema de financiación",
-      "summary": "Hacienda desbloquea la actualización de los desembolsos correspondientes a este año, como reclamaban las autonomías",
-      "url": "https://elpais.com/economia/2026-07-29/las-comunidades-recibiran-en-2027-un-record-de-170000-millones-de-euros-del-sistema-de-financiacion.html",
-      "published": "2026-07-29T12:36:32+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/IX2E6E55KBIR5KLX7H7FOYGFZE.jpg?auth=841b5f79d46021e7b6d864c786b9f769189165eb95c1c48e3758f7836a0df78b",
-      "coverage": 1,
-      "relevance": 19.74,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar hoy, miércoles 29 de julio: tras el giro del BCRA, a cuánto cotizan las pantallas en el inicio del día",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNMjRCb0p5ZVlaTUxWalR5SFJpcXdpeDYtRHk5b2RRY0RCUGc1Tmh3WTMwX1pVSWtvRlVZM2tuOEFVNnF6cmgwbkpkbnJiY3M1UDVpaDlsT2N1WGFfVXM1UGRrdGJXLXJNVl9nY09TTHBwa2tnREhtek14U19qdi1lZVlwMFBUdkgyeDdFbmVrNm5lekx2OU5NNW8wbkp6UmFYalBnUmtEaVI2RUE1V1JDT3NYYXh4UHZpZ0lybG1wYlp2WDBHWE01V2p6RFdnb1Nzb3FIMWxGTnh2RHZpZmllTzdPa0FGZ9IB7gFBVV95cUxPRmpzemk1SnVMX1NSaUh1a3ZzbG5yRGswNTRoeFJHTjRxWUFGRFJ0RVhJanhxMXZRSElpRE1YNW02b25YN2xqX01INXQ5dzllVnJuQWhLU1RtTzNCU0pNN0RIUmd1ZkRuZGJIbzNMaHFZSE1ZbkhJazhkQlRPa0tUV0tKZEpnY2RHdDNpanVBZ2ZsQzB6NlBPQ3dWZW45NU1GekdibDFmZ1k1QVJCVG53RUJJbkMwaXBYYmFBZ0Z1OGZ1Z1k5eG1YOHlMTHF3b1RNQUVpOUhIMTVCNkhiLTR4VjhLT1ZpOFJ4dl9DVDFn?oc=5",
-      "published": "2026-07-29T13:29:32+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "(VIDEO) La conexión inesperada entre León XIV y san Francisco de Asís",
+      "summary": "Cuando Robert Francis Prevost apareció en el balcón de la Basílica de San Pedro como León XIV, su nombre fue interpretado inmediatamente como una referencia a León XIII y a la Rerum novarum, la encíclica que marcó la respuesta de la Iglesia ante los grandes desafíos sociales de la Revolución...",
+      "url": "https://es.aleteia.org/2026/07/29/video-la-conexion-inesperada-entre-leon-xiv-y-san-francisco-de-asis/",
+      "published": "2026-07-29T21:04:52+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.67,
+      "relevance": 19.57,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar sorprende por calma y así el superávit de Vaca Muerta protege al peso argentino",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHk3b1RvbUs3NE9PY0N6eW5TX041SXVZSnNpWjY2eFFHeFFMbWctb2FzT3p1Zk0xN3h3VG1Nb25zVmZiZmVOS1pLWVhVa1VHUGtUaDdPc2tiUk12QkU1NFRYR1IwX2pGOXQxUnVqYkR5bUV2c3JILWZFMENWX0Yyc0dfRXNvajBnQXNwb3F2Rm0xWi1OUXM4SlFIbVlKcWtBWUhtZkk1TVo2WGVhd1pOQ0x4dmg4QzRYLV9fSDRZYWVaZXhKS2VLazExRdIB0AFBVV95cUxQeFdqazhQR1MxdU1GNG1rYkx4Nnd6OG05dHc1TVdZeF90dnFzNWpXaVUxZXJ0V3JTb293NWNoeU9nVFpLVTdsQXVnbFo2VlV4Mmh0VlRxS0ZQUTR3NUNIMHY3T1ZFV196SnExbVZCQ1pBQmtCUlMydlFySUJ4ekxUb2tETXpEdkM3NWVsNkZfVWtCNW5EdUpjSlM1b1M2NXliWkxNNmdUeFUtRmlRMGF0dFRIWE1SODBaaklZdFVWSkdhYkd0alotaTVVQmJVRXY1?oc=5",
-      "published": "2026-07-29T11:03:04+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Aprende a desarrollar la semilla del bien en tu vida",
+      "summary": "Nadie nace malo, Dios solo hizo cosas buenas, como lo narra el capítulo 1 del libro del Génesis. Sin embargo, el pecado original nos ha dejado debilitados, por eso tendemos al mal, y en muchas ocasiones, caemos en las seducciones del maligno, que envidia nuestra vida y la posibilidad que tenemos de...",
+      "url": "https://es.aleteia.org/2026/07/29/aprende-a-desarrollar-la-semilla-del-bien-en-tu-vida/",
+      "published": "2026-07-29T21:02:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.76,
+      "relevance": 19.55,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Real a peso colombiano: a cuánto abre la cotización este miércoles 29 de julio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMGJsaW9HSGNIQjJocS1vQ2lLMllWWUZoNzVEcW41NmdRV250Z04zRERHWnp0Mi1XZ2MzTU5peXEyeEFPOWpDTy1pSWdQMHh6emF1TVZLMWZWSjQ4QWJaejZLRVl2VENtSldwdk5qTHVHeXVfWmdhWFhNdFJEMmY4UC1GbERIR2EzNUF4Wmp0SElmSzNRWDFMUWpEYUQwYVdmMFZEVHgxM3pxeFRrLWtoUW9aVW1yVTZzVkhfYm9Wam9oTEo0cUZWc2tGQzJEQ2pMdjVsWUZkZFZuYWo4aF9sc9IB4AFBVV95cUxPMGJsaW9HSGNIQjJocS1vQ2lLMllWWUZoNzVEcW41NmdRV250Z04zRERHWnp0Mi1XZ2MzTU5peXEyeEFPOWpDTy1pSWdQMHh6emF1TVZLMWZWSjQ4QWJaejZLRVl2VENtSldwdk5qTHVHeXVfWmdhWFhNdFJEMmY4UC1GbERIR2EzNUF4Wmp0SElmSzNRWDFMUWpEYUQwYVdmMFZEVHgxM3pxeFRrLWtoUW9aVW1yVTZzVkhfYm9Wam9oTEo0cUZWc2tGQzJEQ2pMdjVsWUZkZFZuYWo4aF9scw?oc=5",
-      "published": "2026-07-29T11:01:17+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Mientras Europa arde, necesitamos de estos santos patronos",
+      "summary": "Mientras los devastadores incendios forestales siguen arrasando algunas zonas de Europa, cientos de miles de personas se han visto obligadas a abandonar sus hogares, mientras los servicios de emergencia trabajan sin descanso para contener las llamas. En toda Francia y España, a los miles de...",
+      "url": "https://es.aleteia.org/2026/07/29/mientras-europa-arde-necesitamos-de-estos-santos-patronos/",
+      "published": "2026-07-29T19:38:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.75,
+      "relevance": 19.03,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Mercado: el Gobierno argentino enfrenta vencimientos por $8,5 billones y busca captar más dólares",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUk9sVllMSFVkV09PUDl4bFNaQUJRTVVPM3E0QnR4ZWRacXVjNlZmelNsNnhJelV1aXIzb0R1MFlJM3IyUUp1b1NsY1FJUG82aE1CdmpSbE5vdkY0MmJ4aUFzbEVNQWFwcklCOW9YbWFzTnBDSjgxNklMSmNSWWZHR2FBVlRZV1BzVURJNThUeFZzUjRGWkhWQTJOSEgwa1dVc2tDSFBDdS1aNzNxa2hxTV84Y1Yxa2FVaE84QklxMFVXOGVFVFZMZmFYSHF4T1ZE?oc=5",
-      "published": "2026-07-29T10:55:05+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "España: la Iglesia presta ayuda en medio de los incendios",
+      "summary": "España atraviesa por una histórica emergencia nacional debido a los incendios activos en numerosas zonas de su territorio. Tan solo en las provincias de Ávila y Madrid se contabilizan 75 mil hectáreas de incendios y 100 mil personas evacuadas. Sin embargo, no son las únicas provincias en las que el...",
+      "url": "https://es.aleteia.org/2026/07/29/espana-la-iglesia-presta-ayuda-en-medio-de-los-incendios/",
+      "published": "2026-07-29T19:27:08+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.71,
+      "relevance": 18.96,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +192,7 @@
       "published": "2026-07-29T15:10:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/27/17/1785166581942.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.1,
+      "relevance": 17.95,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +206,7 @@
       "published": "2026-07-29T16:03:20+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.84,
+      "relevance": 17.69,
       "sources": [
         "Aleteia"
       ]
@@ -150,77 +220,7 @@
       "published": "2026-07-29T13:05:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/28/20/1785262298312.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.32,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Carmina y la depresión contada al Papa: su abrazo, un bálsamo para el alma",
-      "summary": "A poco menos de dos meses de su testimonio ante León XIV, en el estadio de Barcelona, la joven recuerda cómo salió de la oscuridad de la enfermedad que la llevó incluso a intentar suicidarse. «La cabeza empieza a jugarte malas pasadas, la sonrisa se convierte en un muro, llegas a pensar que vales...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/carmina-historia-depresion-papa-viaje-espana-testimonio.html",
-      "published": "2026-07-29T12:32:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/26/whatsapp-image-2026-07-25-at-18-54-49aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.11,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "China: El vicario diocesano Duan Yong es ordenado obispo coadjutor de Bameng",
-      "summary": "Francisco Javier Duan Yongkun, nombrado por el Papa el 15 de junio como Obispo Coadjutor de la Región Autónoma de Mongolia Interior, en el marco del Acuerdo Provisional entre la Santa Sede y la República Popular China. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/china-duan-yong-vicario-diocesa-nuevo-obispo-coadjutor-de-bameng.html",
-      "published": "2026-07-29T12:17:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2018/09/22/65.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.02,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "La trata de personas hoy: nadie debería ser tratado como una mercancía",
-      "summary": "Talitha Kum Internacional presenta su Informe Anual 2025, que revela cómo la trata de personas está cada vez más vinculada al auge de la tecnología, mientras la explotación en línea, las estafas y los fraudes se convierten en herramientas del siglo XXI para atrapar a personas en situación de...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/talitha-kum-informe-anual-2025-actividad-lucha-trata-iglesia.html",
-      "published": "2026-07-29T12:12:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/Luglio/29/12.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.99,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Te Deum por la Independencia del Perú: un llamado a renovar la esperanza y la humanidad",
-      "summary": "Con ocasión del 205.º aniversario de la Independencia del Perú, la Iglesia celebró el tradicional Te Deum en la Basílica Catedral de Lima. Durante la Eucaristía, el cardenal Carlos Castillo llamó a leer la historia del país a la luz del Evangelio, exhortó a renovar el compromiso con el bien común y...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-07/aniversario-peru-america-crisis-unidad-dignidad-cuidado.html",
-      "published": "2026-07-29T11:13:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/luglio/14/cardenal-carlos-castillo-2024-1024x682.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.62,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Terremoto en Japón: víctimas y desaparecidos en Kumamoto",
-      "summary": "El balance, aún provisional, del terremoto de magnitud 7,1 que se produjo ayer en el suroeste de Japón, alrededor de las 16:30 hora local, ha ascendido a por lo menos 13 víctimas mortales y un centenar de heridos. La zona más afectada ha sido la prefectura de Kumamoto, en la isla de Kyushu, a unos...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-07/terremoto-en-japon-victimas-y-desaparecidos-en-kumamoto.html",
-      "published": "2026-07-29T08:30:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/29/10/1785313563505.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.6,
+      "relevance": 17.17,
       "sources": [
         "Vatican News"
       ]
@@ -228,111 +228,111 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Nuestro Mediterráneo cada vez se parece más al mar Caribe: el agua supera los 32 ºC y las previsiones no son buenas",
-      "summary": "El verano avanza y la clásica sensación refrescante al entrar en las aguas del Mediterráneo es algo que poco a poco ya no sentimos de la misma manera. La razón no es otra que el agua año tras año sigue calentándose y superando cifras récord, que no solo hace que tengamos un menor fresco al...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/nuestro-mediterraneo-cada-vez-se-parece-al-mar-caribe-agua-supera-32-oc-previsiones-no-buenas",
-      "published": "2026-07-29T16:31:36+00:00",
-      "image": "https://i.blogs.es/b78245/mediterraneo-caliente/1024_2000.jpeg",
+      "title": "Los temibles misiles Oreshnik rusos tardan minutos en llegar a Ucrania. Su secreto: salen de una ciudad atrapada en el tiempo",
+      "summary": "Hay armas que impresionan por lo que destruyen y otras que también lo hacen por el tiempo que dejan para reaccionar. El Oreshnik pertenece a esta segunda categoría: Rusia ya lo ha utilizado contra Ucrania y uno de sus lanzamientos mejor documentados apenas concedió unos minutos entre la salida y la...",
+      "url": "https://www.xataka.com/magnet/temibles-misiles-oreshnik-rusos-tardan-minutos-llegar-a-ucrania-su-secreto-salen-ciudad-atrapada-tiempo",
+      "published": "2026-07-29T21:56:43+00:00",
+      "image": "https://i.blogs.es/01ecf4/transporte-misiles-oreshnik/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.31,
+      "relevance": 20.2,
       "sources": [
         "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La NASA muestra la apariencia real de la Tierra según la gravedad… y es deforme",
-      "summary": "Este mes de julio la NASA ha hecho pública en su web una imagen interactiva y actualizada de la forma que le daría la gravedad a nuestro planeta y el resultado no ha dejado indiferente a nadie. La simulación no solo se aleja del mito idealizado de la esfera perfecta y azul, sino que va mucho más...",
-      "url": "https://www.xataka.com/espacio/nasa-muestra-apariencia-real-tierra-gravedad-deforme",
-      "published": "2026-07-29T16:15:36+00:00",
-      "image": "https://i.blogs.es/d38dfd/geoid/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.21,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Si una GPU con 8 GB ya se quedaba corta para jugar, la crisis nos ha traído fantasmas del pasado: tarjetas con 4 GB",
-      "summary": "Este es el peor año que recuerdo para montar un PC. Ya no es que los precios de componentes como los HDD y, sobre todo, SSD y memoria RAM estén totalmente fuera de control, sino que no hay nuevas tarjetas gráficas. Las de AMD son un remozado de las anteriores y Nvidia, directamente, pasa de las RTX...",
-      "url": "https://www.xataka.com/componentes/gpu-8-gb-se-quedaba-corta-para-jugar-crisis-nos-ha-traido-fantasmas-pasado-tarjetas-4-gb",
-      "published": "2026-07-29T15:31:36+00:00",
-      "image": "https://i.blogs.es/6df9dc/radeon/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.94,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los mejores ventiladores de mano ideales para decirle adiós al abanico",
-      "summary": "Salir a la calle este verano podría ser considerado un deporte de riesgo. Las temperaturas que estamos alcanzando en toda la península no solo hacen insoportable salir cuando el sol se sitúa en lo más alto, sino que también están provocando algunas de las noches más tórridas que se recuerdan. Esto...",
-      "url": "https://www.xataka.com/seleccion/mejores-ventiladores-mano",
-      "published": "2026-07-29T15:15:36+00:00",
-      "image": "https://i.blogs.es/3f38b4/ventiladores-de-mano-sobre-una-mesa/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.84,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Un estudio decía que los árboles \"sienten\" los eclipses con 14 horas de antelación. La explicación real es mucho más aburrida",
-      "summary": "En 2025, un equipo de científicos italianos descubrió algo sorprendente en relación con los eclipses. Según un estudio realizado en un bosque de coníferas de los Dolomitas, los árboles pueden predecir eclipses solares a través de cambios en su actividad eléctrica interna. ¿Tiene esto alguna...",
-      "url": "https://www.xataka.com/espacio/estudio-decia-que-arboles-sienten-eclipses-14-horas-antelacion-explicacion-real-mucho-aburrida",
-      "published": "2026-07-29T15:01:36+00:00",
-      "image": "https://i.blogs.es/d0bd6d/arboles-predicen-eclipses/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.75,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "WhatsApp acaba de quitarle a Zoom y Meet su mejor argumento: sus videollamadas por navegador no tienen límite de tiempo",
-      "summary": "De ser un espacio reservado a los entornos de trabajo a convertirse en una herramienta que nos acercaba de forma virtual cuando la pandemia lo impedía físicamente: las videollamadas se convirtieron en un auténtico salvavidas. Plataformas como Zoom saltaron a los ordenadores particulares, igual que...",
-      "url": "https://www.xataka.com/aplicaciones/whatsapp-acaba-quitarle-a-zoom-meet-su-mejor-argumento-sus-videollamadas-navegador-no-tienen-limite-tiempo",
-      "published": "2026-07-29T14:31:36+00:00",
-      "image": "https://i.blogs.es/dd0dbc/whatsapp-web-llamadas-portada-2/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.56,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "El País Tech",
-      "title": "Diario del ataque inaudito de la IA que escapó al control de OpenAI: “Su resiliencia no era la típica de un humano”",
-      "summary": "Nuevos detalles de la compañía y de la plataforma agredida, Hugging Face, muestran que la operación duró cinco días y afectó al menos a otros cuatro servicios en internet",
-      "url": "https://elpais.com/tecnologia/2026-07-29/diario-del-ataque-inaudito-de-la-ia-que-escapo-al-control-de-openai-su-resiliencia-no-era-la-tipica-de-un-humano.html",
-      "published": "2026-07-29T12:02:57+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/K5SU2277WBGWPJRAHLO2NPIKQ4.jpg?auth=76f9cda2c1a4bf03de747ae4a0f5d9a271cebdcb0ff7e65e7bc45a33e0a83b31",
-      "coverage": 1,
-      "relevance": 19.53,
-      "sources": [
-        "El País Tech"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "¿Tiene ‘Spider-Man: Brand New Day’ escena post-créditos?",
-      "summary": "Después de cinco largos años de espera Spider-Man: Brand New Day por fin ha llegado a los cines. La cuarta película de la saga de Tom Holland regresa a las salas con la firme intención de demostrar que el arácnido sigue siendo el superhéroe más popular de todos los tiempos. Esta vez lo hacen con...",
-      "url": "https://hipertextual.com/cine-television/tiene-spider-man-brand-new-day-escena-post-creditos/",
-      "published": "2026-07-29T15:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Spider-Man-Brand-New-Day-escena-post-creditos.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Una IA gestionó un negocio sin supervisión humana y eligió mentir, amenazar y traicionar",
+      "summary": "Dejar a una inteligencia artificial al frente de un negocio puede dar resultados sorprendentes. Al menos eso parece con Claude Opus 5, que demostró ser el mejor capitalista a la hora de gestionar una máquina expendedora de bebidas. Un estudio arrojó que la IA de Anthropic no solo obtuvo los mejores...",
+      "url": "https://hipertextual.com/inteligencia-artificial/claude-opus-5-ia-capitalista-vending-bench/",
+      "published": "2026-07-29T21:52:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/robots-ia.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.44,
+      "relevance": 19.87,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Estados Unidos prohíbe los robots extranjeros, incluyendo los aspiradores",
+      "summary": "El nuevo capítulo en el culebrón entre Estados Unidos y China involucra el bloqueo a los dispositivos robóticos avanzados fabricados en el extranjero, que la Casa Blanca hizo oficial ayer. Pero el veto no se limita a aparatos experimentales y/o de tintes futuristas, como robots humanoides o...",
+      "url": "https://hipertextual.com/tecnologia/estados-unidos-prohibe-robots-aspiradores-extranjeros/",
+      "published": "2026-07-29T20:45:53+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/03/Roborock-Saros-10-2.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.45,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "La próxima gran batalla por la cobertura móvil será en el espacio: Amazon tiene un plan para plantar cara a Starlink",
+      "summary": "Hasta hace poco, perder la cobertura significaba quedar fuera de la red hasta encontrar otra antena terrestre. Esa lógica empieza a romperse: los satélites de órbita baja ya pueden comunicarse directamente con determinados teléfonos móviles y mantener servicios básicos allí donde la infraestructura...",
+      "url": "https://www.xataka.com/servicios/proxima-gran-batalla-cobertura-movil-sera-espacio-amazon-tiene-plan-para-plantar-cara-a-starlink",
+      "published": "2026-07-29T19:01:37+00:00",
+      "image": "https://i.blogs.es/6e6333/amazon-leo-d2d/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.1,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "El Ferrari Luce, diseñado por Jony Ive y odiado por todos, ya vendió lo que tenía previsto para 2026",
+      "summary": "A dos meses de su polémica presentación, el Ferrari Luce ya cumplió con su objetivo de ventas para todo el año. El primer coche eléctrico de Maranello, diseñado en colaboración con Jony Ive y con un precio de salida de 550.000 euros, vendió lo suficiente como para mantener contentos a los...",
+      "url": "https://hipertextual.com/movilidad/ferrari-luce-ventas-objetivo-2026/",
+      "published": "2026-07-29T19:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/ferrari-luce-azul.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.98,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Un conductor chino se compró un espectacular SUV eléctrico para viajar a Europa. Todo era perfecto hasta que llegó a la frontera",
+      "summary": "Fabio Belmone es Volata di Peluca. A principios del año pasado se hizo viral cuando publicó que iría a Tokyo. Hasta aquí, todo normal. Otro millennial que marcha a Japón. Lo que hacía especial el viaje de Fabio Belmone es que pensaba llegar hasta la capital japonesa en coche. 25.000 kilómetros y 80...",
+      "url": "https://www.xataka.com/movilidad/conductor-chino-se-compro-espectacular-suv-electrico-para-viajar-a-europa-todo-era-perfecto-que-llego-a-frontera",
+      "published": "2026-07-29T18:31:36+00:00",
+      "image": "https://i.blogs.es/a694d5/1759201903-zk-9x_3/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.91,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "El GPS nos deja tirados dentro de los edificios. Una alternativa ya está en órbita y ha demostrado que puede llegar bajo techo",
+      "summary": "Entramos en un centro comercial, bajamos a un aparcamiento o cruzamos la puerta de una estación y el punto azul empieza a dudar. A veces tarda en reaccionar, otras nos coloca en la calle de al lado y, en los peores casos, deja de seguirnos por completo. Nos hemos acostumbrado a que el móvil sepa...",
+      "url": "https://www.xataka.com/espacio/gps-nos-deja-tirados-dentro-edificios-alternativa-esta-orbita-ha-demostrado-que-puede-llegar-techo",
+      "published": "2026-07-29T18:01:37+00:00",
+      "image": "https://i.blogs.es/97f2ce/render-satelite-xona/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.73,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Google revela el primer vistazo oficial al Pixel 11 Pro",
+      "summary": "A falta de un par de semanas para su presentación oficial, Google ha decidido entregar el primer vistazo oficial al Pixel 11 Pro. A través de un breve vídeo en YouTube, la empresa mostró la silueta y el diseño de la cubierta posterior de su próximo móvil. Si bien se trata de un teaser, la […]...",
+      "url": "https://hipertextual.com/mobile/google-primer-vistazo-oficial-pixel-11-pro/",
+      "published": "2026-07-29T18:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Pixel-11-Pro-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.6,
       "sources": [
         "Hipertextual"
       ]
@@ -340,13 +340,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "La FIFA señala a cinco implicados por la tangana de la final del Mundial",
-      "summary": "Gavi, único investigado en la Selección Española",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/29/duro-procedimiento-disciplinario-fifa-incidentes-ocurridos-durante-final-mundial.html",
-      "published": "2026-07-29T16:47:03+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a2daae223c.jpeg",
+      "title": "Raúl Moro permite a Osasuna seguir ganando",
+      "summary": "El conjunto rojillo debutó con victoria en su stage en Inglaterra",
+      "url": "https://www.marca.com/futbol/osasuna/2026/07/29/osasuna-continua-ganando-pretemporada.html",
+      "published": "2026-07-29T21:46:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a73e38bc33.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 20.13,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Los culebrones del verano son las inscripciones: el Getafe sólo tiene 7 fichas... y el Barça está sin porteros",
-      "summary": "Un año más, la mayoría está teniendo problemas para inscribir a sus jugadores",
-      "url": "https://www.marca.com/futbol/primera-division/2026/07/29/culebrones-verano-son-inscripciones-getafe-siete-fichas-barca-porteros.html",
-      "published": "2026-07-29T16:37:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a67bf53d1c4f.jpeg",
+      "title": "Moleiro deja su sello y el Villarreal jugará la final de la Como Cup",
+      "summary": "Moleiro dejó su sello con un gran gol",
+      "url": "https://www.marca.com/futbol/villarreal/2026/07/29/villarreal-jugara-final-cup-ganar-penaltis.html",
+      "published": "2026-07-29T21:45:54+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a73d69eecc.jpeg",
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 20.13,
       "sources": [
         "Marca"
       ]
@@ -368,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Angeliño, el siguiente objetivo del Dépor",
-      "summary": "El futbolista de la Roma está muy cerca de llegar al conjunto gallego en calidad de cedido",
-      "url": "https://www.marca.com/futbol/deportivo/2026/07/29/angelino-siguiente-objetivo-depor.html",
-      "published": "2026-07-29T16:23:03+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a28bf453e1.jpeg",
+      "title": "El Espanyol deja un sabor agridulce",
+      "summary": "Sensaciones agridulces en el primer partido de los pericos en tierras inglesas",
+      "url": "https://www.marca.com/futbol/espanyol/2026/07/29/espanyol-empata-burnley.html",
+      "published": "2026-07-29T21:38:28+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a724c4c24e.jpeg",
       "coverage": 1,
-      "relevance": 20.26,
+      "relevance": 20.08,
       "sources": [
         "Marca"
       ]
@@ -382,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Arrestado un jugador profesional de pádel tras agredir a los empleados de una tienda deportiva",
-      "summary": "Nicolás Xiviller, número seis del ranking en los Estados Unidos, se enfrenta a varios cargos tras romper raquetas y amenazar a los trabajadores del Tennis Plaza de Miami",
-      "url": "https://www.marca.com/padel/2026/07/29/arrestado-jugador-profesional-padel-agredir-empleados-tienda-deportiva.html",
-      "published": "2026-07-29T16:17:27+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/czqXM1gQWkBojVN9P.jpeg",
+      "title": "Infantino se defiende: \"Es una oportunidad de oro\"",
+      "summary": "El Presidente de la FIFA dio la cara y aclaró todo lo referente a su nuevo proyecto con un vídeo",
+      "url": "https://www.marca.com/futbol/2026/07/29/infantino-defiende-oportunidad-obligacion.html",
+      "published": "2026-07-29T21:24:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a6f8feb774.jpeg",
       "coverage": 1,
-      "relevance": 20.22,
+      "relevance": 20.0,
       "sources": [
         "Marca"
       ]
@@ -396,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Rodri lo ha ganado todo: ¿Es el mejor centrocampista de la historia?",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/mundial/2026/07/29/rodri-ganado-mejor-centrocampista-historia-video.html",
-      "published": "2026-07-29T16:16:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/1Qw1gQY7Xrjj4in.jpeg",
+      "title": "Hjulmand ya manda en el Atlético",
+      "summary": "El nuevo medio arranca su sociedad con Koke • Buenos minutos de Mendoza",
+      "url": "https://www.marca.com/futbol/atletico/2026/07/29/hjulmand-manda-atletico.html",
+      "published": "2026-07-29T20:56:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a6aedee279.jpeg",
       "coverage": 1,
-      "relevance": 20.21,
+      "relevance": 19.82,
       "sources": [
         "Marca"
       ]
@@ -410,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El City acelera por el sustituto de Rodri",
-      "summary": "El marroquí apunta a ser su reemplazo en el Manchester City",
-      "url": "https://www.marca.com/futbol/premier-league/2026/07/29/ayyoub-bouaddi-ultima-pieza-terremoto-rodri-valer-100-millones.html",
-      "published": "2026-07-29T15:38:57+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a1acc7a1d3.jpeg",
+      "title": "Lo que le faltaba al Madrid",
+      "summary": "En MARCA analizamos la extraordinaria valía que el extremo ha acreditado en ambas bandas",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/07/29/encrucijada-diomande-juega-mejor-izquierda-derecha.html",
+      "published": "2026-07-29T20:41:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/28/6a68b51c852ca.jpeg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 19.73,
       "sources": [
         "Marca"
       ]
@@ -424,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Lester Quiñones, la alternativa para cerrar la plantilla del Madrid",
-      "summary": "El conjunto blanco, ante la complejidad de cerrar la operación de Lonnie Walker, quien tiene contrato en vigor con el Maccabi, se fija en el escolta dominicano",
-      "url": "https://www.marca.com/baloncesto/acb/2026/07/29/lester-quinones-alternativa-cerrar-plantilla-madrid.html",
-      "published": "2026-07-29T15:35:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a131c4167c.jpeg",
+      "title": "La primera impresión basta",
+      "summary": "Lookman, en cinco minutos (doblete en 35') y Arnau Ortiz, en diez, evidencian su facilidad para el gol en el estreno veraniego del Atlético. El Getafe, aun con chavales, asegura intensidad",
+      "url": "https://www.marca.com/futbol/atletico/2026/07/29/primera-impresion-basta.html",
+      "published": "2026-07-29T20:37:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a651abcc85.jpeg",
       "coverage": 1,
-      "relevance": 19.96,
+      "relevance": 19.7,
       "sources": [
         "Marca"
       ]
@@ -438,55 +438,27 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Cristiano Ronaldo debutará como actor en una serie",
-      "summary": "El portugués protagonizará su primera incursión como intérprete en 'Day 1s', una serie dramática sobre el negocio del fútbol en la que también ejercerá como productor ejecutivo junto al director Matthew Vaughn",
-      "url": "https://www.marca.com/tiramillas/series/2026/07/29/cristiano-ronaldo-debutara-actor-serie-dramatica-television.html",
-      "published": "2026-07-29T15:32:32+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/27/6a675d3336275.png",
+      "title": "El Fenerbahçe no se cae de la Champions",
+      "summary": "Superaron al Gornik Zabrze polaco en segunda ronda",
+      "url": "https://www.marca.com/futbol/champions-league/cronica/2026/07/29/fenerbahce-marco-asensio-sigue-vivo-champions-league.html",
+      "published": "2026-07-29T20:02:33+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a5aa31c0b1.jpeg",
       "coverage": 1,
-      "relevance": 19.94,
+      "relevance": 19.48,
       "sources": [
         "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Por qué la UEFA y CONCACAF arremeten contra la FIFA?: anatomía del plan de Infantino para vender acciones del Mundial",
-      "summary": "El mundo del fútbol sigue conmocionado por la iniciativa del presidente de la FIFA de crear una filial de la entidad que permita vender una participación minoritaria en la Copa del Mundo, y ahora dos nuevas confederaciones cuestionan que el proyecto haya sido conocido por los medios de comunicación...",
-      "url": "https://www.france24.com/es/deportes/20260729-por-qu%C3%A9-la-uefa-y-concacaf-arremeten-contra-la-fifa-anatom%C3%ADa-del-plan-de-infantino-para-vender-acciones-del-mundial",
-      "published": "2026-07-29T15:57:35+00:00",
-      "image": "https://s.france24.com/media/display/ae4700ce-8b67-11f1-881d-005056bf30b7/w:1024/p:16x9/INFANTINO-jpg-OK.jpg",
-      "coverage": 1,
-      "relevance": 20.4,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Qué consecuencias podría tener el polémico proyecto de la FIFA impulsado por Infantino?",
-      "summary": "La FIFA presentó un proyecto polémico que busca transformar la gestión de sus derechos comerciales y de transmisión mediante la creación de la “FIFA Forward Enterprise”. Con esta nueva entidad, la organización pretende captar hasta 4.200 millones de dólares de inversión externa, lo que ha generado...",
-      "url": "https://www.france24.com/es/video/20260729-qu%C3%A9-consecuencias-podr%C3%ADa-tener-el-pol%C3%A9mico-proyecto-de-la-fifa-impulsado-por-infantino",
-      "published": "2026-07-29T15:47:00+00:00",
-      "image": "https://s.france24.com/media/display/10ef27aa-8b64-11f1-aa5d-005056bfb2b6/w:1024/p:16x9/ES-20260729-100827-101438-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.33,
-      "sources": [
-        "France 24"
       ]
     },
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Qué tomó Daniel Noboa del \"modelo Bukele\" para combatir la inseguridad en Ecuador (y por qué la violencia no ha disminuido)",
-      "summary": "El gobierno ecuatoriano promovió la militarización de la seguridad, construyó una megacárcel, extendió los estados de excepción y desplegó a las fuerzas de seguridad para recuperar el control del territorio.",
-      "url": "https://www.bbc.com/mundo/articles/c0jl8l9gz14o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-07-29T12:48:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b622/live/d1d5bdd0-8b4b-11f1-8139-b39d1c7486b2.jpg",
+      "title": "Quién es Pavel Durov, el fundador de Telegram contra el que Rusia emitió una orden de arresto internacional",
+      "summary": "El multimillonario fundador de Telegram se enfrenta a cargos penales en Rusia, donde lo acusan de permitir que los servicios secretos de Ucrania usen la plataforma para coordinar sus ataques contra ese país.",
+      "url": "https://www.bbc.com/mundo/articles/ceqe7ld83vzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-07-29T20:54:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9187/live/5c804030-8b66-11f1-aeab-95d4580645f0.jpg",
       "coverage": 1,
-      "relevance": 20.12,
+      "relevance": 21.01,
       "sources": [
         "BBC Mundo"
       ]
@@ -494,13 +466,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "En directo: EE. UU. y Riad bombardean milicias respaldadas por Irán en Irak; Teherán lanza ataques de represalia",
-      "summary": "Se extiende el conflicto en Medio Oriente. Este miércoles 29 de julio, Estados Unidos y Arabia Saudita atacaron conjuntamente a grupos respaldados por Irán en Irak. El nuevo movimiento llega poco después de que el mandatario de EE. UU., Donald Trump, prometiera \"darle una paliza\" a Teherán tras...",
-      "url": "https://www.france24.com/es/medio-oriente/20260729-en-directo-ee-uu-y-riad-bombardean-milicias-respaldadas-por-ir%C3%A1n-en-irak-teher%C3%A1n-lanza-ataques-de-represalia",
-      "published": "2026-07-29T14:58:56+00:00",
-      "image": "https://s.france24.com/media/display/5fb4996c-8b5d-11f1-ba74-005056a97e36/w:1024/p:16x9/2026-07-29T091939Z-461694213-RC2JNMAQIKR2-RTRMADP-3-IRAN-CRISIS-SAUDI-IRAQ-PMF-1.jpg",
+      "title": "Donald Trump amenaza con un \"duro golpe\" en represalia contra Irán",
+      "summary": "Tras varios días sin ofensivas cruzadas entre Estados Unidos e Irán en Medio Oriente, el conflicto vuelve a intensificarse en la región. EE. UU. y Arabia Saudita lanzaron ataques conjuntos contra grupos respaldados por Irán en Irak, a los que Teherán respondió con misiles balísticos en Jordania....",
+      "url": "https://www.france24.com/es/video/20260729-donald-trump-amenaza-con-un-duro-golpe-en-represalia-contra-ir%C3%A1n",
+      "published": "2026-07-29T22:26:32+00:00",
+      "image": "https://s.france24.com/media/display/a3c894d0-8b96-11f1-be4e-005056bf30b7/w:1024/p:16x9/ES-20260729-140710-141048-CS.jpg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 20.68,
       "sources": [
         "France 24"
       ]
@@ -508,13 +480,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "La FIFA presenta polémica propuesta para captar 4.200 millones de dólares",
-      "summary": "La FIFA presentó una propuesta polémica para crear la “FIFA Forward Enterprise”, una nueva entidad que gestionaría sus derechos comerciales y de transmisión, con la que espera recaudar hasta 4.200 millones de dólares de inversión externa. El plan busca aumentar la financiación para el desarrollo...",
-      "url": "https://www.france24.com/es/video/20260729-la-fifa-presenta-pol%C3%A9mica-propuesta-para-captar-4-200-millones-de-d%C3%B3lares",
-      "published": "2026-07-29T14:22:02+00:00",
-      "image": "https://s.france24.com/media/display/c61c5290-8b57-11f1-8b2f-005056bfb2b6/w:1024/p:16x9/ES-20260729-081135-081328-CS.jpg",
+      "title": "Ejército del Aire lucha por contener los incendios en España",
+      "summary": "Aviones del Ejército del Aire de España sueltan litros de agua desde el aire en un intento por apagar los incendios en el país. \"Son kilómetros volando desde el mismo punto de carga hasta las zonas de descarga, viendo un paisaje desolador\", asegura uno de los pilotos al describir la exigente y...",
+      "url": "https://www.france24.com/es/video/20260729-ej%C3%A9rcito-del-aire-lucha-por-contener-los-incendios-en-espa%C3%B1a",
+      "published": "2026-07-29T22:26:01+00:00",
+      "image": "https://s.france24.com/media/display/44d32536-8b95-11f1-b22b-005056a97e36/w:1024/p:16x9/ES-20260729-140405-140606-CS.jpg",
       "coverage": 1,
-      "relevance": 19.8,
+      "relevance": 20.68,
       "sources": [
         "France 24"
       ]
@@ -522,13 +494,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Líbano: entre ruinas, algunos ciudadanos regresan a sus hogares y ponen a prueba las \"zonas piloto\"",
-      "summary": "En el sur del Líbano comenzaron a funcionar las “zonas piloto”, un mecanismo acordado con Israel y mediado por Estados Unidos que permite la retirada gradual de tropas israelíes y el despliegue del ejército libanés. En estas áreas, los ciudadanos empiezan a regresar a sus hogares tras meses de...",
-      "url": "https://www.france24.com/es/video/20260729-l%C3%ADbano-entre-ruinas-algunos-ciudadanos-regresan-a-sus-hogares-y-ponen-a-prueba-las-zonas-piloto",
-      "published": "2026-07-29T14:18:09+00:00",
-      "image": "https://s.france24.com/media/display/8af66e5a-8b55-11f1-9480-005056a97e36/w:1024/p:16x9/ES-20260729-080627-080809-CS.jpg",
+      "title": "Polémica propuesta de la FIFA buscaría captar 4.200 millones de dólares",
+      "summary": "⚽️ La FIFA presentó una propuesta polémica para crear la “FIFA Forward Enterprise”, una nueva entidad que gestionaría sus derechos comerciales y de transmisión, con la que espera recaudar hasta 4.200 millones de dólares de inversión externa.",
+      "url": "https://www.france24.com/es/video/20260729-pol%C3%A9mica-propuesta-de-la-fifa-buscar%C3%ADa-captar-4-200-millones-de-d%C3%B3lares",
+      "published": "2026-07-29T21:03:24+00:00",
+      "image": "https://s.france24.com/media/display/62007884-8b8b-11f1-9ba1-005056bfb2b6/w:1024/p:16x9/FIFA-2.png",
       "coverage": 1,
-      "relevance": 19.78,
+      "relevance": 20.16,
       "sources": [
         "France 24"
       ]
@@ -536,13 +508,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Kast, De la Espriella, Rodríguez, Milei: ¿Qué impulsa la relación de América Latina hacia Israel?",
-      "summary": "El avance de gobiernos de derecha y ultraderecha en América Latina ha estado acompañado de un creciente acercamiento hacia Israel. Presidentes como Javier Milei, José Antonio Kast, Abelardo de la Espriella y Daniel Noboa han expresado un firme respaldo al Estado israelí y, en algunos casos, han...",
-      "url": "https://www.france24.com/es/programas/expreso-de-oriente/20260729-kast-de-la-espriella-rodr%C3%ADguez-milei-qu%C3%A9-impulsa-la-relaci%C3%B3n-de-am%C3%A9rica-latina-hacia-israel",
-      "published": "2026-07-29T13:17:10+00:00",
-      "image": "https://s.france24.com/media/display/74c3aeb6-8b07-11f1-8641-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-EXP-28JUL-1.png",
+      "title": "Escalada regional en Medio Oriente: Arabia Saudita se involucra contra milicias respaldadas por Irán",
+      "summary": "El conflicto en Medio Oriente se intensifica con el papel de las milicias proiraníes y la implicación directa de Arabia Saudita junto a Estados Unidos. Estas facciones armadas, respaldadas por Teherán, han multiplicado ataques con drones y cohetes contra bases estadounidenses y objetivos saudíes,...",
+      "url": "https://www.france24.com/es/video/20260729-escalada-regional-en-medio-oriente-arabia-saudita-se-involucra-contra-milicias-respaldadas-por-ir%C3%A1n",
+      "published": "2026-07-29T20:18:46+00:00",
+      "image": "https://s.france24.com/media/display/2d8a0f6a-8b73-11f1-ad1c-005056bfb2b6/w:1024/p:16x9/ES-20260729-120134-120342-CS.jpg",
       "coverage": 1,
-      "relevance": 19.4,
+      "relevance": 19.88,
       "sources": [
         "France 24"
       ]
@@ -550,27 +522,55 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Irán ataca bases de EE. UU. en Jordania; Arabia Saudita bombardea con Washington milicias en Irak",
-      "summary": "Irán lanzó misiles contra buques en el estrecho de Ormuz y contra bases de EE. UU. en Jordania. Por otro lado, Washington y Arabia Saudita bombardearon posiciones de milicias proiraníes en Irak, lo que obligó a una reunión de emergencia del consejo de seguridad del país. Desde Jerusalén, nuestra...",
-      "url": "https://www.france24.com/es/video/20260729-ir%C3%A1n-ataca-bases-de-ee-uu-en-jordania-arabia-saudita-bombardea-con-washington-milicias-en-irak",
-      "published": "2026-07-29T13:04:59+00:00",
-      "image": "https://s.france24.com/media/display/49f252f0-8b4d-11f1-bd0c-005056a90284/w:1024/p:16x9/ES-20260729-070806-070959-CS.jpg",
+      "title": "Incursión de colonos judíos en Siria desata investigación militar",
+      "summary": "Judíos religiosos del grupo “Pioneros de Bashan” se infiltraron en el sur de Siria para reclamar tierras y establecer asentamientos, lo que generó alarma en la región. El ejército israelí confirmó el incidente y abrió una investigación, mientras Siria denuncia la incursión como una violación de...",
+      "url": "https://www.france24.com/es/video/20260729-incursi%C3%B3n-de-colonos-jud%C3%ADos-en-siria-desata-investigaci%C3%B3n-militar",
+      "published": "2026-07-29T20:16:23+00:00",
+      "image": "https://s.france24.com/media/display/210d7c52-8b75-11f1-a67c-005056a97e36/w:1024/p:16x9/ES-20260729-120409-120609-CS.jpg",
       "coverage": 1,
-      "relevance": 19.32,
+      "relevance": 19.87,
       "sources": [
         "France 24"
       ]
     },
     {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Intendencia recibirá 1.500.000 pesos destinados a revisar o promover instrumentos de ordenamiento territorial",
-      "summary": "El MVOT destinará 27 millones de pesos a 18 intendencias para la planificación territorial.La Intendencia de Paysandú suscribió un nuevo convenio de cooperación técnica y financiera con el Ministerio de Vivienda y Ordenamiento Territorial (MVOT), a través de la Dirección Nacional de Ordenamiento...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/7/intendencia-recibira-1500000-pesos-destinados-a-revisar-o-promover-instrumentos-de-ordenamiento-territorial/",
-      "published": "2026-07-29T16:41:11+00:00",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Trump calificó de “buena” su reunión con Zelensky y afirmó: “Quiero que la guerra termine”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWE1zemZXQjMxaFdNMGNSWXlhVmtEWVZCYjNFYU55SC1TdHIwXzlxeWt2eHdoYVJ2MUhGT0hTb191aEdLNDV2MWtjVENxWGxzcmRHVi1xX0tVYWJ6Q0sxakhUWXhZRE56LUtodVdITHgwSTZkU2JfOXNBdm9aVHBVWXRqR2IxaTgtWE9JMFR0LUtONDRteklreEdRR3JEUmxvd0NmZ2x2U1RHNFFtNUI3eEJUMVc0cWNxLXdwdTRiZWFlTnBCVXU5V3NjdWdHMTdR0gHrAUFVX3lxTFBZSkMxU0hwQTdnTS0zU0QwaDRIdU40RE5keElDTTNkMURZb29JZ3RZT3o2NS1UZUNoLXU3ZXh3VVVQS3pyQW5yN3FEV3dGNjZFR0h4TmhYMjNlaDFsRWhUa2VCUWdPZktiNTlMMTV3MFl4OWpxbHJ0LWZTalR1QUFnMExNS0s1VTlLRTBGUDRoQjhUbHRPTVU0enlJV3UwODRUUmJWcTI5TFRuN0pfbThEX2Z3UDl2TFJHYWd4YllEYjV4NHV4YUtkeW95alMyN2pLdFBPT0VIb29GZzFuRXdyWjkzZV96RkdWSFU?oc=5",
+      "published": "2026-07-29T22:10:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 18.78,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Zelenski advierte sobre muy posible ataque ruso \"masivo\"",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUXRaNGlOOGktelFkX1RRMk9tNzdTSm5QNFRnRk5xb1g5VUE4RWJaY1NqVWt1THBEUk9aV2c4ZlZsUm44el85MGJkdHhNS0s2Y1ZVa3M1WU42NFJHRl84SzVacTRlY1ZKUmNfNDNGQ1FjT1JIazhMaGE5WHFPQ25DS1p4LWxxWlZTdVpiTmNPN3ExenVHeFNCQ3NXbDZBTUVt0gGgAUFVX3lxTFBhSU0tOC14cF9QZS1kaEFONzZVVF9yNDRYM29XSzRUVTNuRUFxRk9ZUjhZVHdXcks0ZENITG1jelc1WS16bmc1MFFpWE1yc0h2RFZ3Q3lCQmV1Z1JEMmRvZEJWeDlMdXB4dUxlbHYzb3BRWkR6czBuM29Gak50WHctc0pPN05qWG1ac0wxOTJ1S0Mzcng3aGRsV3VvQm1GLW8?oc=5",
+      "published": "2026-07-29T21:34:09+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.55,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "La unión de Paramount y Warner está en pausa mientras la justicia estadounidense analiza si viola leyes antimonopolio",
+      "summary": "Pese a que el gobierno de Trump aprobó la adquisición, un grupo de fiscales presentó una demanda.Comprar uno de los estudios cinematográficos más importantes del mundo no es sencillo, en especial si el comprador es el otro estudio más importante. Lo cierto es que Warner Bros. se puso a la venta a...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/la-union-de-paramount-y-warner-esta-en-pausa-mientras-la-justicia-estadounidense-analiza-si-viola-leyes-antimonopolio/",
+      "published": "2026-07-29T22:39:21+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.86,
       "sources": [
         "La Diaria"
       ]
@@ -578,13 +578,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El Estado peruano no cumple las sentencias de la Corte Interamericana de Derechos Humanos en crímenes de lesa humanidad",
-      "summary": "Recientemente, el Congreso de Perú aprobó dos leyes que ignoran dos sentencias de la Corte Interamericana de Derechos Humanos (IDH) en las cuales el Estado peruano fue condenado por crímenes de lesa humanidad ocurridos principalmente en el gobierno de Alberto Fujimori. Las sentencias de la Corte...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/7/el-estado-peruano-no-cumple-las-sentencias-de-la-corte-interamericana-de-derechos-humanos-en-crimenes-de-lesa-humanidad/",
-      "published": "2026-07-29T16:25:35+00:00",
+      "title": "Cuba estudia proyectos de ley para habilitar más participación privada en la economía",
+      "summary": "El Parlamento comenzó a tratar este miércoles iniciativas que reducen la administración pública mediante la fusión de varios ministerios y habilitan a privados, incluso extranjeros, a explotar tierras estatales.La Asamblea Nacional del Poder Popular, el Parlamento de Cuba, inició este miércoles su...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/7/cuba-estudia-proyectos-de-ley-para-habilitar-mas-participacion-privada-en-la-economia/",
+      "published": "2026-07-29T22:16:01+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.67,
+      "relevance": 19.72,
       "sources": [
         "La Diaria"
       ]
@@ -592,13 +592,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Inumet emitió una alerta por “tormentas fuertes y puntualmente severas” hasta la noche del sábado",
-      "summary": "Indicaron que inicialmente afectará el litoral oeste, pero se “desplazará gradualmente hacia el noreste” durante el 1º de agosto, al tiempo que se prevén acumulados de precipitación de entre 40 y 60 milímetros.Este miércoles, el Instituto Uruguayo de Meteorología emitió una alerta a través de su...",
-      "url": "https://ladiaria.com.uy/articulo/2026/7/inumet-emitio-una-alerta-por-tormentas-fuertes-y-puntualmente-severas-hasta-la-noche-del-sabado/",
-      "published": "2026-07-29T16:19:04+00:00",
+      "title": "Nacional se refuerza con el volante creativo argentino Ruben Botta",
+      "summary": "El enganche argentino, de amplia trayectoria internacional, llega libre y firmará por un año y medio.Tras consumarse la eliminación de Nacional en la Copa Sudamericana, se conoció la llegada de una nueva incorporación para el equipo de Jorge Bava, que ahora tiene por delante el objetivo del...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/nacional-se-refuerza-con-el-volante-creativo-argentino-ruben-botta/",
+      "published": "2026-07-29T22:04:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.63,
+      "relevance": 19.65,
       "sources": [
         "La Diaria"
       ]
@@ -606,13 +606,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Los últimos detalles para que Diego Forlán comience a trabajar como entrenador de Uruguay",
-      "summary": "El lunes 3 de agosto es la fecha marcada; queda resolver algunos detalles del contrato antes de firmarlo.Queda poco que resolver en la hoja de ruta trazada para que Diego Forlán sea el nuevo entrenador de la selección uruguaya sub 20 e interino de la mayor. El ciclo del exdelantero comienza a tomar...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/los-ultimos-detalles-para-que-diego-forlan-comience-a-trabajar-como-entrenador-de-uruguay/",
-      "published": "2026-07-29T15:56:58+00:00",
+      "title": "Estudiantes de educación media de todo el país fueron reconocidos por sus logros en distintas disciplinas deportivas y culturales",
+      "summary": "Manuel Oroño destacó la incorporación de los conocimientos que se dan fuera del aula y señaló la extensión del tiempo educativo como una herramienta para fortalecer los aprendizajes.Este miércoles, más de 250 estudiantes de liceos públicos, escuelas técnicas y liceos habilitados de todo el país...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/7/estudiantes-de-educacion-media-de-todo-el-pais-fueron-reconocidos-por-sus-logros-en-distintas-disciplinas-deportivas-y-culturales/",
+      "published": "2026-07-29T21:57:08+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.5,
+      "relevance": 19.6,
       "sources": [
         "La Diaria"
       ]
@@ -620,13 +620,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Casmu agradeció la “confianza” del sistema político y afirmó que la intervención no genera “incomodidad alguna”",
-      "summary": "La institución médica remarcó en un comunicado que el acceso al Fondo de Garantía solicitado no supone “un salvataje ni una inyección de dinero por parte del Estado”.Con votos del oficialismo y de la oposición, el Parlamento aprobó entre lunes y martes prorrogar por dos años la intervención del...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/casmu-agradecio-la-confianza-del-sistema-politico-y-afirmo-que-la-intervencion-no-genera-incomodidad-alguna/",
-      "published": "2026-07-29T15:11:41+00:00",
+      "title": "Municipio de Carmelo impulsa la instalación de nuevas cámaras de videovigilancia",
+      "summary": "El alcalde Luis Pablo Parodi participó en una movilización que reclamó mayores medidas de seguridad para esa localidad.El fin de semana pasado, una agrupación de vecinos de Carmelo se concentró frente a la Seccional de Policía de esa ciudad, en reclamo de medidas ante el aumento de hurtos de...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/7/municipio-de-carmelo-impulsa-la-instalacion-de-nuevas-camaras-de-videovigilancia/",
+      "published": "2026-07-29T21:51:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.21,
+      "relevance": 19.56,
       "sources": [
         "La Diaria"
       ]
@@ -634,13 +634,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Copa Sudamericana: Santos clasificó con Oliva de titular",
-      "summary": "El equipo brasileño enfrentará a Macará, de Ecuador, en octavos de final; hoy se definen otras tres series.Santos le había ganado a Universidad Central 4-1 en Venezuela, por lo que viajó a Brasil con la clasificación prácticamente asegurada. Para confirmar, se quedó con el triunfo 4-2 de locatario...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/copa-sudamericana-santos-clasifico-con-oliva-de-titular/",
-      "published": "2026-07-29T15:09:19+00:00",
+      "title": "¿Mundial a la venta? Infantino impulsa una FIFA con inversores privados",
+      "summary": "La FIFA promete “expandir el financiamiento del desarrollo del fútbol” en un negocio que liderará un empresario muy cercano a Donald Trump; la UEFA ya criticó: “No somos dueños del fútbol y no es de la FIFA para venderlo”Este martes, el periódico londinense The Times dio a conocer los planes de la...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/7/mundial-a-la-venta-infantino-impulsa-una-fifa-con-inversores-privados/",
+      "published": "2026-07-29T21:24:35+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.2,
+      "relevance": 19.39,
       "sources": [
         "La Diaria"
       ]
@@ -648,13 +648,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Un adolescente de 19 años fue asesinado en la puerta de un hogar del Inisa",
-      "summary": "El joven, que pertenecía al centro, fue baleado cuando regresaba de una salida.Un adolescente de 19 años fue asesinado en la puerta del exhogar Burgues, en avenida Burgues y Luisa Luisi, en el barrio Atahualpa. El joven, que cumplía pena en régimen de semilibertad, fue baleado sobre las 20.30 del...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/7/un-adolescente-de-19-anos-fue-asesinado-en-la-puerta-de-un-hogar-del-inisa/",
-      "published": "2026-07-29T15:05:04+00:00",
+      "title": "Ante críticas de la oposición, vicepresidente de la Jutep dijo sentirse “muy representado y orgulloso” por el fallo sobre Danza",
+      "summary": "Alfredo Asti afirmó que en este período hubo otros “desalineamientos” con respecto a la posición de la Asesoría Letrada del organismo de contralor.La presentación que hizo la delegación de la Junta de Transparencia y Ética Pública (Jutep) este martes ante la Comisión de Presupuestos integrada con...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/ante-criticas-de-la-oposicion-vicepresidente-de-la-jutep-dijo-sentirse-muy-representado-y-orgulloso-por-el-fallo-sobre-danza/",
+      "published": "2026-07-29T21:08:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.17,
+      "relevance": 19.3,
       "sources": [
         "La Diaria"
       ]
@@ -662,13 +662,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Preve: el Casmu aún tiene un “balance operativo negativo” pero “se está corrigiendo y la tendencia cambia”",
-      "summary": "Sobre su proyecto de ley para regular los seguros privados, el frenteamplista señaló que no es correcto “que haya 90 millones de dólares públicos que sean parte de esa bolsa donde ellos hacen la rentabilidad”El martes, la Cámara de Diputados dio sanción definitiva a la ley que remitió el Poder...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/7/preve-el-casmu-aun-tiene-un-balance-operativo-negativo-pero-se-esta-corrigiendo-y-la-tendencia-cambia/",
-      "published": "2026-07-29T14:53:13+00:00",
+      "title": "Reverberaciones rioplatenses: el festival sonoro Levemente Ondulado",
+      "summary": "Escucha, libros y música experimental desde el jueves hasta el sábado en distintos locales de Montevideo.En una época dominada por un audiovisual indivisible, pero en la que lo visual tiene más peso que el audio, surge una propuesta para centrarnos solamente en la escucha, desdibujada y libre, para...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/7/reverberaciones-rioplatenses-el-festival-sonoro-levemente-ondulado/",
+      "published": "2026-07-29T21:04:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.1,
+      "relevance": 19.27,
       "sources": [
         "La Diaria"
       ]
