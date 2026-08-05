@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-08-05T11:49:23.913125+00:00",
+  "updated_at": "2026-08-05T17:15:55.574278+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La brecha en la financiación autonómica se ensancha: Murcia recibe 977 euros menos por habitante que Cantabria",
+      "summary": "Cuatro comunidades perciben recursos por debajo de la media, según un estudio de Fedea; Madrid, Cataluña y Baleares son las únicas aportadoras netas",
+      "url": "https://elpais.com/economia/2026-08-05/la-brecha-en-la-financiacion-autonomica-se-ensancha-murcia-recibe-977-euros-menos-por-habitante-que-cantabria.html",
+      "published": "2026-08-05T16:08:46+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6YLT6MLA7VIMJIPVV7V76UBK7Y.jpg?auth=231e4fba61455119e6cf0fe2af36be29e822a0b1a7678b90807431780c8c3b70",
+      "coverage": 1,
+      "relevance": 20.98,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El precio de la gasolina en España sube por quinta semana consecutiva y se acerca a su máximo anual",
+      "summary": "El diésel también se encarece hasta los 1,79 euros por litro, el dato más elevado de los últimos cuatro meses",
+      "url": "https://elpais.com/economia/2026-08-05/el-precio-de-la-gasolina-en-espana-sube-por-quinta-semana-consecutiva-y-se-acerca-a-su-maximo-anual.html",
+      "published": "2026-08-05T14:48:21+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/HC6S6WRIMZA27H6J3UPDR4UZXA.jpg?auth=9abd76d91cef2786a2c87e3a4ac162e561a074be1a39f49683578fa92696b5a8",
+      "coverage": 1,
+      "relevance": 20.48,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +38,7 @@
       "published": "2026-08-05T10:53:57+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/IGO65WL4G5L7LGKFVWNLQXZNJI.jpg?auth=f5b3811add8c477b73b43267787fe7f9b1d88e85c234a74e1bf65ecadaf68c95",
       "coverage": 1,
-      "relevance": 21.05,
+      "relevance": 19.01,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +52,51 @@
       "published": "2026-08-05T09:58:50+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/VNJPGTKRRNNT7NAAXSOS5VGIZA.jpg?auth=881fbc82724a985e2a7cac49ff935f8488a4fb26a07c610acfa474d7aa35a0f5",
       "coverage": 1,
-      "relevance": 20.71,
+      "relevance": 18.67,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Récord de reservas del BCRA y dólar hoy: las cotizaciones de este miércoles 5 de agosto en las pizarras",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZDFGcVhrRVhBTWlTcklQUU1BNlUzcUJuT2FkSWhCVGRaNHNqTXZYbTgyc1lTOGUxRUxwdFhGOGtLRnpLNE5vQ0V2NXBuem0wMmVNMkphQk0xWmFxdG5XbkJvUEhSNm5pWXFJaE5hbHdrMGItWkRMa2F1S01wRVVCVG1seTEtVGhSZ3BqY2doaExmS09DS1FQaE5kcW5xSzlSbFdQOGh3RFJkYUh4Ti1YV01PRlkzdTBvSnl4b3JqZmd4QzJ4YTdLemJ1VDhvV2FvYnlOamdIekhyWUdDeHFEZzZR0gHqAUFVX3lxTE5hWXM5ZElmM2xtVUlrQlBMUEcxVXRzdGMwd3h2M1hQXzlodmZsY3lXZVpVVjRkLWN5WHA5TW5vNG1WTk9aVmRvOGJ1UXdTdkF4bVZkU3E0UlBSc2R1NkpoY0NqaVU1bUZKWTIyZTNTUUpnemNnUVRlNUJBZW5TSTJ6TEpXbW83OHRKTkh0bWxzb2xGekNPTzhxVERtMzdCYmdQWGQ5Q0FYMjZhMnIzcXZvbGY4NE5PT3F1a052MzUtbVFsTVVXOFk0M2txTlBmWWx4NFgwZXhsTkVrZHE1LVJoRXd1N0tQRGcwQQ?oc=5",
+      "published": "2026-08-05T15:00:41+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.15,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Cotización dólar blue EN VIVO | Dólar oficial, CCL y MEP hoy miércoles 5 de agosto",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQnN6ZFZPXzhtOUJJSDNzUk5yaE5lSFFaaUE2MzJqcnVWdHhrZFR2cndrX0ZkZ0JGTncwM1pVVzFwSWJhcVpRdUEwQzhhdnJmMENwcVZsaWMxZXJzdHlLa0ZyRnVBTFhLa0FlQjN1TGFLQy1UTW5sZXVGSFByTnkyc1Npd1VBMEpKbG5QX3hFTmFOakhkMzJjMFhGT0JodXFQTUpOWjBreXQ1R09PTHJRdlppRjEwZXc2ZGFsNWhSaE5Qb1lWZFJpN1lQQVRjVlQ0X1R6TDdwTlhQMVZtNjRrLXNn0gHiAUFVX3lxTFBCc3pkVk9fOG05QklIM3NSTnJoTmVIUVppQTYzMmpydVZ0eGtkVHZyd2tfRmRnQkZOdzAzWlVXMXBJYmFxWlF1QTBDOGF2cmYwQ3BxVmxpYzFlcnN0eUtrRnJGdUFMWEtrQWVCM3VMYUtDLVRNbmxldUZIUHJOeTJzU2l3VUEwSkpsblBfeEVOYU5qSGQzMmMwWEZPQmh1cVBNSk5aMGt5dDVHT09MclF2WmlGMTBldzZkYWw1aFJoTlBvWVZkUmk3WVBBVGNWVDRfVHpMN3BOWFAxVm02NGstc2c?oc=5",
+      "published": "2026-08-05T14:21:47+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.91,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del dólar en casas de cambio para el martes, 5 de julio de 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQR3NxcURiRG5ERDhVMzJOMnVCbGl3V1k2OEZuZDFGdEh5MC1odlg4TUtBbWlMZXhJdmpobzY3T1JPTGplZUcxWnNEQVBpeG0tNVEtSnFmWkVlVTQtM0VVVHllUHpVb0szeC1XQ0FEODQ4RmNRR0wzQkEzWXFPTDdwSk5JSjZNZFpBZmF6TzdUUF9JSlN5VGxmOUpOb0hKbUlqaDRSUlhHX0xXVmN4dDJIM1Q5TUYxVDFzWVlkUWZYNGRKcEpGQk00Sk83SzhBY0tzbnfSAdIBQVVfeXFMUEdzcXFEYkRuREQ4VTMyTjJ1Qmxpd1dZNjhGbmQxRnRIeTAtaHZYOE1LQW1pTGV4SXZqaG82N09ST0xqZWVHMVpzREFQaXhtLTVRLUpxZlpFZVU0LTNFVVR5ZVB6VW9LM3gtV0NBRDg0OEZjUUdMM0JBM1lxT0w3cEpOSUo2TWRaQWZhek83VFBfSUpTeVRsZjlKTm9ISm1Jamg0UlJYR19MV1ZjeHQySDNUOU1GMVQxc1lZZFFmWDRkSnBKRkJNNEpPN0s4QWNLc253?oc=5",
+      "published": "2026-08-05T13:03:55+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.42,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,79 +108,39 @@
       "published": "2026-08-05T06:34:34+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/CUCJREUAJVF2LOLYJSEHMM6YVY.jpg?auth=48a91cb416b9c3f9af72785d2815d0375d78e15e6f981ba8ed8f0dffbcc0304f",
       "coverage": 1,
-      "relevance": 19.43,
+      "relevance": 17.39,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Las exportaciones aumentaron un 4% en julio",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWUhVcy1jUWdSQXoyeE15VVZub0Z2d2tseXpXZTYtV3duV2NTMm1hc0RVNmcwb3h0dk1OdXNLa3R0czU4c25hSXdGb1Z1cDFoQWVVMXlZMTY0dnJ1RXV1OWFVcC1qcmVEb3FmSEN0b2xfQmhzRTBtVkZldGkwMGZibzVqbTZfWDA5ajBhLTI1TG8xc3RlTTNNTzdjNmgxcWRreEJCSTZGMkdELUxw0gGsAUFVX3lxTFBZSFVzLWNRZ1JBejJ4TXlVVm5vRnZ3a2x5eldlNi1Xd25XY1MybWFzRFU2ZzBveHR2TU51c0trdHRzNThzbmFJd0ZvVnVwMWhBZVUxeVkxNjR2cnVFdXU5YVVwLWpyZURvcWZIQ3RvbF9CaHNFMG1WRmV0aTAwZmJvNWptNl9YMDlqMGEtMjVMbzFzdGVNM01PN2M2aDFxZGt4QkJJNkYyR0QtTHA?oc=5",
-      "published": "2026-08-05T10:41:50+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "León XIV visitará Uruguay, Argentina y Perú en noviembre",
+      "summary": "El papa León XIV viajará a Latinoamérica del 6 al 17 de noviembre de 2026, según anunció la Oficina de Prensa de la Santa Sede el 5 de agosto. Visitará Uruguay (Montevideo, Paysandú y Florida) del 6 al 8 de noviembre, Argentina (Buenos Aires, Córdoba y Luján) del 8 al 11 de noviembre y, finalmente,...",
+      "url": "https://es.aleteia.org/2026/08/05/leon-xiv-visitara-uruguay-argentina-y-peru-en-noviembre/",
+      "published": "2026-08-05T15:12:16+00:00",
       "image": null,
-      "coverage": 1,
-      "relevance": 18.58,
+      "coverage": 2,
+      "relevance": 29.43,
       "sources": [
-        "Google Economía"
+        "Aleteia",
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La misión imposible de ascender en la Seguridad Social: solo 27 funcionarios aprueban para casi 1.000 plazas de promoción interna",
-      "summary": "UGT reclama un cambio en el modelo de oposición para quienes ya trabajan en el organismo",
-      "url": "https://elpais.com/economia/2026-08-05/la-mision-imposible-de-ascender-en-la-seguridad-social-solo-27-funcionarios-aprueban-para-casi-1000-plazas-de-promocion-interna.html",
-      "published": "2026-08-05T03:45:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/4EN7AUXNXBEDRPWUMY3YJWBQPI.jpg?auth=23d72bc309a41d84ccecdf3ffb8b0b69f1daa42dd5113640259d30087a2b0740",
-      "coverage": 1,
-      "relevance": 18.37,
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Nuncio en Ucrania: Preocupa escuchar a quienes bendicen la guerra",
+      "summary": "El arzobispo Visvaldas Kulbokas describe la situación sobre el terreno, con los continuos bombardeos en la capital y otras ciudades: «Ahora, cuando nos saludamos, decimos: “Gracias a Dios que estás vivo”. Las muertes de civiles aumentan constantemente». El prelado también subraya la importancia de...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-08/ucrania-el-nuncio-preocupa-escuchar-a-quienes-bendicen-la-guerra.html",
+      "published": "2026-08-05T13:16:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/08/05/14/1785931837574.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 29.3,
       "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Isabel Pantoja pierde dos pleitos contra Hacienda en la Audiencia Nacional por más de 700.000 euros",
-      "summary": "El tribunal confirma el criterio de la Agencia Tributaria de que la artista utilizó una sociedad para obtener una rebaja fiscal en el IRPF de 2009 y 2010",
-      "url": "https://elpais.com/economia/2026-08-05/isabel-pantoja-pierde-dos-pleitos-contra-hacienda-en-la-audiencia-nacional-por-mas-de-700000-euros.html",
-      "published": "2026-08-05T03:45:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/G42AZCS7JJFTDN5O7DHMJEJI3U.jpg?auth=5c0a80c2d65b8d5f01c535f3fef2704fad0282a4d114c5bb5134190c59a79557",
-      "coverage": 1,
-      "relevance": 18.37,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Las renovables y el autoconsumo reconfiguran los costes de las grandes eléctricas",
-      "summary": "La generación fuera del mercado mayorista está erosionando la capacidad de las grandes energéticas para fijar precios",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-05/las-renovables-y-el-autoconsumo-reconfiguran-los-costes-de-las-grandes-electricas.html",
-      "published": "2026-08-05T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/R6PBK4HH2JANDADX4PHMOJID74.jpg?auth=f9e73989524758bfefc4baa969999e981df0bd0ed0553962bd291a8666e03ea9",
-      "coverage": 1,
-      "relevance": 18.34,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Menos burocracia y nuevas reglas fiscales: la gran reforma tributaria de Bruselas",
-      "summary": "La Comisión suprime retenciones en pagos transfronterizos y consolida la normativa de intercambio de información",
-      "url": "https://cincodias.elpais.com/opinion/2026-08-05/menos-burocracia-y-nuevas-reglas-fiscales-la-gran-reforma-tributaria-de-bruselas.html",
-      "published": "2026-08-05T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/NQLR5FNLR5FTFE3RI65OLMYQVU.aspx?auth=9e03598251060fd277a00f3f6af02df3b7c10574e4f4bcda2b26ef497dfc380a",
-      "coverage": 1,
-      "relevance": 18.34,
-      "sources": [
-        "El País Eco"
+        "Google Noticias",
+        "Vatican News"
       ]
     },
     {
@@ -122,7 +152,7 @@
       "published": "2026-08-05T10:00:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/06/09/2026-06-09-viaggio-apostolico-in-spagna---arrivo-a-barcellona/1781003760677.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 2,
-      "relevance": 30.12,
+      "relevance": 28.08,
       "sources": [
         "Google Noticias UY",
         "Vatican News"
@@ -131,13 +161,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "La visita del Papa al Perú: aliento de esperanza para un pueblo que busca la paz",
-      "summary": "Ante la próxima visita del Papa al Perú, del 11 al 17 de noviembre, el cardenal Carlos Castillo, arzobispo de Lima, destaca la alegría con la que la Iglesia y el pueblo peruano esperan al Santo Padre. En diálogo con Vatican News, explicó los preparativos en Lima, Chiclayo, Cusco y Pucallpa, y...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/cardenal-castillo-visita-papa-peru-como-aliento-esperanza-paz.html",
-      "published": "2026-08-05T11:15:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/photo-2026-08-05-12-01-13-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Santa María la Mayor, Makrickas: La gracia de Dios desciende sobre el mundo",
+      "summary": "En la solemne Misa pontifical presidida esta mañana, 5 de agosto, en la Basílica de Santa María la Mayor, el cardenal Arcipreste recordó la prodigiosa nevada de mediados de verano en Roma en el año 538, en el lugar donde la Virgen, apareciéndose en sueños al Papa Liberio, deseó que se construyera...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-08/santa-maria-la-mayor-makrickas-la-gracia-de-dios-desciende-sob.html",
+      "published": "2026-08-05T16:15:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/whatsapp-image-2026-08-05-at-14-00-25aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.59,
+      "relevance": 20.42,
       "sources": [
         "Vatican News"
       ]
@@ -145,13 +175,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Condolencias del Papa por la muerte del cardenal Duarte Langa: \"Anunció la paz\"",
-      "summary": "En un telegrama enviado a Monseñor Chimoio, administrador apostólico de Xai-Xai, en Mozambique, León XIV expresó su solidaridad espiritual por el fallecimiento, el 3 de agosto, del cardenal que se dedicó \"con sencillez, celo y perseverancia al rebaño que le fue confiado, sin dejarse desanimar por...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-08/telegrama-papa-por-muerte-del-cardenal-julio-duarte-mozambique.html",
-      "published": "2026-08-05T09:22:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/03/porpora-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Cristianos y confucianos: Respeto y sabiduría para afrontar los urgentes desafíos de hoy",
+      "summary": "Los participantes en el primer diálogo formal entre representantes de ambas tradiciones religiosas, celebrado en la Universidad Católica de Sogang en Seúl, firmaron y publicaron una declaración conjunta en la que reafirmaron su deseo compartido de fortalecer la amistad y colaborar para construir...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-08/cristianos-y-confucianos-respeto-y-sabiduria-para-afrontar-los.html",
+      "published": "2026-08-05T15:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/whatsapp-image-2026-08-05-at-3-49-53-pm-1-aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 20.14,
       "sources": [
         "Vatican News"
       ]
@@ -159,13 +189,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "El Papa: redescubrir la oración como dimensión fundamental de nuestra humanidad",
-      "summary": "La verdad de la oración en la Iglesia, lugar de encuentro con Dios y «eje fundamental de la participación activa de los fieles», ha sido el tema central de la catequesis de la audiencia general de León XIV en la Basílica Vaticana, la quinta dedicada a la Constitución conciliar «Sacrosanctum...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-08/el-papa-redescubrir-la-oracion-como-dimension-fundamental.html",
-      "published": "2026-08-05T08:59:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/08/05/2026-08-05-udienza-generale/1785919197821.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "En marcha hacia Asís en nombre de San Francisco, a la espera de León",
+      "summary": "Miles de jóvenes han llegado a Santa María de los Ángeles tras recorrer la Marcha Franciscana. Entre ellos se encuentra también el grupo de la Pastoral Juvenil Franciscana de la Toscana. Partieron del Santuario de La Verna y atravesaron varias localidades antes de llegar a Asís, donde están...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/en-marcha-hacia-asis-en-nombre-de-san-francisco-espera-leon.html",
+      "published": "2026-08-05T15:05:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/04/assisi-5.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.74,
+      "relevance": 19.98,
       "sources": [
         "Vatican News"
       ]
@@ -173,27 +203,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Migrantes: Obispos ingleses condenan el tráfico de personas en el Canal de la Mancha",
-      "summary": "Establecer rutas migratorias seguras para proteger a los migrantes de los traficantes y ofrecer alternativas a quienes intentan cruzar el Canal de la Mancha. Este es el llamamiento de los obispos católicos, presentado al obispo de Westminster McAleenan, delegado para migrantes y refugiados de la...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/migrantes-alarma-obispos-ingleses-ante-el-trafico-de-personas.html",
-      "published": "2026-08-05T08:28:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/29/12/1785319286269.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Venezuela, Padre Pagniello: \"En medio del dolor, una Iglesia que no se rinde\"",
+      "summary": "Cáritas Italiana estará trabajando en el país suramericano hasta el 11 de agosto, brindando asistencia concreta a la población afectada por el terremoto del pasado junio. Desde La Guaira, el director de la oficina pastoral de la CEI describe una situación marcada por la devastación, pero también...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/venezuela-padre-pagniello-en-medio-del-dolor-iglesia-no-se-rinde.html",
+      "published": "2026-08-05T15:04:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/07/31/04/1785463588349.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.54,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Parolin exhorta a los sacerdotes guatemaltecos a ser \"centinelas vigilantes\"",
-      "summary": "En el último día de su visita a Guatemala, el Secretario de Estado de la Santa Sede invitó a los sacerdotes a renovar su vocación inspirándose en san Juan María Vianney, cultivando una intensa vida eucarística, la oración y una auténtica compasión pastoral frente a los desafíos de la secularización...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-08/parolin-misa-visita-guatemala-encuentro-nacional-sacerdotes.html",
-      "published": "2026-08-05T08:22:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/2026-08-05-parolin-messa-guatemala-5.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.5,
+      "relevance": 19.98,
       "sources": [
         "Vatican News"
       ]
@@ -201,29 +217,57 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "El duelo silencioso de hacerse mayor y envejecer",
-      "summary": "A medida que crecemos y nos hacemos mayores, vamos enfrentando pérdidas silenciosas que se convierten en un duelo del que casi nadie habla. La psicología explica que el duelo es la respuesta natural ante cualquier pérdida significativa. Y pocas etapas concentran tantas pérdidas como la vejez. No...",
-      "url": "https://es.aleteia.org/2026/08/05/el-duelo-silencioso-de-hacerse-mayor-y-envejecer/",
-      "published": "2026-08-04T22:12:54+00:00",
+      "title": "¿Está mal sentarse en la iglesia con las piernas cruzadas?",
+      "summary": "En el lenguaje corporal, sentarse con las piernas cruzadas suele expresar costumbre y relajación, coqueteo y simpatía, especialmente si la planta del pie de la pierna que está encima apunta hacia el interlocutor. Sin embargo, esa misma postura también puede significar arrogancia. Si, además de las...",
+      "url": "https://es.aleteia.org/2026/08/05/esta-mal-sentarse-en-la-iglesia-con-las-piernas-cruzadas/",
+      "published": "2026-08-05T15:54:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 15.1,
+      "relevance": 19.69,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "La vocación de los laicos en un México herido. Entrevista con Rodrigo Guerra",
-      "summary": "Este 1 y 2 de agosto se llevó a cabo, en las instalaciones de la Universidad del Valle de Atemajac, en Zapopan, Jalisco, México, el Encuentro de Participación Ciudadana, que tuvo como objetivo motivar y hacer conscientes a los fieles laicos sobre la importancia de su presencia activa en la vida...",
-      "url": "https://es.aleteia.org/2026/08/04/la-vocacion-de-los-laicos-en-un-mexico-herido-entrevista-con-rodrigo-guerra/",
-      "published": "2026-08-04T21:37:13+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "El País Tech",
+      "title": "La justicia francesa condena a los ‘streamers’ que participaron en la muerte en directo de un ‘influencer’",
+      "summary": "Los dos hombres, implicados en el vídeo de la plataforma Kick en el que insultaban y vejaban a Jean Pormanove, han sido declarados culpables de violencia en reunión e incitación al odio",
+      "url": "https://elpais.com/sociedad/2026-08-05/la-justicia-francesa-condena-a-los-streamers-que-participaron-en-la-muerte-en-directo-de-un-influencer.html",
+      "published": "2026-08-05T16:05:12+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/CFMFMXUQNRF75JEH7MY3SQJXA4.jpg?auth=f56d88c83d7ae61380f5a8963453b29558d71bb873ccaf0804202ac5bd458887",
       "coverage": 1,
-      "relevance": 14.87,
+      "relevance": 20.96,
       "sources": [
-        "Aleteia"
+        "El País Tech"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "El Samsung Galaxy S26 FE filtra su diseño y es exactamente como imaginas",
+      "summary": "El Samsung Galaxy S26 FE se alista para su debut en el mercado, que todo apunta que se producirá próximamente. Y como no podía ser de otra manera, el nuevo modelo se ha filtrado con bastante anticipación. Según recoge 9to5Google, las primeras imágenes del dispositivo aparecieron en un canal de...",
+      "url": "https://hipertextual.com/mobile/samsung-galaxy-s26-fe-filtra-diseno/",
+      "published": "2026-08-05T16:20:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/02/galaxy-s26-01.jpg?fit=1024%2C768&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.85,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Anthropic confirma que planea crear sus propios chips de IA para Claude",
+      "summary": "El próximo gran proyecto de Anthropic es crear sus propios chips de inteligencia artificial optimizados para entrenar y ejecutar Claude. Según reporta Business Insider, la empresa ha confirmado que se encuentra conformando un equipo cuya tarea será diseñar el hardware en cuestión. Esta es la...",
+      "url": "https://hipertextual.com/inteligencia-artificial/anthropic-confirma-que-planea-crear-sus-propios-chips-de-ia-para-claude/",
+      "published": "2026-08-05T15:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/05/claude.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.35,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -235,51 +279,37 @@
       "published": "2026-08-05T10:50:27+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/NTPYZINRG5FUBG2IR6RDJGKNTY.jpg?auth=2b5a150755fccc4e2b4393887694233fd23b1422fafb4b476a41bccbe537320b",
       "coverage": 1,
-      "relevance": 21.03,
+      "relevance": 18.99,
       "sources": [
         "El País Tech"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los funcionarios coinciden: \"Mientras que la ley penaliza las jubilaciones anticipadas, los convenios establecen mecanismos que permiten compensar las penalizaciones\"",
-      "summary": "El sistema de pensiones penaliza a quienes se jubilan antes de tiempo aplicando coeficientes reductores permanentes, y premia a quien alarga su vida laboral mediante incentivos por demora. Esto es así por ley, y te lo hemos explicado cada vez que mencionamos cuándo te puedes jubilar. Pero mientras...",
-      "url": "https://www.xataka.com/empresas-y-economia/funcionarios-coinciden-ley-penaliza-jubilaciones-anticipadas-convenios-establecen-mecanismos-que-permiten-compensar-penalizaciones",
-      "published": "2026-08-05T11:30:51+00:00",
-      "image": "https://i.blogs.es/1c9d5a/writing-work-working-female-corporate-room-649372-pxhere.com/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Adiós al Asistente de Google en Android: desde cuándo lo reemplazará Gemini en tu móvil",
+      "summary": "No es un secreto que Gemini va a reemplazar al viejo Asistente de Google en dispositivos Android. Se habla de este cambio desde principios del año pasado, pero ahora los de Mountain View le han puesto fecha puntual a su concreción. Y será muy pronto. Google ha comenzado a notificar a los usuarios...",
+      "url": "https://hipertextual.com/inteligencia-artificial/cambio-asistente-de-google-gemini-android-fecha-confirmada/",
+      "published": "2026-08-05T13:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/asistente-de-google-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 18.79,
       "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Mythos y GPT-5.6 actuaron como peligrosos hackers. El problema es que los expertos les dejaron la puerta abierta",
-      "summary": "El AI Security Institute (AISI) se propuso evaluar las capacidades de ciberseguridad de Claude Mythos 5 y de GPT-5.6 Sol y descubrió algo: los agentes de IA desplegados por estos modelos cruzaron líneas que a priori no deberían haber cruzado. En 19 ocasiones realizaron acciones no autorizadas...",
-      "url": "https://www.xataka.com/robotica-e-ia/mythos-gpt-5-6-actuaron-como-peligrosos-hackers-problema-que-expertos-les-dejaron-puerta-abierta",
-      "published": "2026-08-05T11:16:51+00:00",
-      "image": "https://i.blogs.es/ea5319/hacker-openai-anthropic/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Jason Sudeikis (‘Ted Lasso’) confiesa sus «dudas» por resucitar la serie: «Tuvimos que volver a la mentalidad de la temporada 1»",
+      "summary": "Ted Lasso ha vuelto por fin a Apple TV con su temporada 4 tras varios años de ausencia. La anterior entrega, de hecho, se anunció originalmente como el final definitivo de la serie. Pero la insistencia de los fans y de la compañía hicieron que Jason Sudeikis y el resto del equipo se pusieran manos...",
+      "url": "https://hipertextual.com/cine-television/jason-sudeikis-ted-lasso-rueda-de-prensa-confiesa-dudas-por-resucitar-la-serie/",
+      "published": "2026-08-05T13:16:58+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/Ted-Lasso.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.3,
+      "relevance": 18.71,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La crisis de la memoria RAM está a punto de ponerse peor. Hay un culpable: los acuerdos a cinco años",
-      "summary": "Nunca hubo un peor momento para que se nos rompa un dispositivo. Quedarnos sin PC, móvil o consola ahora mismo implica tener que pagar un sobreprecio por el mismo producto que ya compramos en su día (o por uno incluso peor) debido a una crisis sin precedentes que comenzó con la memoria RAM y los...",
-      "url": "https://www.xataka.com/componentes/crisis-memoria-ram-esta-a-punto-ponerse-peor-hay-culpable-acuerdos-a-cinco-anos",
-      "published": "2026-08-05T11:00:52+00:00",
-      "image": "https://i.blogs.es/65e6cc/original/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.2,
-      "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
@@ -291,63 +321,35 @@
       "published": "2026-08-05T11:21:40+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/11/Cloudflare-1.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 17.99,
       "sources": [
         "Hipertextual"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Esto es nuevo para nosotros\": Nicolas Cage ya puede presumir de algo inaudito en su obra, una película extraviada por Netflix",
-      "summary": "Nicolas Cage ha interpretado a un yuppie convertido en vampiro, a un ángel que renuncia a la eternidad por amor y a una versión arruinada de sí mismo que se ve obligado a actuar en el cumpleaños de un fan millonario. Además de a los mismísimos Ghost Rider o Drácula. Entre otros disparates. Le...",
-      "url": "https://www.xataka.com/cine-y-tv/esto-nuevo-para-nosotros-nicolas-cage-puede-presumir-algo-inaudito-su-obra-pelicula-extraviada-netflix",
-      "published": "2026-08-05T10:30:51+00:00",
-      "image": "https://i.blogs.es/cd2163/3000/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "‘Star Wars Visions: La Jedi número 9’ (★★★½☆), el anime devuelve la emoción a la saga galáctica",
+      "summary": "Star Wars encontró hace unos años en el anime un nuevo filón para expandirse. La serie Star Wars Visions se convirtió en un feliz estreno para los fans. En cada entrega han descubierto una buena colección de historietas autoconclusivas y alejadas del canon, con estudios de animación de primerísimo...",
+      "url": "https://hipertextual.com/cine-television/star-wars-visions-la-jedi-numero-9-critica/",
+      "published": "2026-08-05T10:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Star-Wars-Visions-El-Noveno-Jedi.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.01,
+      "relevance": 17.48,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Ya es oficial el nuevo Honor 600 Lite: un gama media con chasis de aluminio, batería colosal de 6.520 mAh y botón físico para IA",
-      "summary": "Honor acaba de mover ficha en el disputado segmento de la gama media con el lanzamiento del Honor 600 Lite. El fabricante busca desmarcarse de la competencia directa alejándose del plástico habitual en este rango de precio, apostando por un chasis metálico unibody y una batería de una capacidad muy...",
-      "url": "https://www.xataka.com/seleccion/oficial-nuevo-honor-600-lite-gama-media-chasis-aluminio-bateria-colosal-6-520-mah-boton-fisico-para-ia",
-      "published": "2026-08-05T10:16:51+00:00",
-      "image": "https://i.blogs.es/5786ad/honor-600-lite-1-/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.92,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Carol R. Hughes, psicóloga: \"Muchos niños acarrean el peso emocional del divorcio de sus padres en sus propias relaciones\"",
-      "summary": "Existen diversos estudios que apuntan a que el divorcio de los padres puede afectar al desarrollo de los niños. Eso no quiere decir que haya que evitar el divorcio a toda costa, ya que, según cuáles sean las circunstancias, puede ser también beneficioso para los propios hijos. Sin embargo, según ha...",
-      "url": "https://www.xataka.com/medicina-y-salud/carol-r-hughes-psicologa-muchos-ninos-acarrean-peso-emocional-divorcio-sus-padres-sus-propias-relaciones",
-      "published": "2026-08-05T10:00:52+00:00",
-      "image": "https://i.blogs.es/92a0a7/padres-divorciados/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.82,
-      "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Preocupación por el Papu Gómez: \"Te prometo que el mundo no se va a acabar hoy\"",
-      "summary": "El argentino sigue en proceso de recuperación de su lesión y ha publicado un enigmático mensaje en redes sociales",
-      "url": "https://www.marca.com/futbol/2026/08/05/preocupacion-papu-gomez-te-prometo-mundo-acabar-hoy.html",
-      "published": "2026-08-05T11:41:14+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731f10a3dbd.jpeg",
+      "title": "Otro duro golpe para Yanguas y Stupaczuk: eliminados en dieciseisavos de Londres",
+      "summary": "La pareja 4 cae a las primeras de cambio y se encienden todas las alarmas",
+      "url": "https://www.marca.com/padel/2026/08/05/duro-golpe-yanguas-stupaczuk-eliminados-dieciseisavos-londres.html",
+      "published": "2026-08-05T17:06:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a736d96dd4ef.jpeg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 20.44,
       "sources": [
         "Marca"
       ]
@@ -355,13 +357,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Recuperado el cuerpo de Nirmal Purja tras una arriesgada operación de rescate en el Broad Peak",
-      "summary": "Una incursión por tierra permite acceder a los restos de Purja y de otros tres alpinistas y trasladarlos al Campo Base",
-      "url": "https://www.marca.com/deportes-aventura/2026/08/05/recuperado-cuerpo-nirmal-purja-arriesgada-operacion-rescate-broad-peak.html",
-      "published": "2026-08-05T11:36:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731fcdeb725.jpeg",
+      "title": "Sin acuerdo con Vinicius... pero con optimismo",
+      "summary": "La reunión que se ha celebrado hoy se considera muy positiva por ambas partes",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/08/05/entorno-vinicius-confian-renovacion.html",
+      "published": "2026-08-05T16:49:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a73698364e9d.jpeg",
       "coverage": 1,
-      "relevance": 20.42,
+      "relevance": 20.34,
       "sources": [
         "Marca"
       ]
@@ -369,13 +371,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Enes Ünal podría regresar al Getafe",
-      "summary": "El Bournemouth le busca una salida y el turco vería con buenos ojos volver al Coliseum",
-      "url": "https://www.marca.com/futbol/getafe/2026/08/05/enes-uenal-podria-regresar-getafe.html",
-      "published": "2026-08-05T11:29:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731e2d09b21.jpeg",
+      "title": "Infantino ofrece a Marruecos la final del Mundial 2030",
+      "summary": "El rotativo británico afirma que el presidente de FIFA tomaría esta medida para recibir apoyo en su momento más delicado",
+      "url": "https://www.marca.com/futbol/mundial/2026/08/05/infantino-ofrece-marruecos-final-mundial-2030-the-times.html",
+      "published": "2026-08-05T16:27:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/29/6a6a6f8feb774.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 20.2,
       "sources": [
         "Marca"
       ]
@@ -383,13 +385,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Gagan Narang, leyenda del tiro: \"La tecnología nunca reemplazará al carácter\"",
-      "summary": "El indio, antiguo plusmarquista mundial y bronce olímpico en Londres, habla con MARCA",
-      "url": "https://www.marca.com/otros-deportes/2026/08/05/gagan-narang-leyenda-tiro-tecnologia-nunca-reemplazara-caracter.html",
-      "published": "2026-08-05T11:28:32+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731d008d7f5.jpeg",
+      "title": "Un imposible para Endrick",
+      "summary": "El delantero va a tener minutos para demostrar que tiene sitio con Mou, pero el club ya ha traído a otro 9 y espera a Diomande",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/08/05/endrick-busca-imposible.html",
+      "published": "2026-08-05T16:02:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/04/6a71fad96e262.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 20.04,
       "sources": [
         "Marca"
       ]
@@ -397,13 +399,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Saba Sazonov, presentado: “Sé que no he jugado mucho, pero me centro en el presente”",
-      "summary": "El georgiano fue presentado ante los medios de comunicación",
-      "url": "https://www.marca.com/futbol/getafe/2026/08/05/saba-sazonov-presentado-he-jugado-me-centro-presente.html",
-      "published": "2026-08-05T11:27:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731e2d8f8ec.jpeg",
+      "title": "Enfado brutal tres días después de su primera final: \"Mierda de compañero\"",
+      "summary": "Han caído en dieciseisavos de Londres y se ha hecho viral el cabreo del gaditano con su pareja tras la derrota",
+      "url": "https://www.marca.com/padel/2026/08/05/enfado-brutal-javi-leal-fran-guerrero-tres-dias-despues-primera-final-mierda-companero.html",
+      "published": "2026-08-05T15:42:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a7359951b858.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 19.91,
       "sources": [
         "Marca"
       ]
@@ -411,13 +413,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Arsenal cierra uno de los fichajes del verano por 80 millones",
-      "summary": "El centrocampista brasileño llega para ampliar las opciones en la posición del ex de la Real • Los 'Gunners' pagan cerca de 90 'kilos' al Newcastle United",
-      "url": "https://www.marca.com/futbol/premier-league/2026/08/05/bruno-guimaraes-arsenal-crece-competencia-zubimendi.html",
-      "published": "2026-08-05T11:22:14+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a731c9e839f8.jpeg",
+      "title": "Oscar Onley lidera la Vuelta a Burgos tras ganar en Pineda de la Sierra",
+      "summary": "El británico se ha impuesto en la segunda etapa",
+      "url": "https://www.marca.com/ciclismo/2026/08/05/oscar-onley-lidera-vuelta-burgos-ganar-pineda-sierra.html",
+      "published": "2026-08-05T15:38:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a735885a5985.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 19.89,
       "sources": [
         "Marca"
       ]
@@ -425,13 +427,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Máximo optimismo: Cancelo será del Barça la próxima semana",
-      "summary": "La negociación está en su recta final",
-      "url": "https://www.marca.com/futbol/barcelona/2026/08/05/maximo-optimismo-cancelo-sera-barca-proxima-semana.html",
-      "published": "2026-08-05T11:08:54+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/07/30/6a6b0f162c5fa.jpeg",
+      "title": "Arbeloa recibe a sus 'mirlos': \"Son jóvenes, ambiciosos y talentosos\"",
+      "summary": "El que fuese técnico del Real Madrid ha ofrecido su primera impresión sobre los fichajes de Palacios y Gonzalo por su Fulham",
+      "url": "https://www.marca.com/futbol/premier-league/2026/08/05/arbeloa-recibe-mirlos-son-jovenes-ambiciosos-talentosos.html",
+      "published": "2026-08-05T15:17:47+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/d9ocE1gSpddCTtUj6.jpeg",
       "coverage": 1,
-      "relevance": 20.25,
+      "relevance": 19.76,
       "sources": [
         "Marca"
       ]
@@ -439,15 +441,45 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Pubill se une a Grimaldo y adelanta su regreso",
-      "summary": "Los dos campeones del mundo comenzarán a trabajar en el Cerro esta tarde, mientras el Atlético viaja a Corea",
-      "url": "https://www.marca.com/futbol/atletico/2026/08/05/pubill-une-grimaldo-adelanta-regreso.html",
-      "published": "2026-08-05T10:55:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a7311dcbc0a0.jpeg",
+      "title": "Vuelta a la Premier del que fue primer gran boom de las docuseries de fútbol",
+      "summary": "Tras nueve años entre Segunda y Tercera, el Sunderland entró en una nueva era en 2021 con la llegada del joven multimillonario Kyril Louis-Dreyfus, hijo de un ex CEO de Adidas",
+      "url": "https://www.marca.com/sport-business/2playbook/2026/08/05/vuelta-premier-primer-gran-boom-docuseries-futbol.html",
+      "published": "2026-08-05T15:07:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/05/6a7350b675748.jpeg",
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 19.7,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Drones, misiles y guerra electrónica: cómo la invasión rusa a Ucrania se decide en los cielos",
+      "summary": "Mientras el frente terrestre permanece prácticamente empantanado tras más de cuatro años de invasión, Rusia y Ucrania han trasladado el centro de gravedad del conflicto al espacio aéreo. La producción masiva de drones y misiles, la guerra electrónica y el deterioro de las defensas antiaéreas están...",
+      "url": "https://www.france24.com/es/europa/20260805-drones-misiles-y-guerra-electr%C3%B3nica-c%C3%B3mo-la-invasi%C3%B3n-rusa-a-ucrania-se-decide-en-los-cielos",
+      "published": "2026-08-05T16:55:58+00:00",
+      "image": "https://s.france24.com/media/display/89d9b494-90ed-11f1-8675-005056bfb2b6/w:1024/p:16x9/2026-08-05T032746Z-1969586776-RC22SMA34ZXS-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV.jpg",
+      "coverage": 2,
+      "relevance": 30.68,
+      "sources": [
+        "France 24",
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Guerra en Ucrania: Kiev es blanco de ataques rusos; Putin nombra a jefe de las fuerzas de drones",
+      "summary": "Kiev fue fuertemente atacada en la noche del 4 de agosto con misiles balísticos rusos. En los últimos días, la capital ucraniana es cada vez más bombardeada en un repunte de los enfrentamientos de largo alcance. El presidente ruso, Vladimir Putin, nombró a Denis Lyamin como jefe de las fuerzas...",
+      "url": "https://www.france24.com/es/video/20260805-guerra-en-ucrania-kiev-es-blanco-de-ataques-rusos-putin-nombra-a-jefe-de-las-fuerzas-de-drones",
+      "published": "2026-08-05T14:59:28+00:00",
+      "image": "https://s.france24.com/media/display/81548fb0-90d4-11f1-a2bb-005056a90284/w:1024/p:16x9/ES-20260805-073147-073342-CS.jpg",
+      "coverage": 2,
+      "relevance": 29.95,
+      "sources": [
+        "France 24",
+        "Google Noticias"
       ]
     },
     {
@@ -459,7 +491,7 @@
       "published": "2026-08-04T23:06:25+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/186d/live/c0c31180-9057-11f1-a97d-6d4d0764fba0.jpg",
       "coverage": 2,
-      "relevance": 26.93,
+      "relevance": 24.89,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -468,27 +500,55 @@
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Las nuevas barreras terrestres que Israel construye en Gaza y obligan a más familias a desplazarse",
-      "summary": "Expertos han declarado a la BBC que los movimientos de tierra sugieren que Israel está planeando establecer una frontera interna a largo plazo en la Franja de Gaza.",
-      "url": "https://www.bbc.com/mundo/articles/c9d8g33237jo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-05T03:59:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d78b/live/3e5491c0-8b6a-11f1-b2ab-0dd01740f9f6.png",
+      "title": "Qué puede aprender la ciencia del choque contra la Luna de un cohete de SpaceX que estaba a la deriva",
+      "summary": "La Luna ha soportado innumerables impactos a lo largo de millones de años. Los astrónomos creen que el que ocurrió este miércoles puede resultar provechoso.",
+      "url": "https://www.bbc.com/mundo/articles/c4g3764dm5do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-05T13:00:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc61/live/6c37c4e0-90c4-11f1-b8f3-bf6a2c059a9b.jpg",
       "coverage": 1,
-      "relevance": 18.76,
+      "relevance": 20.1,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
+      "source": "France 24",
+      "title": "Acuerdo de Trump sobre Ormuz incluiría una importante concesión a Irán: esto es lo que sabemos",
+      "summary": "El presidente de Estados Unidos, Donald Trump, declaró que un pacto para reabrir el estrecho de Ormuz podría concretarse este miércoles 5 de agosto, mientras Irán y Omán se acercan a un acuerdo al respecto que podría aliviar la presión sobre la economía global y potencialmente contribuir a poner...",
+      "url": "https://www.france24.com/es/medio-oriente/20260805-acuerdo-de-trump-sobre-ormuz-incluir%C3%ADa-una-importante-concesi%C3%B3n-a-ir%C3%A1n-esto-es-lo-que-sabemos",
+      "published": "2026-08-05T14:50:51+00:00",
+      "image": "https://s.france24.com/media/display/afe4d5fc-821e-11f1-8d6d-005056bfb2b6/w:1024/p:16x9/IMG-0193.png",
+      "coverage": 1,
+      "relevance": 19.89,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Ucrania bajo fuego: 17 muertos tras ataques rusos con 115 drones y 28 misiles que siembran el terror en Kiev",
+      "summary": "Al menos 17 personas murieron y más de 40 resultaron heridas este miércoles 5 de agosto en medio de una de las mayores avalanchas de ataques rusos contra la capital ucraniana y sus alrededores. El país invadido asegura que sus defensas aéreas derribaron casi el 90% de los 115 drones lanzados por...",
+      "url": "https://www.france24.com/es/europa/20260805-ucrania-bajo-fuego-17-muertos-tras-ataques-rusos-con-115-drones-y-28-misiles-que-siembran-el-terror-en-kiev",
+      "published": "2026-08-05T13:07:52+00:00",
+      "image": "https://s.france24.com/media/display/a5fb5dae-90b0-11f1-b004-005056a90284/w:1024/p:16x9/AP26217188223210.jpg",
+      "coverage": 1,
+      "relevance": 19.25,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
       "source": "Google Noticias",
-      "title": "Guerra Rusia-Ucrania, en directo | Al menos 17 muertos y 44 heridos en ataques nocturnos de Rusia sobre la región de Kyiv",
+      "title": "GUERRA EN UCRANIA | Zelenski sugiere que la reducción de la ayuda militar occidental busca presionar a Kyiv",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQlhmLUdaTkRQWm1RZVliU0c3N21icmtuY0pNZkpVNDRidjB5NHJBNmhzdEpwYXJQSEF0NmRqV2RQdFNjLU5xWHBvd0ozSTFzbnQ3SmFXY2hnTm1LSGt2Znlob0J3YnNlUjdPTWdrR0R3R2V2bUl0cjFfZEdrNHdTQzMwdHRPWV9RU3A4UmVOUEg2QVgyV05kbDY0aUdkYTVDcGYxdC1RMnVMSFF4dzQwUXp3Y9IBswFBVV95cUxNVG5YemR3RmlsRUltQThOUUJiSE1sNGtDMmtxU0VLeHBEM3Ztb2puQWtjeTVXMmRlTGhaQzJuclRMZ0NjYlp6S20wQm13T0t6R3lYREcxcmNCSTZjSE82Ml9zaEJBc1pycXZlS1JkOGc0dWlTTFNqTDJOYlpJX181b3M4Q0dIQ2dkVDR2Z1JBZ0Y1aDBObnRZZm80NWpfZWE0RDRjeWhsSUR3U1l2TGJLSlRSYw?oc=5",
-      "published": "2026-08-05T10:46:41+00:00",
+      "published": "2026-08-05T16:48:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.61,
+      "relevance": 18.83,
       "sources": [
         "Google Noticias"
       ]
@@ -496,167 +556,27 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Rusia lanzó un nuevo ataque masivo con drones y misiles contra Ucrania: al menos 17 muertos y 44 heridos",
+      "title": "Panamá eleva a 30 los ciudadanos identificados en la guerra entre Rusia y Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMTZqQTlrcXlCMzFFaFRUSlNCN2RBWVhWbk9uR2VhYXRtaldiV0pES0Q4SEptZW4yTWhHY1ZQLWVURFlta1dNNnBiczVTZ2dqQlQ1SVpaLVNIWU80MnZKanlkWkFJZFIwUVRYa0FYNGlkOGNWbE1LZTRiYlJDWFhTVGt0TVl5MG52Rjg5c1M5MUJpay1QLWxUN2tnOHQxYVI0bTFjMHk4enZ3TlpLaGl4enpPNVBQVFBmU1lLWmx1Y1RDYzR6NmE1RFYyM3RYd0lNd0lVOU9fTWVhTWVnYWp5TF9pZWFQSHRR0gGDAkFVX3lxTFBIZkIxU3BZc3VPT3k0TFBCY0drX04tYW5kYUVaQzdsOEVWNXZJalVHbkVLejhXV2RLN2hGdklhblZvNE56YzRwV21QUjI1MVZnSmN1WW9INVplSUFRQ3g5UGViNWhVZzdoSUtrOTNQY1ZFMkVULXVJNWZCbHY5ejNfNEN1UDM5N2c3aGN2ZzF6NWdpdTB2ZlF5RFlKeTA4dDRRYmZhSF90LWo0VHhXYUZlaDRSU1BlODQ3YmNqMm1NRkM0MnFCNVNWOTgxVDdQT2RBMFJkTzlPbENqYUJ0MHF5VmF5Sm94c0NtRWZzUEgtdkRlWWFmbVZfTkREczFqbng5cXM?oc=5",
-      "published": "2026-08-05T07:05:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZzRra3U3TGRfWmtXQThCeDdqcy1DZ1JGNzNzUF9LS0ZFS3pkV0xvckpPMnlZZk9KVXA4TlpxNmJWa1FweFNVVWh1ZlpUdzBEaEpSTWcwNHIyNnNWNS1DNk4xUmxOTVEtaEtNRndfNEt2dWJ0clRrQ2kwaXVNT3lxRmVNWGNzcVhkUG90S0kycDVHc091cUN1YWJhWEtWbWtsR2kzclBTZHBjRlV2a0ZLODlhZENoOHFYVUdQMVNkZE52UdIB3AFBVV95cUxQOTJob21aTFluN2s4VGtjQWJpeDR3NEdLUFpzc1FwQWM0Vm5rZHpYc0xKOWRoTzhmYjVCTl9ISkdIRGRUNVNNNm9LMmwwYVZRQ0VzdW1UZjc3OFEzS3BGT1U3dlF1dWdNekF1ekl1dVBDMWN6ZjN0VDlOVDBrcFRWZkZ1NW5vVmRLTjRnbGxFdWcycnFvQkxFa1B0a0dCeEJEUlZ1bG13c2VIQ0ZialZtZWtCUngtWnVNYzB2eHc4X1loQWFQVERIQ3BNVUltLWZacnltQmVtQTZwU191?oc=5",
+      "published": "2026-08-05T15:34:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.22,
+      "relevance": 18.36,
       "sources": [
         "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Cuál es el panorama en Ecuador en medio el despliegue de policías y militares en Quito?",
-      "summary": "El presidente de Ecuador, Daniel Noboa, ordenó un despliegue militar en Quito tras el aumento de hechos violentos vinculados al crimen organizado. ¿Cuál es la sistuación de la seguridad y el crimen organizado en el país? Carla Álvarez, académica, investigadora y experta en seguridad ciudadana,...",
-      "url": "https://www.france24.com/es/video/20260805-cu%C3%A1l-es-el-panorama-en-ecuador-en-medio-el-despliegue-de-polic%C3%ADas-y-militares-en-quito",
-      "published": "2026-08-05T01:55:25+00:00",
-      "image": "https://s.france24.com/media/display/29508600-9068-11f1-adc3-005056a90284/w:1024/p:16x9/ES-20260804-190208-190818-CS.jpg",
-      "coverage": 1,
-      "relevance": 17.09,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Al menos 15 muertos en un bombardeo ruso de misiles y drones en región de la capital ucraniana",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbng0TmNpLWVlWE41LXlsZ3N4ajdUeURZcE5kOGxhbGlsRmZHMjJ6SmFobkpKWEpibDJWVFdNNjl6WTNuaG9EUVc2ekR4d0FwUk9tMXJvU2pPUHR2bnhzRDdEY1R5N0tLa19TVVZJdzdNN2xkYVNmNXpQUjBTLUxHUUhsUU0weXZrcjVjVVBoUk5fY3pBNHBhRF9SZXhYelgzOVFWN1dlRWFGQQ?oc=5",
-      "published": "2026-08-05T06:21:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.95,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "EE. UU.: el médico musulmán Abdul El-Sayed, la apuesta en Michigan de la nueva izquierda demócrata",
-      "summary": "Los votantes demócratas de Michigan eligen este martes 4 de agosto a su candidato al Senado. Abdul El-Sayed podría convertirse en una de las figuras representativas de la nueva izquierda estadounidense. En este estado, que ganó Donald Trump en 2024, este médico musulmán de 41 años defiende una...",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260804-ee-uu-el-m%C3%A9dico-musulm%C3%A1n-abdul-el-sayed-la-apuesta-en-michigan-de-la-nueva-izquierda-dem%C3%B3crata",
-      "published": "2026-08-04T23:32:37+00:00",
-      "image": "https://s.france24.com/media/display/54a57d32-9032-11f1-af17-005056a90284/w:1024/p:16x9/AP26216662257782.jpg",
-      "coverage": 1,
-      "relevance": 16.2,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Informe desde Guayaquil: Noboa ordena militarización de Quito para \"combate a la delincuencia\"",
-      "summary": "El presidente de Ecuador, Daniel Noboa, ordenó la militarización de Quito tras el aumento de hechos violentos y amenazas de grupos criminales. La estrategia ya se ha hecho efectiva en otras ciudades del país y en esos lugares, el despliegue de efectivos no ha mejorado la situación. Desde Guayaquil,...",
-      "url": "https://www.france24.com/es/video/20260804-informe-desde-guayaquil-noboa-ordena-militarizaci%C3%B3n-de-quito-para-combate-a-la-delincuencia",
-      "published": "2026-08-04T22:20:46+00:00",
-      "image": "https://s.france24.com/media/display/86418418-904f-11f1-a5fc-005056bf30b7/w:1024/p:16x9/ES-20260804-151015-151510-CS.jpg",
-      "coverage": 1,
-      "relevance": 15.75,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El Papa León XIV recorrerá Uruguay, Argentina y Perú en su primera visita apostólica a Sudamérica",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVExRN1JUaFFOWk9jb0hmNFg4V1JLeVQwMWRudWFzYk5OM1ljRUJtaU94a3diOHoxNDBDaHVJWjAxS2R1VXp0eE9XdUN0TDN1R1A2UVJVNHFVb3BvdlQtOXlBSXptZHJ6Zl9mOVNHbi1kdjExX3Iwa2o5emJWRDFTZGhsN0NQMjd4c0xVWXJSZFhVZDdVUVBta3VZdEF0RmlfanYteFVJWGc4RVFvT3NMN0NLRFFBX25jNEJXMTBpMzJ3Yjd1cWZuYVNmNkphRDZCeUJ6Zmp3?oc=5",
-      "published": "2026-08-05T11:41:53+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.95,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El Vaticano anuncia que el papa viajará en noviembre a Uruguay, Argentina y Perú",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd2pXRTVzdUhnaTZFb0diYU53M0VjeGJzOEZuV2Q4TzVFSGpsbmRFamxlOGt1dVZHdXhrM2RIMmdkZEVyTVl3b2FOdXFINXNtUW44NFJwZEJjblNaUXJNYlZpOFd3QVVIZ2VRRzB5MFM3ZHpBNTh4ajNtVENyUXpFeTJSMWJETC03YVBxLXRFM1BxSFdaWlNSWlcwWTFZeFFEdFp1b3FGLWZickY0RDN3S2hyQlZ6YTh4MnFBR2VaNVYtTE1FcDQyQ3NlSk0wWUE?oc=5",
-      "published": "2026-08-05T11:17:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.8,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Canal 4 de Uruguay vende su reality de reformas original ‘Maestros del hogar’ a Rusia y Europa del Este",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZUFRS1NkTnl2X3c5cWtDdm9vWmd0OGFlRDZjSzBPdWQtMzJKSC1PVW1ldk14TVVyc1hEbk5hTWxrcWNpcXpMRm94M2tfZm51bi03T0JYZ0xKM1BlN0VpWVQwclpsVTltN3VzRzJXcmF5UnRrYXhNYWxYSUtZU2drWHlFV1FSbmFvN29fcl9USm9FRHRod0hraW5nN1lZbDhPdWJtX2xmQzZwWWRSVDlFY01PeGVwb0czNG1DUEdoUDM1S2c?oc=5",
-      "published": "2026-08-05T10:57:36+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.68,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El Vaticano confirma el viaje de León XIV a Uruguay, Argentina y Perú en noviembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEtvOGRRTTlFVjNrOU9BZjVtY01LUTF6dWRuVkhGWkg0aUo0YUdSdnhrSm1XVWpMMlhzNTJJQ0lDYkhrTDBhZTV1NHBjcWYxMzBjWS1qbXlRTnNWa2RxQmIwMjNRd204UmdHWS1HSHhGVTRhNkl0SFRfMWd4Z1JUZ05nUTJhMFVrS1hQanlfOUtiaEFNeXlITUsyMW5SUWh6RmVsRE54SEdubGpCMHdOa9IBtgFBVV95cUxNdUhzdTdhR1p5bDRYcUpwQXJPaFVGcUx1VzhwYTNENV9qdzdhbEtFRjFFbjZMZUJVZUJyRmNiNUEyU09FWW1sWXNkVjlLUl9lblJDVUktZlRaZG85WXUzblo3MTZQaU5kdjRQSDBCMDNVMmRSREREMEQ4TF94dlVXdUxUMjcxM3RyVXU3Z3ZoRm1DTjdQa3ZRdHp2S3ZWV1FVbVRZVHprMGVSdTlQNTBBaElSd2psdw?oc=5",
-      "published": "2026-08-05T10:52:30+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.64,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "El Papa visitará Uruguay, Argentina y Perú en otoño",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeERjcUFHT21TbkVRaDc4ZDdBdl9FbklQTDB6eTBEQWhYbld3bm9oVWNGUTlKMXM5Zk1nd2x0NDV2eFl4X2ZQbEdpb2dxbmVJZnBCeFNfUmdZbnZXVFB6Um94WFB1RkM0dVYwTlpTSWY0WFJ0Qm8yb0VtaTRtajR0S3FsOV9lNGJDNzlyQ0tzczQ4SVlybXFwT9IBngFBVV95cUxQNTk3Tnp1NlU0R1lTUVRuYXl2SGZ5Qm9URjlXWHViQ1hnOXFnLW5uRnZBNHJBYlZpZlFjU1hFNXdScXhGY3NGVHVBS0QyZnNVblRPY1JURDNzaTZCR1paeUJSV0t3ZzRWRFNBb0JGMHpDczQ2SndnRGtJbG1SckxjaWtFLVhva3pxOHlPaHQ3WV9EaTF5TlNGU0FveFRjQQ?oc=5",
-      "published": "2026-08-05T10:19:56+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Japón vs. Uruguay (24 de Sep., 2026) Resultados en Vivo",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRoM3dGSEE2VXlNYXpTSDYxenZidTJJUjB0QWdDTC1Nb0dQWm1yaE1GbThlMUV2eHh6U1FfdXFjY3daLWhuUy05YTZBZ2tIb1R6U1BwTjRta09vV0dIUDZjVHVZaGhYU0lPd3JWRzgyTlJWdE1fcUpoSDh2QVZKd0tncVE?oc=5",
-      "published": "2026-08-05T08:11:19+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.64,
-      "sources": [
-        "Google Noticias UY"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "“Al final, tu identidad es un relato”",
-      "summary": "Hace un par de semanas, Fernanda Trías estuvo en Montevideo para presentar Miembro fantasma, su colección de cuentos editada recientemente por la editorial española Páginas de Espuma, cofundada por Juan Casamayor. Fue su primera visita al país –reside en el exterior desde hace más de una década–...",
-      "url": "https://ladiaria.com.uy/libros/articulo/2026/8/al-final-tu-identidad-es-un-relato/",
-      "published": "2026-08-05T03:27:09+00:00",
+      "title": "Brasil cesó las relaciones diplomáticas con Argentina: “La reiteración de ofensas” hacia Lula “hacen inevitable esta decisión”",
+      "summary": "La cancillería argentina lamentó que Brasil esté “aislándose del resto de la región por cuestiones puramente ideológicas”.Los reiterados insultos del presidente argentino Javier Milei a su homólogo de Brasil, Luiz Inácio Lula da Silva, desencadenaron una profunda crisis diplomática entre los dos...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/8/brasil-ceso-las-relaciones-diplomaticas-con-argentina-la-reiteracion-de-ofensas-hacia-lula-hacen-inevitable-esta-decision/",
+      "published": "2026-08-05T17:01:33+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.76,
+      "relevance": 19.81,
       "sources": [
         "La Diaria"
       ]
@@ -664,13 +584,97 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Parque Mauá inició segunda etapa de recuperación",
-      "summary": "Las obras, que no afectan el normal funcionamiento del lugar, incluyen la restauración del muro perimetral, nueva iluminación, mejoras de infraestructura y dos locales de servicios.La Intendencia de Montevideo (IM) comenzó la segunda etapa de obras en el parque Mauá, que incluye una serie de...",
-      "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/8/parque-maua-inicio-segunda-etapa-de-recuperacion/",
-      "published": "2026-08-05T03:11:38+00:00",
+      "title": "El Departamento de Arbitraje de la AUF presentó las nuevas reglas de juego que se implementarán en el Clausura",
+      "summary": "Las autoridades arbitrales hicieron énfasis en la “gestión del tiempo” de los jueces a la hora de aplicar las nuevas normas, orientadas a maximizar el tiempo efectivo de juego.El Departamento de Arbitraje de la Asociación Uruguaya de Fútbol (AUF), encabezado por Marcelo de León y Roberto Silvera,...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/el-departamento-de-arbitraje-de-la-auf-presento-las-nuevas-reglas-de-juego-que-se-implementaran-en-el-clausura/",
+      "published": "2026-08-05T17:00:14+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.66,
+      "relevance": 19.8,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Comenzó Divercine, el festival internacional audiovisual para las infancias",
+      "summary": "Durante todo el mes de agosto, las exhibiciones van en varias salas y con entrada gratuita.Declarado de interés por el Ministerio de Educación y Cultura, Divercine tendrá 55 funciones entre las abiertas al público y las dirigidas a extensión escolar. Sus sedes son Cinemateca, la sala Zitarrosa, el...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/8/comenzo-divercine-el-festival-internacional-audiovisual-para-las-infancias/",
+      "published": "2026-08-05T16:50:46+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.74,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "El papa León XIV visitará Paysandú el sábado 7 de noviembre",
+      "summary": "Paysandú vivirá uno de los acontecimientos más trascendentes de su historia contemporánea.La noticia de la visita del papa León XIV a Paysandú fue presentada este miércoles durante una conferencia de prensa en el salón Acquistapace de la la Intendencia de Paysandú. El intendente Nicolás Olivera...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/8/el-papa-leon-xiv-visitara-paysandu-el-sabado-7-de-noviembre/",
+      "published": "2026-08-05T16:14:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.52,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Vecinos de Guichón piden a Orsi que tome acción sobre problemáticas socioambientales que viven en su territorio",
+      "summary": "Desde febrero buscan ser recibidos por el presidente de la República; entre sus pedidos está eliminar los permisos para fumigaciones a menos de 300 metros de centros educativos y la protección de cursos de agua.El presidente de la República, Yamandú Orsi, tenía previsto viajar a Paysandú este...",
+      "url": "https://ladiaria.com.uy/ambiente/articulo/2026/8/vecinos-de-guichon-piden-a-orsi-que-tome-accion-sobre-problematicas-socioambientales-que-viven-en-su-territorio/",
+      "published": "2026-08-05T16:05:12+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.46,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Andrés Pérez, presidente de la Caja de Profesionales: “Si el Ejecutivo quiere intervenir, tiene todas las facultades para hacerlo”",
+      "summary": "El presidente del organismo explicó la propuesta del directorio para que, del 10% de IVA que grava a los servicios de salud, “3% o 4%” se destinen a la Caja.Este miércoles, el directorio de la Caja de Jubilaciones y Pensiones de Profesionales Universitarios (CJPPU) se reunió con el prosecretario de...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/andres-perez-presidente-de-la-caja-de-profesionales-si-el-ejecutivo-quiere-intervenir-tiene-todas-las-facultades-para-hacerlo/",
+      "published": "2026-08-05T15:44:54+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.33,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Fechas confirmadas de los amistosos de Uruguay con Forlán como entrenador",
+      "summary": "La celeste enfrentará a Japón el jueves 24 de setiembre y el lunes 28 chocará ante Corea del Sur; ambos partidos serán en Asia.Diego Forlán inició esta semana su etapa como entrenador de la selección sub 20, pero, al mismo tiempo, mira de reojo la planificación de su interinato en la celeste mayor,...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/fechas-confirmadas-de-los-amistosos-de-uruguay-con-forlan-como-entrenador/",
+      "published": "2026-08-05T15:32:40+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.25,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Brasil retiró a su embajador en Argentina: Lubetkin dijo que “Uruguay siempre está a disposición de dar una mano en lo que pueda”",
+      "summary": "El ministro de Relaciones Exteriores sostuvo que la tensión entre los dos principales países del Mercosur “es una mala noticia para todos”.En el marco de una conferencia de prensa convocada por la cancillería para informar sobre la visita del papa León XIV a Uruguay a principios de noviembre, el...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/brasil-retiro-a-su-embajador-en-argentina-lubetkin-dijo-que-uruguay-siempre-esta-a-disposicion-de-dar-una-mano-en-lo-que-pueda/",
+      "published": "2026-08-05T15:11:02+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.12,
       "sources": [
         "La Diaria"
       ]
