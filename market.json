@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-08-21T22:11:01.510854+00:00",
+  "updated_at": "2026-08-22T10:10:30.761857+00:00",
   "fx": [
     {
       "label": "USD/UYU",
-      "value": 40.05
+      "value": 35.24
     },
     {
       "label": "EUR/UYU",
-      "value": 46.78
+      "value": 41.17
     },
     {
       "label": "BRL/UYU",
-      "value": 7.72
+      "value": 6.81
     },
     {
       "label": "ARS/UYU",
-      "value": 0.03
+      "value": 0.02
     }
   ],
   "indices": [
@@ -95,20 +95,20 @@
   "crypto": [
     {
       "label": "BTC",
-      "value": 78606,
-      "change": 8.24,
+      "value": 76878,
+      "change": -1.03,
       "currency": "USD"
     },
     {
       "label": "ETH",
-      "value": 2534.47,
-      "change": 9.54,
+      "value": 2411.26,
+      "change": 0.68,
       "currency": "USD"
     },
     {
       "label": "SOL",
-      "value": 94.1,
-      "change": 7.69,
+      "value": 92.88,
+      "change": 1.85,
       "currency": "USD"
     }
   ]
