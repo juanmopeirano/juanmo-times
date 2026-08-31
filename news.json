@@ -1,16 +1,44 @@
 {
-  "updated_at": "2026-08-30T23:59:57.583153+00:00",
+  "updated_at": "2026-08-31T17:16:20.157834+00:00",
   "articles": [
     {
       "category": "economia",
+      "source": "El País Eco",
+      "title": "Un exministro de Perú competirá con Yolanda Díaz y el actual director general de la OIT en las elecciones del organismo",
+      "summary": "El Gobierno de Fujimori postula a Javier González-Olaechea en el último día hábil para presentar candidatos a la votación del 16 de noviembre",
+      "url": "https://elpais.com/economia/2026-08-31/un-exministro-de-peru-competira-con-yolanda-diaz-y-el-actual-director-general-de-la-oit-en-las-elecciones-del-organismo.html",
+      "published": "2026-08-31T14:36:30+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/YFYMJQ6CLZHZ7IUDLCGE7557BQ.jpg?auth=71a91fe346beaf55c5945e09d8e60613b62137d66b767ae9f4262178c405fcc0",
+      "coverage": 1,
+      "relevance": 20.4,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Garamendi niega que el Gobierno le apoyase en su reelección en la CEOE y prevé choques con Trabajo",
+      "summary": "El presidente de la patronal reclama un plan de apoyo económico para la ciudad autónoma de Ceuta",
+      "url": "https://elpais.com/economia/2026-08-31/garamendi-niega-que-el-gobierno-le-apoyase-en-su-reeleccion-en-la-ceoe-y-preve-choques-con-trabajo.html",
+      "published": "2026-08-31T11:12:35+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/KKPENR7EL5NABIMDFC5NL4TA7U.jpg?auth=a66b9fdb95a12d1b56142a06ebdcf61f9f439dab43d74940510770f5a0a90a69",
+      "coverage": 1,
+      "relevance": 19.13,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
       "source": "Google Economía",
-      "title": "Tipo de cambio del USD hoy (31 de agosto): Es probable que el dólar estadounidense continúe subiendo esta semana.",
+      "title": "Economía/Bolsa.- El Ibex 35 pierde los 20.000 puntos (-0,34%), con el crudo en más de 90 dólares",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcmJFRW1XMHRuRGdvaHZSX2FwUnNvU0pvdHdfNXlSOTBKcXd2UTR4TlVLYVlkMDU0bjYyU19jVkdDc0k2SWktdzJZSUhvbFJqZGJkcnNKQkZicEdWVmg5eHpWMXZva0RtOUFlWkY5TGVwOHhnWHIwSnBpZ1FtSDRLYWhLLVBzLTFmT2l1OVNUbGlRVV9KZzV0VUwzNHpXdWtT?oc=5",
-      "published": "2026-08-30T23:28:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZ0JyZGd4Z1dUdVJlSGpXdGpJVHBzdktaLXlGQ3dXM1c4OGREdnB0VGV4MkEwdl90Tk9tNHVDZXJIb1RrRnpFa3gtd0VOQ1V2UHpOQ1prV25TRlZaWFhua1Z6b2RDQXUtYlY5MDNkU1BUeUVpZ25WWUR0dm8xSHlzT19WM0hKRjNvRndmaXZlWGNaalBkYmFsdHFudnIwSTRIeUVvRFlpYks5c29qa1gtSzJPeXkyZlpZSml4bXkxVFdWWmdsV0I2WGtmSDdqbXc5NGpFLUpMRU9wNENaN21YTzdB0gHnAUFVX3lxTE5HS1pCb0xMbFBYMG1IN0JRUmVuSEJJbi1Ga29VSE52TlkxS1FRelZGSkh2TlVvS3UzNVZjTHpCNHRBN0gtZVY5YUhReFp6dy1nQW5WUHhJVTRQMWR2M0t5djRLaXRjUExkc0RBU3l4VmFxMFB0aUozMWFZTmY0Q1VoUVk2TnVzSGM0Qlc0d0hneC1WMFBuNi1vb3BvZzFSRUxOU1Nzcy14X2hpR0lPUFJ1U0lVUFNaTXZxdzQ0eU5tcXJmV1FkbElYYXUxU1g0UHFHOFZZV1dfenNVQU9KVUdnQk5mLW5Qaw?oc=5",
+      "published": "2026-08-31T16:02:36+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 18.54,
       "sources": [
         "Google Economía"
       ]
@@ -18,13 +46,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Petróleo sube ante las tensiones con Irán y futuros de Estados Unidos caen",
+      "title": "El dólar abre la semana en S/3,35 con mercado atento a inflación y empleo en Estados Unidos",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUUtXzE2T05nZDVpTUU2YXRLVnM1SnBfU3ZoNDlVNG9KVU1POThqWjBpTjAwbi1lWXZFQzZWeUpwTHRlaGw1UGxnUXo1RWNabVFJMnFZUHM4UGxtVm92dEZXVmVMdzJfQXY3Wi1pUDRkeDd5OWpfakY1WkY0c0I4eEpTdE90MWV0dVRFdDFoS0p6SF9HcUJZUDdYV0o4V0pNcUdobGl4MVIxNWpTRDRJMTBqeEh2QdIBygFBVV95cUxPekRmMDRablRWU3V1dS1JVTVmM1JJWWN1NEVQLVA5YmtBdmxjMG0yS0hpeG9fSzJrR3NNaFZjbGNwbzFOVGdzOGVPYlhBVWZFcjNTQ3BQQzY4dzg1Q3BweVFoZzIzM0lPLTdRMzR5bnpIWE9ZV1JuV2p0TVhMTHIxQ1gtdmFsd2ZXVzQ3WXNPR2JoYl9Ua3hIcWd2ZWE3ckdnQ3BGSDl2Umc0b1gwc2d6S3RMQkxnZUFfME5qbE54SGREZFN5X2RsOVBR?oc=5",
-      "published": "2026-08-30T23:12:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYkJQSXg0dWdtTFhDblhoeUZMTlpKWV9uTUU2U2lNSXBCcDFrSjRtMjZrQ3d0NkVXMjJIYWxwOW4wclJkUGtEUEJHaHRNNkhRQWl3NE8yNWxrTEZDR01FSVM3Mk5hbEF5U1ExMVdDbXJhclRKYlhMSHExZDVENkt5NW5UY0RyU3FHQzExamFEd3prQzhqMGRDN0tMMlAyOU81ME9BNnJXVnpIVVJ1NWZHUV9oVHAtWmJZOW1uWUh1UUh3bTZoa3ZmRURhbk1XdXN1NmhUYW1HN0dqWlhD?oc=5",
+      "published": "2026-08-31T15:45:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.71,
+      "relevance": 18.43,
       "sources": [
         "Google Economía"
       ]
@@ -32,13 +60,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Se despide el dólar: quedan prohibidas todas las operaciones y el uso de billetes en estos 11 países",
+      "title": "Tipo de cambio hoy en Perú: ¿Cuánto está el dólar este lunes 31 de agosto?",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVhDWW14bUdHTXdudnRMbmwzU1FZcXlZYzlhOWYzZHZQOG5RU1ROTkNiMjFXNGNUZld0MUZsWFhtdW83RWJOQjRTT1JleDB1YXRBYWhpdTIyVjFOdXNCakZyTWxUY0hIVE9LWS03bldFSk5LdVVZN1BwRUtUalpFMmpfOFhyaDB6TFNZUnplR1NZTGdVQXdYSnFpbDJyTUFDdVZaTzVOMTRteldRTGpZYUlhanhOdWQwODJNZElXZEF2TzJ5cEZ0SmE0OHRfYU53eTJmMndlYkxqMkRNQkxmRmUzM2tnUdIBgAJBVV95cUxNVm8wd0RtNDNNMktaRTFKQUpyM1lxUTBWUXNUT2ZRbndVdGJURTM1cEpOdmZTaWZTOUgyX0pXR3pfQzA4YWRNa0lkb1NiZVBDMXo1XzNjRUNwX0tQdVpvVE94VzZuV3Z3OXBJMnpjM1VURFc2bzU4SUpwdlhRLTljOUlYdS1ncTNkYkVnamRXc2s2M3lkNm9fN3dkZkVWV3loQ0U5NjFnMDU0S1g5aWdxQ1BHem5SVVVGTEk5djl0M1I4NEdJWi15NUxFMjhBZ1RlSTZ4U3FzSldNLVUwbzFWQk9UVkZZeld3eVFpZ3F5WW9DenQ0aVBjOG1XdkhPRHFz?oc=5",
-      "published": "2026-08-30T22:41:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMkt0bkdZUmhkeDZzRHRpcllscWNwbEFjOWpGZDB2a1JYLUZMZjZMaHhrU2JkbHpKbWxVbGd0dE10UC1XWDQ1ODU1bW1pbGc0bEVNQzJZdnBuUHI1RER2X3Rlc3VYbDZSOHJnWVliWG9QNUlsSTUxZUQwaS1LSWxKTjJ2bGEwNEwyRC1Eekd3bWpscnhzY3FxQUVueHh5bDFPTHpKVUdhTnZhN2tkTXJ5UXdkVHNHUnFHaW50OWNocGs1VWZSOC1QSFdXTzhyb24xOVJEUE1rbHhON0tzQ1hobnR1dlpzVWhiVjFIaXlETjBla3RyZ05zRXY2RWFLZUU?oc=5",
+      "published": "2026-08-31T15:14:02+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.51,
+      "relevance": 18.24,
       "sources": [
         "Google Economía"
       ]
@@ -46,13 +74,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Desde la inflación en Perú a la OPI de Shein: esta es la agenda económica de la semana",
+      "title": "Mercados cautelosos con la escalada del conflicto en Medio Oriente",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTUVHUGp2NEh3NWRva2tpSTU5dWtJWmFMZGZvdkdMRjBIcnhqeDIxOW9mX3U1TWNjRUZWa3lFTjhKOW9iSThtRXlfcEZpVExmcTJlYTdrRGZrTjRiN21zc2E5Q3ljdmxFS2V5TlZaakxOekh4dXM5ZlpENzlFdDFSWGg3X2tCZWoxejFUTTY4d3JGVERDSzZLMC1CU0w3a2k4aE44ZEhVZWsxbmtnVWJTSVk3OWhRM01yZ0V5MTZXVjRZbE9W0gHYAUFVX3lxTFBFSGl2TnU0dF9KcE5fNzlQdl94TnJvNXh2dFhRa2FvRGx0ZlBDeDB4aENWbllRSElkSW4tS3RXRmZPLVlUWUJ5eG9RRjBaRTBxeGcxd2dIS24xclhmVThZZldQZTJpaHhIdVlhS1lOcVFOTWc0aTNhQUYzU21aWVBNQ2ZoNzh2alZ6bjB4bXQ2WTF5WHE5eFp0LWtvdkR6UXhGaDdyckZFTTM4VWtLQmZkc3h2dXhndXNsTzFrbzF0MkhNX2NhWkdXX09rV1VORDJwXzZvVEx2YQ?oc=5",
-      "published": "2026-08-30T22:03:15+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSU9lczZMWldMb3VZMWYyM29UaXBMUG55ekxyaDhmYS1XOWtYZmkxLVdfZUwyS3Z5aVVyZWRVUnViRl9JRC0yd2dvVGRPTHpnRzYxSng3bEM4VnhPNkFTQVcwTi1Od3dTVzNkUTBIME1ha0ZpclNPRTk2RFRvbm1BaHo5RGxlNlVJc2d2RlE2RFFVNFV3VUplOHZ6S3Z4Nk5NeFlIRURfWVk1RXRxcy1uMlFLNEg0VjlrVzZUNA?oc=5",
+      "published": "2026-08-31T14:10:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.27,
+      "relevance": 17.84,
       "sources": [
         "Google Economía"
       ]
@@ -60,13 +88,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Gopinath elogió la estabilización pero reclamó más reservas y un dólar más flexible | 30 de agosto de 2026",
+      "title": "Precio del dólar hoy en Panamá: cotización de apertura del 31 de agosto",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90YXV6TVZyT2Z1WEx6dU1vVG4wTWRYeklTNXIzSG9rUFoySzY2eFZSNGlYMFFlYmk1WWFzR3p4QUJaUnZpV3UtMTVlWnh3aXBXTTRjZnY1Q2NSOHVYYVpDQzdoVUdmWDdVNVF0TElMcE50N3NKVU5Ha1p30gF_QVVfeXFMTlVlT0dsSDFBclRnNTlFTG4yMmtTM2pfcDVBWHdoWkl4MnJ3bUE5S1JXZlNtY1hlUTRNT1JmU2xZSXdlMmUxZnJDWk04M012dHdGQkRkVG5hTG1GQW9zanctcGpqM3V3QzZfQmRFbUtydXpYV25fZGJzMUp2U2VoOA?oc=5",
-      "published": "2026-08-30T21:22:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb2VHcHd5bXVHTGJVV0s4eGpPMm1KZDctdHZXQVpNaUEtLUM4aWZ5MVlMd3RLLVZmYlhSZG85cVFXVHhCRV9fODc5cWJITzNpRWthT0ljT0E5SnNJM0ZCOHBaWHMxc0tQNFVUNEtIdTJqdTktUll2ZG9sRTViVGdxR0U2ZUJoelFMd2Ffazh6eHNxR25XUHNPb2Z4aHdENk1vaUJjZWkyUHFrVm96Y2g1NldfVkRRQldEVHRKTnVWbllHTndNalZTdEYwT3lUeWVu0gHQAUFVX3lxTE1vZUdwd3ltdUdMYlVXSzh4ak8ybUpkNy10dldBWk1pQS0tQzhpZnkxWUx3dEstVmZiWFJkbzlxUVdUeEJFX184NzlxYkhPM2lFa2FPSWNPQTlKc0kzRkI4cFpYczFzS1A0VVQ0S0h1Mmp1OS1SWXZkb2xFNWJUZ3FHRTZlQmh6UUx3YV9rOHp4c3FHbldQc09vZnhod0Q2TW9pQmNlaTJQcWtWb3pjaDU2V19WRFFCV0RUdEpOdVZuWUdOd01qVlN0RjBPeVR5ZW4?oc=5",
+      "published": "2026-08-31T13:23:57+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.01,
+      "relevance": 17.55,
       "sources": [
         "Google Economía"
       ]
@@ -74,71 +102,99 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Ebrard niega que escándalos políticos en México afecten negociación comercial con Estados Unidos",
+      "title": "Un delicado equilibrio",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTE1DNGJ3a2MxN250RnFacUVrOEl5Tk95WlpTbnZLajR2SUQ5TEhrbkZmdkRGZUNUUzdQaUVxZ2RJc3NyNkFJeWg3YjMtLWVBX2tZdjlZMkRVcmp3S3FnUU1TYXNYUEJfdW9sX0J2eU5QdUVaNHU1WGd6bDZDdXRWcnJCOGNQWUN1amtqVjJhc3BUY0RyT3A1NE42cFU2czZYUW9ibl9uVFJpS0tLdlVKX0tWODMyUzEzY3IzVUVQam8xNzRWNlI2aVRaV1ZDS09RR3BBYmUwdUhxV3c2U25qaG1XVdIB9wFBVV95cUxOQ3VNeUZ4QXNVSDlKOVB0V2EtZFpScXd2R01EY1I0MUhDaHpxMnN0Um43aW4wRFJZaUVYWEdQcklTUE1COWV2cFpoOFdlVDNoVkFyTDNrRkhCcDZ2SEQ3d2dwR0JPdzk4MG9hVXVoN0VELUREcEc4M09PZWlHc1RVdlF2S1Vrbm85c0l6NTF4dGNYMl8ySWZMYlJGUXdoUWJTZGlMLXQ1bXNCTUVjeFBna0NhVDlxYjgtRVIyaWlpdnZfTzVQUVlxWVI0UkpvUmNFWEZ4TzJWZEFXNm91ejlJU2Z6ZkVReEllRWR1bTNic1l3YkNJaF9r?oc=5",
-      "published": "2026-08-30T20:24:23+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oZFNzd0tsSmNpV0VYeElTTTVGd0htY0R2a24zTzJBUlV3bE1hcmVQRDdNbHAzVEw2Z240ZjFjc2lSZlQzbnFHV0xHNHpLd0VQLXN1VUk3RDk3OTJUR3R5SlNMRlktNnZjUUxubEtoUllObXpR0gGPAUFVX3lxTFB2dzlvNmxzM2tZTklraEc3THBUY0E4RTllV3ByVkY3VmdwMmJmTHN2WjNndU90bHY0WXRqUWJDcUpaMnpHR0NUTG15REJOSVJIaEk0RmZnMDBnRC1DYTJsZXhkakx1QmpXOGp0cHB1VTVSN1hheGVyblB0ZlJCMl9TM0M5b2p4QW5mUmExbnE4?oc=5",
+      "published": "2026-08-31T13:00:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.65,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Carne de res sube de precio en La Paz y comerciantes alertan por el pollo",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVFRuSnFXblMwTDdOSGFzajZTZXdwXzY5S0d0ckJHRmVJMy1ZS243S2MtRnM5bnJmVUpsM0o2LTBkRkxKUjBzSC1XdnJTbW1jcG4wb2JUMjVEZWRtc19SWHlFTDZ4N2FaRTBBSUg3R3ZxdlZfQnVHT25MUlZmMTN6VC1lbThBQTFkV0FWMGZKdFpraWZfRjFoNWpmWExmcmkwS2FFMFVabmRjYWpoY0szSTBZRWtFUFI3MTl0eVpVRQ?oc=5",
-      "published": "2026-08-30T19:19:24+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.25,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar blue: a cuánto cotizan hoy en Mendoza 30 agosto 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSGlwcXNKUTVHYUJQY29fWHpNMHlVWUQweW9ncW9wcGppSVJZWlE4VmhnVV9wMzluV2V4QjJTNENaYmVBWlJ3LVhiMnNHVDlCM2lXWWhEWU94TVBsY0J5YVNRbi11OHVDUEJpMzFPd3JVYXZhdHMzRVozU3VFdXllUWVSNWhiSlVBSDlTTDVacw?oc=5",
-      "published": "2026-08-30T14:35:11+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 15.47,
+      "relevance": 17.4,
       "sources": [
         "Google Economía"
       ]
     },
     {
       "category": "iglesia",
-      "source": "Aleteia",
-      "title": "León XIV en la procesión náutica en el lago de Albano",
-      "summary": "El pontífice estadounidense-peruano había celebrado previamente una misa con motivo de esta fiesta, durante la cual había hecho un llamado a no conformarse con “la mentalidad del mundo”. León XIV celebró la misa en la pequeña iglesia de María Santísima del Lago. Ubicada a orillas del lago de...",
-      "url": "https://es.aleteia.org/2026/08/30/leon-xiv-en-la-procesion-nautica-en-el-lago-de-albano/",
-      "published": "2026-08-30T16:24:01+00:00",
-      "image": null,
+      "source": "Vatican News",
+      "title": "Una misionera en Haití: La violencia no puede desanimarnos",
+      "summary": "Maddalena Boschetti, fidei donum en Haití desde 2002, comparte su experiencia. Permanecer allí se convierte en una respuesta a la violencia. «Estar presente es fortaleza», nos dice: compartir el día a día de la gente, apoyar a los más necesitados cuando no hay otras opciones. Leer todo",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/una-misionera-en-haiti-la-violencia-no-puede-desanimarnos.html",
+      "published": "2026-08-31T14:44:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/08/31/02/1788135603736.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.35,
+      "relevance": 19.85,
       "sources": [
-        "Aleteia"
+        "Vatican News"
       ]
     },
     {
       "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Ángelus: “No siempre es fácil comprender los designios de Dios”",
-      "summary": "Cuando los caminos de Dios están “lejos de los nuestros”, nos sentimos “tentados a pensar […] que es el Señor quien se equivoca”, advirtió León XIV durante el Ángelus recitado en Castel Gandolfo el 30 de agosto de 2026. Ante esta tentación, el pontífice estadounidense-peruano recomendó “no...",
-      "url": "https://es.aleteia.org/2026/08/30/angelus-no-siempre-es-facil-comprender-los-designios-de-dios/",
-      "published": "2026-08-30T16:02:43+00:00",
-      "image": null,
+      "source": "Vatican News",
+      "title": "Nepal: Emergencia sanitaria tras el devastador deslave",
+      "summary": "El número de fallecidos ya supera los 900. La situación se complica aún más por el deterioro del saneamiento y la higiene en las zonas afectadas. Quienes se encuentran aislados necesitan urgentemente agua potable para beber y bañarse, mientras que las tuberías dañadas y la posible contaminación de...",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-08/nepal-emergencia-sanitaria-tras-el-devastador-deslave.html",
+      "published": "2026-08-31T13:09:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/08/29/16/1788013499051.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.22,
+      "relevance": 19.25,
       "sources": [
-        "Aleteia"
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa recibe a la Comisión supervisora ​​del hospital fundado por Padre Pio",
+      "summary": "En la reunión celebrada esta mañana, 31 de agosto, en Castel Gandolfo, se examinó la labor de la Comisión Supervisora ​​de la Fundación \"Casa Sollievo della Sofferenza\", establecida mediante decreto papal el pasado mes de mayo y que León XIV sigue de cerca. Esta labor pretende continuar en la línea...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-08/papa-comision-supervisora-fundacion-casa-sollievo-sofferenza.html",
+      "published": "2026-08-31T12:02:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/31/tom2790.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 18.84,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "China: ordenado el obispo de Datong",
+      "summary": "Nombrado obispo de Datong (Shanxi, China) el pasado 10 de agosto por León XIV, tras haber aprobado su candidatura en el marco del Acuerdo Provisional entre la Santa Sede y la República Popular China, Paolo Liu Honggang ha sido consagrado hoy, 31 de agosto. Leer todo",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/china-ordenado-obispo-datong-paolo-liu-honggang.html",
+      "published": "2026-08-31T11:22:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2018/09/21/_.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 18.59,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Bartolomé I: que la humanidad abra paso al desarrollo sostenible",
+      "summary": "El Patriarca Ecuménico de Constantinopla publica un mensaje con motivo de la Jornada Mundial de Oración por el Cuidado de la Creación. Eje central de este sistema de valores es el principio de solidaridad: «Solidaridad como fuente de responsabilidad compartida, diálogo y reciprocidad sincera, unida...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/patriarca-bartolome-ambiente-economia-desarrollo.html",
+      "published": "2026-08-31T09:45:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2025/07/01/01/1751326619198.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 17.98,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Asís: iniciativas en el Tiempo de la Creación",
+      "summary": "Del 1 de septiembre, Jornada de la Creación, al 4 de octubre, fiesta de san Francisco de Asís, la ciudad del Pobrecillo acoge un amplio programa de actividades sobre el tema «Agua viva». Antonio Caschetto, director del Centro Laudato si’: «Nuestra casa común, abrasada a causa de la ya evidente...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-08/asis-iniciativas-tiempo-de-la-creacion-2026-san-francisco.html",
+      "published": "2026-08-31T08:36:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/29-agosto/foto-assisi-tempo-del-creato-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 17.55,
+      "sources": [
+        "Vatican News"
       ]
     },
     {
@@ -150,37 +206,9 @@
       "published": "2026-08-30T13:03:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/30/chiesa-di-longyearbyen-a-svalbard-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 16.69,
+      "relevance": 11.8,
       "sources": [
         "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "[RECETA] Tres tartas saladas originales para el verano",
-      "summary": "Fáciles de preparar y repletas de sabor, las tartas saladas son un clásico imprescindible del verano. Con verduras de temporada, combinaciones deliciosas y una masa crujiente, ofrecen infinitas posibilidades. Aquí tienes tres recetas originales para sorprender a tus invitados y disfrutar al máximo...",
-      "url": "https://es.aleteia.org/2026/08/30/receta-tres-tartas-saladas-originales-para-el-verano/",
-      "published": "2026-08-30T14:30:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.64,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Autosuficiencia: ¿Realmente estamos hechos para vivir solos?",
-      "summary": "¿Qué tan buena la idea de ser autosuficientes? Constantemente se nos repite que podemos hacerlo todo solos. Basta con mirar algunas películas, series o libros para encontrarnos con el mismo personaje: alguien que vive por su cuenta, no necesita a nadie y está dispuesto a descubrir el mundo sin...",
-      "url": "https://es.aleteia.org/2026/08/30/autosuficiencia-realmente-estamos-hechos-para-vivir-solos/",
-      "published": "2026-08-30T14:30:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.64,
-      "sources": [
-        "Aleteia"
       ]
     },
     {
@@ -192,35 +220,7 @@
       "published": "2026-08-30T10:35:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/08/30/12/1788084600242.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 15.77,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa en el ángelus: En nuestra vida de fe cultivemos la sinceridad y la docilidad",
-      "summary": "Este 30 de agosto, el Papa León XIV dirigió la oración mariana del ángelus desde la Villa Pontificia de Castel Gandolfo. En su comentario al Evangelio de este domingo, el Santo Padre señaló que, “en nuestra vida de fe y en nuestra oración”, debemos tener la misma sinceridad de Pedro, diciéndole al...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-08/papa-leon-xiv-angelus-domingo-30-agosto-castel-gandolfo-pedro.html",
-      "published": "2026-08-30T10:08:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/08/30/12/1788084604519.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 15.6,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Gallagher: La Santa Sede, una diplomacia que cree en la paz",
-      "summary": "Al término de la misión en Moscú, el secretario para las Relaciones con los Estados y las Organizaciones Internacionales habla con los medios vaticanos y hace balance de la misión diplomática que acaba de concluir. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-08/gallagher-la-santa-sede-una-diplomacia-que-cree-en-la-paz.html",
-      "published": "2026-08-30T08:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/30/whatsapp-image-2026-08-30-at-09-46-37-jpeg.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 14.93,
+      "relevance": 11.8,
       "sources": [
         "Vatican News"
       ]
@@ -228,13 +228,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Cuando Nintendo tenía una flota de taxis, vendía arroz instantáneo y buscaba negocio mucho más allá del entretenimiento",
-      "summary": "La Nintendo que conocemos hoy tiene pocas dudas sobre cuál es su terreno: vende la Switch 2, mantiene en el mercado la familia Switch original y construye buena parte de su negocio alrededor de videojuegos y personajes reconocibles en todo el mundo. Lo curioso es que mirar una empresa desde el...",
-      "url": "https://www.xataka.com/empresas-y-economia/cuando-nintendo-tenia-flota-taxis-vendia-arroz-instantaneo-buscaba-negocio-mucho-alla-entretenimiento",
-      "published": "2026-08-30T19:01:03+00:00",
-      "image": "https://i.blogs.es/0927aa/nintendo-taxis-arroz/1024_2000.jpeg",
+      "title": "Compran una casa en un pueblo de Castellón y descubren que los antiguos dueños se habían dejado una plantación de marihuana",
+      "summary": "Compras una casa en Borriol (Castellón), paseas por su interior y algo suena a hueco al cubrir tus pasos. Bajo tiras de césped artificial, abres una escotilla y te encuentras una sala acondicionada con focos de sodio de alto rendimiento, ventilación y veinte plantas colgadas boca abajo. Eso es...",
+      "url": "https://www.xataka.com/magnet/compran-casa-pueblo-castellon-descubren-que-antiguos-duenos-habian-dejado-plantacion-marihuana-dentro",
+      "published": "2026-08-31T17:01:45+00:00",
+      "image": "https://i.blogs.es/71276d/fotos-final/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.63,
+      "relevance": 20.41,
       "sources": [
         "Xataka"
       ]
@@ -242,41 +242,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Una hoja de papel tiene 0,1 mm de grosor, pero al doblarla 27 veces se forma una pila más alta que el Everest. 15 pliegues más la elevan más allá de la Luna",
-      "summary": "Una hoja de papel corriente tiene alrededor de 0,1 milímetros de grosor. Sobre el papel (nunca mejor dicho) bastaría con doblarla 27 veces para obtener una pila de unos 13,4 kilómetros, bastante más alta que el Everest, y solo 15 dobleces adicionales elevarían su grosor teórico hasta unos 440.000...",
-      "url": "https://www.xataka.com/magnet/hoja-papel-tiene-0-1-mm-grosor-al-doblarla-27-veces-se-forma-pila-alta-que-everest-15-pliegues-elevan-alla-luna",
-      "published": "2026-08-30T18:31:04+00:00",
-      "image": "https://i.blogs.es/bd226a/2010_07_21_388/1024_2000.jpeg",
+      "title": "Ceuta era de Portugal. El problema es que nadie la reclamó y Felipe II se la metió en el bolsillo",
+      "summary": "\"Con este palo me basto para defender Ceuta de todos sus enemigos\". Con esa frase respondió Pedro de Meneses, primer gobernador portugués de la ciudad, cuando el rey Juan I le preguntó con qué tropas pensaba resistir. Era el 21 de agosto de 1415, y Portugal acababa de arrebatar la plaza al...",
+      "url": "https://www.xataka.com/magnet/ceuta-era-portugal-problema-que-nadie-reclamo-felipe-ii-se-metio-bolsillo",
+      "published": "2026-08-31T16:31:45+00:00",
+      "image": "https://i.blogs.es/2134c5/ceuta/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Hace 50 millones de años, las ballenas abandonaron la tierra firme. Ahora sabemos por qué la evolución les ha impedido volver",
-      "summary": "Hace 50 millones de años, los ancestros de los cetáceos tomaron una decisión radical que fue abandonar progresivamente la tierra firme para adentrarse en los océanos. Hoy en día, orcas, delfines y ballenas son los indiscutibles reyes del medio marino, con cuerpos perfectamente esculpidos por...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/hace-50-millones-anos-ballenas-abandonaron-tierra-firme-ahora-sabemos-que-evolucion-les-ha-impedido-volver",
-      "published": "2026-08-30T18:01:04+00:00",
-      "image": "https://i.blogs.es/34115a/delfines/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.26,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El organismo más pesado del planeta no es una ballena: es \"un árbol\" de Utah",
-      "summary": "En Utah hay mormones, está el festival de cine de Sundance y mucha, mucha naturaleza. Tanta, que tienen los \"Mighty Five\", cinco espectaculares parques nacionales. Y sin embargo, allí no hay Pando. Para verlo hay que ir hasta el Bosque Nacional Fishlake. ¿Que qué es Pando? En una frase: 47.000...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/organismo-pesado-planeta-no-ballena-arbol-utah",
-      "published": "2026-08-30T17:31:03+00:00",
-      "image": "https://i.blogs.es/3ec726/fallpando02/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.07,
+      "relevance": 20.22,
       "sources": [
         "Xataka"
       ]
@@ -284,13 +256,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "5 escenas post-créditos de Marvel olvidadas y que no sirvieron absolutamente de nada",
-      "summary": "Aunque el Universo Cinematográfico de Marvel ha recuperado su rumbo de cara a Avengers: Doomsday y Avengers: Secret Wars, lo cierto es que la franquicia ha pasado unos cuantos años bastante dispersos. Buenos éxitos en taquilla han convivido con duros fracasos. Y, sobre todo, con historias y tramas...",
-      "url": "https://hipertextual.com/cine-television/5-escenas-post-creditos-de-marvel-olvidadas-y-que-no-sirvieron-absolutamente-de-nada/",
-      "published": "2026-08-30T18:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/Marvel-escenas-post-creditos.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Tim Cook dice adiós como CEO de Apple: «Este lugar es la prueba de que la cultura triunfa sobre todo»",
+      "summary": "El cambio de conducción de Apple está a pocas horas de hacerse realidad. Tim Cook finaliza hoy su mandato como CEO, con John Ternus como el designado para tomar las riendas de la compañía a partir de mañana, 1 de septiembre. Si bien el consejero delegado saliente no va a abandonar la empresa,...",
+      "url": "https://hipertextual.com/apple/tim-cook-dice-adios-ceo-apple-carta-empleados/",
+      "published": "2026-08-31T16:57:18+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/08/tim-cook-1.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 17.95,
+      "relevance": 20.08,
       "sources": [
         "Hipertextual"
       ]
@@ -298,13 +270,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Un agricultor confió en los consejos de la IA para cuidar su cosecha. El resultado: 10 hectáreas arrasadas en una noche",
-      "summary": "La IA puede ser muy útil para muchas cosas, pero si algo hemos aprendido en estos años es que no podemos fiarnos al 100% de sus respuestas. Una alucinación puede hacerte quedar fatal en el trabajo, o también puede hacer que pierdas diez hectáreas de plántulas de sésamo. Es lo que le ha pasado al...",
-      "url": "https://www.xataka.com/magnet/agricultor-confio-consejos-ia-para-cuidar-su-cosecha-resultado-10-hectareas-arrasadas-noche",
-      "published": "2026-08-30T17:01:04+00:00",
-      "image": "https://i.blogs.es/6d9189/james-wainscoat-fhuypmgppkw-unsplash/1024_2000.jpeg",
+      "title": "Científicos han calculado a qué país huir si el mundo se va al garete. La respuesta es casi siempre la misma: Australia",
+      "summary": "Huir a otros planetas frente a una gran catástrofe global es una solución muy recurrente en las películas de sábado por la tarde. Sin embargo, teniendo en cuenta nuestro estado actual en lo referente a la exploración espacial, en la vida real sigue siendo ciencia ficción. Por eso, más que en otros...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/cientificos-han-calculado-a-que-pais-huir-mundo-se-va-al-garete-respuesta-casi-siempre-australia",
+      "published": "2026-08-31T16:01:45+00:00",
+      "image": "https://i.blogs.es/d3c53c/catastrofe-global/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.88,
+      "relevance": 20.03,
       "sources": [
         "Xataka"
       ]
@@ -312,83 +284,69 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Solo hay un monte importante en el mundo que jamás ha registrado un serio intento de ascensión y está en China: el Kailash",
-      "summary": "He visto Primarks y alrededores de Zara un 7 de enero con menos gente que la fila para subir al Everest. Por increíble que parezca, a estas alturas de la película y en pleno furor por conquistar las grandes cimas, tacharlas de la lista y subir la foto a Instagram, todavía quedan grandes montañas...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/solo-hay-monte-importante-mundo-que-jamas-ha-registrado-serio-intento-ascension-esta-china-kailash",
-      "published": "2026-08-30T16:31:04+00:00",
-      "image": "https://i.blogs.es/982a05/kailash-barkha/1024_2000.jpeg",
+      "title": "Llevamos años programando nuestras casas inteligentes. LG tiene otra idea: contarles lo que queremos y que ellas se apañen",
+      "summary": "Hay una contradicción con esa idea del hogar inteligente que desde hace años nos venden las empresas de electrónica de consumo: aunque la tecnología está ahí para ahorrarnos trabajo, conseguir que todo funcione cuesta. Hay que crear \"escenas\", establecer horarios o encadenar acciones y condiciones...",
+      "url": "https://www.xataka.com/robotica-e-ia/llevamos-anos-programando-nuestras-casas-inteligentes-lg-tiene-otra-idea-contarles-que-queremos-que-ellas-se-apanen",
+      "published": "2026-08-31T15:31:45+00:00",
+      "image": "https://i.blogs.es/87a02a/thinq-claw-lg-electrodomesticos-ifa-2026/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.69,
+      "relevance": 19.85,
       "sources": [
         "Xataka"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "No eres solo tú: un extraño bug está afectando a varios Galaxy Watch y así puedes resolverlo",
-      "summary": "Si tienes un Samsung Galaxy Watch y has comenzado a padecer un extraño bug de reinicio, no estás solo. Usuarios de los relojes inteligentes de la marca coreana han reportado que estos muestran una alerta invitando a reiniciar el dispositivo tras la actualización de la zona horaria. Sin embargo,...",
-      "url": "https://hipertextual.com/tecnologia/bug-samsung-galaxy-watch-reinicio-zonas-horarias/",
-      "published": "2026-08-30T17:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/09/Samsung-Galaxy-Watch-Ultra-6.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "source": "Xataka",
+      "title": "La nube europea con el auténtico cifrado de conocimiento cero: Internxt es la mejor forma de proteger tus datos",
+      "summary": "Tener nuestros datos asegurados es algo super importante a día de hoy. Cada vez es más común encontrarnos con estafas de phishing, pharming y otros métodos orientados a robar nuestros datos. Por eso es fundamental que todo lo que tengamos subido a la nube esté totalmente asegurado, y uno de los...",
+      "url": "https://www.xataka.com/seleccion/nube-europea-autentico-cifrado-conocimiento-cero-internxt-mejor-forma-proteger-tus-datos",
+      "published": "2026-08-31T15:15:45+00:00",
+      "image": "https://i.blogs.es/df1f46/suscripcion-internxt-en-movil/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.58,
+      "relevance": 19.75,
       "sources": [
-        "Hipertextual"
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "La trabajadora de un hotel descubrió de la peor forma el precio de seis rollos de papel: 60.318,50 euros",
+      "summary": "Sustraer material del centro de trabajo puede ser motivo más que suficiente para que una empresa juegue la baza del despido improcedente para dejar en la calle a su empleado. No importa si el valor de lo sustraído es de un millón de euros o de poco más de tres euros. Es lo que le sucedió a la...",
+      "url": "https://www.xataka.com/empresas-y-economia/trabajadora-hotel-descubrio-peor-forma-precio-seis-rollos-papel-60-318-50-euros",
+      "published": "2026-08-31T15:15:45+00:00",
+      "image": "https://i.blogs.es/ded757/despedida-por-seis-rollos-de-papel-higienico/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.75,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "En España se vende menos vivienda hoy que hace un año. Ni eso ha evitado que el metro cuadrado se dispare a más de 2.100 euros",
+      "summary": "En España nunca había salido tan caro convertirse en dueño de una casa. Esa es al menos la idea que se desprende del último informe sobre vivienda del Consejo General del Notariado (CGN), en el que destacan sobre todo dos porcentajes que ayudan a entender el estado de salud del mercado: aunque en...",
+      "url": "https://www.xataka.com/magnet/espana-se-vende-vivienda-hoy-que-hace-ano-eso-ha-evitado-que-metro-cuadrado-se-dispare-a-2-100-euros",
+      "published": "2026-08-31T15:01:44+00:00",
+      "image": "https://i.blogs.es/d7585b/javier-balseiro-04z7smstmwc-unsplash-1-/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.66,
+      "sources": [
+        "Xataka"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Palou ya es PaloV: gana por quinta vez y entra en el podio histórico de la IndyCar",
-      "summary": "El piloto español ya es matemáticamente pentacampeón de la IndyCar, algo que sólo han logrado otros dos hombres en la historia",
-      "url": "https://www.marca.com/motor/indycar/2026/08/31/palou-palov-gana-quinta-vez-entra-podio-historico-indycar.html",
-      "published": "2026-08-30T23:25:41+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/29/6a931cc1b5566.jpeg",
+      "title": "El Mundial, el próximo reto de Carapaz",
+      "summary": "Según ha podido saber MARCA, el ecuatoriano quiere disputar la prueba en ruta del Campeonato del Mundo y será una de las grandes bazas de su selección",
+      "url": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/31/mundial-proximo-reto-carapaz.html",
+      "published": "2026-08-31T17:05:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/22/6a896ba0a0f9a.jpeg",
       "coverage": 1,
-      "relevance": 20.29,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Zabiri marca el segundo ‘hat-trick’ de LaLiga",
-      "summary": "Un jugador del Racing no anotaba un triplete en Primera desde que lo logró Tchité en 2008",
-      "url": "https://www.marca.com/futbol/premios-marca/2026/08/31/zabiri-marca-segundo-hat-trick-laliga.html",
-      "published": "2026-08-30T22:27:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/3x2.jpg.jpeg",
-      "coverage": 1,
-      "relevance": 19.92,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La plantilla del Athletic se plantó en solidaridad con problemas de empleados y jugadoras del equipo femenino",
-      "summary": "Futbolistas y presidente se reunirán esta semana por un tema que va más allá de invitaciones",
-      "url": "https://www.marca.com/futbol/athletic/2026/08/31/plantilla-planto-solidaridad-problemas-empleados-jugadoras-equipo-femenino.html",
-      "published": "2026-08-30T22:24:21+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a94989d35de0.jpeg",
-      "coverage": 1,
-      "relevance": 19.9,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Munar remonta dos sets y no cae en la trampa de los calambres de Atmane",
-      "summary": "El francés dominaba por dos mangas a cero con 'break' cuando sufrió un percance físico",
-      "url": "https://www.marca.com/tenis/us-open/2026/08/31/munar-remonta-dos-sets-cae-trampa-calambres-atmane.html",
-      "published": "2026-08-30T22:08:53+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a9481bee3263.jpeg",
-      "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 20.43,
       "sources": [
         "Marca"
       ]
@@ -396,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Corberán lo hace todo mal\"",
-      "summary": "Corberán está superado y sin recursos, la plantilla devaluada y el club autodestruido por sus propietarios y aún no ha empezado septiembre",
-      "url": "https://www.marca.com/futbol/valencia/opinion/2026/08/30/ojala-valencia-fuera-falta-huevos.html",
-      "published": "2026-08-30T21:53:58+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a94a64174412.jpeg",
+      "title": "Tadej Pogacar quiere estar en el Mundial: se operará \"martes o miércoles\" y los plazos son justos",
+      "summary": "El esloveno mantiene el optimismo tras su durísima caída y podría ser operado este martes",
+      "url": "https://www.marca.com/ciclismo/vuelta-espana/2026/08/31/tadej-pogacar-quiere-mundial-operara-martes-miercoles-plazos-son-justos.html",
+      "published": "2026-08-31T17:01:28+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a93dc594c30c.jpeg",
       "coverage": 1,
-      "relevance": 19.71,
+      "relevance": 20.41,
       "sources": [
         "Marca"
       ]
@@ -410,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Ya se mejora",
-      "summary": "La tercera victoria ante el Málaga supone su mejor inicio liguero como técnico del Madrid",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/08/30/mourinho-mejora.html",
-      "published": "2026-08-30T21:47:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a9458843bff6.jpeg",
+      "title": "Alba Sánchez: del infierno al oro en los Juegos Mediterráneos en Taranto",
+      "summary": "La halterófila española pisa el primer peldaño del podio tras unos meses complicados por una lesión. María Olalla logró una plata y un bronce",
+      "url": "https://www.marca.com/olimpismo/2026/08/31/alba-sanchez-infierno-oro-juegos-mediterraneos-taranto.html",
+      "published": "2026-08-31T16:51:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95a5d067bc4.jpeg",
       "coverage": 1,
-      "relevance": 19.67,
+      "relevance": 20.34,
       "sources": [
         "Marca"
       ]
@@ -424,13 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Scottie Scheffler se lleva la FedEx Cup y desbanca a Tiger Woods",
-      "summary": "El número 1 del mundo gana The Tour Championship, su vigésimoquinto torneo en cinco temporadas, y acumula más de 130 millones en premios",
-      "url": "https://www.marca.com/golf/pga-tour/2026/08/30/scottie-scheffler-lleva-fedex-cup-desbanca-tiger-woods.html",
-      "published": "2026-08-30T21:42:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a949b653aa06.jpeg",
+      "title": "La Selección sin Messi: muchas dudas, empezando por Scaloni",
+      "summary": "Leo deja un vacío que nunca se ocupará en La Albiceleste de cara a los próximos años",
+      "url": "https://www.marca.com/futbol/2026/08/31/seleccion-argentina-messi-muchas-dudas-empezando-scaloni.html",
+      "published": "2026-08-31T16:38:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95a8d0515d5.jpeg",
       "coverage": 1,
-      "relevance": 19.64,
+      "relevance": 20.26,
       "sources": [
         "Marca"
       ]
@@ -438,241 +396,282 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Celta 0-2 Athletic Club | Resumen LaLiga",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/primera-division/2026/08/30/celta-0-2-athletic-club-resumen-laliga-video.html",
-      "published": "2026-08-30T21:36:37+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/30/6a94a25d25f9c.png",
+      "title": "David Soria ya es historia de LaLiga: el jugador con más titularidades consecutivas",
+      "summary": "El guardameta azulón suma 193 encuentros seguidos saliendo desde el inicio",
+      "url": "https://www.marca.com/futbol/getafe/2026/08/31/david-soria-historia-laliga-jugador-titularidades-consecutivas.html",
+      "published": "2026-08-31T16:32:19+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95ac2e32fe4.jpeg",
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 20.22,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El mundo del fútbol despide a Leo: \"Te vamos a amar hasta el final de nuestros días\"",
+      "summary": "El combinado argentino dice adiós a la leyenda más grande de su historia junto a Maradona, un adiós al que se sumaron muchos otros deportistas",
+      "url": "https://www.marca.com/futbol/2026/08/31/mundo-futbol-despide-messi-te-amar-final-dias.html",
+      "published": "2026-08-31T16:30:17+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95a78e8e557.jpeg",
+      "coverage": 1,
+      "relevance": 20.21,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Harvey Elliott, a un paso del Valencia: acuerdo cerrado y revisión médica inminente",
+      "summary": "Los clubes ya intercambian los documentos para firmar la cesión sin opción de compra hasta junio, según Mateo Moretto",
+      "url": "https://www.marca.com/futbol/valencia/2026/08/31/harvey-elliott-paso-valencia-acuerdo-cerrado-revision-medica-inminente.html",
+      "published": "2026-08-31T16:27:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95ab032c106.jpeg",
+      "coverage": 1,
+      "relevance": 20.2,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La vía Fidalgo como opción para reforzar la medular verdiblanca",
+      "summary": "El asturiano medita su continuidad en el Betis mientras el club hace cuentas para poder fichar",
+      "url": "https://www.marca.com/futbol/betis/2026/08/31/via-fidalgo-opcion-reforzar-medular-verdiblanca.html",
+      "published": "2026-08-31T16:07:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/08/31/6a95a69dca0ff.jpeg",
+      "coverage": 1,
+      "relevance": 20.07,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Rusia agudiza ofensiva aérea contra Ucrania: ataque contra depósito de municiones deja 37 muertos",
-      "summary": "Ucrania sufre la agudización de la ofensiva aérea rusa. Sobrevivientes del ataque de las fuerzas del Kremlin contra un depósito de municiones en Bucha, cerca de Kiev, el 29 de agosto, lo han perdido casi todo. Al menos 37 personas murieron por la magnitud de la explosión, mientras otros residentes...",
-      "url": "https://www.france24.com/es/video/20260830-rusia-agudiza-ofensiva-a%C3%A9rea-contra-ucrania-ataque-contra-dep%C3%B3sito-de-municiones-deja-37-muertos",
-      "published": "2026-08-30T23:10:19+00:00",
-      "image": "https://s.france24.com/media/display/5a5c16f8-a4c5-11f1-bb66-005056bfb2b6/w:1024/p:16x9/ES-20260830-150727-150902-CS.jpg",
+      "source": "BBC Mundo",
+      "title": "EE.UU. bombardea lanzadores iraníes en la isla de Larek en el primer ataque en semanas",
+      "summary": "El gobierno de Teherán asegura que la acción militar de Washington causó la muerte de algunos civiles y prometió \"respuesta y castigo\".",
+      "url": "https://www.bbc.com/mundo/articles/cly4e67lzpgo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-31T00:42:04+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/baab/live/f7f345a0-a4b4-11f1-b109-879e35c24276.jpg",
       "coverage": 2,
-      "relevance": 30.49,
+      "relevance": 25.49,
       "sources": [
-        "France 24",
+        "BBC Mundo",
         "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Guerra en Irán: EE. UU. ataca la isla de Larak, cerca de Ormuz; Teherán emprende ofensiva a bases en Jordania",
-      "summary": "La Guardia Revolucionaria de Irán informó que un ataque estadounidense contra la isla de Larak, cerca del estrecho de Ormuz, en la madrugada del lunes causó la muerte y heridas a varios combatientes y civiles iraníes. Teherán prometió responder y \"castigar\" a los responsables y luego confirmó que...",
-      "url": "https://www.france24.com/es/medio-oriente/20260830-guerra-en-ir%C3%A1n-ee-uu-lanza-ataques-contra-la-isla-de-larak-teher%C3%A1n-advierte-que-responder%C3%A1",
-      "published": "2026-08-30T22:14:25+00:00",
-      "image": "https://s.france24.com/media/display/7630f22e-2eb7-11f1-8fbb-005056a90284/w:1024/p:16x9/2026-03-30T170720Z-1106578551-RC2PWJA8Z6AP-RTRMADP-3-IRAN-CRISIS-USA-MILITARY.jpg",
-      "coverage": 2,
-      "relevance": 30.14,
+      "source": "BBC Mundo",
+      "title": "Quién es José Serrano, el exministro del Interior de Rafael Correa acusado de ser uno de los autores intelectuales del asesinato de Fernando Villavicencio",
+      "summary": "El exfuncionario llegó este viernes a Ecuador tras ser deportado de EE.UU. donde había pedido, sin éxito, asilo político.",
+      "url": "https://www.bbc.com/mundo/articles/ce8x52pgn3lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-08-31T16:27:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3704/live/8d7922a0-a557-11f1-9acf-19576105f049.jpg",
+      "coverage": 1,
+      "relevance": 21.39,
       "sources": [
-        "France 24",
-        "Google Noticias"
+        "BBC Mundo"
       ]
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Informe desde Bidur: 933 trabajadores siguen sin rastro tras la avalancha glaciar en Nepal",
-      "summary": "La avalancha en la frontera entre Nepal y China, provocada por el colapso de un glaciar, devastó la infraestructura hidroeléctrica de la región, dejando sin información a al menos 933 trabajadores en algunos de los más de 11 proyectos hidroeléctricos afectados. Más de 19.800 efectivos del Ejército...",
-      "url": "https://www.france24.com/es/video/20260830-informe-desde-bidur-933-trabajadores-siguen-sin-rastro-tras-la-avalancha-glaciar-en-nepal",
-      "published": "2026-08-30T23:04:14+00:00",
-      "image": "https://s.france24.com/media/display/8563c2ae-a4c2-11f1-90ff-005056bf30b7/w:1024/p:16x9/ES-20260830-143211-143348-CS.jpg",
+      "title": "Crisis de agua en Gaza: ola de calor agrava escasez del líquido en el enclave",
+      "summary": "La guerra de Israel en la Franja de Gaza acabó con casi el 90% de la infraestructura de agua y saneamiento del enclave, por lo que los palestinos se han visto obligados a elegir entre beber, cocinar o guardar agua para bañarse. La crisis se ha visto agravada por la ola de calor, por lo que ha sido...",
+      "url": "https://www.france24.com/es/video/20260831-crisis-de-agua-en-gaza-ola-de-calor-agrava-escasez-del-l%C3%ADquido-en-el-enclave",
+      "published": "2026-08-31T16:04:03+00:00",
+      "image": "https://s.france24.com/media/display/9554534e-a554-11f1-80ee-005056a97e36/w:1024/p:16x9/ES-20260831-090729-090929-CS.jpg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 20.35,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "Google Noticias",
-      "title": "ÚLTIMA HORA: Estados Unidos ataca a Irán por primera vez en un mes.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE13bmFCWkJqVG91U3FDWUVudE1EZ1hSclNsUExrc0UySjhRUXRXTVBaYzY2Vzh4bmFCR0EzY3VjZkpRYUVMTUZYaWxpdDdzMG9pWG84VnFCYmNOOTJJMTJ6LTFOM0tyQ2pLZE9IdTRabTRiUUgwWTlxdUtad3FUVXc?oc=5",
-      "published": "2026-08-30T23:44:46+00:00",
-      "image": null,
+      "source": "France 24",
+      "title": "¿Cómo ha cambiado la situación en Gaza a casi tres años del inicio de los ataques israelíes?",
+      "summary": "A semanas de las elecciones en Israel, los ataques contra la Franja de Gaza no dan tregua a pesar del acuerdo pactado con Hamás con la mediación de Estados Unidos. Según cifras del Ministerio de Salud palestino, respaldadas por la ONU, al menos 73.000 personas han muerto hasta mediados de 2026 en...",
+      "url": "https://www.france24.com/es/video/20260831-c%C3%B3mo-ha-cambiado-la-situaci%C3%B3n-en-gaza-a-casi-tres-a%C3%B1os-del-inicio-de-los-ataques-israel%C3%ADes",
+      "published": "2026-08-31T14:52:23+00:00",
+      "image": "https://s.france24.com/media/display/5d85fb6a-a54b-11f1-a38c-005056bfb2b6/w:1024/p:16x9/ES-20260831-071245-072101-CS.jpg",
       "coverage": 1,
-      "relevance": 18.91,
+      "relevance": 19.9,
       "sources": [
-        "Google Noticias"
+        "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "Google Noticias",
-      "title": "Irán. Guardia Revolucionaria Islámica: El ataque terrorista estadounidense contra la isla de Larak será respondido y el agresor será castigado. - Resumen Latinoamericano -",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdzZxVFNvcW5MQzR2Q2pfbmtZeWFDZjRVZ0sxYVBOck16LTFabF9lQ2hOLTVjbUUtdUpmcFdvUlZvb01DcHIycVM3djFNWVYteXM3MjZyVG1WS25RRjVoTVB2c2RPZFU2WnUyT1FmZkhZUVBEMWxXMDNwNU11Tk5YX1N0RXBNeWVVSFFnMG5xeWROWVptdTgtMWVpVE5XRVpPM0V1NGRuSjRXRG55Q1NZNDFLOXByank2YXBFYVFUWjRzUXNDQ3RDU2tvR3g4UllkZk16T29xZ1FxQmJVb082X0FMSFdiT0tIOV9ITWFoTFdJeW5FbE9TV1VhTndMWEgxUWsxWGdnelJBV3NtN0lrQW5hVnZ1bmZsM0k4?oc=5",
-      "published": "2026-08-30T23:36:41+00:00",
-      "image": null,
+      "source": "France 24",
+      "title": "¿Qué responde el Gobierno colombiano tras el bombardeo contra disidencias de las FARC en el que murieron tres menores?",
+      "summary": "El Gobierno colombiano defendió este lunes 31 de agosto el bombardeo ejecutado contra una estructura disidente de las FARC en el departamento del Guaviare, en el que murieron diez combatientes, entre ellos tres menores de edad: dos de 15 años y uno de 16. El Ministerio de Defensa aseguró que la...",
+      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260831-qu%C3%A9-responde-el-gobierno-colombiano-tras-el-bombardeo-contra-disidencias-de-las-farc-en-el-que-murieron-tres-menores",
+      "published": "2026-08-31T14:32:04+00:00",
+      "image": "https://s.france24.com/media/display/522247c6-a509-11f0-a183-005056bfb2b6/w:1024/p:16x9/8cc7451df9feb3c06f79ff596345482d64f69d40.jpg",
       "coverage": 1,
-      "relevance": 18.85,
+      "relevance": 19.77,
       "sources": [
-        "Google Noticias"
+        "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "Google Noticias",
-      "title": "Irán lanza ofensiva de represalia tras ataque de EE.UU. contra isla de Larak",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU2NpU2pGZ2dCbVQ3UlFNVktEeE5lWTRxY2JKQUdueDUzd1o3QkhmYTlQcWxSVV96Q3dVZERRMWR5ZzFhMG90c0RYX19wZnlUUXdNTWl3eS1Qam9Wd1dSVGVJV0xpWHlVdUo1bXdqVFNvNFp0Q0k4MXFCc2lIZTlZbjluZ1NCQXF2SnVjMzdyLTd0SEhzdHFleEpMSXItSHNndnJENk9VM0gtbTFySmpjM2hyN1Nud9IB1wFBVV95cUxOVThlR19ET1laSVUtOTlOUFo1a05NN21xR2M0TEF5MnIyTTlmSXhXLWZxLTRSOW9NQV9vZ1ozM2JIVkpfajBRVmg3ajRwQjFHRUZvOUpxT2JWSm9OdXhFVUtoX05ja1NDNWpHcXB2Z3FKaTJCMldpbXlqcUswMkE2OWxkLTlnUnRzNmpMRU9YWGxoOE04dkdab1dVaEhhVzduRlZLQldybFZfcU51a0cxYjJlN0FxU2NoZnZ6eTdISndfb3pQOG5OYkNqQ0JzWWRvcnJpcDBpZw?oc=5",
-      "published": "2026-08-30T23:22:06+00:00",
+      "source": "France 24",
+      "title": "Netanyahu critica violencia de colonos israelíes en Qusra y los tilda de \"alborotadores\"",
+      "summary": "El primer ministro israelí, Benjamin Netanyahu, se pronunció sobre los colonos israelíes en Cisjordania ocupada y criticó los ataques en la localidad de Qusra, al perjudicar a la \"empresa de asentamiento y la reputación del país\". Desde hace más de tres semanas, los palestinos de la zona han sido...",
+      "url": "https://www.france24.com/es/video/20260831-netanyahu-critica-violencia-de-colonos-israel%C3%ADes-en-qusra-y-los-tilda-de-alborotadores",
+      "published": "2026-08-31T14:29:03+00:00",
+      "image": "https://s.france24.com/media/display/08ada32c-a546-11f1-bf28-005056bfb2b6/w:1024/p:16x9/ES-20260831-070709-070851-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.75,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "En directo: Irán afirma que responderá “de manera contundente” tras nuevo cruce de ataques con EE. UU.",
+      "summary": "El presidente de Irán, Masoud Pezeshkian, advirtió este lunes 31 de agosto que su país “no busca la guerra”, pero que responderá “contundentemente” tras el intercambio de ataques con EE. UU. ocurrido el domingo. Por su parte, el mandatario estadounidense, Donald Trump, declaró que el liderazgo de...",
+      "url": "https://www.france24.com/es/medio-oriente/20260831-en-directo-ir%C3%A1n-afirma-que-responder%C3%A1-de-manera-contundente-tras-nuevo-cruce-de-ataques-con-ee-uu",
+      "published": "2026-08-31T13:46:25+00:00",
+      "image": "https://s.france24.com/media/display/6620eaf0-a51e-11f1-b104-005056bfb2b6/w:1024/p:16x9/2026-08-31T085336Z-115528668-RC2J9NAP5OBK-RTRMADP-3-IRAN-CRISIS-STRIKE.jpg",
+      "coverage": 1,
+      "relevance": 19.49,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Informe desde Washington: Irán y EE. UU. reanudan intercambio de ataques",
+      "summary": "Por primera vez desde el 29 de julio, Estados Unidos e Irán intercambiaron ataques. El detonante habría sido el choque de un buque contra minas marinas en el estrecho de Ormuz, que habrían desencadenado bombardeos estadounidenses contra la isla de Larak, cercana al paso marítimo y ataques de...",
+      "url": "https://www.france24.com/es/video/20260831-informe-desde-washington-ir%C3%A1n-y-ee-uu-reanudan-intercambio-de-ataques",
+      "published": "2026-08-31T13:33:46+00:00",
+      "image": "https://s.france24.com/media/display/f21ed98e-a53e-11f1-a1bb-005056a97e36/w:1024/p:16x9/ES-20260831-070258-070605-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.41,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Lionel Messi confirmó su retiro de la selección de Argentina",
+      "summary": "El futbolista oficializó la noticia con fotos de un manuscrito que escribió dos días después de perder la final del Mundial contra España, en el que expresó “me vacié, ya no tengo más para dar \".Lionel Messi anunció que no volverá a jugar con Argentina. Se despidió después de 20 años, 207 partidos,...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/lionel-messi-confirmo-su-retiro-de-la-seleccion-de-argentina/",
+      "published": "2026-08-31T17:05:09+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.83,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Alejandro Sánchez: “No hay ningún cargo de por medio” en las negociaciones con Cabildo Abierto",
+      "summary": "El secretario de la Presidencia anunció que no habrá aumento en las naftas y que Ancap absorberá “la mayor cantidad” del incremento del gasoil.“En política y en democracia se negocia, porque la democracia es la gestión de las diferencias, no de las unanimidades”, afirmó este lunes el secretario de...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/alejandro-sanchez-no-hay-ningun-cargo-de-por-medio-en-las-negociaciones-con-cabildo-abierto/",
+      "published": "2026-08-31T16:18:58+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.54,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Demasiado cerca: el documental Cuerpos en tránsito",
+      "summary": "El documental es, muy por encima de la ficción, un arte de encuadre y edición. Toda película del género tiene una decisión previa acerca de cómo va a querer filmar lo que va a filmar y, posteriormente (aunque la edición es algo que también pervive antes y en el momento de realizar el registro) qué...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/8/demasiado-cerca-el-documental-cuerpos-en-transito/",
+      "published": "2026-08-31T15:57:10+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.41,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Llegó Pezzella a Peñarol: los otros dos campeones del mundo en el fútbol uruguayo",
+      "summary": "El argentino disputó tres encuentros en la consagración de Argentina en Qatar 2022.Germán Pezzella tiene 35 años, recientemente se desvinculó de River Plate en el fútbol argentino y el sábado de noche llegó a Uruguay para sumarse a Peñarol. El domingo estuvo presente en el clásico en el Campeón del...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/llego-pezzella-a-penarol-los-otros-dos-campeones-del-mundo-en-el-futbol-uruguayo/",
+      "published": "2026-08-31T14:52:09+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.0,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Incautación de droga en el ex Comcar: “Es presumible que haya una red de corrupción”, dijo Ana Juanche",
+      "summary": "La directora del Instituto Nacional de Rehabilitación dijo que es “detestable que estos episodios ocurran con la anuencia de funcionarios públicos”.Tras la incautación de 17 kilos de droga en la Unidad 4 del ex Comcar, la Justicia investiga una organización criminal integrada por policías,...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/incautacion-de-droga-en-el-ex-comcar-es-presumible-que-haya-una-red-de-corrupcion-dijo-ana-juanche/",
+      "published": "2026-08-31T14:33:21+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Melissa Martínez, lideresa hondureña: “Defendemos nuestro territorio en un contexto de violencia, persecución y exterminio”",
+      "summary": "Las Bravas | Con la defensora de derechos humanos, lideresa comunitaria y coordinadora de salud, de educación y de saberes ancestrales de la Organización Fraternal Negra de Honduras.El pasado 6 de julio, en San Juan, Tela, en Honduras, la Policía realizó un violento desalojo contra la comunidad...",
+      "url": "https://ladiaria.com.uy/feminismos/articulo/2026/8/melissa-martinez-lideresa-hondurena-defendemos-nuestro-territorio-en-un-contexto-de-violencia-persecucion-y-exterminio/",
+      "published": "2026-08-31T14:14:25+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 18.76,
       "sources": [
-        "Google Noticias"
+        "La Diaria"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Irán. CGRI promete respuesta tras ataque de EE.UU. contra isla en Ormuz - Resumen Latinoamericano -",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "El Congreso Judío Latinoamericano distinguió a Daniel Hadad en Uruguay",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSXJhbV9yelpQNXRJOUtMbVdjekdpUVU0WjZoT3hEb1E1LVZ3amFiSUZlZEoySWZKTktHQVBwdHZZSzJtaEY3bzc4SXc2Mnd1aUVQZ0ZkZWI5VDFObVIxanlkY3dzemlZaFFKZHA0UUw3WDN5NURaVzlvcGFLa2hNNFVmRTR0UmtBRTBjdVFtQ0laWDM0WW00bl8yQm9MQU1CMTBLZkZWcUFnU1k1REdwSm9ZdlhUWFNjT3JNSw?oc=5",
-      "published": "2026-08-30T23:06:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUJuWURhRmwzODVudndPVUJfb0NacXc1RElmZzJ3cEJUVXlGS1FYN25RY1hWZW41OVpJMWw5ZXVDTXJsQVFjWU9rc1hpaDhIbnVKenNhRTdzMnR5eHY4NGVfTGhhMkdRWjVlZGFfOFNUNWRPWTQxRUFHOE0yMGF2LTk5VGQ1d1NuZVBMbmdMeW9NRURvd1Uzd2NMTlQ0NjdUX2JIWTFvM2p2dW1TRFVfNVhyX1lqQmtnN0lma1V0dzJmLUpEcEpZTNIB4wFBVV95cUxPdkMzM3hBZnBSVnE1ZDU2RVVMY2ZETWY2SGJrX3cwZUVWVUdJbUcwX1RoanBvd1B4V3M5SmptOV9WRDNzZHI5WnlKS0RxZU9NS1R5TUVtcFlvZTRFd19ESlFjakpqODZXd0xmSFNLUEVDMW9aT1JzSWRROW5yb1RsRUtSazZjUVJqQzl0VUYxOU4wUUZRUFZJTW5Jd09lbmkwSnRXR1EyT3lka0hVTzZyTmZLdk1KQVVraFlTTktqNDhsUjhOS0hVMnRGcEtJNkdLcGgtRC11U1pOMjRTZTNPbVdlZw?oc=5",
+      "published": "2026-08-31T16:36:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.67,
+      "relevance": 18.75,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Máxima tensión en Medio Oriente: Estados Unidos atacó posiciones iraníes y Teherán amenazó con responder",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Puerto Rico enfrenta a Uruguay con poco margen de error en las eliminatorias mundialistas",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT09SclRJTWdrZ0dSSXo2bm84cWNDdTU2NFd2cGgzWmR6T25OMjk5a3BubzVIUkpuUlNMcWZicjQxS0ctLVVXQzZ2ZFFhZjFuTW1YSlYtNUcwRWVySmUwVV9yVnBibWU2YnVqRmx0YVZkcWxFWkZOUkNjdnBURjBDRnFrckhWN2xaZ0U0SDFqaXF6QTl6RmJTLUEtRXl6QTQyZXZHNV9wa015YkNqRnJoYW0tdXFVNktpZU5rTUNRMXA1RGxWaTNxMEtxZ25OMldlYmFxZl9wcEdTS1VP?oc=5",
-      "published": "2026-08-30T23:06:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObDkycHpqU2ZwM1JCZy1VWk9hR2NzM19LWDlIOUxnYi1pUUlWRVFnR29zNHRQYk1WNUtKUGtvOXFLbFZwZHFnamdDc3ZCSEs4NWI0d0pOWVhZYlU3bnNEdzJWOWt6OVdMRVVkYnFWd0VXZlFmNUh1Zllxd180cEZwaU5jeGQ2aXpuYUR2S09UTGVBTUxXMWpZdzVhOGZ2UVkyeTVCVUI5R1FTSlViT1RMNW05UXdrNlpkSHJmTmJKemJKLVB2UUE3TlVpZDVCWjJFbWR0eEJQaU5VQzg?oc=5",
+      "published": "2026-08-31T16:34:01+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.67,
+      "relevance": 18.74,
       "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "El 1x1 de Nacional tras el clásico ante Peñarol: Calvo fue pura jerarquía y Luis Mejía fue determinante",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc3U2Q0tqZ3ltangwb1JnVWk4bk9WMXNrVDc4UDc5N0FBSDFNVWFlNHRmRjhiMWFGdnlQYnNqTTBBQTBlbUdyUFVvemFNTlFlVzB5am1tRXhQdGtQMkE5NFNxcG1pc1hFbzA0Tlc0cEdfakd6V3ZYWHBTUkU1bERGNlR0a1NZRHdMZVN1RFNySnNPWENsRXhjZWpTbGxsdG1KUWgzaTJGZ0NEQjVudy0zcXFmRk4xY0hrWG54TE9QUzVpdXN1cjJFZnZtQjhWLU01QzlFVEV6cFZrOElKeW8wVFloUWJ3djA?oc=5",
-      "published": "2026-08-30T22:39:31+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 20.9,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Los Sarraute: un bote, una barra, la misma sangre",
-      "summary": "Marcos rema desde los 12, Emilia levanta pesas desde hace dos años y medio; antes de los Juegos Odesur se sentaron juntos a contar cómo se acompañan desde una misma casa.Es raro ver a dos deportistas de alto rendimiento que sean hermanos. Sin embargo, ambos se preparan para los próximos Juegos...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/los-sarraute-un-bote-una-barra-la-misma-sangre/",
-      "published": "2026-08-30T23:47:28+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.82,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Una final: Uruguay recibe a Puerto Rico en un duelo directo para llegar al Mundial 2027",
-      "summary": "El partido será el lunes a las 20.10 en el Antel Arena, los dos equipos llegan de perder el jueves.Quedan cinco partidos en las Eliminatorias rumbo al Mundial 2027 de básquetbol, que se disputará en Qatar. La segunda, sin dudas, iba a ser más exigente para Uruguay que comenzó con derrota ajustada...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/una-final-uruguay-recibe-a-puerto-rico-en-un-duelo-directo-para-llegar-al-mundial-2027/",
-      "published": "2026-08-30T23:46:59+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.82,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "La hazaña de Faustino Oro frente al gigante Magnus Carlsen",
-      "summary": "El ajedrecista argentino de 12 años le ganó una partida de tres minutos al noruego; un eslabón en la historia.Faustino Oro, 12 años en los documentos, 12 años en la carita, 12 años de genio, atrapa las piezas con una firmeza idéntica a la que se ejerce para darles la mano a los amigos. Magnus...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/la-hazana-de-faustino-oro-frente-al-gigante-magnus-carlsen/",
-      "published": "2026-08-30T23:43:05+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.79,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Ministra Lucía Etcheverry: “la ruta 4 nunca había sido priorizada”",
-      "summary": "Al rehabilitar un tramo en las inmediaciones de Guichón, anunció una solución para el puente en Paso Hondo.Rodeado de vecinos, entre absortos y alegres, el presidente Orsi estuvo en Guichón, en la inauguración de un tramo de la ruta 4 el viernes. El intendente interino Ricardo Molinelli, tras...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/8/ministra-lucia-etcheverry-la-ruta-4-nunca-habia-sido-priorizada/",
-      "published": "2026-08-30T23:27:34+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.7,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Delgado sostuvo que las intendencias “tienen más competencias asumidas en los hechos porque el gobierno nacional se retiró”",
-      "summary": "En un encuentro con dirigentes del Partido Nacional, el presidente del directorio blanco afirmó que el gobierno encabezado por Yamandú Orsi “no cree en la descentralización”.El sábado, el Partido Nacional (PN) realizó un Encuentro Nacional de Descentralización en Trinidad (Flores) con la consigna...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/8/delgado-sostuvo-que-las-intendencias-tienen-mas-competencias-asumidas-en-los-hechos-porque-el-gobierno-nacional-se-retiro/",
-      "published": "2026-08-30T23:26:30+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.69,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "El senado brasileño votará esta semana en comisión el fin de la semana laboral de seis días, que ya fue aprobada en Diputados",
-      "summary": "En caso de ser aprobada sin cambios, la iniciativa reducirá el trabajo de 44 a 40 horas semanales, con un límite de ocho horas, con dos días de descanso semanal sin reducción salarial.La propuesta de enmienda a la Constitución (PEC) que elimina la jornada laboral de seis días de trabajo por uno de...",
-      "url": "https://ladiaria.com.uy/mundo/articulo/2026/8/el-senado-brasileno-votara-esta-semana-en-comision-el-fin-de-la-semana-laboral-de-seis-dias-que-ya-fue-aprobada-en-diputados/",
-      "published": "2026-08-30T23:04:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.55,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Diego Aguirre: “Nos sentimos en falta”",
-      "summary": "“No encontramos futbolísticamente las soluciones”, dijo el entrenador luego del partido.Peñarol perdió con Nacional en el Campeón del Siglo, siendo la primera derrota del aurinegro ante su máximo rival por el campeonato uruguayo. El carbonero no tuvo un buen rendimiento individual ni colectivo....",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/8/diego-aguirre-nos-sentimos-en-falta/",
-      "published": "2026-08-30T22:48:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.45,
-      "sources": [
-        "La Diaria"
+        "Google Noticias UY"
       ]
     }
   ]
