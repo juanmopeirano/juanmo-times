@@ -1,86 +1,30 @@
 {
-  "updated_at": "2026-09-04T23:29:49.713274+00:00",
+  "updated_at": "2026-09-05T13:04:54.282805+00:00",
   "articles": [
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Para el mercado, la inflación se plancha y el dólar seguirá calmo",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORThESWtXYW1sd2dRZ3ZCZFlaOGM5MlNBU1BkbUNJUGZIWlVIajM2ZHllR1JoZmx4Wnp4VVNvcDJRSXl2V2x4cU52RFNuUzBVUEhycUZBUlhkNDRWUjVSRkxjOWd3cjRGY3VtR1VBU19fOGVaYV9aR0V5ZTBXRWpjUU45YTJxd3FmLWFlZTNKbkh2UEw0RXZJTk9sbUtId211QVNUcFB0MVplNm0wN1FfajdLNUc?oc=5",
-      "published": "2026-09-04T22:30:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.63,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Euro: a cuánto cerró su cotización este viernes 4 de septiembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUxkYUZRVW1UT1pfbzZQeHJLUGI5eUZkSzVMcjgzaURuNGRBZEtkVncwY1U4VUhNOU5DVGhjZS1iX1Ffa0lXYi1NZUUtZnNkdlFPZjJ6emI1UzFLbkJhTUM3a1l4VkFDYTdHVDJsckFVaWVDWmFUZ19IUHJfNHdIcGJ2TGZxczFPSmE0T3psc2RacDJzTXZROEkyX1g1XzRnWVZFS3lyT2ZIai0xN1F6U2ZCajBmZVJxdjRaS05pNkVuMGFfX1AtNGxJc2HSAcwBQVVfeXFMUEVMZGFGUVVtVE9aX282UHhyS1BiOXlGZEs1THI4M2lEbjRkQWRLZFZ3MGNVOFVITTlOQ1RoY2UtYl9RX2tJV2ItTWVFLWZzZHZRT2YyenpiNVMxS25CYU1DN2tZeFZBQ2E3R1QybHJBVWllQ1phVGdfSFByXzR3SHBidkxmcXMxT0phNE96bHNkWnAyc012UThJMl9YNV80Z1lWRUt5ck9mSGotMTdRelNmQmowZmVScXY0WktOaTZFbjBhX19QLTRsSXNh?oc=5",
-      "published": "2026-09-04T22:00:28+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Precio del DÓLAR HOY: así cerró la cotización de este viernes 4 de septiembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZG55dGFKWFZ5anhnbE54RHdnVUU1TFRCRFY1T2JpZERSeERNckZZOFphTmhTS29tZFFMa09pVzJIdkVmSmVEZEU3VW9lR01OS1ZLeHJRTzVnbVdDZm1uWmN5U0VoYU5PMWZHeGN5d1JWZHdDQWFhS24xN2ltNnRkSUxkc3NONEJmcllyMXF4UHVWLWp5UVhyOHVib1VfUUtTOVBMTkhWSVAtRkVYSm1BYV9rMFpBWC1XUnl4QXBkeVpYcUFM0gHfAUFVX3lxTE0wT2ZpZ1Y5Znh3VXVxOU4wRko3UVNPRzZ2cUdCUkx5SlNMWHpKaUU0RDFvV2NwUXdLUE1fbnJ0ZmdiaVRuam9jdmI0N1hFWGY0Yk1EeERGUUdWc0xEb0N0R3RwZzZyZEwtNnlOcEdmNkU4bmRMbkY0cnpXdHdnQWd4YTdnNkpjV0ZjZFRvNDRkZ0VtZlB1MVYtcTJJZW4tMWxwb2dsSVdFR19pWUd2alBKREloWTZ5d05HeHZHWXZXMlhQTERtOS1zWno3bWpkVElKZ01rNDd6Q0lGT1NvSTg?oc=5",
-      "published": "2026-09-04T22:00:25+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar oficial: cotización del 4 de septiembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbmNtbFFnR0puVVQ4WWhUTl8wT0gzNHJER0xwZEN0Rlp1YzBCUHFlOHJKUHNnZGNxQmw5YkpLcVV3SkY3dG9kTjhWMklpUE1WQzBlY1lWMlRxWHVOaXRDWXBNY3N5SkJSUl9BMS1NZTVCNVVucVA4cmZHeG1BSjBwcUJfbTFCYTBMaXE2TzdlZzg?oc=5",
-      "published": "2026-09-04T20:34:10+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "La nueva financiación autonómica inicia su recorrido legislativo con la vista puesta en Junts",
+      "summary": "Hacienda llevará la reforma al Consejo de Ministros en las próximas semanas tras recibir el voto favorable de solo dos comunidades y sin una mayoría parlamentaria asegurada",
+      "url": "https://elpais.com/economia/2026-09-05/la-nueva-financiacion-autonomica-inicia-su-recorrido-legislativo-con-la-vista-puesta-en-junts.html",
+      "published": "2026-09-05T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/AWBK3Z7XPBH7VBPD5SM3JD6I3U.jpg?auth=d7472b6d04dfa52d133d45c8a1e3089777ce5a3780fcb110f05a38d54dac9528",
       "coverage": 1,
       "relevance": 17.9,
       "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Cierre de mercados: Wall Street retrocede, el Brent vuelve a acercarse a US$96 y caen el oro y las criptomonedas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5neUJxdXBQVlZVZ1FrdXZfejBKU2huVjBkT0hDUFBZTlB1RzQwSDRaTE1sMUxXTm5xcG9LRFJldFJ4QTZnWkEyVVRmZnExMm9VanRkdVRfSm13VzhOMnJ2Y0F3VGFSb2tnWVQw?oc=5",
-      "published": "2026-09-04T19:57:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.67,
-      "sources": [
-        "Google Economía"
+        "El País Eco"
       ]
     },
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Trabajo endurecerá las condiciones para que los contratos fijen periodos de prueba superiores a seis meses",
-      "summary": "El Gobierno aprobará el martes, cuatro años después del plazo fijado por Bruselas, la transposición de la directiva que obliga a los empresarios a aportar más información contractual a los empleados",
-      "url": "https://elpais.com/economia/2026-09-04/trabajo-endurecera-las-condiciones-para-que-los-contratos-fijen-periodos-de-prueba-superiores-a-seis-meses.html",
-      "published": "2026-09-04T12:19:06+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZDJ5ZJDN35BPBOTLYSOBRILDCA.jpg?auth=173592ff2e8e20d4bec423a89c6d076181b1aa527e0d2d9395bbd2490335a893",
+      "title": "El renacer nuclear alarga la vida de las centrales. Construirlas es otra historia",
+      "summary": "Numerosos países, especialmente asiáticos, reavivan proyectos atómicos en busca de precios estables e independencia energética, aunque los expertos advierten que no siempre se consigue",
+      "url": "https://elpais.com/economia/2026-09-05/el-renacer-nuclear-alarga-la-vida-de-las-centrales-construirlas-es-otra-historia.html",
+      "published": "2026-09-05T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/HJHHM64LRRBTJMX5C6ITVGNJXA.JPG?auth=498160263ed0ffb7bbe7843a7f60dec042206fa7a4c705777db88d105a158897",
       "coverage": 1,
-      "relevance": 17.21,
+      "relevance": 17.9,
       "sources": [
         "El País Eco"
       ]
@@ -88,29 +32,113 @@
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Volkswagen deja en el aire el futuro de Seat a partir de 2030 y lo vincula a la regulación de emisiones en Europa",
-      "summary": "La compañía señala que la filial española, incluyendo a Cupra, “tiene un papel importante” en el grupo alemán",
-      "url": "https://elpais.com/economia/2026-09-04/volkswagen-deja-en-el-aire-el-futuro-de-seat-a-partir-de-2030-y-ata-su-continuidad-a-la-evolucion-de-la-regulacion-de-emisiones-en-europa.html",
-      "published": "2026-09-04T11:35:11+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/R5ERHPZE7ZF5LPSAYDBRKV7MFE.jpg?auth=5762db94f21eb672edaba5b983b1e4b083fe49851e8ad7157e25a3aa5a83cde1",
+      "title": "Así es iPronics, la empresa valenciana en la que ha invertido el gigante Nvidia",
+      "summary": "La tecnológica, que trabaja en la mejora de la eficiencia de los centros de datos, acaba de cerrar una ronda de financiación de 107 millones con la firma de chips, Criteria, Maverick Silicon y Light Street",
+      "url": "https://elpais.com/economia/2026-09-05/asi-es-ipronics-la-empresa-valenciana-en-la-que-ha-invertido-el-gigante-nvidia.html",
+      "published": "2026-09-05T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/ROUICWI6P5FFTGBRHJ5RQSXNSM.JPG?auth=91c863f294d6fa193ff5b20d19602f05bdda98550d531b81dd8819f81ea562bc",
       "coverage": 1,
-      "relevance": 16.93,
+      "relevance": 17.9,
       "sources": [
         "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Economía/Bolsa.- El Ibex 35 cierra la semana plano, pero mantiene los 20.000 puntos, con el crudo en 95 dólares",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPR01pOG5lT0tteG1KSWRfa3NjTV9fbGlSY2xmbWJRdGVQZDlsNE9nR2VZY2J4Z1NQMGZBVW9RcjBzTVNCemVoY21IcTBQeFVkaGZ4bmZFU2tHUkg0NXExckZxTmRZdkpBT3JndmJfVjdIc28wVU5yazY2YmFZLV9zeS1xWXpWVjVIMklnb0hrRS0yZHBHV2pxWmlYU2xib19VckdPeGdGY2p6TlJEYVFlN2FGYjZLY3c5NU1Oc2txY2w5cTRnb0p1dURueXM1ZFRxTVhCUWVWZGR1ejlUbFlQeFp2bHk1SEsyb3F3QWJMV20tNnNUeWU5QzJ30gH_AUFVX3lxTE9VNG1HOUd2c2l2WXluM2dhQ3RuT0VLSGVXSzhvWFYtYVZBRVhWRDVsRXFVTkl0UkhZcXJCS3VRRDNaTjNQbmsxeWotWkppRk9KbzU1WklnLTZyUXgxZmVKS28xVWswcTV2YU5RUkZYNDQ0RGRaVkdaT0tFaVFHdkNOWGxOM0R1YkVLV2pWZ1hWRnR3NW5kbS14bkxHYVRmSTVjTmYzNHZmeERkTXlEWjVOMkFtbXM0WWJmVEYxNUkydnR5ZTJ4ejhEWFpfU05Zc3JjVFZMdFhPTGQyMnJCcUNQSUloLTlxSmFHUGF1cTE4WlIyUjM2d29VY0dWV21Edw?oc=5",
-      "published": "2026-09-04T16:05:43+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "La ‘trumpflation’ agarrota al BCE",
+      "summary": "El argumento de que con el interés actual la inflación no volverá al objetivo del 2% es falaz, porque en realidad dependerá de la guerra, no de los tipos",
+      "url": "https://elpais.com/economia/2026-09-05/la-trumpflation-agarrota-al-bce.html",
+      "published": "2026-09-05T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y2JE2CM4ANK2BDV3R4NVUPF5ZM.jpg?auth=22d9f3c98d625f15bac20ff8ae4fa5f238fb5ea608c2533140f6e8a4017ead85",
       "coverage": 1,
-      "relevance": 16.22,
+      "relevance": 17.9,
       "sources": [
-        "Google Economía"
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Devolver los viajes por Europa en tren al imaginario español",
+      "summary": "La escasa conectividad ferroviaria transfronteriza es una vulnerabilidad estructural nacional",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-05/devolver-los-viajes-por-europa-en-tren-al-imaginario-espanol.html",
+      "published": "2026-09-05T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/MKHWLVGQHRA6DOXGVXRXFKBVC4.jpg?auth=bdf75a482d09c66177c7321f52fac56f3bcad2f307eed412cbb5a3190d38e789",
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El plan de rescate de Volkswagen mete primera",
+      "summary": "Oliver Blume no explica cómo pasará de un margen del 2,8% al 9% que promete para 2030",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-05/el-plan-de-rescate-de-volkswagen-mete-primera.html",
+      "published": "2026-09-05T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/EB7IYO7HLBLC5CQBTMZJRT3VG4.jpg?auth=9435c9905c6c31e24327b75a01304106f93126d5c9acc9277448ef2187cfc220",
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La Bolsa se escuda en los resultados ante la marea de los tipos",
+      "summary": "Quince años de subidas ininterrumpidas en Wall Street afrontan su prueba más seria con el encarecimiento del bono estadounidense",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-05/la-bolsa-se-escuda-en-los-resultados-ante-la-marea-de-los-tipos.html",
+      "published": "2026-09-05T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/46H2S5DTDNKNLKXOITP3C3OZIE.jpg?auth=30fdf3a0b0ed084f1ae5c85f218ecccc19a25e7bf26442cac9fbb4a5642567a4",
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El viento de cola asiático de las aerolíneas europeas tiene un horizonte incierto",
+      "summary": "La crisis de Irán perjudica en conjunto a las firmas del Viejo Continente, pero favorece a algunas como Finnair o IAG",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-05/el-viento-de-cola-asiatico-de-las-aerolineas-europeas-tiene-un-horizonte-incierto.html",
+      "published": "2026-09-05T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/RVD5KSZAAAYGY454FEGS7MUCEE.jpg?auth=792486353e250efb69d403b7146c3983e5261cd16db7494c5db8ab650beba230",
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "León XIV: sean tejedoras de comunión desde adoración eucarística",
+      "summary": "El Santo Padre recibió con alegría el peregrinaje de las Adoratrices Perpetuas del Santísimo Sacramento en Italia, con motivo del cincuentenario de la fundación de la Federación del Espíritu Santo. En su mensaje, destacó la centralidad de la Eucaristía, la oración y la fraternidad como caminos para...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-09/leon-xiv-adoratrices-perpetuas-tejedoras-comunion-eucaristia0.html",
+      "published": "2026-09-05T09:58:29+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/05/2026-09-05-adoratrici-perpetue-del-santissimo-sacramento-federaz/1788602405264.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.63,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Ulloa Mendieta: transformar la cultura del cuidado en decisiones concretas",
+      "summary": "El arzobispo de Panamá y segundo vicepresidente del Celam, Mons. José Domingo Ulloa Mendieta pidió a los obispos asumir de manera directa la prevención de abusos, fortalecer la escucha a las víctimas y construir comunidades eclesiales donde la seguridad, la transparencia y la confianza sean una...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-09/ulloa-transformar-cultura-del-cuidado-en-decisiones-concretas.html",
+      "published": "2026-09-05T09:27:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/gennaio/02/montagne-nuvole-pace-silenzio-natura.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.44,
+      "sources": [
+        "Vatican News"
       ]
     },
     {
@@ -122,7 +150,7 @@
       "published": "2026-09-04T19:35:39+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.74,
+      "relevance": 13.64,
       "sources": [
         "Aleteia"
       ]
@@ -136,7 +164,7 @@
       "published": "2026-09-04T17:10:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/cem/hopital-saint-louis-jerusalem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.43,
+      "relevance": 13.33,
       "sources": [
         "Vatican News"
       ]
@@ -150,7 +178,7 @@
       "published": "2026-09-04T18:07:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.19,
+      "relevance": 13.09,
       "sources": [
         "Aleteia"
       ]
@@ -164,7 +192,7 @@
       "published": "2026-09-04T17:51:32+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.09,
+      "relevance": 12.99,
       "sources": [
         "Aleteia"
       ]
@@ -178,7 +206,7 @@
       "published": "2026-09-04T16:14:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2021/06/19/3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.08,
+      "relevance": 12.98,
       "sources": [
         "Vatican News"
       ]
@@ -192,63 +220,21 @@
       "published": "2026-09-04T16:08:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/04/2026-09-04-monsignor-twal-4.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.04,
+      "relevance": 12.94,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Egipto: vivir la fe entre católicos, coptos y musulmanes",
-      "summary": "El Vicario Apostólico Latino de Alejandría habla con Vatican News sobre la Iglesia católica en Egipto, sus relaciones con las comunidades ortodoxa copta y musulmana, y el conflicto en curso en Gaza. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-09/obispo-alejandria-claudio-lurati-catolicos-coptos-musulmanes.html",
-      "published": "2026-09-04T15:40:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/03/43.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.86,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Una capilla móvil llevará a Jesús por las calles de Monterrey",
-      "summary": "La Arquidiócesis de Monterrey, en México, ha creado una capilla móvil de adoración en un automóvil. El vehículo llevará el Santísimo Sacramento a zonas sin iglesias, así como a hospitales, destinos turísticos y áreas afectadas por desastres. A primera vista, parece un auto común y corriente. En su...",
-      "url": "https://es.aleteia.org/2026/09/04/una-capilla-movil-llevara-a-jesus-por-las-calles-de-monterrey/",
-      "published": "2026-09-04T16:20:47+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.52,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La cinta magnética parecía una reliquia. En la era de la IA, la capacidad LTO ha vuelto a dispararse",
-      "summary": "Si pensamos en almacenamiento sobre cinta, es fácil viajar varias décadas atrás, a salas llenas de grandes ordenadores, armarios técnicos y bobinas que giraban mientras aquellos sistemas procesaban cantidades de información que hoy parecerían diminutas. La evolución de los discos duros y, más...",
-      "url": "https://www.xataka.com/robotica-e-ia/cinta-magnetica-parecia-reliquia-era-ia-capacidad-lto-ha-vuelto-a-dispararse",
-      "published": "2026-09-04T20:01:36+00:00",
-      "image": "https://i.blogs.es/02f60d/almacenamiento-en-cinta/1024_2000.jpeg",
+      "title": "La Generación Z ha convertido los memes virales en su mayor pesadilla. Y eso tiene un gran perjudicado: el baile",
+      "summary": "Su nombre quizás no te diga gran cosa (ahora), pero si en 2024 solías echar un ojo a las redes o leer la prensa es casi imposible que no hayas visto el vídeo más famoso de Rachael Louise Gunn, alias 'Raygun'. Su historia es muy simple: hace poco dos años Gunn participó en los Juegos Olímpicos de...",
+      "url": "https://www.xataka.com/magnet/generacion-z-ha-convertido-memes-virales-su-mayor-pesadilla-eso-tiene-gran-perjudicado-baile",
+      "published": "2026-09-05T12:30:27+00:00",
+      "image": "https://i.blogs.es/150e69/ardian-lumi-6woj_wozqma-unsplash/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.2,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Hemos visto a los robots de Unitree dando saltos y volteretas y ya sabemos el motivo: su fundador se ha hecho millonario con ellos",
-      "summary": "Llevamos meses viendo a los robots de Unitree bailar, dar patadas de kung-fu y saltar más alto que cualquier atleta. Cada vídeo se hacía viral y muchos nos preguntábamos para qué servía tanto espectáculo si estas máquinas todavía no trabajan en fábricas ni en casas. La respuesta a ese despliegue de...",
-      "url": "https://www.xataka.com/robotica-e-ia/hemos-visto-a-robots-unitree-dando-saltos-volteretas-sabemos-motivo-su-fundador-se-ha-hecho-millonario-ellos",
-      "published": "2026-09-04T19:31:36+00:00",
-      "image": "https://i.blogs.es/fd3759/wang_xingxing/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.01,
+      "relevance": 20.28,
       "sources": [
         "Xataka"
       ]
@@ -256,13 +242,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "OpenAI abre GPT-6 Astra a más usuarios de ChatGPT",
-      "summary": "Apenas un día después de su lanzamiento limitado a clientes de ciberseguridad, OpenAI ha decidido abrir el acceso a GPT-6 Astra a más usuarios de ChatGPT. Tras las críticas recibidas por no permitir que los suscriptores de los planes de pago del chatbot accedieran al nuevo modelo avanzado desde el...",
-      "url": "https://hipertextual.com/inteligencia-artificial/gpt-6-astra-llega-chatgpt-pro/",
-      "published": "2026-09-04T20:11:47+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/GPT-6-AStra-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "¿No viste ‘Return to Silent Hill’? Te decimos en qué plataforma de streaming se acaba de estrenar",
+      "summary": "Return to Silent Hill es la más reciente adición a la longeva franquicia basada en el popular videojuego. Y a pesar de sus fallas, que las tiene, la cinta estrenada este año es mucho más que solo el intento de revitalizar la saga. También, un experimento bien pensado, que saca provecho al origen...",
+      "url": "https://hipertextual.com/cine-television/no-viste-return-to-silent-hill-te-decimos-en-que-plataforma-de-streaming-se-acaba-de-estrenar/",
+      "published": "2026-09-05T13:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Terror-en-Silent-Hill-Regreso-al-infierno.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.96,
+      "relevance": 20.17,
       "sources": [
         "Hipertextual"
       ]
@@ -270,13 +256,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Algo ha quedado claro en IFA 2026: todos quieren un competidor Windows al MacBook Neo y estos son algunos de ellos",
-      "summary": "Hace exactamente seis meses, Apple presentó un portátil que, sobre el papel, hizo desconfiar a más de uno. El MacBook Neo llegaba como el portátil más asequible de la compañía y lo hacía con un A18 Pro, el chip que Apple había estrenado en el iPhone 16 Pro. Era fácil mirar sus 8 GB de memoria, sus...",
-      "url": "https://www.xataka.com/ordenadores/algo-ha-quedado-claro-ifa-2026-todos-quieren-competidor-windows-al-macbook-neo-estos-algunos-ellos",
-      "published": "2026-09-04T19:01:36+00:00",
-      "image": "https://i.blogs.es/b0bf70/lenovo-ideapad-vibe/1024_2000.jpeg",
+      "title": "Los árboles y la vegetación tienen un \"interruptor\" para hacer frente al calor. No siempre fue así",
+      "summary": "Está demostrado que los árboles ayudan a reducir la temperatura en las ciudades, pero ¿quién les ayuda a bajar su propia temperatura a ellos, que no tienen patitas? Porque a diferencia de los animales y los humanos, los árboles no pueden moverse a zonas más frescas cuando aprieta el calor. Sin...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/arboles-vegetacion-tienen-interruptor-para-hacer-frente-al-calor-no-siempre-fue-asi",
+      "published": "2026-09-05T12:00:27+00:00",
+      "image": "https://i.blogs.es/6bf1fe/sq-lim-zq8vbuh_c-e-unsplash/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.82,
+      "relevance": 20.1,
       "sources": [
         "Xataka"
       ]
@@ -284,13 +270,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El Gobierno quiere de vuelta una indemnización millonaria que los mineros asturianos no quieren asumir",
-      "summary": "La minería del carbón en España parecía un capítulo cerrado, sellado a golpe de normativas europeas y fondos para la transición ecológica. Sin embargo, el intento de reactivar la extracción en un yacimiento de Asturias ha chocado de frente con un muro burocrático y económico de posiblemente 31,24...",
-      "url": "https://www.xataka.com/energia/gobierno-quiere-vuelta-indemnizacion-millonaria-que-mineros-asturianos-no-quieren-asumir",
-      "published": "2026-09-04T18:31:36+00:00",
-      "image": "https://i.blogs.es/18a30d/mina-asturias/1024_2000.jpeg",
+      "title": "Hay una crisis de la comprensión lectora entre los más jóvenes: eso está disparando su soledad y su ansiedad",
+      "summary": "A finales de los 90 y principios de los 2000, se repetía en los medios la idea de que la juventud de esos años era “la más preparada de la historia”. Los porcentajes de acceso a la universidad estaban en sus ratios más altos y el optimismo lo había ganado todo. Ahora, un par de décadas después, los...",
+      "url": "https://www.xataka.com/magnet/hay-crisis-comprension-lectora-jovenes-eso-esta-disparando-su-soledad-su-ansiedad",
+      "published": "2026-09-05T11:30:27+00:00",
+      "image": "https://i.blogs.es/22c064/photo-1706114708146-d3e24abaa456/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.64,
+      "relevance": 19.91,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Esta rarísima película de terror desató polémica, críticas y hasta burlas, y ya está disponible en Movistar+",
+      "summary": "Rarísimas películas de terror abundan. Y el motivo es obvio. El cine de terror es pura experimentación. Y con frecuencia, ese es el motivo de su éxito. Y también, de su capacidad para sorprender. Algo que provoca que de tanto en tanto, las cintas del género vayan de sorpresas afortunadas como...",
+      "url": "https://hipertextual.com/cine-television/esta-rarisima-pelicula-de-terror-desato-polemica-criticas-y-hasta-burlas-y-ya-esta-disponible-en-movistar/",
+      "published": "2026-09-05T12:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Hellbo-El-hombre-retorcido-3-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.79,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "\"Cuanto más caro, más quieren la combustión\": en el camino al coche eléctrico, Audi ha descubierto una incómoda realidad",
+      "summary": "Audi rebusca en su pasado para dar un nuevo impulso a su imagen de marca. Lo hace apuntando hacia arriba, hacia segmentos superiores para atrapar a una BMW y Mercedes que parecen haberles dejado atrás. Lo hacen aprovechando colaboraciones con Porsche y Lamborghini. Y lo hacen, sobre todo, revisando...",
+      "url": "https://www.xataka.com/movilidad/cuanto-caro-quieren-combustion-camino-al-coche-electrico-audi-ha-descubierto-incomoda-realidad",
+      "published": "2026-09-05T11:00:28+00:00",
+      "image": "https://i.blogs.es/3b2cb3/audi-ceo-cuanto-mas-caro-mas-combustion/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.72,
       "sources": [
         "Xataka"
       ]
@@ -298,55 +312,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La fusión de agujeros negros que rompió todas las reglas tenía truco: una lente gravitacional pudo haber inflado su tamaño",
-      "summary": "En 2023 se detectó la mayor fusión de agujeros negros registrada hasta el momento. Fue, sin duda, colosal. Dos agujeros negros cuyas masas rozan el límite de lo que puede formarse a partir de una supernova se fusionaron para dar lugar a otro agujero negro aún más gigante, con una masa que supera...",
-      "url": "https://www.xataka.com/espacio/fusion-agujeros-negros-que-rompio-todas-reglas-tenia-truco-lente-gravitacional-pudo-haber-inflado-su-tamano",
-      "published": "2026-09-04T18:01:37+00:00",
-      "image": "https://i.blogs.es/b91b4b/fusion-de-agujeros-negros/1024_2000.jpeg",
+      "title": "España lleva 13 años pagando por un almacén de gas que jamás llegó a almacenar nada, generó más de 1.000 terremotos y sufriremos hasta 2044",
+      "summary": "A 1.750 metros bajo el lecho marino, frente a Vinaròs, hay un almacén de gas que nunca ha vendido ni un solo metro cúbico. Cuatro gobiernos distintos, dos colores políticos y 4.700 millones de euros en total, según la propia orden ministerial de 2017, el Castor sigue ahí: sellado, hibernando y, aun...",
+      "url": "https://www.xataka.com/magnet/espana-lleva-13-anos-pagando-almacen-gas-que-jamas-llego-a-almacenar-nada-genero-1-000-terremotos-sufriremos-2044",
+      "published": "2026-09-05T10:30:27+00:00",
+      "image": "https://i.blogs.es/ecf9ee/portada/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.45,
+      "relevance": 19.53,
       "sources": [
         "Xataka"
       ]
     },
     {
       "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La espera termina, pero no para España: Xiaomi ya vende uno de sus productos estrella de 2026",
-      "summary": "Xiaomi continúa ampliando los límites de su ecosistema conectado. La firma asiática ha iniciado la comercialización de su Xiaomi Smart Storage, una de sus soluciones de almacenamiento en red más ambiciosas hasta la fecha. Este dispositivo aterriza de forma oficial en el mercado chino con un precio...",
-      "url": "https://www.xataka.com/seleccion/espera-termina-no-para-espana-xiaomi-vende-uno-sus-productos-estrella-2026",
-      "published": "2026-09-04T17:45:36+00:00",
-      "image": "https://i.blogs.es/66ce6f/xiaomi-smart-storage/1024_2000.jpeg",
+      "source": "Hipertextual",
+      "title": "Xiaomi ha lanzado un tendedero para la ropa que soluciona el mayor problema de TODOS los hogares en España",
+      "summary": "Xiaomi lo ha vuelto a hacer. No ha lanzado un móvil o unos auriculares impresionantes, sino un tendedero. Sí, para la ropa. Y cuando lo veas, probablemente vas a entender por qué en China está triunfando y vendiendo miles de unidades. La idea es sublime si tienes una casa pequeña y estás harto de...",
+      "url": "https://hipertextual.com/tecnologia/xiaomi-ha-lanzado-un-tendedero-para-la-ropa-que-soluciona-el-mayor-problema-de-todos-los-hogares-en-espana/",
+      "published": "2026-09-05T11:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Xiaomi.jpg?fit=1024%2C672&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.35,
+      "relevance": 19.42,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "En Alarcos llevan 40 años excavando tumbas y ahora han dado con uno de los grandes descubrimientos arqueológicos de España",
-      "summary": "¿Cómo haces para estudiar un suelo arqueológico en un área que siempre estuvo ocupada? El Parque Arqueológico de Alarcos, a ocho kilómetros de Ciudad Real, acumula más de 3.000 años de ocupación continua. Fue un oppidum ibérico ocupado desde la Edad del Bronce Final hasta finales de la Edad Media....",
-      "url": "https://www.xataka.com/magnet/alarcos-llevan-40-anos-excavando-tumbas-ahora-han-dado-uno-grandes-descubrimientos-arqueologicos-espana",
-      "published": "2026-09-04T17:31:36+00:00",
-      "image": "https://i.blogs.es/5d46e7/necropoli-copia/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.26,
-      "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Bartra lo tenía ensayado: \"Gayà hizo el saltito y le pregunté a un amigo árbitro que tengo\"",
-      "summary": "El central del Betis reconoció que hace habitualmente la acción",
-      "url": "https://www.marca.com/futbol/betis/2026/09/05/bartra-tenia-ensayado-gaya-hizo-saltito-le-pregunte-amigo-arbitro.html",
-      "published": "2026-09-04T22:40:51+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9b48cf100b6.jpeg",
+      "title": "Reacción al cabreo viral: \"La gente coge 10'' de un vídeo sin contexto...\"",
+      "summary": "El corredor español amaneció dolorido y vendado después de su fuerte accidente camino de Loja. Álex Sans, director del Q36.5, explica que De la Cruz cayó mientras recogía un bidón del coche del equipo: “No sabemos al cien por cien si cogió una piedra, golpeó el coche o el arcén”",
+      "url": "https://www.marca.com/ciclismo/vuelta-espana/2026/09/05/cruz-accidente-viral-paso-tuve-reaccion.html",
+      "published": "2026-09-05T12:14:11+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/e3xuI1gd0QxbwjyvF.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 20.18,
       "sources": [
         "Marca"
       ]
@@ -354,11 +354,39 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Bombazo en Madrid: Coello y Tapia, eliminados en cuartos",
-      "summary": "Los número uno cayeron ante Coki Nieto y Mike Yanguas por 7-5 y 7-6",
-      "url": "https://www.marca.com/padel/2026/09/05/bombazo-madrid-coello-tapia-eliminados-cuartos.html",
-      "published": "2026-09-04T22:27:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9b448d2b102.jpeg",
+      "title": "España acusó jugar dos partidos con sólo 16 horas entre medias: \"Los horarios no han ayudado\"",
+      "summary": "Las jugadoras españolas no usan el poco descanso como excusa, pero sí creen que influyó",
+      "url": "https://www.marca.com/baloncesto/mundial-femenino/2026/09/05/espana-acuso-jugar-dos-partidos-16-horas-medias-horarios-han-ayudado.html",
+      "published": "2026-09-05T12:10:20+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9c0610eb894.jpeg",
+      "coverage": 1,
+      "relevance": 20.16,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Cestero y Pol Fortuny brindan un feliz debut a Sergio Martínez",
+      "summary": "Sus goles alegran el estreno del centrocampista como madridista y dan el primer triunfo al Castilla, con Mou en la grada del Di Stéfano",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/09/05/cestero-pol-fortuny-brindan-feliz-debut-sergio-martinez.html",
+      "published": "2026-09-05T12:09:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9c0fbaee291.jpeg",
+      "coverage": 1,
+      "relevance": 20.15,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Llompart hace buena la 'Ley de la ex'",
+      "summary": "Un gol de María, ex del Espanyol, en el minuto 89, da los tres puntos al Badalona en el derbi",
+      "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/cronica/2026/09/05/llompart-buena-ley-ex.html",
+      "published": "2026-09-05T12:02:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9c0465ee291.jpeg",
       "coverage": 1,
       "relevance": 20.11,
       "sources": [
@@ -368,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El recado de Mou a sus jugadores: \"Son naif, un chico del otro equipo parecía que venía la ambulancia\"",
+      "title": "¡Insólito! Casadó dice que las instalaciones del Dépor son mejores que las de Barça",
       "summary": "",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/09/05/recado-mou-jugadores-son-naif-chico-equipo-parecia-venia-ambulancia-video.html",
-      "published": "2026-09-04T22:20:05+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/e3GN21gcqFu7lXfPh.jpeg",
+      "url": "https://www.marca.com/futbol/deportivo/2026/09/05/insolito-marc-casado-aseguro-instalaciones-depor-son-mejores-barcelona-video.html",
+      "published": "2026-09-05T11:52:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/e3yiI1gd07iLGL1pG.jpeg",
       "coverage": 1,
-      "relevance": 20.06,
+      "relevance": 20.05,
       "sources": [
         "Marca"
       ]
@@ -382,11 +410,25 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Lo que dice la norma sobre la infracción por 'encroachment': \"No se tienen cuenta las proyecciones...\"",
-      "summary": "Para el CTA, no hay que repetir el penalti de Bartra porque hay un pie en contacto con el suelo. La IFAB ratifica esta norma para la temporada 26/27: \"En el aire solo se aplica cuando todo el cuerpo está despegado del suelo\"",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/09/05/dice-norma-sobre-infraccion-encroachment-cuenta-proyecciones.html",
-      "published": "2026-09-04T22:11:13+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9b41d6200b1.jpeg",
+      "title": "Esperando los onces del partidazo de San Mamés",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/primera-division/2026/09/05/01-0101-20260905-174-175.html",
+      "published": "2026-09-05T11:51:13+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/17885859567765.jpeg",
+      "coverage": 1,
+      "relevance": 20.04,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Monza sigue siendo al límite: Verstappen y Hamilton casi chocan a lo 2021",
+      "summary": "Max creyó que Hamilton le había arruinado una vuelta y se intentó tomar venganza de forma un tanto pendenciera",
+      "url": "https://www.marca.com/motor/formula1/gp-italia/2026/09/05/monza-sigue-siendo-limite-verstappen-hamilton-chocan-2021.html",
+      "published": "2026-09-05T11:45:55+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9c0095d6a26.jpeg",
       "coverage": 1,
       "relevance": 20.01,
       "sources": [
@@ -396,84 +438,41 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"El Madrid no puede perder este partido\"",
-      "summary": "La opinión de José Vicente Hernáez",
-      "url": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/04/madrid-perder-partido.html",
-      "published": "2026-09-04T21:59:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b3f3ed5d19.jpeg",
+      "title": "Monza, rebufos y polémica: Mercedes asusta, Verstappen la lía y Aston desaparece",
+      "summary": "Carlos Sainz se apoya en el buen trabajo de Alex Albon durante el libre 3 (15º) y Fernando Alonso (19º) sufre en el Aston Martin",
+      "url": "https://www.marca.com/motor/formula1/gp-italia/2026/09/05/monza-rebufos-polemica-mercedes-asusta-verstappen-lia-aston-desaparece.html",
+      "published": "2026-09-05T11:44:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/05/6a9bfb795d64b.jpeg",
       "coverage": 1,
-      "relevance": 19.94,
+      "relevance": 20.0,
       "sources": [
         "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Medvedev, del \"Debería dedicarme al pickleball\" a estar en octavos del US Open sin ceder sets",
-      "summary": "El ruso derrota a Rinkdernech y amenaza el lado del cuadro de Alcaraz",
-      "url": "https://www.marca.com/tenis/2026/09/04/medvedev-deberia-dedicarme-pickleball-octavos-us-open-ceder-sets.html",
-      "published": "2026-09-04T21:55:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b3d39dcfa0.jpeg",
-      "coverage": 1,
-      "relevance": 19.91,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"El chico ese que se ha caído parecía muerto enfrente de mi banquillo pensaba que venía la ambulancia\"",
-      "summary": "El entrenador del Madrid atendió a los medios tras la derrota ante el Betis",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/09/04/mourinho-hemos-perdido-hemos-jugado-bien.html",
-      "published": "2026-09-04T21:38:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b2e796139a.jpeg",
-      "coverage": 1,
-      "relevance": 19.8,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Betis 1-0 Real Madrid | Resumen LaLiga",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/primera-division/2026/09/04/betis-1-0-real-madrid-resumen-laliga-video.html",
-      "published": "2026-09-04T21:24:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/04/6a9b37165ef52.jpeg",
-      "coverage": 1,
-      "relevance": 19.72,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Rusia ataca sede de la agencia de seguridad de Ucrania, mientras EE. UU. prepara visita a Kiev y Moscú",
-      "summary": "El presidente Volodímir Zelenski confirmó que un dron ruso impactó en el cuartel general del Servicio de Seguridad de Ucrania (SBU), un acto que Kiev calificó de \"grave escalada\" justo cuando van tomando forma posibles conversaciones de paz. El mandatario ucraniano también aseguró que los...",
-      "url": "https://www.france24.com/es/europa/20260904-rusia-ataca-sede-de-la-agencia-de-seguridad-de-ucrania-mientras-ee-uu-prepara-visita-a-kiev-y-mosc%C3%BA",
-      "published": "2026-09-04T18:40:45+00:00",
-      "image": "https://s.france24.com/media/display/9ed23580-a88d-11f1-843c-005056a90284/w:1024/p:16x9/FOTO-PORTADA-UCRANIA-KIEV-ATAQUE-SBU.jpg",
-      "coverage": 2,
-      "relevance": 28.99,
-      "sources": [
-        "France 24",
-        "Google Noticias"
       ]
     },
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "¿Cómo podría terminar la guerra de EE.UU. contra Irán? 3 expertos dan su opinión",
-      "summary": "¿Tiene alguna de las partes involucradas en el conflicto en Irán una estrategia de salida tras la reanudación de los ataques?",
-      "url": "https://www.bbc.com/mundo/articles/cwyzqr7v4n4o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-04T23:19:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a255/live/6ee62f30-a882-11f1-824a-0fc4c5d895ae.jpg",
+      "title": "Cómo el juicio por asesinato de Lindsay Clancy ha dividido a EE.UU. sobre si es víctima de psicosis posparto o una criminal que mató a sus 3 hijos",
+      "summary": "Mientras algunos estadounidenses creen que el caso puso en evidencia las problemas de salud mental que enfrentan algunas madres, otros insisten en que estas dificultades no son justificación para cometer delitos.",
+      "url": "https://www.bbc.com/mundo/articles/c98094mlydvo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-05T12:29:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0ca/live/8d2607a0-a8db-11f1-b109-879e35c24276.jpg",
       "coverage": 1,
-      "relevance": 21.64,
+      "relevance": 21.48,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "En busca del soldado Tom: la BBC ayuda a resolver el misterio de un prisionero de guerra soviético que una familia británica escondió durante la Segunda Guerra Mundial",
+      "summary": "Bokejon, o simplemente Tom, fue rescatado por una familia de Jersey tras escapar de un campo de trabajo nazi, pero después de la guerra desapareció en la Unión Soviética.",
+      "url": "https://www.bbc.com/mundo/articles/c3327vepzv3o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-05T11:31:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/203a/live/052444b0-48a6-11f1-90e6-350a323e11ac.png",
+      "coverage": 1,
+      "relevance": 21.12,
       "sources": [
         "BBC Mundo"
       ]
@@ -481,97 +480,167 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "La ONU denuncia posibles crímenes de lesa humanidad de Israel en campos de refugiados de Cisjordania",
+      "title": "Enviados de Trump llegan a Moscú para intentar desbloquear las negociaciones entre Rusia y Ucrania",
+      "summary": "Steve Witkoff y Jared Kushner arribaron a Moscú para reunirse con Vladímir Putin, en un nuevo intento de destrabar unas negociaciones estancadas desde febrero. La visita coincide con una pausa de tres días anunciada por el Kremlin, pero también con nuevos ataques ucranianos en Lugansk y rusos...",
+      "url": "https://www.france24.com/es/europa/20260905-enviados-de-trump-llegan-a-mosc%C3%BA-para-intentar-desbloquear-las-negociaciones-entre-rusia-y-ucrania",
+      "published": "2026-09-05T12:29:30+00:00",
+      "image": "https://s.france24.com/media/display/af96e922-a8c6-11f1-aac9-005056a90284/w:1024/p:16x9/5adc663ff0ec4912d7ac1f33ab3c44505aa9c78a.jpg",
+      "coverage": 1,
+      "relevance": 20.58,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Una doble explosión en un cuartel militar de Bolivia deja al menos 2 muertos y 81 heridos",
+      "summary": "Mientras continúa la búsqueda de desaparecidos, las autoridades advierten sobre el riesgo de nuevas detonaciones y temen que la cifra de fallecidos siga aumentando en Viacha.",
+      "url": "https://www.bbc.com/mundo/articles/c78076w3jeyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-05T08:02:45+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/38c6/live/2c42cd50-a8d2-11f1-a291-b542ee92de7c.jpg",
+      "coverage": 1,
+      "relevance": 19.81,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Los enviados de Trump llegan a Moscú para mantener conversaciones sobre la paz en Ucrania y Putin ordena una suspensión de tres días de los ataques contra Kiev",
       "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20260904-la-onu-denuncia-posibles-cr%C3%ADmenes-de-lesa-humanidad-de-israel-en-campos-de-refugiados-de-cisjordania",
-      "published": "2026-09-04T23:09:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQODFyekNjdWxCa2gtNDRBWTllNmQyZWtqQXJYN0E5em1yQUxCYUozUm5TR3FqOUpPd1pYSFZMeUhwY29UVFJIRno4NXdYMnBSdno3QkRsYzh2OUVSZk9zWUQyeWNadFJEay1EN2ZQaWFOVXUySktQVlJTX2lSUkVsc2lRMNIBgwFBVV95cUxQRTdoYTB2WlhhX2dJalpTM1NhUk5WTkQ0OEVUMHlzRS1UZWtSSkdnNlNtbzZBUDhxbHdOTlhvSHBOeF9KWTRVajZrWmJ2dTdJbEo1TXVyaDFmZzQ2Z1JOWXg3enJ6UnIyUkl6dXBwWlZwanJ3NS0xQWd2Z0pyM2lXNGFLbw?oc=5",
+      "published": "2026-09-05T12:28:35+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.67,
+      "relevance": 18.77,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Guerra abierta en el Supremo de Brasil: la crisis judicial estalla a un mes de las elecciones",
-      "summary": "Los contactos entre el mediático juez Alexandre de Moraes y el banquero Daniel Vorcaro desataron acusaciones cruzadas dentro del máximo tribunal. Lula alertó sobre el riesgo de que los brasileños pierdan la confianza en las instituciones, mientras el caso irrumpe de lleno en la campaña...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260904-guerra-abierta-en-el-supremo-de-brasil-la-crisis-judicial-estalla-a-un-mes-de-las-elecciones",
-      "published": "2026-09-04T21:43:55+00:00",
-      "image": "https://s.france24.com/media/display/021a8e5c-a84e-11f1-b06b-005056bfb2b6/w:1024/p:16x9/50b4617175caa210277bc12958180309a7232a07.jpg",
+      "source": "Google Noticias",
+      "title": "Los enviados de Trump llegaron a Rusia para reactivar las negociaciones de paz con Ucrania",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbFJYWmRoUEpJZGxtZHFncUNBcWViRjFIV25BZE1wdEIzUFdwYkF0T1RIdkJPXzBKLTc4YlVNVzltWTZTZzltMjN6RGNXS2tSSFJBN2taUHB0djlGWlMtZ0lody1RdFllVkFDM2Z3djcwTWJpMUFmaV9yLVI0dmgxSHk2a2x0dUxBOERYenVuaUtZcE96ekxHRG1SS1d1UHk4ajdCTVAyZzhUZjFjcGdhN1NYQjdFeTBWdkplUFZMREREWnFUYS0xblV3MmpZdU5vUFVZVGRyY9IB8gFBVV95cUxQeUVta09qSFpJUEhDRVdNN0ZncDBLNEdKX0diZkRGeWhza0JjQV9HUmZMQ3V0OEpJaTZISnlGdnpUM1VLd3J6RURlMTdNNFdIWEZYQUV5eExqaEVJMDhRd09SUzl2SVMtTzhFZzB6NVF2R0d0eC1TTFBmMGZ3S2xSZDRXX3k1TGhaRHA4V2dJak95QmlSdXpwQUNUT1J5YmNRMDhyU2NfRG1aQWI3SGxxcnk1VzJYZ3VGNE5obFFuaGp0N2U3OE9ndG51ZkpCNDBiUjRMeGh0T0QyWkVoWGpxODJUU21TdlZiN3c0cTVFLUQydw?oc=5",
+      "published": "2026-09-05T12:21:47+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 20.14,
+      "relevance": 18.73,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "¿El operativo israelí contra Hezbolá constituye una violación de la tregua con Líbano?",
-      "summary": "Israel lanzó un operativo en el sur del Líbano contra Hezbolá, desalojando combatientes atrincherados en túneles subterráneos. El Ejército israelí afirma haber neutralizado infraestructura clave usada por la milicia chií. Por otro lado, el ministro israelí Ben-Gvir propone desocupar Gaza de su...",
-      "url": "https://www.france24.com/es/video/20260904-el-operativo-israel%C3%AD-contra-hezbol%C3%A1-constituye-una-violaci%C3%B3n-de-la-tregua-con-l%C3%ADbano",
-      "published": "2026-09-04T21:11:28+00:00",
-      "image": "https://s.france24.com/media/display/8573100c-a8a4-11f1-9f61-005056bfb2b6/w:1024/p:16x9/ES-20260904-131803-132821-CS.jpg",
+      "source": "Google Noticias",
+      "title": "Zelensky acusa a Rusia de ataque a aeropuertos para sabotear diálogo con EE.UU.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT1hUWDk4M3Q0VW53TW5xOG8wZVlNOHNUclJzMzNieTgyNERoVndndWw2OTFRa3Rnd2FVcnZPOWJKckJiNzlQVm4zeWpyejRuM2ZudFZja3BWcXNLVk8zZFZfUkRsSmFuOXdhS3JLeTdVSExvdlFQdlUyZEpzN0pJR09sM2didEFUYU5IUDRGUUtpR2xqZGhFY0tETWRBQ2JmeHhIeFRZT1ZSLUk1Y0lqUnhrX242eGdPNnc?oc=5",
+      "published": "2026-09-05T11:36:24+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.94,
+      "relevance": 18.45,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Aumenta tránsito en el estrecho de Ormuz; Seúl ofrece apoyo a Washington para garantizar seguridad",
-      "summary": "El tráfico marítimo en el estrecho de Ormuz se incrementa en medio de tensiones regionales. Por otro lado, Corea del Sur anunció que evalúa contribuir a la seguridad junto a EE. UU., mientras que el vicepresidente J.D. Vance aseguró que la situación con Irán ya no es considerada una guerra.",
-      "url": "https://www.france24.com/es/video/20260904-aumenta-tr%C3%A1nsito-en-el-estrecho-de-ormuz-se%C3%BAl-ofrece-apoyo-a-washington-para-garantizar-seguridad",
-      "published": "2026-09-04T21:08:12+00:00",
-      "image": "https://s.france24.com/media/display/9e50f846-a8a4-11f1-8af0-005056a97e36/w:1024/p:16x9/2026-09-04T025532Z-906946916-RC2UANA5P92U-RTRMADP-3-IRAN-CRISIS-SOUTHKOREA.jpg",
+      "source": "Google Noticias",
+      "title": "Irán denunció ataque de EEUU a petrolero cerca de la isla Kharg en el Golfo Pérsico",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNa0lxM3dqejBkR2kzVXQyTExvdkV2elNJdm9wekxBSUdPcFVqQTdEYjFpMERKU01Fd1Rwa2pKdFJrMktfQTdiX3ZTdVpUTWNNVDRHQWtUS2FXOElZSkIwc29KZWlZalFsOWdmQVQ1YVZpXzFmN1RGZ0RLTFBCQmV0RkZ6ZEU2U3V3SHZFZFdyc0E5TzdER1A2MjFDNjREcTliSmZ5MzgxUWxibFBrSDhtcDdKaEgxWS1SRlZJbFlzRF9CSHkxU2lMZDBzWFjSAcwBQVVfeXFMTWtJcTN3anowZEdpM1V0MkxMb3ZFdnpTSXZvcHpMQUlHT3BVakE3RGIxaTBESlNNRXdUcGtqSnRSazJLX0E3Yl92U3VaVE1jTVQ0R0FrVEthVzhJWUpCMHNvSmVpWWpRbDlnZkFUNWFWaV8xZjdURmdES0xQQkJldEZGemRFNlN1d0h2RWRXcnNBOU83REdQNjIxQzY0RHE5YkpmeTM4MVFsYmxQa0g4bXA3SmhIMVktUkZWSWxZc0RfQkh5MVNpTGQwc1hY?oc=5",
+      "published": "2026-09-05T11:07:11+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.91,
+      "relevance": 18.26,
       "sources": [
-        "France 24"
+        "Google Noticias"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Dos exempleadas de Julio Iglesias vuelven a entablar demanda en su contra por presunta agresión sexual",
-      "summary": "Dos mujeres que trabajaron para el cantante Julio Iglesias y que previamente lo denunciaron por acoso y agresión sexual, presuntamente ocurridos en las propiedades del artista en las Bahamas y República Dominicana, en 2021, han presentado una nueva querella, según señaló la ONG Women's Link, que...",
-      "url": "https://www.france24.com/es/europa/20260904-dos-exempleadas-de-julio-iglesias-vuelven-a-entablar-demanda-en-su-contra-por-presunta-agresi%C3%B3n-sexual",
-      "published": "2026-09-04T18:55:40+00:00",
-      "image": "https://s.france24.com/media/display/d6776e1a-f640-11f0-b3b2-005056bfb2b6/w:1024/p:16x9/AP333281525142.jpg",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Hablé con un nórdico",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1hNld5bVlnc20teVU3LVU3ckZRX2JBSm4xYnBweW1Ea21ib19pWTdZVVVBWFZycmV4TUpmRXc1TkM5Q3FWV0N4NkZ3OW8xOVVUTUZhSU9ydVpJYjhjZk1iTTEwa1U3eXVlZXY4bmdyeTZUVC1K?oc=5",
+      "published": "2026-09-05T08:54:25+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 19.09,
+      "relevance": 19.83,
       "sources": [
-        "France 24"
+        "El País Uy"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Italia: Gobierno de Meloni se convierte en el más extenso desde la Segunda Guerra Mundial",
-      "summary": "El Gobierno de la primera ministra Giorgia Meloni se convirtió en el más extenso desde la Segunda Guerra Mundial, superando el segundo periodo de Silvio Berlusconi. Aunque ha bajado el tono fuerte que usó durante su campaña, su posición sobre la situación migratoria en Europa se ha mantenido firme...",
-      "url": "https://www.france24.com/es/video/20260904-italia-gobierno-de-meloni-se-convierte-en-el-m%C3%A1s-extenso-desde-la-segunda-guerra-mundial",
-      "published": "2026-09-04T18:37:21+00:00",
-      "image": "https://s.france24.com/media/display/367efcbe-a88f-11f1-85d6-005056bfb2b6/w:1024/p:16x9/ES-20260904-124017-124205-CS.jpg",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "El chip opositor",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBGRExvVjBfdDFvOFpDajVfTmJPVVU2dUppcU5MREdOWXhZSl80ZmxXdjJxc0J5bnAyQURRbWFvYUtCQlY1cFRVUmt0RFg0LUxMRl9ZZ2M4M244OHRjMW5FRGR5cmRYQzI5ck1ETVAzVQ?oc=5",
+      "published": "2026-09-05T07:30:35+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 18.97,
+      "relevance": 19.31,
       "sources": [
-        "France 24"
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "A cincuenta y cinco años del Abuso",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSFhKZnVZTVI1NjVjZ3lkbG1SN3BMRjZGMmczbFgydjE2ME43LXh4X0ZjdnpLVVFSSGdqLS1IV1VKUVQ0SkFyN3VzM2lORUZhakVITkJDdUxIanhnTTVVMTVXWkVXOEZib1RBUUFZTXVYeDNVWkNic1BVbWpvZjI1XzlhbkE?oc=5",
+      "published": "2026-09-05T07:30:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.31,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Uruguay name squad with Valverde and Núñez for India friendly",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3l0eWVhSk01WHB3d2lfWkNyazJuUjFLTk1BdjBkV21jd3puOHE1bnoyYXBSNFFMcVZ2Qk9xdy1ZZ19famtGWEFqMll1R2dLS3QzLWdtQUlIQ2VvR0RtV2dfQXM3dElvbFlHdUVyMjZEQzZ0OTFSS3daVmZuUzlibjV2elRxejJRcFNjaldGR3dMUGdHX3hTZzJR?oc=5",
+      "published": "2026-09-05T09:07:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.52,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Canarias, 1500 km de Costa lleva su lucha contra los ahogamientos a Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wUm5xVnJmWElmb1JVTzdHUklTeWxGaldLVFNGNVhtTk5mX1hqVlF0cVNFa0FXWlhDd0ZUZXRaa3BoNjczTXV3WTJYQkw5U19ZQWR2d2Q1SGV6RXNTc1dDazZkNmlWTzVvWmZQTzBtRUQ5V290b1E?oc=5",
+      "published": "2026-09-05T08:59:20+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.47,
+      "sources": [
+        "Google Noticias UY"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "MGAP declaró emergencia sanitaria nacional ante caso de influenza aviar en Colonia",
-      "summary": "La cartera inició las investigaciones epidemiológicas pertinentes “para determinar el origen del evento” y aclaró que “el consumo de carne de ave y huevos no representa riesgo para la salud humana”El Ministerio de Ganadería, Agricultura y Pesca (MGAP) decretó la emergencia sanitaria en todo el país...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/mgap-declaro-emergencia-sanitaria-nacional-ante-caso-de-influenza-aviar-en-colonia/",
-      "published": "2026-09-04T23:25:00+00:00",
+      "title": "Recitales para el sábado: 12 horas de candombe, Cöstigan e indie pop punk",
+      "summary": "También: fiesta de Llamale H y Flor de Cocoa.Más diversidad El martes arrancó Llamale H, el Festival Internacional de Cine sobre Diversidad Sexual y de Género. Este sábado tendrá su propia fiesta. La noche combinará música y performances, y el encuentro entre locales y los visitantes...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/9/recitales-para-el-sabado-12-horas-de-candombe-costigan-e-indie-pop-punk/",
+      "published": "2026-09-05T03:34:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 16.33,
       "sources": [
         "La Diaria"
       ]
@@ -579,13 +648,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "MIEM convocará al Núcleo Productivo Cárnico para abordar la situación de los frigoríficos y la industria cárnica",
-      "summary": "Fernanda Cardona dijo que desde la cartera que preside están “absolutamente ocupados y en contacto”, y que en la reunión se analizará “la realidad de determinados frigoríficos” de forma de delinear “alguna propuesta en particular”El Ministerio de Industria, Energía y Minería (MIEM) resolvió citar a...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/miem-convocara-al-nucleo-productivo-carnico-para-abordar-la-situacion-de-los-frigorificos-y-la-industria-carnica/",
-      "published": "2026-09-04T22:40:55+00:00",
+      "title": "Se Armó Kokoa doble este sábado: festival con Dani Umpi y jornada por Colombia",
+      "summary": "La banda de rap se suma a las actividades del Mes de la Diversidad y participa en un evento solidario a beneficio de las víctimas del terremoto.Las artistas uruguayas Fabik y Viki Style y la colombiana Valencia vuelven a unir fuerzas este sábado bajo su identidad colectiva Se Armó Kokoa (SAK). Tras...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/9/se-armo-kokoa-doble-este-sabado-festival-con-dani-umpi-y-jornada-por-colombia/",
+      "published": "2026-09-05T03:34:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.59,
+      "relevance": 16.33,
       "sources": [
         "La Diaria"
       ]
@@ -593,83 +662,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Selección sub 20 disminuida: varios futbolistas no serian cedidos por sus clubes para los Juegos Odesur",
-      "summary": "Nacional, Peñarol y Defensor, entre otros que aportan jugadores al plantel juvenil celeste, priorizan la competencia local y no liberarán a sus convocados.Este jueves se dio a conocer la lista de 18 futbolistas citados para la selección uruguaya sub 20 que competirá en los Juegos Odesur, a...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/seleccion-sub-20-disminuida-varios-futbolistas-no-serian-cedidos-por-sus-clubes-para-los-juegos-odesur/",
-      "published": "2026-09-04T22:40:25+00:00",
+      "title": "Juan Pablo Chapital: “Hoy hay una necesidad de querer ser alguien ya, que nuestra generación no tenía”",
+      "summary": "El guitarrista, que se presentará en concierto a fines de setiembre, habla de su carrera y de su amor por las seis cuerdas, y advierte que “se está perdiendo un poco el oficio de la música”Antes de empezar la entrevista en el bar Las Flores, el guitarrista Juan Pablo Chapital pegó en la pared un...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/9/juan-pablo-chapital-hoy-hay-una-necesidad-de-querer-ser-alguien-ya-que-nuestra-generacion-no-tenia/",
+      "published": "2026-09-05T03:34:22+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.59,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Carlos Enciso sobre la relación de los blancos con el gobierno: “Tiempo para marcar diferencias tendremos”",
-      "summary": "El intendente de Florida y actual presidente del Congreso de Intendentes consideró que “no podemos estar en campaña permanente, porque no gobernás”“Se la debo a los intendentes, que es una juntada más íntima”, dijo este viernes Yamandú Orsi para explicar la [reunión que mantendrá el próximo jueves...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/carlos-enciso-sobre-la-relacion-de-los-blancos-con-el-gobierno-tiempo-para-marcar-diferencias-tendremos/",
-      "published": "2026-09-04T22:33:08+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.55,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Lazo sobre denuncia de la oposición por el caso Cardama: “Tenemos absoluta tranquilidad de que actuamos dentro de las normas”",
-      "summary": "La ministra de Defensa Nacional dijo que es necesario avanzar en un acuerdo con un nuevo astillero para la construcción de patrullas oceánicas, dado que es un compromiso que el gobierno tiene que cumplir.La ministra de Defensa Nacional, Sandra Lazo, defendió su actuación en el marco de las...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/lazo-sobre-denuncia-de-la-oposicion-por-el-caso-cardama-tenemos-absoluta-tranquilidad-de-que-actuamos-dentro-de-las-normas/",
-      "published": "2026-09-04T22:07:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.39,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Orsi recibió a Ojeda, que le sugirió tres actividades para su agenda ONU y le planteó dos propuestas vinculadas a la seguridad",
-      "summary": "El líder colorado propuso al mandatario “ver la posibilidad de tener algún tipo de partida económica específica para la seguridad de los fiscales” y el “policiamiento 24 horas de los barrios más complicados”Este viernes, el presidente de la República, Yamandú Orsi, recibió en la Torre Ejecutiva a...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/orsi-recibio-a-ojeda-que-le-sugirio-tres-actividades-para-su-agenda-onu-y-le-planteo-dos-propuestas-vinculadas-a-la-seguridad/",
-      "published": "2026-09-04T22:03:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.36,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Expresidente de la ANP sostuvo que el organismo está liderado por “gente que no sabe” y que “no hay plan maestro” para el puerto",
-      "summary": "Edison González Lapeyre sostuvo que “no hay un plan maestro” para el puerto de Montevideo, y consideró que “puede transformarse en un hub” en la medida en que se alcancen acuerdos con “las empresas que tienen las cargas”El expresidente de la Administración Nacional de Puertos (ANP), el experto en...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/expresidente-de-la-anp-sostuvo-que-el-organismo-esta-liderado-por-gente-que-no-sabe-y-que-no-hay-plan-maestro-para-el-puerto/",
-      "published": "2026-09-04T21:37:07+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.2,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Caso Carrera: tribunal respaldó actuación de la jueza ante posibles irregularidades de la fiscal Sandra Fleitas",
-      "summary": "Fleitas, a través de la Policía, reclamó a la Jutep las declaraciones juradas del exsenador frenteamplista sin tener una autorización judicial.El Tribunal de Apelaciones en lo Penal de 2º turno respaldó la decisión de la jueza de Crimen Organizado, Diovanet Olivera, en el caso Charles Carrera. La...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/9/caso-carrera-tribunal-respaldo-actuacion-de-la-jueza-ante-posibles-irregularidades-de-la-fiscal-sandra-fleitas/",
-      "published": "2026-09-04T21:32:28+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.17,
+      "relevance": 16.33,
       "sources": [
         "La Diaria"
       ]
