@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:54:15.325566+00:00",
+  "updated_at": "2026-09-09T23:36:42.820825+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,9 +10,65 @@
       "published": "2026-09-09T17:46:44+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/CNO6VP32CFHITHWRF7GQSTOQJM.jpg?auth=1498c2dacd50b1346123df3683538f7c5c45475db2157168f1ac1c250a891647",
       "coverage": 1,
-      "relevance": 20.98,
+      "relevance": 19.21,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Petróleo rebasa 100 dólares y golpea a mercados accionarios",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVjd2eWtPYk0tVjF4VHFNYWdqUUN0X2VjSk5lY0xselFmRmhZWm14akRrbGlnNVdPaU9zM1RlOWpDOEo2NGJSeGY0ZTlqXy1IeTJJT1M5YlZLcDRJb2ZzRlNzTWk0TzBvNExFQkxpc1BoanRHMzkyX2dFX1pmV0dqMU94Vnp1ZzEyWTFINTFPN2FmXzM5SVVHbHNDX01lNVMzLTZySlkzNlpXbUJ4ZHBoUlc1YU4?oc=5",
+      "published": "2026-09-09T23:09:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.83,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este miércoles 9 de septiembre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOUVOdVQwSVB6Tll0aW1JbFpXSkFZMjRGQkcyMF9yUkpOOHlLT0JuUHlHTTZTbE9QRHFiTGhMTkxvR2lpSmczYzM4RFJLOWJFdnNrdjhIQlVqdDhyQ3I1WlJrVWY3cE5YdmdGVldpUGl4YU5pV0lTYmNEcUhBZEtvS2FFRjlmXzlvYTlNa3JmOXlmX2N3QmZqUHJtTmNMT2hPZG9PaFdsajl4WGwtemxyTTRFTnRPeTdfbFRfOFFuLXdvNGVyV1MtZS1WNlZOOXPSAc8BQVVfeXFMTjlFTnVUMElQek5ZdGltSWxaV0pBWTI0RkJHMjBfclJKTjh5S09CblB5R002U2xPUERxYkxoTE5Mb0dpaUpnM2MzOERSSzliRXZza3Y4SEJVanQ4ckNyNVpSa1VmN3BOWHZnRlZXaVBpeGFOaVdJU2JjRHFIQWRLb0thRUY5Zl85b2E5TWtyZjl5Zl9jd0JmalBybU5jTE9oT2RvT2hXbGo5eFhsLXpsck00RU50T3k3X2xUXzhRbi13bzRlcldTLWUtVjZWTjlz?oc=5",
+      "published": "2026-09-09T22:00:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.4,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "‘Superpeso’ se impone al dólar y suma su sexto día por debajo de las 17 unidades",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOUxVeU1McHA5OWJFc0lKdVQ0clVJS3dtUXJjRHp2VURnWWdnVkNwczhJM04wUmhtUmd5NHk5SE9nQUFUbWRZR2k1UURSZVFiT3IxX2JGeG8wdnhhODJaY3BhOUsxbHRObFg1Uldldno5T3RLS1BZMW1XcHVCci1CR3lNdWZJQTQ3?oc=5",
+      "published": "2026-09-09T21:19:37+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.14,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Peso mexicano cierra estable frente al dólar; mercado espera datos del IPP estadounidense",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3VvN2VTOHRoSDREYWdoTW9ZRi1SSmNVbnYwTkh4VjNINDROTmdPUDdGemdYWFhYZlp3eDNESTdHaUd2dTZOc2I4MkRIaDZtXzgwTWhISERBWkNWUVNVR2MyNGRwWVJCNmVQY3UzMGhhRF9OY1ZJVHc0ZnlFZ0lZZFJ0aGcyRnhoX1NkTVpQNmNtanJTUk1NLUlpWkJTOFhJVHBydWZ6QmsxNlpKeFHSAbMBQVVfeXFMTTVHMC1WNEVRZ3N1dkhSNGZQUnlfWUxuQVo1czVZUTh6YUs5bFRkZEY1M0tkZjJjenBNOHJFV21LaFBvNHk5T2trOHBobTZQM2dzcF9rZVZPNEVKUkl6b1pjSThZWm5FS2tvb3RoLXlyRGFQdWNPMTBpbkFVaHNqaFkxNjd1aGlrUDJmdC1vRWRqM3dscENod2dVeVN2YUFpNGpjMzFaaGtYNjVubXR5cUJ4a2M?oc=5",
+      "published": "2026-09-09T21:11:48+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.09,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,49 +80,7 @@
       "published": "2026-09-09T14:33:05+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/JNG5Z6PYVNCAZIMP5L2LPJAEJQ.jpg?auth=b63a6b5a22591e1893c05d1a02b5613a2f6d453190889da570a53d1fb3e64b58",
       "coverage": 1,
-      "relevance": 19.77,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "UGT rechaza que la Seguridad Social solo se comunique vía telemática con los trabajadores de baja",
-      "summary": "Los sindicatos estudian su estrategia de presión al Gobierno si este no aprueba lo que tiene pendiente",
-      "url": "https://elpais.com/economia/2026-09-09/ugt-rechaza-que-la-seguridad-social-solo-se-comunique-via-telematica-con-los-trabajadores-de-baja.html",
-      "published": "2026-09-09T12:22:11+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/6AGK4ZB55VN6TMBIIWJ36FKI7Q.jpg?auth=da3776e5a1626e120cef1864a5f01f3f145831c541dce2d52c6c15ae4abe850e",
-      "coverage": 1,
-      "relevance": 18.95,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Bruselas plantea límites a los alquileres vacacionales en las zonas tensionadas para mejorar el acceso a la vivienda",
-      "summary": "La Comisión pide que las medidas restrictivas, que también contemplan límites a las segundas residencias, sean “proporcionales y temporales”",
-      "url": "https://elpais.com/economia/2026-09-09/bruselas-plantea-limites-a-los-alquileres-vacacionales-en-las-zonas-tensionadas-para-mejorar-el-acceso-a-la-vivienda.html",
-      "published": "2026-09-09T11:05:31+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5DJVKS6SUJJ23JWXMNMWBXDRY4.jpg?auth=b90fd31f2540cbddd6b98ad2a9f399c539026554fc0321c1bef5296cdd47a91d",
-      "coverage": 1,
-      "relevance": 18.47,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El caso Cisneros: cómo Venezuela apartó a una petrolera local para beneficiar a nuevos socios estadounidenses",
-      "summary": "Un contrato con una empresa californiana entró en vigor el 1 de julio sobre los mismos campos que, semanas antes, seguían formalmente en manos de los herederos de Oswaldo Cisneros",
-      "url": "https://elpais.com/america/2026-09-09/el-caso-cisneros-como-venezuela-aparto-a-una-petrolera-local-para-beneficiar-a-nuevos-socios-estadounidenses.html",
-      "published": "2026-09-09T09:30:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/CBANUB3VLNMEBNHEOJ4WKD4T5M.jpg?auth=a0346b7d7c98d5a84a0cf721c96a32fa98e1afb3e5675709460da1172d4e413b",
-      "coverage": 1,
-      "relevance": 17.87,
+      "relevance": 18.0,
       "sources": [
         "El País Eco"
       ]
@@ -74,13 +88,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Acciones, bonos, dólar y oro: cómo invertir si la Fed vuelve a subir las tasas, según UBS",
+      "title": "Peso ‘sonríe’ ante Paquete Económico 2027 e inflación en México: Así cierra HOY",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc0xidXp0UHNYY2RpUzVpZFhCZ2hEbVVzX1E1YWp0S1JxN3N4ZUNvZDh0S3dHYTdSanpfVnlGbEVBMGItUTBOOFNQUEM0SGFLd1lXOGg1OHhsNWNhZUJKazlaa3dLYWNZNldoOVNlX0FPR1dZYXJvbXNMbG1sN2xxRWlWQTNxbFI3b2N0cUxRRF9DY2R4R0ZOdG56eDBac2hTT1dtN1BMRHFyLUY1OVJlWm11RUdWeU9lNkpEU1RpOUlnWXdt0gHYAUFVX3lxTE4yTXJUWktyS2VtcjdZNExPazdNX1gwR0pjY0xqNnpyY0dfNlBQY2JnRWpja2U4UmZJMS1fZDkxU2tDa09xM0tld0oxcUNtdHhMdk5sbS1zeXJtanhqUENOaVMzX1ltcUtEaVpDejFuemd5NEltbTFHQWtiVlV1YTE0Tmdya1NnQWlNckxiRUZ4UFF1M0tmZkNvcldiVlBrMU5ULVpNSFRhcmxDUzgxSUFpaENIaHMzQ3dtNTZqSzNpZVFHMzZnRzZlVjBFb2doUXBEWmd2TzEtQw?oc=5",
-      "published": "2026-09-09T15:06:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRi1Ba3F0NERDQmFFNzJyR3FLMHh2bVExdkJKVkI2NkEwdGZaUzUzNVZ5Sm9aTDJ4ZjFpRlRGeElxVnZONXVZN3IwcDZUanJ0Zjcyem1yZ3NhYVlQV1NjcTVOMnlRTWR4cnZtcHN6dW54YTJScDdPVzduMVBSa2ZlYk5acTQzS1BuOTk2YnFUeDh6ZnpvbDVzQ1N3MVFheVE?oc=5",
+      "published": "2026-09-09T20:55:22+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.57,
+      "relevance": 17.99,
       "sources": [
         "Google Economía"
       ]
@@ -88,27 +102,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Peso mexicano se impone al dólar mientras el mercado analiza la inflación y el Paquete Económico 2027",
+      "title": "Dólar oficial: cotización del 9 de septiembre",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxeEZ6LV9pY0tpbXVhdG9RaEM2ZEtPaWdhRVNieFloWGJ3N0hNVEM4N2poX1JyLUtmVnR3YlRwb2pFZ2pFMTNsUTRwY2R1b2tXcDM2Snp0dnFiR3dnbGtSNTdwWm5iOWxZR1JQaWZTaVJQNXd4aHYzbzB0RzY?oc=5",
-      "published": "2026-09-09T14:19:17+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOUxFYjcxeDJhQVlDZXRMbnhOcVhFR3pxa2licHlXV2hWblpsWEtNQnNJc1RmczNYQnlQelB4NDhQaGRUREQ3YzAtUFIwZ0FPNkhPaVYwOVREdVQtS2g1S0ZCM1Y0SDhvMkVnamM3SFdiRGYzakFDcy1OQk1UT2N0dmFmSUU3Y0s5c1dFUQ?oc=5",
+      "published": "2026-09-09T20:32:09+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.28,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Cotización dólar blue EN VIVO | Dólar oficial, CCL y MEP hoy miércoles 9 de septiembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMzNZazVDZk9Pdnd2RzVQYWRXMVg3a1dGUUlWRGJIZmUzT01xVFBpVnZCQUU0b2lDT00wUTYxQ1NqU19lZnZKZGo1Z3dzUExWXzRiRTV6VDJuRFRfbk9EU0E5OVBJWWxvWHZfNDRtaWtKMHlXa0xJcGdGTHh4UDhxT2pZcERoZnRLNWo2bEc2LXJfUm1mYUhKUWpVWUlfQXVXaTlpZG16NmdaNExmYmEwS3VKX0kyR0FDR2ZaY1JNcVcyRXBBWFhWSW1ocGhJYmVZalVV?oc=5",
-      "published": "2026-09-09T13:18:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.9,
+      "relevance": 17.85,
       "sources": [
         "Google Economía"
       ]
@@ -130,6 +130,62 @@
     },
     {
       "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo criar hijos funcionales y responsables sin órdenes",
+      "summary": "Muchos padres se preguntan cómo pasar de criar niños que hacen las cosas porque se les ordena, a formar personas que saben qué hacer y por qué es necesario hacerlo sin supervisión constante. Un niño puede ser muy obediente porque un adulto está permanentemente diciéndole qué hacer; pero cuando ese...",
+      "url": "https://es.aleteia.org/2026/09/10/como-criar-hijos-funcionales-y-responsables-sin-ordenes/",
+      "published": "2026-09-09T22:32:18+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.8,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Aprovechar la vida o desperdiciarla puede costar el cielo",
+      "summary": "La vida pasa en un suspiro. Para el cristiano formado en su fe significa la oportunidad de aprovechar al máximo sus capacidades y dones para ponerlas al servicio de Dios y de su prójimo porque sabe que su recompensa estará en el cielo. Pero para el bautizado no practicante quizá se trate de pasar...",
+      "url": "https://es.aleteia.org/2026/09/09/aprovechar-la-vida-o-desperdiciarla-puede-costar-el-cielo/",
+      "published": "2026-09-09T19:47:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.77,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Cómo actuar con alguien que se porta mal contigo",
+      "summary": "A menos que te hayas convertido en un ermitaño, probablemente te relacionas con todo tipo de personas a lo largo del día. Algunas de ellas son maleducadas. Está el conductor que se pega al coche de delante y se niega a ceder el paso para incorporarse, la persona con síndrome del protagonista que...",
+      "url": "https://es.aleteia.org/2026/09/09/como-actuar-con-alguien-que-se-porta-mal-contigo/",
+      "published": "2026-09-09T18:56:01+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.45,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Un matrimonio español será considerado para su canonización",
+      "summary": "En los últimos años, el Vaticano ha recibido varias causas de canonización que incluyen a parejas casadas. Este creciente número de cristianos unidos en matrimonio nos recuerda que todos nosotros —y no solo los sacerdotes, obispos o religiosos— estamos llamados a ser santos. Recientemente, el...",
+      "url": "https://es.aleteia.org/2026/09/09/un-matrimonio-espanol-sera-considerado-para-su-canonizacion/",
+      "published": "2026-09-09T18:43:33+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.37,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
       "source": "Vatican News",
       "title": "Los representantes del mundo árabe con el Papa: Testimoniar que la paz no es una utopía",
       "summary": "Esta mañana, 9 de septiembre, estuvieron presentes en la audiencia general varios sacerdotes y laicos ucranianos de la Iglesia greco-católica, que se encuentran en Roma para participar en un foro del 8 al 10 de septiembre. También estuvieron presentes en la Plaza de San Pedro la \"Plataforma...",
@@ -137,7 +193,7 @@
       "published": "2026-09-09T15:52:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/09/2026-09-09-udienza-generale/1788949503056.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.66,
+      "relevance": 17.9,
       "sources": [
         "Vatican News"
       ]
@@ -151,7 +207,7 @@
       "published": "2026-09-09T15:43:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/09/07/12/1788776096627.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 17.84,
       "sources": [
         "Vatican News"
       ]
@@ -165,189 +221,134 @@
       "published": "2026-09-09T15:23:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/09/photo-2026-09-09-13-50-02-2.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 17.71,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Podría el uso de la IA hacernos más humanos?",
-      "summary": "En la práctica, nada ni nadie escapamos a la influencia de la IA; sea por consulta y uso directo o por consumo indirecto, al vivir en medio de una sociedad donde está presente en la multitud de Apps que utilizamos a diario, en las tiendas y mercados que frecuentamos, en los servicios educativos y...",
-      "url": "https://es.aleteia.org/2026/09/09/podria-el-uso-de-la-ia-hacernos-mas-humanos/",
-      "published": "2026-09-09T16:35:17+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.33,
+      "category": "tecnologia",
+      "source": "El País Tech",
+      "title": "Un investigador de Anthropic dimite y alerta del peligro de la IA: “Puede matarnos antes de 2030”",
+      "summary": "El jefe de Jacob Coxon, joven investigador de la compañía, le apoya y dice que la probabilidad de extinción en los próximos años supera el 10%",
+      "url": "https://elpais.com/tecnologia/2026-09-09/un-investigador-de-anthropic-dimite-porque-asegura-que-la-ia-puede-matarnos-antes-de-2030.html",
+      "published": "2026-09-09T11:01:45+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/U6GJQJBBSVAU3DBJYXH7T6Q4DQ.jpg?auth=758c76b1176d7c75e0cddd6b78ad33f91ee9a5c0d044626f18fe77303dd4600a",
+      "coverage": 2,
+      "relevance": 26.68,
       "sources": [
-        "Aleteia"
+        "El País Tech",
+        "La Diaria"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Sudán al borde del colapso. Recortan fondos y suspenden servicios de salud",
-      "summary": "La falta de ayuda humanitaria obliga a cerrar más de 30 clínicas y casi medio millón de personas quedan sin asistencia. En Kordofán del Norte, 13 personas murieron en un ataque con drones. La junta militar se opone rotundamente a las misiones de la ONU sobre los crímenes de guerra cometidos Leer...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-09/sudan-hambruna-conflictos-salud-victimas.html",
-      "published": "2026-09-09T14:47:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/07/24/09/1784878258638.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "iOS 27, con Siri AI como gran novedad, tiene fecha de lanzamiento confirmada",
+      "summary": "Con la presentación formal del iPhone Duo y los iPhone 18 Pro y Pro Max, Apple ha aprovechado para confirmar desde cuándo se podrá instalar iOS 27 en los móviles compatibles. La nueva versión del sistema operativo de la manzana tendrá el debut de Siri AI como gran novedad, tras las muy buenas...",
+      "url": "https://hipertextual.com/apple/ios-27-con-siri-ai-como-gran-novedad-tiene-fecha-de-lanzamiento-confirmada/",
+      "published": "2026-09-09T21:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/ios-27-beta.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.25,
+      "relevance": 19.41,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa inaugura la exposición «AQVA» de la Biblioteca Apostólica Vaticana",
-      "summary": "El 14 de septiembre, León XIV dará inicio al primer capítulo del ciclo expositivo quinquenal «Catástrofe y Maravilla». En la exposición, las obras de tres creadores contemporáneos —el artista JR, el tipógrafo Bill Moran y el chef Fulvio Pierangelini— dialogarán con el patrimonio y los espacios de...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-09/papa-inaugura-mostra-aqva-biblioteca-apostolica-vaticana.html",
-      "published": "2026-09-09T13:52:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/aprile/16/IMG_3445.MOV.00_00_00_00.Immagine001.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "iPhone Duo, iPhone 18 Pro, Apple Watch Series 12, Apple Watch Ultra 4, AirPods 5 y todas las novedades del evento de Apple",
+      "summary": "Apple ha cerrado uno de los eventos más importantes de los últimos años con la presentación de su primer iPhone plegable. El dispositivo inaugura una categoría inédita dentro de su catálogo y supone el mayor cambio de formato en la historia del teléfono. Tras años observando cómo avanzaba este...",
+      "url": "https://www.xataka.com/eventos/iphone-duo-iphone-18-pro-apple-watch-series-12-apple-watch-ultra-4-airpods-5-todas-novedades-evento-apple",
+      "published": "2026-09-09T20:42:08+00:00",
+      "image": "https://i.blogs.es/3bfb40/todo-lo-presentado-por-apple-iphone-duo-pletable-iphone-18-pro-apple-watch-series-12-apple-watch-ultra4/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.91,
+      "relevance": 19.41,
       "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿De dónde proviene nuestra dignidad? La respuesta de León XIV",
-      "summary": "La dignidad de la persona humana “no depende de las capacidades que uno posee, de su riqueza ni del cargo que ocupa, ni de las decisiones correctas o incorrectas que toma”, sino que es “un don que lo precede y lo trasciende”, afirmó el Papa León XIV durante la audiencia general celebrada en la...",
-      "url": "https://es.aleteia.org/2026/09/09/leon-xiv-sobre-los-esenciales-en-la-dignidad-humana/",
-      "published": "2026-09-09T15:08:22+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Apple sube los precios del iPhone 17 en todo el mundo",
+      "summary": "Apple dejó fuera la versión estándar del iPhone 18 en su presentación, por lo que el iPhone 17 sigue siendo la única opción para este segmento. Lamentablemente, el modelo anterior ya no es tan atractivo luego de que los de Cupertino aplicaran un aumento de precio. Si estabas pensando en que el...",
+      "url": "https://hipertextual.com/apple/iphone-17-subida-precio-espana-mexico/",
+      "published": "2026-09-09T20:48:39+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/09/6.jpg?fit=1024%2C652&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.15,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Si quieres un iPhone asequible, te costará más que ayer: Apple sube de precios toda la gama iPhone incluso modelos \"viejos\"",
+      "summary": "Si hoy entras en la web española de Apple para comprar un iPhone, o mañana te acercas a una Apple Store, hay una mala noticia antes incluso de elegir modelo, color o almacenamiento: entrar en la gama cuesta más que ayer. La presentación de los nuevos modelos, incluido el iPhone Duo, su primer...",
+      "url": "https://www.xataka.com/moviles/quieres-iphone-asequible-te-costara-que-ayer-apple-sube-precios-toda-gama-iphone-incluso-modelos-viejos",
+      "published": "2026-09-09T19:50:49+00:00",
+      "image": "https://i.blogs.es/b03f2d/apple-17-e-xataka/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.09,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Apple ha tardado tanto en lanzar su iPhone plegable por una razón: estaba esperando a que los demás descubrieran como hacerlos bien",
+      "summary": "Tras años de rumores, el iPhone plegable por fin es una realidad. Apple acaba de presentar el iPhone Duo que, tal y como anticipaban las filtraciones, tiene un diseño en formato pasaporte como el que ya hemos visto en algunos plegables de Huawei, OPPO o más recientemente Samsung y Xiaomi con el...",
+      "url": "https://www.xataka.com/moviles/apple-ha-tardado-lanzar-su-iphone-plegable-razon-estaba-esperando-a-que-demas-descubrieran-como-hacerlos-bien",
+      "published": "2026-09-09T19:42:37+00:00",
+      "image": "https://i.blogs.es/623977/iphone-duo-04/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.04,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "¿Qué iPhone comprar tras la keynote de Apple? Así son los nuevos iPhone 18 Pro, iPhone 18 Pro Max y iPhone Duo",
+      "summary": "La última keynote de Apple ha vuelto a sacudir la gama alta de la telefonía con una familia que redobla su apuesta por la potencia, la eficiencia y la fotografía computacional. Sin embargo, la llegada del inédito modelo iPhone Duo añade un nuevo escalón en el catálogo de la firma de la manzana...",
+      "url": "https://www.xataka.com/seleccion/que-iphone-comprar-keynote-apple-asi-nuevos-iphone-18-pro-iphone-18-pro-max-iphone-duo",
+      "published": "2026-09-09T19:17:00+00:00",
+      "image": "https://i.blogs.es/794294/nuevos-iphone/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "¿Cuánto pagarás por un iPhone Duo o iPhone 18 Pro en España y México? Estos son TODOS sus precios",
+      "summary": "El iPhone Duo y los iPhone 18 Pro/Pro Max son oficiales. Apple aprovechó el evento Surprise and Shine para renovar parcialmente su catálogo de móviles con la introducción de nuevos modelos premium y de su primer plegable. Este último ha sido la gran estrella del show y aspira a meter miedo a otras...",
+      "url": "https://hipertextual.com/apple/iphone-duo-y-iphone-18-pro-precios-espana-mexico/",
+      "published": "2026-09-09T19:51:02+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/iPhone-duo-4-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
       "relevance": 18.79,
       "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "¿Es el iPhone Duo el mejor plegable para ti? Lo ponemos frente a frente con otros móviles de Samsung, Honor y Xiaomi",
-      "summary": "La gran novedad de este último evento de Apple ha sido sin duda el iPhone Duo, el primer móvil plegable que lanza la compañía californiana. En este punto, puede que te estés preguntando si es el mejor teléfono plegable para ti, pero para eso, y aunque las comparaciones son odiosas, lo ideal es...",
-      "url": "https://www.xataka.com/seleccion/iphone-duo-mejor-plegable-para-ti-ponemos-frente-a-frente-otros-moviles-samsung-honor-xiaomi",
-      "published": "2026-09-09T18:44:50+00:00",
-      "image": "https://i.blogs.es/84b956/iphone-duo-portada/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.44,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Por primera vez, el iPhone más caro no es el mejor iPhone",
-      "summary": "Como cada septiembre, Apple ha presentado sus nuevos iPhone. Sin embargo, a diferencia de otros años, los modelos Pro no han estado acompañados por un iPhone base más barato. Era una estrategia muy asentada que se rompe este año debido a las condiciones del mercado, pero los iPhone 18 Pro no llegan...",
-      "url": "https://www.xataka.com/moviles/primera-vez-iphone-caro-no-mejor-iphone",
-      "published": "2026-09-09T18:20:00+00:00",
-      "image": "https://i.blogs.es/c15139/upscalemedia-transformed-1-/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.29,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "iPhone 18 Pro Max vs iPhone 17 Pro Max: varias mejoras importantes que pueden hacer (o no) que merezca la pena pagar más por ellas",
-      "summary": "Los nuevos iPhone de Apple ya son oficiales. La mayoría de los focos los está acaparando el primer plegable de la compañía californiana, pero ¿qué cambios trae la nueva familia de teléfonos de Apple con respecto a la generación anterior? Como no todos ellos son visibles, vamos a centrarnos a...",
-      "url": "https://www.xataka.com/seleccion/iphone-18-pro-max-vs-iphone-17-pro-max-varias-mejoras-importantes-que-pueden-hacer-no-que-merezca-pena-pagar-ellas",
-      "published": "2026-09-09T18:19:00+00:00",
-      "image": "https://i.blogs.es/e08ecf/portada-comparativa-iphone-pro-max/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.28,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "iOS 27, iPadOS 27, watchOS 27 y macOS 27: fechas de lanzamiento y modelos de iPhone, iPad, Apple Watch y Mac compatibles",
-      "summary": "Vamos a decirte las fechas de lanzamiento de iOS 27, iPadOS 28, watchOS 27 y macOS 27, las próximas versiones de los sistemas operativos de Apple para sus iPhone, iPad, Apple Watch y Mac. Después de varias semanas de versiones beta, ya llega la hora para la final. También vamos a decirte los...",
-      "url": "https://www.xataka.com/basics/ios-27-ipados-27-watchos-27-macos-27-fechas-lanzamiento-modelos-iphone-ipad-apple-watch-mac-compatibles",
-      "published": "2026-09-09T18:18:10+00:00",
-      "image": "https://i.blogs.es/f5f9dd/ios27/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.27,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "La apertura variable llega a la cámara de los iPhone 18 Pro y Pro Max. Así es como podremos sacarle partido",
-      "summary": "Ming-Chi Kuo, un analista especializado en la cadena de suministro que habitualmente está bien informado, nos lo anticipó en diciembre de 2024: Apple estaba trabajando en una cámara con apertura variable para sus iPhone 18 Pro. Aquel vaticinio se acaba de confirmar. Los nuevos iPhone 18 Pro y Pro...",
-      "url": "https://www.xataka.com/moviles/apertura-variable-llega-a-camara-iphone-18-pro-pro-max-asi-como-podremos-sacarle-partido",
-      "published": "2026-09-09T18:13:52+00:00",
-      "image": "https://i.blogs.es/985670/iphonecamara-1/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.25,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El Apple iPhone Duo es oficial: el teléfono plegable de Apple ya está aquí y viene para cambiarlo todo",
-      "summary": "Apple ha entrado oficialmente en el mercado de los teléfonos plegables. Durante la presentación de hoy, la compañía ha confirmado finalmente su primer dispositivo plegable, denominado iPhone Duo, poniendo fin a años de especulaciones sobre cuándo Apple se uniría a sus rivales en el sector de los...",
-      "url": "https://www.xataka.com/moviles/apple-iphone-duo-caracteristicas-precio-fotos-fecha",
-      "published": "2026-09-09T18:09:52+00:00",
-      "image": "https://i.blogs.es/a9c508/iphone-2/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.22,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Apple Watch Series 12 y Ultra 4: el gran salto está en salud, pero ahora también pueden recordar lo que hemos hablado",
-      "summary": "Hay una enorme diferencia entre saber cuántas veces ha latido nuestro corazón y entender qué nos está diciendo ese dato. El Apple Watch lleva años acumulando información sobre nuestra actividad, sueño y salud, pero esta generación intenta reducir precisamente esa distancia entre medir e...",
-      "url": "https://www.xataka.com/wearables/apple-watch-series-12-watch-ultra-4-caracteristicas-precio-ficha-tecnica",
-      "published": "2026-09-09T18:03:49+00:00",
-      "image": "https://i.blogs.es/09da12/apple-watch-series-12-apple-watch-ultra-4/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.18,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "iPhone 18 Pro vs iPhone 17 Pro: estas son las diferencias clave para saber si merece la pena dar el salto de generación",
-      "summary": "Apple acaba de presentar su nueva gama alta y la gran pregunta que se hacen muchos usuarios es evidente: ¿hasta qué punto evoluciona el buque insignia de la manzana mordida respecto a la generación anterior? Ponemos frente a frente al iPhone 18 Pro con el iPhone 17 Pro para repasar todas sus...",
-      "url": "https://www.xataka.com/seleccion/iphone-18-pro-vs-iphone-17-pro-estas-diferencias-clave-para-saber-merece-pena-dar-salto-generacion",
-      "published": "2026-09-09T18:03:48+00:00",
-      "image": "https://i.blogs.es/2650c2/iphone-18-pro-vs-iphone-17-pro-1-/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.18,
-      "sources": [
-        "Xataka"
+        "Hipertextual"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Deporte para anestesiar la tristeza en El Trampolín: \"El fútbol me hace feliz\"",
-      "summary": "Mohamed, uno de los migrantes acampados en la playa del Trampolín, pasa el tiempo jugando al fútbol y haciendo deporte.",
-      "url": "https://www.marca.com/futbol/2026/09/09/deporte-anestesiar-tristeza-trampolin-futbol-me-feliz.html",
-      "published": "2026-09-09T18:45:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/08/eBvtY1ge0zMSqOgLW.jpeg",
+      "title": "Araujo: \"Obviamente que quería a Julián para el Barça, es de los mejores del mundo\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/atletico/2026/09/10/araujo-obviamente-queria-julian-barca-mejores-mun-video.html",
+      "published": "2026-09-09T22:31:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/10/eHON21geTutJEZQA5.jpeg",
       "coverage": 1,
-      "relevance": 20.44,
+      "relevance": 20.09,
       "sources": [
         "Marca"
       ]
@@ -355,13 +356,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Abran paso al mejor, también en Europa",
-      "summary": "La contracrónica del Barcelona - Feyenoord",
-      "url": "https://www.marca.com/futbol/barcelona/2026/09/09/abran-paso-barca-abran-paso-mejor-tambien-europa.html",
-      "published": "2026-09-09T18:39:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1a24b4e1b9.jpeg",
+      "title": "\"Lo de Julián va entrando en agujas, pero hay alguna cosa preocupante...\"",
+      "summary": "'al otro lado del espejo', una opinión de Alfreo Relaño",
+      "url": "https://www.marca.com/futbol/atletico/opinion/2026/09/09/julian-alvarez-entrando.html",
+      "published": "2026-09-09T21:36:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1d1581b365.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 19.75,
       "sources": [
         "Marca"
       ]
@@ -369,13 +370,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Barça baila sobre la lluvia",
-      "summary": "El inicio de los de Flick en la Champions mantiene el modo apisonadora que lleva en LaLiga. Lleva 22 goles en cinco partidos. Doblete de Raphinha, que lleva ocho goles esta temporada",
-      "url": "https://www.marca.com/futbol/champions-league/cronica/2026/09/09/barcelona-baila-sobre-lluvia.html",
-      "published": "2026-09-09T18:39:18+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1967b59811.jpeg",
+      "title": "\"El equipo está en construcción, aunque a alguno no le guste oírlo...\"",
+      "summary": "El Cholo reconoció que el Atlético no jugó bien en la segunda parte",
+      "url": "https://www.marca.com/futbol/atletico/2026/09/09/simeone-detalles-son-te-medio-abajo-necesitamos-ajustarlos.html",
+      "published": "2026-09-09T21:34:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1c5182d7eb.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 19.74,
       "sources": [
         "Marca"
       ]
@@ -383,13 +384,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Vikingo Demirovic, un hat-trick en 12 minutos",
-      "summary": "'Hat-Trick' del bosnio para liderar el triunfo del equipo alemán",
-      "url": "https://www.marca.com/futbol/champions-league/cronica/2026/09/09/vikingo-demirovic.html",
-      "published": "2026-09-09T18:38:00+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa199a3ad884.jpeg",
+      "title": "Remontada muy bestia del Chelsea de Xabi",
+      "summary": "Increíble clasificación de los 'blues' para la siguiente ronda de la Carabao Cup",
+      "url": "https://www.marca.com/futbol/premier-league/2026/09/09/chelsea-xabi-remonta-0-2-seis-goles-media-hora.html",
+      "published": "2026-09-09T21:25:10+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1ccdb4755f.jpeg",
       "coverage": 1,
-      "relevance": 20.4,
+      "relevance": 19.68,
       "sources": [
         "Marca"
       ]
@@ -397,13 +398,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Marc Giró vuelve a La Sexta con cambios y primeros invitados confirmados",
-      "summary": "Se estrena este miércoles, 9 de septiembre",
-      "url": "https://www.marca.com/tiramillas/television/2026/09/09/marc-giro-vuelve-sexta-cambios-primeros-invitados-confirmados.html",
-      "published": "2026-09-09T18:34:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1a5292958c.jpeg",
+      "title": "\"Estamos muy cansados; tenéis que dejar un poco en paz a Julián porque lleváis un verano muy cansino\"",
+      "summary": "El capitán del Atlético habló sobre la Araña: \"Hay que dejarle que juegue y disfrute\"",
+      "url": "https://www.marca.com/futbol/atletico/2026/09/09/koke-teneis-dejar-poco-paz-julian-llevais-verano-cansino.html",
+      "published": "2026-09-09T21:18:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1cccf51780.jpeg",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 19.64,
       "sources": [
         "Marca"
       ]
@@ -411,13 +412,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Drama en los aires: el impactante video de uno de los 3 intentos fallidos del DIM para aterrizar en Pasto",
-      "summary": "Momentos de angustia: así fue el fallido aterrizaje del Independiente Medellín en el aeropuerto de Pasto",
-      "url": "https://www.marca.com/co/2026/09/09/drama-aires-impactante-video-3-intentos-fallidos-dim-aterrizar-pasto.html",
-      "published": "2026-09-09T18:18:01+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1a2d1e7c75.jpeg",
+      "title": "Ya es el Pichichi...",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/psg/2026/09/09/asi-hat-trick-ferran-debut-europeo-psg-video.html",
+      "published": "2026-09-09T21:18:33+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/eHAEs1geSqOrjSpDp.jpeg",
       "coverage": 1,
-      "relevance": 20.27,
+      "relevance": 19.64,
       "sources": [
         "Marca"
       ]
@@ -425,13 +426,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Javi Garrido y Lucas Bergamini caen en el Paris Major y anuncian su separación",
-      "summary": "El cordobés y el brasileño ponen fin a su proyecto conjunto tras ceder en los dieciseisavos de final en Roland Garros",
-      "url": "https://www.marca.com/padel/2026/09/09/javi-garrido-lucas-bergamini-caen-paris-major-anuncian-separacion.html",
-      "published": "2026-09-09T18:07:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa19f6c6a890.jpeg",
+      "title": "PSG 6-1 Slovan de Bratislava: resumen y goles | Champions League | Jornada 1",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/champions-league/2026/09/09/psg-6-1-slovan-bratislava-resumen-goles-champions-league-jornada-1-video.html",
+      "published": "2026-09-09T21:14:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/eH9a21geSmu46q58V.jpeg",
       "coverage": 1,
-      "relevance": 20.21,
+      "relevance": 19.61,
       "sources": [
         "Marca"
       ]
@@ -439,13 +440,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Álvaro Montero jugó con Boca tras perder a su abuela: la emotiva revelación del DT",
-      "summary": "El gesto de Álvaro Montero en Boca Juniors tras una dolorosa pérdida familiar",
-      "url": "https://www.marca.com/co/2026/09/09/alvaro-montero-jugo-boca-perder-abuela-emotiva-revelacion-dt.html",
-      "published": "2026-09-09T17:59:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa19e06cb73f.jpeg",
+      "title": "Szoboszlai empató el gol de Llorente... ¡¡tras un taconazo increíble de Araujo dentro del área!!",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/champions-league/2026/09/09/gol-d-szoboszlai-1-1-liverpool-2-1-atletico-madr-video.html",
+      "published": "2026-09-09T21:12:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/09/6aa1cfb467519.png",
       "coverage": 1,
-      "relevance": 20.16,
+      "relevance": 19.6,
       "sources": [
         "Marca"
       ]
@@ -459,10 +460,38 @@
       "published": "2026-09-09T16:07:04+00:00",
       "image": "https://s.france24.com/media/display/97dd41f2-ab44-11f1-9a1d-005056bfb2b6/w:1024/p:16x9/000-C7LV3T3.jpg",
       "coverage": 2,
-      "relevance": 29.76,
+      "relevance": 27.99,
       "sources": [
         "France 24",
         "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "La cruenta batalla interna que se libra en el Pentágono por el futuro del ejército más poderoso del mundo",
+      "summary": "La agitación en las fuerzas armadas podría marcar el legado del segundo mandato de Trump, escribe Tom Bateman, corresponsal de la BBC en el Departamento de Estado.",
+      "url": "https://www.bbc.com/mundo/articles/cg5904rpmp4o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-09T19:41:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a940/live/5ce303e0-ac87-11f1-ab14-5b9069dc795d.jpg",
+      "coverage": 1,
+      "relevance": 20.23,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Israel da 30 días a Reino Unido para cerrar su consulado en Jerusalén Este tras las sanciones a los asentamientos",
+      "summary": "Israel dio al Reino Unido un plazo de 30 días para cerrar su histórico consulado en Jerusalén Este, en respuesta a la decisión de Londres de prohibir el comercio con los asentamientos israelíes en Cisjordania ocupada. La medida aumenta la tensión entre ambos países, mientras Francia y Canadá...",
+      "url": "https://www.france24.com/es/medio-oriente/20260909-israel-da-30-d%C3%ADas-a-reino-unido-para-cerrar-su-consulado-en-jerusal%C3%A9n-este-tras-las-sanciones-a-los-asentamientos",
+      "published": "2026-09-09T21:54:55+00:00",
+      "image": "https://s.france24.com/media/display/22410a5c-ac69-11f1-812e-005056a90284/w:1024/p:16x9/000-C7P283A.jpg",
+      "coverage": 1,
+      "relevance": 20.16,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -474,9 +503,37 @@
       "published": "2026-09-09T18:48:58+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.77,
+      "relevance": 19.0,
       "sources": [
         "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "🗣️ \"El obstáculo son dos personas que se odian\"; dice el presidente Donald Trump tras su llamada con el presidente de Rusia, Vladimir Putin, sobre un posible cese de conflicto armado en Ucrania 🇷🇺🇺🇦 Video: Viory",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbkhNVkJ0R0VFMlZfRngzaXRVWGNTbXVtWGp0SDlpQWc2N284NkFhaDM2cVo2VkNOc0NfaG84NURvTXFJWWo5Z3Ewbzd4Y0ZWWDFjRm5zYmlaNkJYZktDV0MzbThQOVlZdmVJaEZqeWFFeVh3Z0xOXzV0VDRMQkhuZjY5T2w2WktNWll1cm1vYllVWkxYLVJUZ2xoeEJtNHRwZUVPaDFZWUpIMEFlUkF3TEdLakFlTjdLZ1B3SGxTV2lHOVE1aVotMzJXVVdSeTJDUmVnSnlmOHdGRnE3bEVkekR1bzktZ3RQbUp4cA?oc=5",
+      "published": "2026-09-09T23:25:08+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.93,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Trump afirma que la guerra contra Irán acabará \"inmediatamente\" tras elecciones legislativas en EU",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZmZ3V2pLOFFCMEpGS1ZsS1RqX2FubXZFTDZPZG1pUGFSMXY0TDZpLTROMGtucU9LNE9PYVNRV3d3c0xuR21QemUxRGVwMVp6RF9hMkdrX0UzaXgzSG1IczJwOWM4WWxrV1gzOWFOX3FlZmFzV19wemxPWnRvdzJ4eXFMTkYzSzNyN0o2em5wazZyQ1hwX1dreS00bktMZjhBcS1XTmVHSDJZY21RVEh5dVZWakRzaHRSMGtudU9wemlFSS1UZ2g3X1JsQjJKRUdFRnc5am5ORGRkT2fSAeABQVVfeXFMTUNDRzVHRnloVGxOQ2p2Z0RZVnNUZEdwVGtWR0VVS3dtcU5adnZPb0NVS1hlWE8xbkFtQjlsc1BlaWFMV3JHUmN3RVN3aWNJLWhkbHNtVjdvb181MGFPdTFmT0oxckFYTU5YQm9hODExUE01NHBpNHJjQXJxNkZBRW9CYjVfWklKVVBNVXhTaVFiYjU4bkxBZTV3Q2s4ZTMyWHoyR2xVNWR2cV8ybWFCNjZvb19SVnUwQ3QxLWlLSkxTcXNOVktLeGEtUlRvSGVoNHQ2OVExbWh3N052M3lHUmk?oc=5",
+      "published": "2026-09-09T23:16:07+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.87,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
@@ -488,7 +545,7 @@
       "published": "2026-09-09T18:07:10+00:00",
       "image": "https://s.france24.com/media/display/0c50d702-e73b-11f0-9727-005056bf30b7/w:1024/p:16x9/15372c707070979d307467b54c4b6beaf13add01w.jpg",
       "coverage": 1,
-      "relevance": 20.51,
+      "relevance": 18.74,
       "sources": [
         "France 24"
       ]
@@ -502,77 +559,21 @@
       "published": "2026-09-09T15:33:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e30/live/c326db60-ab90-11f1-aed2-8d6da8d75094.jpg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 18.68,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
-      "category": "belico",
-      "source": "France 24",
-      "title": "25 años del 11-S: ¿fracasó la \"guerra contra el terrorismo\"?",
-      "summary": "Veinticinco años después de los atentados del 11 de septiembre, la llamada “guerra contra el terrorismo” sigue dejando un balance controvertido. Las intervenciones lideradas por Estados Unidos en Afganistán e Irak transformaron el mapa político y militar de Medio Oriente y dejaron cientos de miles...",
-      "url": "https://www.france24.com/es/programas/expreso-de-oriente/20260909-25-a%C3%B1os-del-11-s-fracas%C3%B3-la-guerra-contra-el-terrorismo",
-      "published": "2026-09-09T17:44:43+00:00",
-      "image": "https://s.france24.com/media/display/f81088e4-ac71-11f1-accf-005056a90284/w:1024/p:16x9/WEB-PORTADA-09SEP-EXP.png",
-      "coverage": 1,
-      "relevance": 20.37,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Una fuerza destructiva\": el duro ataque del canciller Merz a AfD tras la primera gran victoria electoral del partido de ultraderecha en Alemania",
-      "summary": "El cancillar alemán se enfrentó a la líder de la AfD, Alice Weidel, afirmando que su política migratoria equivale a una \"limpieza étnica\" de trabajadores cualificados.",
-      "url": "https://www.bbc.com/mundo/articles/cy0zq18n2k1o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-09T15:09:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c567/live/db519c50-ac3c-11f1-aa42-a9647fd0ba61.png",
-      "coverage": 1,
-      "relevance": 20.3,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Qué busca EE. UU. en Ecuador? Rubio refuerza la alianza antidrogas tras renovada ofensiva en el Pacífico",
-      "summary": "El secretario de Estado de EE. UU., Marco Rubio, se reúne este 9 de septiembre en Ecuador con el presidente Daniel Noboa en un momento de máxima sintonía entre Washington y Quito en materia de seguridad, narcotráfico y lucha contra el crimen organizado. La visita–parte de una gira también por...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260909-qu%C3%A9-busca-ee-uu-en-ecuador-rubio-refuerza-la-alianza-antidrogas-en-medio-de-la-pol%C3%A9mica-por-ataques-en-el-mar",
-      "published": "2026-09-09T16:53:23+00:00",
-      "image": "https://s.france24.com/media/display/6dff4a82-c1bc-11f0-8820-005056a97e36/w:1024/p:16x9/AP25247560781712.jpg",
-      "coverage": 1,
-      "relevance": 20.04,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Qué club armó el mejor equipo para ganar la Champions League?",
-      "summary": "El máximo torneo de clubes en Europa ya tiene rodando el balón. 36 equipos sueñan con disputar la final en el estadio Metropolitano de Madrid, pero solo unos pocos parten como favoritos para conquistar el trofeo. ¿Qué conjunto se reforzó mejor para la presente edición del campeonato? ¿Cuál es el...",
-      "url": "https://www.france24.com/es/programas/deportes/20260909-deportes-champions-refuerzos-favoritos-futbol",
-      "published": "2026-09-09T16:24:28+00:00",
-      "image": "https://s.france24.com/media/display/7c31df44-abfd-11f1-a590-005056a97e36/w:1024/p:16x9/AP26251749240430.jpg",
-      "coverage": 1,
-      "relevance": 19.86,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Rector de Udelar: “Hace más de diez años” que no se realizan actividades en el marco del acuerdo con la Universidad de Tel Aviv",
-      "summary": "La Facultad de Humanidades pidió en mayo a las autoridades universitarias revocar el memorando de entendimiento con la universidad israelí por su “cooperación” con “el régimen de apartheid” contra los palestinos.El rector de la Universidad de la República (Udelar), Héctor Cancela, aseguró que “en...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/rector-de-udelar-hace-mas-de-diez-anos-que-no-se-realizan-actividades-en-el-marco-del-acuerdo-con-la-universidad-de-tel-aviv/",
-      "published": "2026-09-09T18:50:08+00:00",
+      "title": "Delgado le planteó a Orsi crear una comisión multipartidaria para plebiscitar los allanamientos nocturnos",
+      "summary": "“Uruguay está necesitando un instrumento para poder trabajar contra el narcotráfico y el crimen organizado”, dijo Delgado, y el presidente “tomó nota”Finalmente, este miércoles, el presidente Yamandú Orsi recibió en la Torre Ejecutiva a Álvaro Delgado, cabeza del directorio del Partido Nacional...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/delgado-le-planteo-a-orsi-crear-una-comision-multipartidaria-para-plebiscitar-los-allanamientos-nocturnos/",
+      "published": "2026-09-09T23:35:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 19.89,
       "sources": [
         "La Diaria"
       ]
@@ -580,13 +581,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "A 37 días del comienzo de la ocupación en Magisterio, el centro de estudiantes pidió disculpas al CFE para retomar negociaciones",
-      "summary": "Desde el gremio estudiantil atribuyen la prolongación del conflicto al “caos institucional” del CFE, así como a un proceso de reorganización interna del propio centro de estudiantes.A partir de mañana el Centro de Estudiantes de Magisterio (CEM) retomará las negociaciones con el Consejo de...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/9/a-37-dias-del-comienzo-de-la-ocupacion-en-magisterio-el-centro-de-estudiantes-pidio-disculpas-al-cfe-para-retomar-negociaciones/",
-      "published": "2026-09-09T18:39:26+00:00",
+      "title": "Copa Sudamericana: Torque, por seguir haciendo historia, visita a Cienciano",
+      "summary": "El partido de ida de los cuartos de final se juega este jueves a las 21.30 en los 3.400 metros sobre el nivel del mar de Cusco.Hace muchos años, cuando el equipo recién integrado artificialmente a la AUF jugaba en los andurriales de la C porque aún no se había refundado la D, el ingeniero Federico...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/copa-sudamericana-torque-por-seguir-haciendo-historia-visita-a-cienciano/",
+      "published": "2026-09-09T23:28:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 19.85,
       "sources": [
         "La Diaria"
       ]
@@ -594,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "El cuento del rey: sobre los cargos de confianza en el Estado",
-      "summary": "Había un rey que no gobernaba solo. En casi todas las cortes y a lo largo de los siglos, había a su lado un hombre que resolvía como si fuera el mismísimo representante de dios en la tierra. Lo llamaban el Valido (o el privado) y su poder no provenía de un mérito ni de una herencia: el favor...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/el-cuento-del-rey-sobre-los-cargos-de-confianza-en-el-estado/",
-      "published": "2026-09-09T18:36:51+00:00",
+      "title": "Champions League: Rodrigo Salazar hizo un golazo y Ronald Araújo dio una asistencia de taco",
+      "summary": "También se destacaron Lucas Torreira y Maximiliano Araújo, en otra buena jornada para los uruguayos en Europa.La primera fecha de la fase de grupos de la Champions League empezó el martes con buen protagonismo de futbolistas uruguayos, y siguió este miércoles con más de lo mismo. Esto debe tener...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/champions-league-rodrigo-salazar-hizo-un-golazo-y-ronald-araujo-dio-una-asistencia-de-taco/",
+      "published": "2026-09-09T23:15:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.79,
+      "relevance": 19.77,
       "sources": [
         "La Diaria"
       ]
@@ -608,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "INE e Inacoop firmaron un convenio para realizar un censo de cooperativas y sociedades de fomento rural en 2027",
-      "summary": "El último fue en 2008 y se identificaron 1.124 entidades: casi dos décadas después, las instituciones prevén que los primeros resultados estén hacia finales del próximo año.Este miércoles, jerarcas del Instituto Nacional de Estadística (INE) y del Instituto Nacional del Cooperativismo (Inacoop) se...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/ine-e-inacoop-firmaron-un-convenio-para-realizar-un-censo-de-cooperativas-y-sociedades-de-fomento-rural-en-2027/",
-      "published": "2026-09-09T18:34:56+00:00",
+      "title": "Lula pidió el levantamiento total del secreto en la investigación del caso Master, en medio de la crisis del Poder Judicial",
+      "summary": "“Es necesaria mayor transparencia, no filtraciones selectivas que impacten en la disputa electoral”, expresó el mandatario.A menos de un mes de las elecciones presidenciales brasileñas del 4 de octubre, el mandatario Luiz Inácio Lula da Silva pidió este miércoles el levantamiento total del secreto...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/lula-pidio-el-levantamiento-total-del-secreto-en-la-investigacion-del-caso-master-en-medio-de-la-crisis-del-poder-judicial/",
+      "published": "2026-09-09T23:07:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.78,
+      "relevance": 19.72,
       "sources": [
         "La Diaria"
       ]
@@ -622,41 +623,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Críticas al turismo en Salto: calles deterioradas, termas en declive y falta de propuestas",
-      "summary": "Visitantes y estudiantes cuestionaron distintos aspectos de la ciudad y de la gestión turística departamental.En comunicación con la diaria, turistas provenientes de la región norte de Uruguay expresaron su sorpresa por el estado lamentable de algunas calles de Salto y cuestionaron el trabajo de...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/9/criticas-al-turismo-en-salto-calles-deterioradas-termas-en-declive-y-falta-de-propuestas/",
-      "published": "2026-09-09T17:09:58+00:00",
+      "title": "Comenzó el tratamiento en Diputados del proyecto de competitividad: “Una ley interesante que puede ser mejorada”, destacó Andújar",
+      "summary": "La Comisión de Hacienda recibió al ministro de Economía y Finanzas, Gabriel Oddone, quien adelantó a los diputados que enviará modificaciones con base en lo discutido en el Senado, donde la iniciativa tiene media sanción.La Cámara de Diputados comenzó el tratamiento del proyecto de ley sobre...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/comenzo-el-tratamiento-en-diputados-del-proyecto-de-competitividad-una-ley-interesante-que-puede-ser-mejorada-destaco-andujar/",
+      "published": "2026-09-09T23:01:36+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.25,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Daniel Caggiani destacó el nuevo protagonismo internacional de Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUWlITHM3T1FVdEc2SWVaOVhrOVhlbUNTOW1xaV9aaTJheEYzWENoUjlwWGhhTVNDaFFZcllabjFJa3RtejlIRmxZRGlfU3FyYmRieEJlcEN1TTZsYTM3a0xpQWtjOHNpMGpUbjRTYm05aFNqYmdLaDRIUzRkQjlha1otbWpBNWh0UXE4blFlaUZubEF6?oc=5",
-      "published": "2026-09-09T18:22:13+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.8,
-      "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Accionista mayoritaria de Montecon propuso al Poder Ejecutivo invertir 900 millones de dólares en nueva terminal de contenedores",
-      "summary": "El gerente de Desarrollo de Negocios de la empresa Neltume Ports, Fernando Reveco, la presentó como una iniciativa capaz de “marcar un antes y un después para el puerto de Montevideo”El viernes 4, representantes de la empresa Neltume Ports, que es socia mayoritaria de Montecon, se presentaron en la...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/accionista-mayoritaria-de-montecon-propuso-al-poder-ejecutivo-invertir-900-millones-de-dolares-en-nueva-terminal-de-contenedores/",
-      "published": "2026-09-09T15:54:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.77,
+      "relevance": 19.68,
       "sources": [
         "La Diaria"
       ]
@@ -664,13 +637,41 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Murga La Democracia vuelve a escena para celebrar 40 años de su primera actuación",
-      "summary": "La histórica agrupación sanducera, surgida en plena dictadura y censurada por sus letras, presentará el espectáculo La Demo 40+3 el 19 de setiembre en el espacio cultural Gobbi.El 19 de setiembre, a las 20.30, en el Espacio Cultural Gobbi, murga La Democracia presentará el espectáculo La Demo 40+3,...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/9/murga-la-democracia-vuelve-a-escena-para-celebrar-40-anos-de-su-primera-actuacion/",
-      "published": "2026-09-09T15:51:08+00:00",
+      "title": "Director Nacional de Educación: “Un país desarrollado democratiza su educación”",
+      "summary": "Gabriel Quirici destacó el crecimiento de las becas para estudiantes de educación media, el fortalecimiento de los acompañamientos educativos y la necesidad de profundizar la descentralización de la formación terciaria.El director nacional de Educación, Gabriel Quirici, conversó con la diaria en...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/9/director-nacional-de-educacion-un-pais-desarrollado-democratiza-su-educacion/",
+      "published": "2026-09-09T22:56:11+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.76,
+      "relevance": 19.65,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Razón de sexos, primera parte: de la Providencia al azar",
+      "summary": "La misteriosa relación, estable a lo largo del tiempo, entre la cantidad de nacimientos femeninos y masculinos, es el punto de partida para que Hugo de los Campos nos lleve a la cocina de la estadística y la ciencia.Las rarezas, las anomalías, las regularidades sin explicación, tensan el músculo de...",
+      "url": "https://ladiaria.com.uy/ciencia/articulo/2026/9/razon-de-sexos-primera-parte-de-la-providencia-al-azar/",
+      "published": "2026-09-09T22:50:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.61,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Sanción a Peñarol por incidentes del clásico: quita de puntos, partidos sin público y multa económica",
+      "summary": "La Comisión Disciplinaria de la AUF determinó que hubo responsabilidad objetiva del club en los disturbios y dispuso además una sanción en tres partes.Este miércoles se dio a conocer el fallo de la Comisión Disciplinaria de la Asociación Uruguaya de Fútbol por los incidentes que tuvieron lugar en...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/sancion-a-penarol-por-incidentes-del-clasico-quita-de-puntos-partidos-sin-publico-y-multa-economica/",
+      "published": "2026-09-09T22:42:47+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.56,
       "sources": [
         "La Diaria"
       ]
