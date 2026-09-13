@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T18:23:31.983780+00:00",
+  "updated_at": "2026-09-13T23:43:38.437992+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,7 +10,7 @@
       "published": "2026-09-13T14:51:22+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/QPBBYORM75AT3O3TETV5EWVBCI.jpg?auth=370c325cf48ace2845c1c6ad43689f802642ddffd9c96028286bfeefb7b924af",
       "coverage": 1,
-      "relevance": 20.07,
+      "relevance": 18.07,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +24,51 @@
       "published": "2026-09-13T12:35:52+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/OQF55JAHXRF7RBBH36OXH7XZIQ.JPG?auth=bf04c4e14e550b6fe3444659ec7a9cf1cd6d567da03315bc8d330b2ae96ddabe",
       "coverage": 1,
-      "relevance": 19.23,
+      "relevance": 17.23,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Mercados: el riesgo país cayó a su nivel mínimo en un mes y la Bolsa porteña cortó la racha alcista",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSk9zUzVpSWdRbTdtZVRKOWV6QlY5SFBaaC1jeEFOamdNc1dnOUNGN2o1MEliOTNXQ1FBV21xWDdJUUVZTFQzdVlkcHZKaXJ2RmFpTTZSYXVOOF9yQTVmb1RxWUI0djd4RFVBQ3V0emlSTkZ6WmxrOHh6LU9CQWNBbmhxb2dpNlV6YnJFaXBSc1l6MXBJQkQ2djBCSXBLZ2t4blMwOFRiZjlGZTZ6T3lRVzlwZ0FwWl9hVVo4T29zWV9ld2lsMzFrVVI1OTU3bmIxNjNyaXA2UkJtdw?oc=5",
+      "published": "2026-09-13T18:59:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.22,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Se despide el papel higiénico: la alternativa para baños que gana terreno y es tendencia mundial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUk5aUGVHREdUdmU3YWpteTN5djc2S1ZYdGhUQVVJMllnMU9GRzl2N1hMRnppaXFNX1F1ZXB1SzdhdnpSS3VXWVhaa2tjaHFCSDFKVUlib2ZSWktQVnVCTVVuOEs2YWxLUUdoRDUzXzdabDBWT09EMHIySzk3WGRZeFA0Z2JEYlBRN1VkLVJQUXE0Rkp3RkZQRmdfazJyOHVubmhuZ1Z0MEVpZVZQa0FNSHc5NTcxTHFjdFNSWXljS3Zzcl8tSmJHa3d6QjNhUmRUbFNHeUE1cDNCbXFoZWfSAfgBQVVfeXFMTjRhUnF3c2JEUldZVjRFWVd4WVVSZEpfNWoyODBJTnJDa21SZE5LTXVmajdOX0pLMjltRmlhdTQ0NkxjS2NndVZqYmZtZWlLS1BPejFpS0Z0T0YxZHU0czlhVHZGX1Y5djNvZ1RPOXFmUmQ5MVZ6WmFXbkVtZVBkUWppSDVSMWNraGlxckpUVTNzeS1weVhqRk9FN1F5LXl5aXVsaWs1T1R0OVlWOHRfOVhxNzFlYlhxMmszQVFGSDFxd191bGxxemh1TjYtYkoyVjlNa2VDR0FMQTdmZVN1YURmbm44RUtJTldoLWVFZlBNdVcwbUIweEY?oc=5",
+      "published": "2026-09-13T18:49:49+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.16,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "José Elías, empresario | “Me preocupa cuando la gente con una nómina de 1.500 euros se compra un piso para alquilar por 1.500”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdUhFaHpRMmMzLTFlSlRzME5vT29hUEd1bjJiZU5mcU1HR0JpdXFCTktMRUhwekdvWFRMOHQ4MFZLUEo2YnN3M0hTUm1HVWk4cGNvME1obVZHNnBKOF96ME85MzlqQjhOU0Q5MnkxRzR6MDFkOFlxSzNrZl8ySzdDYVVZV0tLYmo3ZjNzdGJad0QzTFdUaktVbmJkYUtYZDdmWGNrOXFONmNxcW52MEYzRkx5OXRKZEVCaDhMbnJqT2VNNXktem9IY0ZLOHlfbHlhRTczLUpiSHAzUDBiY1JBNzdjSG5uU0EzOU5INW5HdmR6NFNSdXVnQkUwb1nSAZcCQVVfeXFMUHQ2VnFibVQ4bzNsMmU2V2NvNmFiLVlTWXNMWFQ2R21OMG5fdWc4ZnR5WE43RzI5VTdXQV9mZmZ3QVF3YkMtMXpqaHgzRFVwZ1B6cHNic0MwRXoyNVZncmJjS0V4S3l0bUtsMUp5Y3dxUTBfd0l2SXJnMFhqTERCY1Uzc0NOX1kyMUtlVlJZRl9VZnAxVTRsU0lxSDFNTUZIc1J1VXlpWlRKTHhUSmxzUGU2RzlKcE1FRFhuQUpyMXVBYURHLTU3cW1xd3JsWnlkUC0xckhWNzV5YXdxeE11cmZXV1VubUxTNUl3MFJPdlI4OWF2MzAwVUhzS05BaDNuTFBxYXhSZXRJSmlBLXJrNnJHYWhzdm1j?oc=5",
+      "published": "2026-09-13T17:33:49+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.69,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,21 +80,7 @@
       "published": "2026-09-13T15:00:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.73,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar blue: a cuánto cotizan hoy en Mendoza 13 septiembre 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVU13MW1Ra3dzM2FHaThEY09mU2Iyb1JrdHRZa29jMXhxcXNSNkdUVG8xT3cwTEQxeWFUdzlUTklNbEZiSVNHRFpvamE2ZU80OEowRWNfM1VhYndlT0xpNVYwNTJqMERzRkk0SXNPZGJNSGF0MWQ2SDh1cEJqT1Rmck1mQjE1TnRkNlhoVDJFZzloWjlJ?oc=5",
-      "published": "2026-09-13T14:35:07+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.57,
+      "relevance": 15.73,
       "sources": [
         "Google Economía"
       ]
@@ -66,7 +94,7 @@
       "published": "2026-09-13T14:28:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.53,
+      "relevance": 15.53,
       "sources": [
         "Google Economía"
       ]
@@ -74,41 +102,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "La TRM llegó a $3.101 el 11 de septiembre tras bajar 16,8% en el año, pero el impacto sobre los saldos depende de la inversión externa, las coberturas y otros activos",
+      "title": "Tras casi 70 años en función, cerró una de las fábricas más reconocidas del país: más de 300 trabajadores perdieron su empleo",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQa0V4RW5lcEY2YU5LclJWY1dPNmdCZVo4YUc3WEU4UllZZGlLZndaYWo0bzBHMi0zYlM2VE54VlY1YUlNNTJPX1FIUkdmLXZoZEdUS3cyZm1sTzl3WFZzd2NEMlZSeEczZ18zaGN3VnVQS2RnMFFyMlhHVmNMZGFOa3daeElXWVRnSXBCUWhJSWxVZVREZWZZakQwODBOM1NPZGtqX0pJckRRVkdTd0pDUG1hRlNuZDYwNHRDY21semYtU3NUNlV1c1FSRkNLN0E2ekpuc3NDSnZpUFV1RlZ1MW1JdFlBOGFiZzFF?oc=5",
-      "published": "2026-09-13T13:46:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNRUdIa3VWTEkzSW5wei1KU1cxOTNYd0RiYXVtN2NtbjNRTnd5Z3FsVjJmVmZDYVVFNUZ5cEozdEFZVGxQWUJOV1JXajFERHBJbW9YZmstMXdSX0N0TTQ1dlhDTkFGcExmQ2l2VUtKNUJCTWstU180YlZ6VVA4X1BjNm9LSE5zMS04czlnbGdwVzJtOG9KUDlsSWZHT1l3RVIyTDRtWl9pYUItd0F1RWpldmQ3Nmg0WkxQcmhJclJ6VGVNQzFnMXNkdVljMFRFQ2puR3Y5THRJb1dxWW1xdmxKc0haSWFpMHpqTXNEUXdtM3g4UGxiaWs1R2ptdDMxYmVaeHfSAZwCQVVfeXFMTS1GYnZ1OG10X1JnUVNmV0RyZDVYZXBkNTgzRkRnV2lqbmF3TV9JamF4dlRvS1QzZVFVbFYyemllSGRoSWRIOWhWZXQwOGhkMWZiUkotM0ZOal96WUwtdnhYcUVuS3QyOC15UFJsTUw2OC1UQm1oTVZ3dDNiRnVlblZmRWlVcWE5M1pYTG9tWG1MNHRTMXRqcGpWa1BwVjU0VnFSM3RMNlpqOGstanliVjFIVXM1ZnNJdk8wekFyT2l2OHhHdkVNNkQzQUZJSDdkd21BSlI1SElTY0tuQXdyNFBjdjlwTGJEX3k2WTNieUVaeDhCaERDYUR6UWFPRGdPMEN5ZC1HYmY2M3pzWWRCdkRINEtqa1Vuc3liWmo?oc=5",
+      "published": "2026-09-13T14:12:03+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.27,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El dólar podría cerrar el año arriba de $1.700, según los pronósticos más pesados",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2tRNU5Pd1d1dFZnWVhjS05XclFPb3FPejFVQkVfbDVQSmltd0MyS0t0cVVwbGFCQ2RBdm85N1NyMkd6RkVHbkNhYnBBRGNxanhQS2pjQ0l0NnRldm1fR1hJYlZxR09HRXA1RnVxQlozNnJQajVlY1dBMXhSTTM3THN2MzFfcUtYS0h0bERCcWdmVURQek56bHRUbWhmMnE2UnRpZDVsSUZTZWZEUzBRVEJ3?oc=5",
-      "published": "2026-09-13T13:39:10+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.22,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dile adiós papel higiénico: la tendencia más limpia y económica que lo reemplazará en todos los baños para 2027",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNEMxMkx4azQ4ckF4UHhLb1NRZWRFaWtpTEZXaF9fUDNKbENGTnRXcVZsWUtvd0IyVjRkVHV3SWVNM1l6bUoyRndWT0RQTFg0OFVBTGhiNXM0ZVExSVN0N2NyaGR2Z0ZPSVJxT0VGVkI2US1kczdrSGoyemxob1VLVnNzQWtGdDYzU0JDdENzcW93NU9GWDByMEVWdnRaNXdXQTJaUG56Z3M4UUVyUzR3RU5lRjBURmZDQ2psNlpaZXNHbXFLSlBxUGRCaXFfZUV1XzhYTU15Z2ZfZngtNkdjWXNnZEU2cXlQYlF2MXpiWdIBigJBVV95cUxNdlU3aTZQQTItNjl5RjI5b3ZJbjVHa0NvYTVRU1hWcGxZWVBld1g3QjVDWEt3NDgxNU5qcmpYYnFyRlBQekpFNlk3YmF5YXJBeUpTSnBEeGJGalpDd01TNE9vTVRGUnB4Y05QN09TWkMwN1N5ZWhJSVhyM18xbEhSSkYwUENFSUZKNG5RcElvdURFcjlXWVlBdHZHYUJPa1Nib3R0aGMyTU5Hc1dKQlhvZDE4SzN0dHE3bWYwc2ljTXdzMXVJaWhDLVBDdmdzMkdkeXpCSGFPN3dwMkdJRkNCbDBSTzVKVWg2aEVIclFNNFNQa1FrVUxQcnhObm5zejZxWGlhY0Y2M1hkZw?oc=5",
-      "published": "2026-09-13T13:29:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.16,
+      "relevance": 15.43,
       "sources": [
         "Google Economía"
       ]
@@ -122,7 +122,7 @@
       "published": "2026-09-13T17:43:29+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.95,
+      "relevance": 17.95,
       "sources": [
         "Aleteia"
       ]
@@ -136,7 +136,7 @@
       "published": "2026-09-13T16:40:31+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.56,
+      "relevance": 17.56,
       "sources": [
         "Aleteia"
       ]
@@ -150,7 +150,7 @@
       "published": "2026-09-13T13:18:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/12/caterina-da-siena.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.89,
+      "relevance": 16.89,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +164,7 @@
       "published": "2026-09-13T14:43:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.82,
+      "relevance": 16.82,
       "sources": [
         "Aleteia"
       ]
@@ -178,7 +178,7 @@
       "published": "2026-09-13T14:06:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.59,
+      "relevance": 16.59,
       "sources": [
         "Aleteia"
       ]
@@ -192,7 +192,7 @@
       "published": "2026-09-13T10:52:31+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/11/chemmani-1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.98,
+      "relevance": 15.98,
       "sources": [
         "Vatican News"
       ]
@@ -206,7 +206,7 @@
       "published": "2026-09-13T10:31:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2021/09/09/03/1631149597073.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.85,
+      "relevance": 15.85,
       "sources": [
         "Vatican News"
       ]
@@ -220,7 +220,7 @@
       "published": "2026-09-13T10:15:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/13/2026-09-13-angelus/1789294511197.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.75,
+      "relevance": 15.75,
       "sources": [
         "Vatican News"
       ]
@@ -234,7 +234,7 @@
       "published": "2026-09-13T17:52:09+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/BUWRMPHIIJMILDS7DYOR4BPPXM.jpg?auth=0c3fc160692e3a4c21a3dd21e0496603b3b08b1713d71bcffe75a51aaa4a9040",
       "coverage": 1,
-      "relevance": 21.2,
+      "relevance": 19.2,
       "sources": [
         "El País Tech"
       ]
@@ -248,9 +248,37 @@
       "published": "2026-09-13T17:31:37+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/VV6PX4DCTZOFZIKDVWFLAWNGLA.jpg?auth=c422973ef2dfe37e77ce973446efdbf0b2a044a8620c03932b6970ca27c9b294",
       "coverage": 1,
-      "relevance": 21.08,
+      "relevance": 19.07,
       "sources": [
         "El País Tech"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Cuando un estudiante prometió 1.000 dólares haciéndose pasar por Bill Gates y su broma acabó siendo imposible de detener",
+      "summary": "Mucho antes de que hablásemos de publicaciones virales, tendencias o algoritmos, Internet ya había encontrado una forma bastante eficaz de conseguir que una misma historia circulase de una persona a otra: pedirnos que pulsáramos \"Reenviar\". El correo podía llegar de un amigo, un compañero de...",
+      "url": "https://www.xataka.com/seguridad/cuando-estudiante-prometio-1-000-dolares-haciendose-pasar-bill-gates-su-broma-acabo-siendo-imposible-detener",
+      "published": "2026-09-13T19:01:00+00:00",
+      "image": "https://i.blogs.es/cbf0ad/correo-falso-bill-gates/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.73,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Una flor adelantada a su tiempo: hallan en China un fósil de 295 millones de años que sitúa a los frutos antes que los dinosaurios",
+      "summary": "Hoy en día, las plantas con flores y fruto (las angiospermas) son el grupo dominante del reino vegetal, pero la ciencia no sabe con certeza cuándo aparecieron las primeras. El consenso generalizado apunta al Cretácico, hace unos 130 o 145 millones de años, si bien hay otras estimaciones que sitúan...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/flor-adelantada-a-su-tiempo-hallan-china-fosil-295-millones-anos-que-situa-a-frutos-dinosaurios",
+      "published": "2026-09-13T18:31:00+00:00",
+      "image": "https://i.blogs.es/3b4225/gemini_generated_image_2ynn182ynn182ynn/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.55,
+      "sources": [
+        "Xataka"
       ]
     },
     {
@@ -262,7 +290,7 @@
       "published": "2026-09-13T16:06:07+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/YLZXBJHDH5HB7I32A4FYGYMIK4.jpg?auth=f5ff546420e04b96c3929548ce683af87bb6848a2cc29215c3b23b7d3c89c812",
       "coverage": 1,
-      "relevance": 20.54,
+      "relevance": 18.54,
       "sources": [
         "El País Tech"
       ]
@@ -276,7 +304,7 @@
       "published": "2026-09-13T18:01:00+00:00",
       "image": "https://i.blogs.es/f9f0d6/subir-escaleras/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.36,
+      "relevance": 18.36,
       "sources": [
         "Xataka"
       ]
@@ -290,7 +318,7 @@
       "published": "2026-09-13T17:31:00+00:00",
       "image": "https://i.blogs.es/80dfbe/la-cueva-del-viento-interior/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.17,
+      "relevance": 18.17,
       "sources": [
         "Xataka"
       ]
@@ -304,49 +332,105 @@
       "published": "2026-09-13T18:00:00+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Peliculas-100-Nteflix.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.05,
+      "relevance": 18.05,
       "sources": [
         "Hipertextual"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Estuve en IFA y me quedé impresionada con los robots humanoides chinos. Hasta que vi lo que había detrás",
-      "summary": "He escrito bastante sobre robots humanoides y he visto muchos vídeos de ellos en acción; desde robots preparándose para coronar el Everest, pasando por el robot que superó el récord de Usain Bolt, hasta los robots bailarines del año nuevo chino. Sin embargo, aún no los había visto en directo y mi...",
-      "url": "https://www.xataka.com/robotica-e-ia/estuve-ifa-me-quede-impresionada-robots-humanoides-chinos-que-vi-que-habia-detras",
-      "published": "2026-09-13T17:01:00+00:00",
-      "image": "https://i.blogs.es/63b128/humanoides-ifa-02/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Monumental Madrid, jaleo en el fútbol inglés...",
+      "summary": "Así vienen los periódicos deportivos de este lunes 14 de septiembre de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/09/14/portadas-dia.html",
+      "published": "2026-09-13T23:18:24+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa72e7d92666.jpeg",
       "coverage": 1,
-      "relevance": 19.98,
+      "relevance": 20.34,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Siempre hablamos del peso, pero el verdadero problema del efecto rebote podría estar en los músculos",
-      "summary": "Adelgazar es uno de los propósitos más comunes que vemos en nuestra sociedad para mejorar la salud o verse físicamente mucho mejor. Pero a menudo este objetivo se convierte en un ciclo interminable de pérdida y recuperación de kilos, que es lo que se conoce popularmente como 'efecto rebote' o...",
-      "url": "https://www.xataka.com/medicina-y-salud/siempre-hablamos-peso-verdadero-problema-efecto-rebote-podria-estar-musculos",
-      "published": "2026-09-13T16:31:00+00:00",
-      "image": "https://i.blogs.es/6887c6/peso/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Zverev se lo dedica a su madre: \"Me diagnosticaron diabetes y dijo que su hijo sería lo que quisiera ser\"",
+      "summary": "El campeón del US Open convive desde los cuatro años con esa enfermedad",
+      "url": "https://www.marca.com/tenis/us-open/2026/09/14/zverev-dedica-madre-me-diagnosticaron-diabetes-dijo-hijo-seria-quisiera.html",
+      "published": "2026-09-13T23:00:30+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa72a0a7c1f0.jpeg",
+      "coverage": 1,
+      "relevance": 20.23,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La celebración más surrealista de un Grand Slam",
+      "summary": "El alemán supo de su victoria por el ruido de la grada y la presencia de Shelton en la red",
+      "url": "https://www.marca.com/tenis/us-open/2026/09/14/celebracion-surrealista-grand-slam-zverev-da-cuenta-ganado-quiere-restar.html",
+      "published": "2026-09-13T22:44:22+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa72686b22bd.jpeg",
+      "coverage": 1,
+      "relevance": 20.13,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "\"Para mí claramente no es penalti\"",
+      "summary": "El técnico de la Real consideró la decisión del árbitro decisiva en el devenir del partido y denunció que ya son tres encuentros seguidos con acciones que perjudican a su equipo",
+      "url": "https://www.marca.com/futbol/real-sociedad/2026/09/14/matarazzo-mi-claramente-penalti-ochieng-retirando-brazo.html",
+      "published": "2026-09-13T22:08:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa71e7e42629.jpeg",
+      "coverage": 1,
+      "relevance": 19.91,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Zverev, es para desesperarse...",
+      "summary": "Pleno de VIPS en una ciudad como Nueva York en la que conviven estos días el tenis y la semana de la moda",
+      "url": "https://www.marca.com/tenis/us-open/2026/09/14/trump-cambia-tenis-golf-final-empieza-hora-colas.html",
+      "published": "2026-09-13T22:01:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6d7d9af638.jpeg",
+      "coverage": 1,
+      "relevance": 19.86,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Zverev silencia Nueva York y pide un hueco en la historia del tenis",
+      "summary": "El alemán, de 29 años, derrota a Shelton en cuatro sets y deja sin título del US Open a Estados Unidos",
+      "url": "https://www.marca.com/tenis/us-open/2026/09/13/zverev-silencia-nueva-york-pide-hueco-historia-tenis.html",
+      "published": "2026-09-13T21:52:16+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/14/6aa7222972243.jpeg",
       "coverage": 1,
       "relevance": 19.8,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Corberán se despide: \"No es un adiós cualquiera...\"",
-      "summary": "El técnico de Cheste dice adiós tras 629 días en el cargo y da las gracias a la afición a los jugadores y a la familia Lim",
-      "url": "https://www.marca.com/futbol/valencia/2026/09/13/corberan-despide-adios-cualquiera-me-despido-historia-sentimiento.html",
-      "published": "2026-09-13T18:06:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6e35f5ff53.jpeg",
+      "title": "Escándalo en la Premier: el organismo arbitral reconoce que el gol de Haaland era ilegal",
+      "summary": "El tanto que decidió el derbi de Mánchester no debió subir al marcador",
+      "url": "https://www.marca.com/futbol/premier-league/2026/09/13/organismo-arbitral-premier-league-reconoce-error-0-1-haaland-ilegal.html",
+      "published": "2026-09-13T21:48:06+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa71943d3de3.jpeg",
       "coverage": 1,
-      "relevance": 20.39,
+      "relevance": 19.78,
       "sources": [
         "Marca"
       ]
@@ -354,99 +438,45 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Zverev-Shelton, en directo",
-      "summary": "",
-      "url": "https://www.marca.com/tenis/us-open/2026/09/13/04-0404-20260913-127.html",
-      "published": "2026-09-13T17:55:43+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6e45b72328.jpeg",
+      "title": "\"Mbappé y yo somos los dos mejores del mundo, pero el Balón de Oro me lo merezco yo\"",
+      "summary": "El futbolista del F.C. Barcelona se sincera en 'Universo Valdano', en MovistarPlus+.",
+      "url": "https://www.marca.com/futbol/barcelona/2026/09/13/lamine-yamal-sinceramente-creo-me-merezco-balon-oro-he-ganado.html",
+      "published": "2026-09-13T21:43:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa7198b835b7.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 19.75,
       "sources": [
         "Marca"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El bronce del Mundial cierra otro verano mágico",
-      "summary": "Cinco medallas en otros tantos campeonatos: dos oros, una plata y dos bronces",
-      "url": "https://www.marca.com/baloncesto/mundial-femenino/2026/09/13/bronce-mundial-cierra-verano-magico-selecciones-femeninas.html",
-      "published": "2026-09-13T17:55:21+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6e30d28160.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Rusia ataca un tren ucraniano poco después de que Boris Johnson y altos funcionarios europeos abandonaran la estación",
+      "summary": "El ex primer ministro británico dijo: \"No sé qué lógica retorcida llevó a Putin a volar por los aires una locomotora ucraniana estacionada en la frontera polaca esta mañana\".",
+      "url": "https://www.bbc.com/mundo/articles/ckg0dr4ek99o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-13T20:23:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f4d2/live/edf64150-af96-11f1-b1d1-571ed4d7ff2c.jpg",
+      "coverage": 2,
+      "relevance": 30.45,
       "sources": [
-        "Marca"
+        "BBC Mundo",
+        "Google Noticias"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Shane Lowry vuelve a conquistar el Irish Open 17 años después",
-      "summary": "El irlandés ganó en 2009 como amateur; hoy arrasa con 23 bajo par y 11 golpes de ventaja",
-      "url": "https://www.marca.com/golf/dp-world-tour/2026/09/13/shane-vuelve-conquistar-irish-open-17-anos-despues.html",
-      "published": "2026-09-13T17:54:11+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6e3312e09e.jpeg",
-      "coverage": 1,
-      "relevance": 20.32,
+      "category": "belico",
+      "source": "France 24",
+      "title": "¿Boris Johnson en el blanco de la guerra?: un dron ruso ataca un tren en la frontera de Ucrania con Polonia",
+      "summary": "Un dron ruso impactó el domingo 13 de septiembre un tren de pasajeros en la frontera de Ucrania con Polonia, un miembro de la OTAN, poco después de que el ex primer ministro británico Boris Johnson y otros diplomáticos europeos utilizaran la misma línea.",
+      "url": "https://www.france24.com/es/europa/20260913-boris-johnson-en-el-blanco-de-la-guerra-un-dron-ruso-ataca-tren-en-la-frontera-de-ucrania-con-polonia",
+      "published": "2026-09-13T22:35:34+00:00",
+      "image": "https://s.france24.com/media/display/99fd5934-afbf-11f1-9c22-005056a90284/w:1024/p:16x9/2026-09-12T144938Z-176613886-RC2QHNAMIBST-RTRMADP-3-UKRAINE-CRISIS-ATTACK-LUTSK.jpg",
+      "coverage": 2,
+      "relevance": 30.37,
       "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"Enric Mas, el campeón de todos\"",
-      "summary": "El balear entierra sus fantasmas y firma un triunfo incontestable frente a Roglic en LaVuelta más exigente",
-      "url": "https://www.marca.com/ciclismo/opinion/2026/09/13/enric-campeon-todos.html",
-      "published": "2026-09-13T17:47:12+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6c2616c6f7.jpeg",
-      "coverage": 1,
-      "relevance": 20.27,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Iyana Martín: \"Estoy superorgullosa de todas mis compañeras\"",
-      "summary": "La base, elegida mejor jugadora del partido por el bronce, ha brillado en todo el Mundial",
-      "url": "https://www.marca.com/baloncesto/mundial-femenino/2026/09/13/iyana-martin-superorgullosa-todas-mis-companeras.html",
-      "published": "2026-09-13T17:45:36+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/.jpeg",
-      "coverage": 1,
-      "relevance": 20.26,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El casting para el banquillo",
-      "summary": "Mendilibar, acostumbrado a trabajar con plantillas limitadas, acaba de quedar libre tras ser destituido de Olympiacos",
-      "url": "https://www.marca.com/futbol/valencia/2026/09/13/casting-braulio-vazquez-banquillo-valencia-sueno-valverde-conexion-arrasate.html",
-      "published": "2026-09-13T17:41:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6de28d3c1b.jpeg",
-      "coverage": 1,
-      "relevance": 20.24,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Kane sofoca la rebelión del Elversberg",
-      "summary": "El Bayern gana y se coloca a dos puntos del liderato",
-      "url": "https://www.marca.com/futbol/bundesliga/cronica/2026/09/13/kane-sofoca-rebelion-elversberg.html",
-      "published": "2026-09-13T17:38:43+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/13/6aa6de22bb9ef.jpeg",
-      "coverage": 1,
-      "relevance": 20.22,
-      "sources": [
-        "Marca"
+        "France 24",
+        "Google Noticias"
       ]
     },
     {
@@ -458,7 +488,7 @@
       "published": "2026-09-13T15:54:14+00:00",
       "image": "https://s.france24.com/media/display/c1f8e372-af83-11f1-b8e0-005056bfb2b6/w:1024/p:16x9/ES-20260913-070137-070319-CS.jpg",
       "coverage": 2,
-      "relevance": 29.87,
+      "relevance": 27.87,
       "sources": [
         "France 24",
         "Google Noticias"
@@ -482,13 +512,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Consumidores canadienses apoyan productos locales por guerra arancelaria con EE. UU.",
-      "summary": "Los canadienses intentan ser más conscientes de sus compras con el objetivo de apoyar a productores y marcas nacionales en medio de la guerra comercial que Estados Unidos libra contra su país. En supermercados, muchos productos vienen identificados con una hoja de arce, emblema de Canadá, para...",
-      "url": "https://www.france24.com/es/video/20260913-consumidores-canadienses-apoyan-productos-locales-por-guerra-arancelaria-con-ee-uu",
-      "published": "2026-09-13T15:55:54+00:00",
-      "image": "https://s.france24.com/media/display/a70170ec-af84-11f1-ba6a-005056a90284/w:1024/p:16x9/ES-20260913-070624-070811-CS.jpg",
+      "title": "Rusia ataca ferrocarril cerca a la frontera de Ucrania con Polonia y prende las alarmas de la OTAN",
+      "summary": "Los ataques de Rusia se acercan cada vez más a territorio de la OTAN. Moscú apuntó a un tren de pasajeros y un camión a pocos kilómetros de la frontera ucraniana con Polonia, alarmando al Gobierno polaco. El primer ministro Donald Tusk aseguró que \"la escalada se está convirtiendo en una realidad\".",
+      "url": "https://www.france24.com/es/video/20260913-rusia-ataca-ferrocarril-cerca-a-la-frontera-de-ucrania-con-polonia-y-prende-las-alarmas-de-la-otan",
+      "published": "2026-09-13T23:08:21+00:00",
+      "image": "https://s.france24.com/media/display/526085bc-afc2-11f1-8813-005056a97e36/w:1024/p:16x9/ES-20260913-160229-160418-CS.jpg",
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 20.58,
       "sources": [
         "France 24"
       ]
@@ -496,13 +526,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "En directo: los hutíes de Yemen aseguran haber lanzado nuevos ataques contra Arabia Saudita",
-      "summary": "Tras su avance sobre el estrecho de Bab el-Mandeb, los rebeldes hutíes reivindicaron el lanzamiento de drones y misiles contra una base militar en la provincia saudita de Sharurah. Riad no reportó daños ni heridos, pero sí responsabilizó al grupo respaldado por Irán de la caída de un proyectil que...",
-      "url": "https://www.france24.com/es/medio-oriente/20260913-en-directo-los-hut%C3%ADes-de-yemen-aseguran-haber-lanzado-nuevos-ataques-contra-arabia-saudita",
-      "published": "2026-09-13T14:14:01+00:00",
-      "image": "https://s.france24.com/media/display/cdcfbfb2-aea8-11f1-bc8e-005056bf30b7/w:1024/p:16x9/AP26255412656670.jpg",
+      "title": "¿Por qué Arabia Saudita no puede detener a los hutíes a pesar de su gran inversión en armas?",
+      "summary": "Los hutíes de Yemen reivindicaron nuevos ataques contra Arabia Saudita, especialmente contra una base militar saudita, al tiempo que denunciaron bombardeos en el norte del territorio yemení. En los últimos días, el grupo rebelde avanzó hacia el estratégico estrecho de Bab el-Mandeb, en el mar Rojo....",
+      "url": "https://www.france24.com/es/video/20260913-por-qu%C3%A9-arabia-saudita-no-puede-detener-a-los-hut%C3%ADes-a-pesar-de-su-gran-inversi%C3%B3n-en-armas",
+      "published": "2026-09-13T23:03:07+00:00",
+      "image": "https://s.france24.com/media/display/8a35980c-afb7-11f1-8073-005056bf30b7/w:1024/p:16x9/ES-20260913-133358-133911-CS.jpg",
       "coverage": 1,
-      "relevance": 19.24,
+      "relevance": 20.55,
       "sources": [
         "France 24"
       ]
@@ -510,13 +540,13 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN",
+      "title": "Polonia reforzará la seguridad tras ataques rusos, dice Tusk",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT0VhNVJ0Q2hrNjFxLUg5eWZmNFpTVFB1M0hKeG9PWHNDeEN0dHJnd1liQ25VZ3RCVEtxT3poZjl0X09CcDk4SVhjREt2UzJKaGFPYkF6ZnJ3enRZY09kM0E3NU1FRms1UEhHaTlOTEI1Vjk5dzFtdmpkWjVXUWNTbW9SVk03ZktjSmduX0hnUk9SR0Mzbm1IeTNkWmFISTZfaHVVRmVmTGpfOUJIckd1TVhOOXI5NTdHZXlWVUpSQUFhZ0VwWkhBaUFGbFl1V015RnE0VDhFY0rSAewBQVVfeXFMTkNKSUIwNzlHa0dzUXkwU0NMSXhpMWhyakp0blp5MWZGWFBkTUVES3gwT3VQVWJuZm1qdmZSWXBJZTZPTEduaFFibU9NNngtTXc5RkpISDJpLVRJX2xaemszQnQ5WG1aQmxTRG5acm1RN0xOWmxGd3dYb1c5ZjVIb0pqLWJBZzFYWFFpZ3VZVUU4blJza2RBaHRDaXpldWswTWVlWXRRbDk3Vnl2Zk44LVN0Q1QyNHFwNHVXZnBBRFlZc0RFUExMNmozbVNMc3pHQ2FoTzBoMDBmSU1DYTF0NThJak9BalB6NFZSaUU?oc=5",
-      "published": "2026-09-13T17:21:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTZURHE1Uld6d2taaTBJOUhFcEhHQUZvc2hDWDd2ODdEeXAzWklCczdsZDhjNGF2ZWhYSjEyOGpkdXRFM2lIaGN3eUd0N3NLRGxydHctdDZmdjh3SlJMOWlWbU1CMDZLdTJGUlhETVdDS2JNRGtSNWxxR0tlNmJXQ2xQd1dwNmswemVUUmxLTUc5WUFsTDVXcUpUVE5wQdIBngFBVV95cUxQRkM4cXFENWZQUXdkU05SSHF5Q3duSGR6S2IyaFpNVUN4ak1qMkxfMFFxdU5CMEMyNE0wbV9aM1dTZXBIMWVwWEM1VXNQT2VZRGFma1ZWdW9rREZnMUtPNmxOWUVOQWVOUzJobTMyUUpFMVI3LXFmMzNEd0xjOWhESk1KWEVHU2xwR25SMFJ4alJoYjEtUF9iVnUwelcwZw?oc=5",
+      "published": "2026-09-13T23:03:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.61,
+      "relevance": 18.75,
       "sources": [
         "Google Noticias"
       ]
@@ -524,155 +554,127 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Un ataque israelí mata a dos personas en Gaza, informan servicios médicos - es-us.noticias.yahoo.com",
+      "title": "Crímenes de guerra de Estados Unidos en Medio Oriente",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWTVJMzFVeEd3RXBEUzNHRUVQb2VDbzBQeU5LNGtxeWtEdS1fcWhlT0dKd21FTHA0b3E3b29HWmdzaDVoWjJsRV84R24yc3BKNWZ1MWJ6SjBwT1B3T2N4TWJYemRYa0pCaE9NQWpvdWN5ZDluZFhTcUZlTXg5X3dJYmMybENremhzU0V1YVlTQQ?oc=5",
-      "published": "2026-09-13T17:12:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdmJ4SFpoMGFxSVRnQm5qS0JhQ2hvT191ekZLQ0VydnZiUkpicTJRRWpFVEE0a2ROc3ZzXzhjYWtMN2R5emR1M1M1ck92WEZ4and1bEJJRWZKRWtKUF8yelR6TWdOQzNCTm41VWtzQ2tGYVk4TWtyUmhla1FsSEpKaGVVcVdlQzM2YVE?oc=5",
+      "published": "2026-09-13T21:22:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.56,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Polonia acusó a Rusia de intensificar la guerra tras los ataques con dron cerca de la frontera con Ucrania: “Putin está escalando”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSTZpNEhjcURhZ2I3b1VZWjFoWnAyOVVrZUdtSDJ3NjFtenNzaVhCQUl0bW1RUXRpeXhEeUhCQTE4MGx3NmRoMmw1MkVoei1KbmNDN2pJMkZMYmNmcUo2dkhBSl9jRUx3UWp3ZUUzc0hvZjNwNGNkM0t0YjdGZEM0bTJXekktT2ZhWTJKVld0LVNRZWJUdm5BMUJNZHU2RGh3NW9VV1NLcC1JZ1dDWDl5ZzNyVWZ2Z2hCRFAtUXpOT3RIeDlheVNwQ0MyaFRpclptQnlEd09RMG96bnNOU19fV2k0dVJvRlhkYlhnMmk4V3dfOExMZGI3dkhjcENEWFdSYS03bEJIUVHSAaMCQVVfeXFMTmpjNXJlLUtUNXRQV3BjenZZcGlKRE9rY0ptNkpSLXZNQ18wZkFFck1FRk5tLTdubS1OREkwM2hrelB6bWpNTGtJQkRMcndkcVhSM2kxRTdGd1Nvbmtsb0F6cFpvMTN5V29rNHBYOExGWGtQcWtpZnM0UHZQVGZlcjZMZjdzVVVxUE5RU29lc1dpdXdBazBnSE1HMEdELW1OWUpVaTUyMFFvRnViZHNpeFBkc09RNG1sam4zWXU2aWNfakFxa3owMHdObmtXZjZhR2dmUXNXWnkzV3c1dVBMTzFXdkJFQ3JZeEhNbEg1ZWlvTU0yR0V5bjFMNVdrM3psZV82c2tKLWc1a1dwOC1sYmhaODFpU2FabmVabnktSDVYQlpz?oc=5",
-      "published": "2026-09-13T16:58:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.47,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Trump pide a Zelenski que Ucrania deje de atacar refinerías de Rusia",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOODFVR1M2VzlscGpCOWZFSk5sUk5pZDJBTjlEMDBQSG13VlpFMEVFV2dvbjUybHRUdE1nb0dvS2RuYkdXazlnamhKZTVTRWdMSEl5NS11ZE9aQ09yQTdXcUtxYkZxV3NpZWwwV01uUVNRaWUxdjlzOHZZdmI0eUFGWVQyVXlkQlQ3dUkwRVlTc0VnMDdpVUJJUUtrc3ZSS2F0a1I0Zjl6MVRra1dXOXVRWFhnYmlVdHBL0gG4AUFVX3lxTE44MVVHUzZXOWxwakI5ZkVKTmxSTmlkMkFOOUQwMFBIbXdWWkUwRUVXZ29uNTJsdFR0TWdvR29LZG5iR1drOWdqaEplNVNFZ0xISXk1LXVkT1pDT3JBN1dxS3FiRnFXc2llbDBXTW5RU1FpZTF2OXM4dll2YjR5QUZZVDJVeWRCVDd1STBFWVNzRWcwN2lVQklRS2tzdlJLYXRrUjRmOXoxVGtrV1c5dVFYWGdiaVV0cEs?oc=5",
-      "published": "2026-09-13T16:50:06+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.42,
+      "relevance": 18.12,
       "sources": [
         "Google Noticias"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay recibe al China Zorrilla: el ferry 100% eléctrico más grande del mundo - Expreso",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbmJmNHlCbFdLb1B4c29IOGRPZHhOWlJ2Z0VCbDh4NTdWUVg5cWtGaXRiMjBhbVUyRE9oMXZuc21xN3ZFdWg2SmJfU3pTWHhIcHNzQUlRb2dTTUZBM19vcFVUbDE0bThjNFhoNDk5TDhUdXQ0S1N3bmVWOXVSeG9KYnQzMmNoRlBxZHNiNFNuR01OUEg0VlNBd29uMHd2aFVGQnB1UUZDcWlBQ21pTERNNjh2elNXNVEwRVNtdnA2QQ?oc=5",
-      "published": "2026-09-13T17:02:55+00:00",
+      "source": "La Diaria",
+      "title": "Made in Canadá: Miya y Torrie, las hermanas Grant-Clavijo que brillan en Peñarol",
+      "summary": "La dupla de atacantes eligió Uruguay para desarrollarse como jugadoras de fútbol.El campeonato uruguayo de fútbol femenino está en curso con la disputa del Torneo Clausura. Peñarol es el candidato a quedarse con el título de la segunda parte del año; el conjunto dirigido por Cecilia Santo está...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/made-in-canada-miya-y-torrie-las-hermanas-grant-clavijo-que-brillan-en-penarol/",
+      "published": "2026-09-13T23:39:09+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.5,
+      "relevance": 19.87,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay dispuesto a trabajar con los Brics",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdUNoUzJLYUViNU1GNjVoYVFMbzZPdTJTVExPSmJVUWY0bzZkNUVUU1JPeHJOaVFDdlBpekJWaE9Nay1rU0M3b3l6NWJma0VINHFhbXFjbkprUUpvTUpoYVJ3emc2XzVvZkNWN1I4dmVETFpYTjA1WnlXVkN1Q3RQVU9XelNwSTFheUJn?oc=5",
-      "published": "2026-09-13T16:25:00+00:00",
+      "source": "La Diaria",
+      "title": "La B: Plaza ganó y volvió a despegarse",
+      "summary": "La mayoría de los que venían atrás no aprovecharon, por lo que Oriental de La Paz se mantiene en el segundo puesto de ascenso directo pese a la derrota.A falta de ocho fechas para el final de la fase regular, la Segunda División del fútbol uruguayo está en un momento hermoso, con paridad en la...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/la-b-plaza-gano-y-volvio-a-despegarse/",
+      "published": "2026-09-13T23:33:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.26,
+      "relevance": 19.83,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Cumbre de los BRICS: Lubetkin reafirmó compromiso de Uruguay con multilateralismo, diálogo y cooperación internacional",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF95YXpDR3VSNndQYlByd01HQmgtRDE2QWpXdU5iRHhxcmFrbHNDSnRLSE9tWnRGbzdNYUhBSkgtM2pzbHpyYmlxN1FLMnNfLU82ZUUwdU14Q3BOUlVHc1dGZTdlc3g1VkttTTVCUkFyZXBYYU45QU90R0NRNU1HeVJ6Qm5VOUdNd0lzcGxDRXBUWVRFVzhseTJvMVNrZUxQRTE3VklwNFppLVVaQUNmVDVpTkxxOVRlZk02REZvLXBEMGVXZWc?oc=5",
-      "published": "2026-09-13T14:46:26+00:00",
+      "source": "La Diaria",
+      "title": "Ministro de Cultura israelí quiere revocar ciudadanía a directores de película premiada en Venecia que denuncia matanzas en Gaza",
+      "summary": "El documental NAZA ganó el Premio Especial del Jurado en el célebre evento cinematográfico italiano y sus realizadores fueron acusados de “traición”El ministro de Cultura de Israel, Miki Zohar, amenazó el domingo con revocar la ciudadanía de los cineastas Yuval Abraham y Rachel Szor, después de que...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/ministro-de-cultura-israeli-quiere-revocar-ciudadania-a-directores-de-pelicula-premiada-en-venecia-que-denuncia-matanzas-en-gaza/",
+      "published": "2026-09-13T23:29:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.64,
+      "relevance": 19.81,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El Observador",
-      "title": "Así se juega la sexta fecha del Torneo Clausura con Nacional, Peñarol, Liverpool, Deportivo Maldonado, Racing y Montevideo City Torque por puntos de oro",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUkw3Q3pfeHdjQlRSYlhoc3RCNUpSZkxoZmhVemN2ZnRCdm1GVXg4VWpKRDJyNG9MV0xxYkdDOEQ0eXI0WnIxVjBTNkpra29sbDZQR3gwMVdGTTM5RjE4ZFRaMzJ6RTFjSGJpV0tCSGVZOURhdUdwOEpQdlRLSVc4c3pmdzlXTndpWEFGc1BUalVwWHJiVDFQc2lYYktnTWRJX2szWEE1eHNNWDZlYTVtcEM2ZVFHRy1OTDVmbWZ5eU9tdFl0VHpBbVhNdHh4dXprQVRJd2JGaVBtZ0JhY25BSkFHaEJwVGxuOWhOTUFyWmY0WjFOQjZoVmtPRmlqZERXVE1ZY1dlRGtoMlc1eGx3YVdRd9IBmAJBVV95cUxQcEg3b3ljXzdLcU1fekJkS3Zoa25CRmQyeFpTc3JCUXk5QTV4clFwWE96b3lBOXdIeHFKVDB4YTA4NWhHaV96M2pxY01HNGlRU3JCaTlGX0xFUHA2TlpScmgwaTBvQjZRVmpuSmxsM3BCVnNHdXFqajRDTUNWUzJIRDREaENFcU1wZTlkTW92eVhOamV2aDVlZzRYcTdHS1VPLUZYU0hNTWRxVXF4ajJGenZKb2lHbGlBZk9SUVQ1TlViaHR2SnIwbndCaGY3dXFrQzJUbVhQVTRfSFJ6Z1BJNDhBRkNtWnpHVzFQTEhSWGpoQ01LSFlYVGU4QWhQRG1ib3oydHVkNU9HZy1LUXoxUzJkWWVuQnI2?oc=5",
-      "published": "2026-09-13T13:07:00+00:00",
+      "source": "La Diaria",
+      "title": "UTEC recibe una nueva edición del Día del Hongo",
+      "summary": "Actualmente unas 450 familias de distintas localidades de Paysandú y Río Negro recolectan y venden aproximadamente 365.000 kilos de hongos comestibles por año.Ruta del Hongo es un programa impulsado por Montes del Plata, UTU y la Universidad Tecnológica del Uruguay (UTEC) que comenzó en 2017 con el...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/9/utec-recibe-una-nueva-edicion-del-dia-del-hongo/",
+      "published": "2026-09-13T23:13:29+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.62,
+      "relevance": 19.71,
       "sources": [
-        "El Observador"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Tomás Linn: \"Los medios de comunicación que engañan al público terminan pagando un alto costo\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZkxFUkk2TEFWLUpRMnhLdEhpTjNUOXBJQlQwQndvcmhudnh0T0djUEpBSFpVQ2hUVTBqLThQeGVhYzVxRDJteTZ3M3p1ZHlVMUZ4SHVuSDBJVDM4cmc0UDN5UDBCaGhJN0JNclVIZ3cwdUdCb1VmcW56Z2pkWGw0UlFQb0Ywa1VjRGU2Rk1rU1ZGTmU5VUQ2RU45d05TSnVicXBoX0FzWEVZOWdwa05XdmZlMVFFM2JuVDRsemtYaWJzcTg?oc=5",
-      "published": "2026-09-13T07:34:06+00:00",
+      "source": "La Diaria",
+      "title": "Cooperativas de vivienda participarán en la reglamentación de exoneración del IVA, y piden que la renuncia sea de Rentas Generales",
+      "summary": "Las federaciones manifestaron que si los recursos salen del Ministerio de Vivienda, se corre el riesgo de reducir la “caja” del Fondo Nacional de Vivienda, destinado a las viviendas de interés social.Los ministerios de Vivienda y Ordenamiento Territorial (MVOT) y de Economía y Finanzas (MEF)...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/cooperativas-de-vivienda-participaran-en-la-reglamentacion-de-exoneracion-del-iva-y-piden-que-la-renuncia-sea-de-rentas-generales/",
+      "published": "2026-09-13T23:04:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.34,
+      "relevance": 19.65,
       "sources": [
-        "El País Uy"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Colorados revisan su nacimiento y planean celebrar en 2028 el “bicentenario” de su partido",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc19yOUJJYmFMZzcxNFZicUNQLWgybk8tNTExN3RHWllzdlBNTExDaF9teEVHeTNIRWI2Qi1rdFpHYlRKcXhJNXphaGl4NkYtNjBxeXNwd0VPWmFTQ2JRb1dQQ2sydkU4NThtUXNKaHYtSEhhQ3haZWpIVm5POS0tcW42T2dHUlZnUnEzZDJZUExOQ3k3WGQzaFE2YkhFLWIteVMzb3JmcEg1ZF9rODBJVTFfZkMyUjdnRml2ZFI5bHNpWW5TampWUFJ2US1LNDRX?oc=5",
-      "published": "2026-09-13T07:08:58+00:00",
+      "source": "La Diaria",
+      "title": "Odesur: la nadadora Angelina Solari consiguió el primer oro para Uruguay",
+      "summary": "La nadadora de Olimpia ganó el premio máximo en 100 metros libres en femenino al romper el récord nacional.Tras la ceremonia inaugural, comenzó la competencia para la delegación uruguaya en los Juegos Odesur que se disputan en Santa Fe, Argentina. Angelina Solari y el primer oro para Uruguay En el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/odesur-la-nadadora-angelina-solari-consiguio-el-primer-oro-para-uruguay/",
+      "published": "2026-09-13T22:12:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.18,
+      "relevance": 19.33,
       "sources": [
-        "El País Uy"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Visita del Papa León XIV a Uruguay: ocho de cada diez ya están al tanto",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUxPNHNsVEtrRlpmYTA3aVJDRTNPZW96Y0hVay1FeVowS0ZoX1hzcHpfU3l2c3ZMOTRwM0IzenBnVTZYcmFnWlJ2Q1RoYkR2VVNJSXZyNl94MFNTTUpDV09uZ3lzd2lBYzhrTFdYeURzNlZNdzlvMW9VZ25LeEpNUm9xdjM1ajJzUG4tT0VVak5EX2FDS1RmWlFvRkpqTHFLN0x2YmFlSm5ybHJQQUpn?oc=5",
-      "published": "2026-09-13T11:36:53+00:00",
+      "source": "La Diaria",
+      "title": "Finalizó en Nueva Delhi la cumbre de los países de los BRICS, que reafirmaron su compromiso con la multipolaridad",
+      "summary": "Los integrantes del bloque alternativo al poder occidental suman casi la mitad de la población y el 40% del PIB mundial.Con una resolución conjunta y el compromiso de reafirmar su compromiso con la multipolaridad, como así también el de implementar reformas en la ONU y en otros organismos de...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/finalizo-en-nueva-delhi-la-cumbre-de-los-paises-de-los-brics-que-reafirmaron-su-compromiso-con-la-multipolaridad/",
+      "published": "2026-09-13T21:57:57+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.46,
+      "relevance": 19.24,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Furor en Uruguay por la visita del papa León XIV: “De alguna manera, el encuentro ya empezó”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTXFmWkhaeUROYlBRU0VmT1FSb1BoYUp5T1E1VlRVVWx4bFVXSDJRZXhNQU9IOWhGWGcwZEZCS0h1Qi0tX3U1YnAycUJ0RFZQdlV2ald3d2xOaWpZUm5hMHg2RDFYSXkyNF9VVjJxQjdLQm9GMzRWUzZuOWhzYXdiZ2hoLVJlRENwUlVZWTF3WHQ2azZhMnVvclZMNVRPQTVhNW02TG1LWU5vR2V1Y19MSjE2dm5kN3E0RGw1TGNFLURvVy1IRk5VNVFsQlVzc1o5bVI5cVU4UmFEMTJ2eDFmVtIB-wFBVV95cUxPOVZSb2gycU04S3FPUHVfNFRyNTZMQlhYdHJNbG1ieUZpVUlGaWhpc0NDQURUNWJCd1BrOGRMUl9YZEVNQmEwSzE1c09Ed1VXYUo0cnBsRlV3X0NtMmxCc2pkdU8tUWhneUZZZUt1ZVB3S0tLUUxhYUhWSHNaSElZc1V6bHV3YmZwMVdhQ1IzeEpqZ19HUGQzOTFNWi1RenpvMEhJTWgteTc3SEVzenBra0cyQ29CLXlabjVXZUJ3ZjNpUFJmb0hSSXVwUW1ORmlMcXdQU3VtclVUNURCNDJHeWJlZGNSRjJoZTI0eWpVbTRpbUIxR1BVNWtzOA?oc=5",
-      "published": "2026-09-13T08:15:00+00:00",
+      "source": "La Diaria",
+      "title": "Así llega Uruguay a la 46ª Olimpiada de Ajedrez",
+      "summary": "La contienda tendrá lugar en el Silk Road International Exhibition Center, en Samarcanda, Uzbekistán, del 15 al 27 de setiembre.Una Olimpiada de Ajedrez no solo es la competencia más importante a nivel mundial: es la gran fiesta de este deporte, donde están representados prácticamente todos los...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/asi-llega-uruguay-a-la-46a-olimpiada-de-ajedrez/",
+      "published": "2026-09-13T21:55:09+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 15.2,
+      "relevance": 19.22,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     }
   ]
