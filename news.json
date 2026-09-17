@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T19:21:33.627300+00:00",
+  "updated_at": "2026-09-17T23:46:48.872945+00:00",
   "articles": [
     {
       "category": "economia",
@@ -10,9 +10,51 @@
       "published": "2026-09-17T16:39:07+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TNMZUPHUHJALLMPLGLPBVQUZ5U.jpg?auth=46cc593f24e570a8210b2d6b2d007041352278116f4b48e31de8bc54302577cc",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 18.73,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Euro: a cuánto cerró su cotización este jueves 17 de septiembre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNYTJtSFRURVM0a1hmV090U2dWWTllbGhWLTFrMUV1M1YtNHlnRUhLZ2VNbjhfZDgxOWl6cGlQOGRlbmE1aW5IbHFNcU1qbmUtcU53MWlGVGdmLV9qSEFleTVHSGs3QzhzOTVoQUVpUTB6VWxiU0tkaTFZZGpQd2NxS1RQcTlTdlZkM0pTdG01LWdJa2EyVWQ1U0tEWEJNRmppS1NFcXoyeUpvT3Z1TWlDZ1dB0gHMAUFVX3lxTFBlMUZFRG1meXNhaFpXZGhBa3Azb3hUejdIaTBXSHdRdDFEcHdnRjBabUZld1ktQ1EzUGNsTGVhYUhZSVlSaHp2eVVoek1tU0t1YUpCRmJ6YnFGckNhZ3pmeC1HeTcxamhXMW42WjdRQ1czekFyZ2gzLVN0T2pTWHZxUnMyZGNqT0pMSzJQOG93QjUybzE1QUZ2YkQ1d1NhRk5tS1E3M3F3UmdfSFctZ2JCQ25MdjdlNUJWakNIdUpSMUVEMmg2cTJrNEsyYg?oc=5",
+      "published": "2026-09-17T22:00:27+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.34,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del DÓLAR HOY: así cerró la cotización de este jueves 17 de septiembre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaUtTdWptQ1NXS0NaaGhHaHVSWGdrVGZkM0dqX2ZfV0xQY0NNUWYwNEVVQS1uajlQNnhIdVN0SEtlLVZ3NWZubkFFMWFaUkJpZ25Rckc2X0ppZTE5a3J5cEVxZnJQZDF4bnJ6MDVSRzZMSml5YUpwa3UxTzRKZnJzV2VKN3g1TmtaX2cxel9lNTdVNFpDUEVWRzluVnZSM05vWHVrY3FOZllmcXRqVzRUaGtwS2xSYzk5NVVUZnFEQkMyVjAx0gHfAUFVX3lxTE9TWnF1TUJabGRyeS1aYmJVd3JKemJXYm1scXFEOHQzZm40UzM4aXZJSFNfM21pR3FvU0VyWmR0WjRpSVMyUVpFNnFMb3ZVRmdRWWFYOWc4X1lQOWJXZEl0eWhXbEtablJ1Y3JDVlFuM2hFQmtkbFlRWXl0eWNIY2xuR3Fja3VPMlhIRF9uQ0pnOGV6VXJPWEJIMWstTDBwLXJ6MzhSeGI1QU9PS19vZWlqQ2dBbjZsS0VCeXZkQVBuajNQaWRfVHg2MEFDblhSRTY0SVZYUF9lVURtM011ZTg?oc=5",
+      "published": "2026-09-17T22:00:25+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.34,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Jornada financiera: las acciones argentinas repuntaron en Wall Street, pero el riesgo país tocó el nivel más alto del mes",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdEJBekFwUkF6QXFiMVZ3YUphMTJLZjBWaEJZN25BV3FQeV9fZXItcl9qUzlDcGlyRkFhS2JySG95Vmd0ck0tUlVTdFZsaE9JZHZwek11WlZWV1h4bWtkQzEtMTNId3dDVDBrQVYxX2kyM1pKZ2lrYmlxRmJVMVBqZEZJVHJvOG5MTUFxQ3gtS1JFVjZfRjBBeVkxNTdtUS1zeVB5ZGVQV2RYR3FidWtOYkl2bWdJMUpWM29XbGJZVHFUem8tWFV6bzZNanEzZS1LdWhSU1NQVjBoNjc5QlJsTFhsNzRNekdUVkxuQXZrWXBXYkQtSndN0gGSAkFVX3lxTE0tZUFwVEhkMGt0aEsycjNXZkpPb25zU3RHU2Z0b2VaMWNrb2xPZ3pLN1JTcUtNSHdwTHJTY0lMam5HSjE3Tzdxb2RiQ0s0NERzQ0FBZEV0WndHNVpaTFVWNUJPMDdQeVMwX0FsdlpxUGRiOWN5SnBmNjZQdEM2cEVDU2VwYmtlMm1zblVaRU9XM0xJdXFPVEJmbW13bFBsNnFJS3VuREdWbE5jWExBaVRUOTZqZE1wblBQRjJVWmlSNl9zNWYtQloyXzJjZGg2M045NEtoOUJXVHNQQ0tJSlMxeUhkM1ZEYml6SHMxOVlDVjNMX3E5TVI2S0RuRG5lb2R1VHFSV1d2UE1CTThZcVRTdFE?oc=5",
+      "published": "2026-09-17T21:46:12+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.25,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,7 +66,7 @@
       "published": "2026-09-17T15:13:51+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/QHUZFRG2AZAZZLT475JLLOVMLQ.jpg?auth=10df6d59440479ae01a4202037b4d6d94424bcd9c268e81d25d355637dfac88d",
       "coverage": 1,
-      "relevance": 19.85,
+      "relevance": 18.19,
       "sources": [
         "El País Eco"
       ]
@@ -38,7 +80,7 @@
       "published": "2026-09-17T14:53:40+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/SMLCWYNCEZHCBHVFUVYRKJBSGM.jpg?auth=e69471d3b7cc2cdd884a022b3c73b1c9533431008d8244c311a6dfba91607541",
       "coverage": 1,
-      "relevance": 19.73,
+      "relevance": 18.07,
       "sources": [
         "El País Eco"
       ]
@@ -52,7 +94,7 @@
       "published": "2026-09-17T14:48:05+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/I57HEKOO7RKH5BQYHIJFVEVEA4.jpg?auth=d0a5a10790d9d917a233858e4aedbff98b100a633355cd709e7cbb93ea030e6b",
       "coverage": 1,
-      "relevance": 19.69,
+      "relevance": 18.03,
       "sources": [
         "El País Eco"
       ]
@@ -60,57 +102,71 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Fed desafía a Trump y remece mercados: así reaccionarán dólar y costo de créditos en Perú",
+      "title": "Dólar oficial: cotización del 17 de septiembre",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbnRtZy1oUThoQ1U5cWQwc3FRaVAxZ2hmWHZhTmE2blNRT3NMcnRsZ3JCWlcxdjUzZ1NjU1gxdXFZRXhncHBlM1o4cEZrV2t6bmRGX05fREVnMlZ3TW54aVpHUms2ZmFYMGxUaFFOOERtbnZkUVcxNzRHZUdwN2VTVkpubENIT3lLbUxENzNLNzVCci1rT2d4RnF2TWtFWU00cTRLTy1maTRTRjQ4ZHFqVjNDVUFsZUNSVnY5dHhnUXNhTVNlNzNDd3cyN2dvODg?oc=5",
-      "published": "2026-09-17T18:08:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZWFGSkgyNmQxc3hXbE9qendIV0p6YmdMTG9TdUpWUVYwaDg0V2NreHQ3bTRtZ0s5MXdUUkJnTGVjZFlMR1FoSHVJSHBlTzFHaEpEbnI1U1NvVTdkSlJJeE1YRlo5SmpGZHdRQzlkVWxzTnIzN2NPelctSDl2QjFBT1VxM1lXYTU4NUlvTVFB?oc=5",
+      "published": "2026-09-17T20:33:22+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.54,
+      "relevance": 17.79,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El precio de la vivienda alcanza un nuevo récord con 2.355 euros el metro cuadrado",
-      "summary": "Entre abril y junio, el valor medio creció un 12,5% y encadena ya 15 trimestres consecutivos de subidas. En los últimos cuatro años se ha encarecido en 260 euros",
-      "url": "https://elpais.com/economia/vivienda/2026-09-17/el-precio-de-la-vivienda-alcanza-un-nuevo-record-con-2355-euros-el-metro-cuadrado.html",
-      "published": "2026-09-17T10:51:01+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/UQ4KPKWKWVNYRNBDU2AWPTSWNQ.jpg?auth=fd38fb7ad32ba85ab06a931e01642512a81c643ca59836c1fbdccb54c34413c6",
-      "coverage": 1,
-      "relevance": 18.21,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La Airef empeora hasta el 2,7% del PIB su previsión de déficit para este año",
-      "summary": "Inés Olóndriz, presidenta del organismo, alerta de que el margen fiscal se agota y que la productividad estancada puede minar el crecimiento futuro",
-      "url": "https://elpais.com/economia/2026-09-17/la-airef-empeora-hasta-el-27-del-pib-su-prevision-de-deficit-para-el-ano.html",
-      "published": "2026-09-17T10:37:30+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/2273QZELBBOXNLYVUMRA2J7KM4.jpg?auth=6b3f3ef27e22905e4f38416b4dd3b3c66107d9a306fe59354e16c9844d980048",
-      "coverage": 1,
-      "relevance": 18.12,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Por qué el “peso fuerte” de Milei puede frenar la actividad económica en Argentina, según un agencia internacional",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPT1hTbXFWaVk0c2F2Y2VKaFBINjd5dWdqdmswdC1EZ3ROaEZEVUpYTVRGWnlkOV9Ea2R6UXFmOEJxOHFZSjNkRHR2UUR2NG1HenhaMDV0T1FMUUNjTVREZWpVbHZXMU5PQmd6UnJ3SUFNeTJVTm9RVnlYU3p5VllpU2dwZmRLdTJ4RjktZ2dOOHlVWWN5dDlrM2ZBUXUyOUFaMVV3bEJYWEVIRXZaWFAyUFVfLW1CSVYzS0d3c0V6UVlqOU1TZFlHeHpZUEcxWGR5elZaNDVSMjBjdmphaFFpTW5RTVVYQ09NU2tMUtIBhwJBVV95cUxOQkZuTFRtMWNkVXljRXlYRVpsRTR5YUtKTnJ2VUw5UFFtaWFVNkppbUtPdVJfNjRPcTJqU2FYNVlVMlIwRkdPOWJFSjg4eXFENEpKaHgycXpzV0I5ZUxmb3B0ZUEzZDhWZFQwSlJKVG1uY2dnaVlZZExTdVVkbEw1UmVhdG1VdDRkT29lLThHcXhwLWtRVmx1bFRLX0k2LS1pZk9TRGg4RnctTmMyZWhtUWJXOUhYWENYV3BXN0JfWk95MG5yMEpOZjJxdTQ3X0pFWURrM0tVZkNPem4waXNHM1FYTzVUUVNVOVFCRU4wVGNKZjVGVDBYMnJXTF91aG83dHZobWUwQQ?oc=5",
-      "published": "2026-09-17T14:50:00+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Amar de verdad puede mejorar tu salud y tu vida",
+      "summary": "Hay cosas que no compramos, pero que necesitamos: un abrazo, una conversación sincera, saber que alguien nos espera y se preocupa por nosotros, cuidar de alguien y sentir que también somos cuidados. Amar y dejarnos amar no solo es una experiencia emocional; forma parte de lo que somos como personas...",
+      "url": "https://es.aleteia.org/2026/09/18/amar-de-verdad-puede-mejorar-tu-salud-y-tu-vida/",
+      "published": "2026-09-17T22:17:43+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.3,
+      "relevance": 19.64,
       "sources": [
-        "Google Economía"
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Deberíamos temer que la IA nos destruya en la próxima década?",
+      "summary": "Recientemente, Internet se ha visto revolucionado por una advertencia publicada por Jacob Coxon, exinvestigador de IA de Anthropic, en su cuenta de X. Escribió: “Hoy he renunciado a Anthropic. Pasé los últimos tres años investigando el preentrenamiento tanto en OpenAI como en Anthropic. Ninguna de...",
+      "url": "https://es.aleteia.org/2026/09/17/deberiamos-temer-que-la-ia-nos-destruya-en-la-proxima-decada/",
+      "published": "2026-09-17T19:20:12+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.53,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "“Vivir con Parkinson no es resignarme”: Michael J. Fox",
+      "summary": "Galardonado con el Premio Humanitario Bob Hope durante la entrega de los Premios Emmy, el 14 de septiembre en Los Ángeles, el famoso actor de la saga “Volver al futuro” pronunció un discurso conmovedor, en el que compartió detalles sobre su enfermedad y expresó su esperanza de que algún día se...",
+      "url": "https://es.aleteia.org/2026/09/17/vivir-con-parkinson-no-es-resignarme-michael-j-fox/",
+      "published": "2026-09-17T19:05:09+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.44,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Si quieres ser maestro de Jesús, ¿qué pasará contigo?",
+      "summary": "Nadie mejor que Dios sabe lo que nos conviene. A veces creemos entender esta verdad, pero el resto del tiempo nos encanta rebelarnos contra la voluntad del Creador. Así, invertimos los papeles y, la mayoría, quiere convertirse en maestro del Maestro. Jesús seguramente nos ve con amor y con...",
+      "url": "https://es.aleteia.org/2026/09/17/si-quieres-ser-maestro-de-jesus-que-pasara-contigo/",
+      "published": "2026-09-17T18:53:25+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.37,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +178,7 @@
       "published": "2026-09-17T18:31:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 18.23,
       "sources": [
         "Aleteia"
       ]
@@ -136,7 +192,7 @@
       "published": "2026-09-17T16:56:27+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.29,
+      "relevance": 17.64,
       "sources": [
         "Aleteia"
       ]
@@ -150,7 +206,7 @@
       "published": "2026-09-17T15:20:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/02/18/Assisi_San-Francesco-Amata-J.-Nowaszewska-CSFN.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.29,
+      "relevance": 17.63,
       "sources": [
         "Vatican News"
       ]
@@ -164,65 +220,37 @@
       "published": "2026-09-17T16:50:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.26,
+      "relevance": 17.6,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Liébana–Jerusalén: qué cambia cuando dos lugares se hermanan",
-      "summary": "Santo Toribio de Liébana -que custodia el lignum crucis de mayor tamaño de los fragmentos de la cruz de Cristo que se conservan en el mundo- y el Gólgota -el monte donde murió Jesús- han estrechado vínculos esta semana. El custodio de Tierra Santa, Francisco Ielpo, y el obispo de Santander, Arturo...",
-      "url": "https://es.aleteia.org/2026/09/17/liebana-jerusalen-que-cambia-cuando-dos-lugares-se-hermanan/",
-      "published": "2026-09-17T15:46:34+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Alguien construyó un ordenador con 460 válvulas de vacío de los años 50 y 60. Tarda 15 minutos en calentarse, pero funciona",
+      "summary": "Estamos tan acostumbrados a que un ordenador quepa en una mochila, en un bolsillo o incluso en un reloj que hablar de máquinas construidas con válvulas parece casi hablar de la prehistoria de la informática. Y, aunque han pasado décadas, aquella tecnología no está tan lejos como podría parecer: las...",
+      "url": "https://www.xataka.com/ordenadores/alguien-construyo-ordenador-460-valvulas-vacio-anos-50-60-tarda-15-minutos-calentarse-funciona",
+      "published": "2026-09-17T21:05:41+00:00",
+      "image": "https://i.blogs.es/487882/the-tube-computer-2/1024_2000.png",
       "coverage": 1,
-      "relevance": 18.86,
+      "relevance": 19.49,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Ley de la Comisión Europea prohibe el acceso de menores de 13 años a las redes sociales",
-      "summary": "El proyecto de ley \"EU Kids Act\" introduce una prohibición total del acceso a las redes sociales y a los perfiles supervisados ​​por los padres para menores de 15 años. Las restricciones afectarán a las grandes plataformas, así como a los sectores de los videojuegos en línea y los chatbots con...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-09/union-europea-aprueba-ley-acceso-a-las-redes-sociales-a-menores.html",
-      "published": "2026-09-17T13:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/09/14/08/1789366800120.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Starship irá por fin a por la órbita. Una parte clave del vuelo estará escondida entre sus satélites",
+      "summary": "Starship lleva años acostumbrándonos a imágenes difíciles de ignorar: un vehículo gigantesco despegando, etapas separándose en vuelo y pruebas que unas veces han terminado con avances claros y otras con pérdidas inesperadas. Lo hemos visto progresar misión tras misión, con SpaceX modificando el...",
+      "url": "https://www.xataka.com/espacio/starship-ira-fin-a-orbita-parte-clave-vuelo-estara-escondida-sus-satelites",
+      "published": "2026-09-17T19:30:12+00:00",
+      "image": "https://i.blogs.es/b61969/starship-portada/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.54,
+      "relevance": 18.9,
       "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "América Latina: \"Bambino Gesù\" y IILA renuevan acuerdo de cooperación en salud",
-      "summary": "El acuerdo entre el hospital pediátrico de la Santa Sede y el Instituto Italo-Latino Americano comprende la formación pediátrica avanzada, transferencia de conocimientos y nuevos programas de prevención dirigidos a profesionales, familias y comunidades. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-09/america-latina-hospital-bambino-gesu-renueva-cooperacion-iila.html",
-      "published": "2026-09-17T12:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/16/bambino-gesu-e-iila-rinnovano-accordo-di-cooperazione-sanitaria-in-america-latina.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.04,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Roma camina con el Papa: Reforcemos el vínculo entre la diócesis y su obispo",
-      "summary": "Una Iglesia cada vez más cercana a la gente y capaz de afrontar las realidades de la ciudad. Esta es la dirección que señala el Cardenal Vicario Baldo Reina en vísperas de la Asamblea Diocesana presidida por León XIV, que marca la apertura del nuevo Año Pastoral. «Hemos dado muchos pasos adelante...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-09/papa-leon-asamblea-diocesana-roma-vicario-baldo-reina.html",
-      "published": "2026-09-17T11:15:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2025/05/25/19/1748193132767.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.76,
-      "sources": [
-        "Vatican News"
+        "Xataka"
       ]
     },
     {
@@ -234,7 +262,7 @@
       "published": "2026-09-17T19:00:13+00:00",
       "image": "https://i.blogs.es/b896bc/simulacion-puntos-rojos/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 18.71,
       "sources": [
         "Xataka"
       ]
@@ -248,7 +276,7 @@
       "published": "2026-09-17T18:30:12+00:00",
       "image": "https://i.blogs.es/2ce3b6/alb08391/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.18,
+      "relevance": 18.52,
       "sources": [
         "Xataka"
       ]
@@ -262,7 +290,7 @@
       "published": "2026-09-17T18:00:13+00:00",
       "image": "https://i.blogs.es/c23668/netflix/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.99,
+      "relevance": 18.33,
       "sources": [
         "Xataka"
       ]
@@ -276,7 +304,7 @@
       "published": "2026-09-17T18:13:10+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/08/apple-irobot.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 18.11,
       "sources": [
         "Hipertextual"
       ]
@@ -290,7 +318,7 @@
       "published": "2026-09-17T17:16:11+00:00",
       "image": "https://i.blogs.es/e677c5/persona-sosteniendo-un-cargador/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.72,
+      "relevance": 18.06,
       "sources": [
         "Xataka"
       ]
@@ -304,49 +332,21 @@
       "published": "2026-09-17T17:00:13+00:00",
       "image": "https://i.blogs.es/d38d83/453.001_de_renfe/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.62,
+      "relevance": 17.96,
       "sources": [
         "Xataka"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los profesores de medio España están dejando de llevar a sus alumnos de excursión. No es por falta de ganas",
-      "summary": "Miles de alumnos catalanes han arrancado este curso 2026-2027 sin colònies, sin excursiones, ni casales, granjas-escuela, campamentos ni viajes de fin de curso. Nada. 1.354 escuelas e institutos, más de la mitad de los centros públicos de Cataluña, se han sumado oficialmente al manifiesto \"Paremos...",
-      "url": "https://www.xataka.com/magnet/profesores-medio-espana-estan-dejando-llevar-a-sus-alumnos-excursion-no-falta-ganas",
-      "published": "2026-09-17T16:30:12+00:00",
-      "image": "https://i.blogs.es/f8898d/pexels-mikhail-nilov-7929415/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.43,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Bungie desmiente los rumores: no piensa fusionar ‘Destiny’ y ‘Marathon’",
-      "summary": "Que Bungie está pasando por uno de los momentos más complejos de su historia, no es novedad. Tras la conclusión de Destiny 2 y con Marathon sin despegar del todo, los rumores sobre el futuro del estudio que pertenece a PlayStation suelen estar a la orden del día. Y la compañía finalmente ha salido...",
-      "url": "https://hipertextual.com/videojuegos/bungie-desmiente-los-rumores-no-piensa-fusionar-destiny-y-marathon/",
-      "published": "2026-09-17T17:12:55+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/11/Destiny-2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.4,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Betis sigue de fiesta",
-      "summary": "Un gol del marrroquí le da la tercera victoria seguida en Liga a los verdiblancos",
-      "url": "https://www.marca.com/futbol/primera-division/cronica/2026/09/17/abde-derriba-muro-azulon-betis-prolongue-racha-ganadora.html",
-      "published": "2026-09-17T19:10:34+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac3a1466a75.jpeg",
+      "title": "Las portadas del día",
+      "summary": "Así vienen las primeras páginas de este viernes 18 de septiembre de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/09/18/portadas-dia-kane-sincera-marca-sensacion-adeyemi.html",
+      "published": "2026-09-17T23:40:54+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/18/6aac7a6c3d57f.jpeg",
       "coverage": 1,
-      "relevance": 20.43,
+      "relevance": 20.46,
       "sources": [
         "Marca"
       ]
@@ -354,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Rahm descarrila en Wentworth",
-      "summary": "El 'León de Barrika' ocupa la penúltima plaza en el BMW PGA Championship",
-      "url": "https://www.marca.com/golf/dp-world-tour/2026/09/17/jon-rahm-descarrila-wentworth.html",
-      "published": "2026-09-17T18:37:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac2b35314fe.jpeg",
+      "title": "Iñigo Pérez: “Hoy sí que voy a poder dormir”",
+      "summary": "El técnico del Villarreal considera que la victoria cargará de moral a la plantilla",
+      "url": "https://www.marca.com/futbol/villarreal/2026/09/18/inigo-perez-hoy-dormir.html",
+      "published": "2026-09-17T22:50:18+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/18/6aac6c1b5dd41.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.15,
       "sources": [
         "Marca"
       ]
@@ -368,13 +368,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Solo con vestir esta camiseta estás obligado a intentar ganar cualquier campeonato\"",
-      "summary": "Campazzo y Feliz hablan sobre la SuperCup y la nueva temporada del Madrid.",
-      "url": "https://www.marca.com/baloncesto/euroliga/2026/09/17/vestir-camiseta-obligado-intentar-ganar-campeonato.html",
-      "published": "2026-09-17T18:13:26+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac2db4b193e.jpeg",
+      "title": "Raphinha se queda solo al frente del Pichichi",
+      "summary": "El brasileño se afianzó en el liderato del Trofeo al lograr su primer triplete ante el Racing",
+      "url": "https://www.marca.com/futbol/premios-marca/2026/09/18/raphinha-pichichi-laliga-marcar-hat-trick.html",
+      "published": "2026-09-17T22:10:48+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/18/6aac68024dd8e.jpeg",
       "coverage": 1,
-      "relevance": 20.07,
+      "relevance": 19.9,
       "sources": [
         "Marca"
       ]
@@ -382,55 +382,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Pedro Martínez: \"La SuperCup nos dirá cual es nuestro verdadero nivel\"",
-      "summary": "El técnico del Madrid habla para MARCA horas antes de arrancar su temporada europea",
-      "url": "https://www.marca.com/baloncesto/euroliga/2026/09/17/pedro-martinez-supercup-dira-nuestro-verdadero-nivel.html",
-      "published": "2026-09-17T17:37:52+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aac251d4ca49.r_d.1065-293-0.jpeg",
-      "coverage": 1,
-      "relevance": 19.85,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Seis novedades en el once de Iñigo y tres en el de Funes",
-      "summary": "Sigue en vivo y en directo el Málaga - Villarreal de LaLiga EA Sports con todos los goles y estadísticas del partido",
-      "url": "https://www.marca.com/futbol/primera-division/2026/09/17/01-0101-20260917-182-449.html",
-      "published": "2026-09-17T17:29:54+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/17896005593585.jpeg",
-      "coverage": 1,
-      "relevance": 19.8,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Virginia Fonseca, novia de Vinicius: 'influencer', empresaria de cosmética y madre de tres hijos",
-      "summary": "La influencer ha conocido hace poco el fallecimiento de su guardaespaldas",
-      "url": "https://www.marca.com/tiramillas/sociedad/2026/09/17/virginia-fonseca-novia-vinicius-conocida-influencer-brasilena-empresaria-cosmetica-madre-tres-hijos.html",
-      "published": "2026-09-17T17:11:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac1b98a4955.png",
-      "coverage": 1,
-      "relevance": 19.69,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Eric García: \"Ojalá el año que viene podamos estar celebrando la Champions\"",
+      "title": "Málaga 1-3 Villarreal | Resumen",
       "summary": "",
-      "url": "https://www.marca.com/futbol/barcelona/2026/09/17/eric-garcia-ojala-ano-viene-podamos-celebrando-champions-video.html",
-      "published": "2026-09-17T16:51:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/eZIRA1gh1e7XdeuV1.jpeg",
+      "url": "https://www.marca.com/futbol/primera-division/2026/09/17/malaga-1-3-villarreal-resumen-video.html",
+      "published": "2026-09-17T21:58:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac619a4f687.jpeg",
       "coverage": 1,
-      "relevance": 19.56,
+      "relevance": 19.82,
       "sources": [
         "Marca"
       ]
@@ -438,15 +396,72 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "No hay fuera de juego y vale el gol de Kluivert",
-      "summary": "Sigue en vivo y en directo el Real Sociedad - Bournemouth de la Europa League con todos los goles y estadísticas del partido",
-      "url": "https://www.marca.com/futbol/europa-league/2026/09/17/01-0104-20260917-188-91.html",
-      "published": "2026-09-17T16:37:27+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac3aff50207.jpeg",
+      "title": "Con caras nuevas y Ceuta en el corazón",
+      "summary": "Lista para los partidos ante Inglaterra, dos con Croacia y la República Checa",
+      "url": "https://www.marca.com/futbol/seleccion/2026/09/17/seleccion-vuelve-ceuta-corazon-caras-nuevas-roberto-fermin-camello-josep-martinez.html",
+      "published": "2026-09-17T21:48:28+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/09/17/6aac15bfdc9dd.r_d.994-580-0.jpeg",
       "coverage": 1,
-      "relevance": 19.47,
+      "relevance": 19.76,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Otro milagro del Torreense más 'espanhol'",
+      "summary": "Los goles de Álex Alfaro y Manuel Pozo Guerrero dieron el triunfo (1-2) al conjunto luso, de Segunda división, ante el Lillestrom · Jugaron con uno menos durante los últimos minutos",
+      "url": "https://www.marca.com/futbol/europa-league/cronica/2026/09/17/milagro-torreense-espanhol.html",
+      "published": "2026-09-17T21:35:27+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac5c860591b.jpeg",
+      "coverage": 1,
+      "relevance": 19.68,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Muere Michael Sweetney, la estrella a la que una depresión le impidió brillar en la NBA",
+      "summary": "El ala-pívot, exjugador de los Knicks y los Bulls, fallece a los 43 años tras tener que lidiar con problemas mentales y sobrepeso desde su año de novato",
+      "url": "https://www.marca.com/baloncesto/nba/2026/09/17/muere-michael-sweetney-estrella-universitaria-depresion-le-impidio-brillar-nba.html",
+      "published": "2026-09-17T21:33:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac55898b676.jpeg",
+      "coverage": 1,
+      "relevance": 19.67,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El Villarreal se pone en marcha",
+      "summary": "Los de Iñigo logran su primera victoria en esta Liga tras remontar ante el Málaga",
+      "url": "https://www.marca.com/futbol/primera-division/cronica/2026/09/17/villarreal-pone-marcha.html",
+      "published": "2026-09-17T21:27:51+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/17/6aac5449e5af1.jpeg",
+      "coverage": 1,
+      "relevance": 19.63,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "\"Los hispanos se sienten traicionados\": el mensaje a Trump de la congresista republicana María Elvira Salazar en plena ola de arrestos y deportaciones",
+      "summary": "La congresista republicana, que busca la reelección en un distrito de Miami de mayoría hispana, cuestiona las detenciones de migrantes sin antecedentes penales y advierte que los votantes latinos que apoyaron a Trump se sienten traicionados.",
+      "url": "https://www.bbc.com/mundo/articles/c64g7jz9yzvno?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-17T20:49:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/493e/live/8032d500-b2d1-11f1-aa00-7947ea0dbeab.png",
+      "coverage": 2,
+      "relevance": 30.59,
+      "sources": [
+        "BBC Mundo",
+        "France 24"
       ]
     },
     {
@@ -458,7 +473,7 @@
       "published": "2026-09-16T21:06:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/506d/live/98661900-b1de-11f1-a430-4d16ee157c41.jpg",
       "coverage": 2,
-      "relevance": 23.35,
+      "relevance": 22.7,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -466,28 +481,14 @@
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Ha ido demasiado lejos\": el mensaje a Trump de la congresista republicana María Elvira Salazar en plena ola de arrestos y deportaciones",
-      "summary": "La congresista republicana, que busca la reelección en un distrito de Miami de mayoría hispana, cuestiona las detenciones de migrantes sin antecedentes penales y advierte que los votantes latinos que apoyaron a Trump se sienten traicionados.",
-      "url": "https://www.bbc.com/mundo/articles/c64g7jz9yzvno?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-17T17:28:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6559/live/83d8fba0-b2bb-11f1-9830-658a48c7da16.jpg",
-      "coverage": 1,
-      "relevance": 20.99,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "France 24",
-      "title": "Congresista republicana María Elvira Salazar advierte a Trump que los votantes hispanos “se sienten traicionados”",
-      "summary": "",
-      "url": "https://www.france24.com/es/minuto-a-minuto/20260917-congresista-republicana-mar%C3%ADa-elvira-salazar-advierte-a-trump-que-los-votantes-hispanos-se-sienten-traicionados",
-      "published": "2026-09-17T18:47:42+00:00",
-      "image": null,
+      "title": "Rusia bombardea Kiev con misiles y drones horas después de nuevas sanciones de EE. UU.",
+      "summary": "Misiles y drones impactaron en un edificio de Kiev, dejando al menos 18 heridos durante la madrugada de este 17 de septiembre. Según la administración militar de la capital ucraniana, hubo ataques en ocho regiones del país. También se registraron ataques rusos en Odesa y en Zaporiyia. En este...",
+      "url": "https://www.france24.com/es/video/20260917-rusia-bombardea-kiev-con-misiles-y-drones-horas-despu%C3%A9s-de-nuevas-sanciones-de-ee-uu",
+      "published": "2026-09-17T23:38:01+00:00",
+      "image": "https://s.france24.com/media/display/aa6b0488-b2ee-11f1-877d-7922de457103/w:1024/p:16x9/ES-20260917-150851-151059-CS.jpg",
       "coverage": 1,
-      "relevance": 20.59,
+      "relevance": 20.75,
       "sources": [
         "France 24"
       ]
@@ -495,181 +496,181 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Directo París y la reunión de jefes de Estado de Francia, Líbano y Jordania en la capital francesa",
-      "summary": "Los jefes de Estado de Líbano, Francia y Jordania se reunieron este 17 de septiembre como parte de un esfuerzo para recabar apoyo para el Ejército libanés, que atraviesa graves dificultades. La debilidad de las Fuerzas Armadas ha dificultado la desmilitarización de Hezbolá, una de las condiciones...",
-      "url": "https://www.france24.com/es/video/20260917-directo-par%C3%ADs-y-la-reuni%C3%B3n-de-jefes-de-estado-de-francia-l%C3%ADbano-y-jordania-en-la-capital-francesa",
-      "published": "2026-09-17T17:36:27+00:00",
-      "image": "https://s.france24.com/media/display/30852006-b2b5-11f1-9928-8bce42b8e305/w:1024/p:16x9/ES-20260917-072612-073015-CS.jpg",
+      "title": "Irán: Amnistía Internacional denuncia crímenes contra la humanidad en las protestas de 2022",
+      "summary": "🇮🇷 Amnistía Internacional publicó una investigación de los últimos cuatro años que denuncia crímenes de lesa humanidad en Irán durante la ola de manifestaciones que se desencadenaron por la muerte de Mahsa Amini cuando se encontraba bajo custodia de la denominada \"policía de la moral\".",
+      "url": "https://www.france24.com/es/video/20260917-ir%C3%A1n-amnist%C3%ADa-internacional-denuncia-cr%C3%ADmenes-contra-la-humanidad-en-las-protestas-de-2022",
+      "published": "2026-09-17T21:29:33+00:00",
+      "image": "https://s.france24.com/media/display/774b8e04-b2dc-11f1-9350-5570cf9529c5/w:1024/p:16x9/IRA%CC%81N-1.png",
       "coverage": 1,
-      "relevance": 20.14,
+      "relevance": 19.94,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "BBC Mundo",
-      "title": "La playa de los huesos: cómo Rusia intenta olvidar la represión soviética (pero las pruebas siguen aflorando en un lago)",
-      "summary": "En un remoto pueblo ruso construido por prisioneros soviéticos, los huesos de las víctimas del gulag siguen apareciendo en una playa artificial.",
-      "url": "https://www.bbc.com/mundo/articles/cqm2m487e0kro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-09-17T14:37:08+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d11c/live/8915b9c0-a55d-11f1-aed2-8d6da8d75094.jpg",
-      "coverage": 1,
-      "relevance": 19.92,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Ascienden a 73.821 las víctimas mortales de la guerra israelí en Gaza",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5iZkdfeV9ocXZyMVR0bmI0N24zNHhrdVF6RFp6dzY2aDJnLWFHeGI5RU1WSFh2QjB3SEUxNnVPaUY4V2pSeHE1RDhHWm5pRjBC?oc=5",
-      "published": "2026-09-17T18:32:23+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.69,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Ojo por ojo, la guerra total: \"Rusia y Ucrania se están empujando mutuamente hacia la Edad de Piedra\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdFpkTHQxU25fNEhvTjVWaUlHUmxJWms5eHc4TXZKOXZoN3B3a1lJaXgwNmRpMFR2MWN4aWt5ZkdlVmxBOVlJSko0N0o3OEpKSkllQUlNNV9INE9MOWZqUTBCbjhLN0J1R2FrZ3UzZXpWMkNhVHkzTFpIaE8ycGlkeGxtSdIBgwFBVV95cUxPR3ZnekdjQmloRjQxV1B6amFKcnM0TGdBdUNlc3BzbC1VVUxiUTV3bEh1V3dCcm9HcDhmVHhnaHZaYXRnVTZJNm5vQ180VWVja0NJSW5YQXE1dUdIZ0pfSExrUlpleXBhTlY2TnJsbkFYaEE0ZGVkbFp6dXVkR3k1dS12TQ?oc=5",
-      "published": "2026-09-17T18:20:24+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.62,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Ataques de Irán dejan daños millonarios a bases de EU en Medio Oriente",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObmJzYnJlVzk0Mk04cFkzbmZlQ2c3X2dmbGZzZGNQRWo5WGJKUkllQXFqLURJMU1vTjFvbEtKdzZBaGVkc3VKTjhEYXNpMGJkODVBMk94QXhWOU9UVldua2NQa0Jkbms0enpwbTlBMnZfUHNzcVVUNXc4Y1Q5R25mQS1oWnRmY1dKMzUxVkJQTUZzamlEeGlrQ0pDWWlTcmMxTEFvZDRGQ2UyakgzUDVISGhZQWtudGI1ei1rQkZJNA?oc=5",
-      "published": "2026-09-17T18:03:02+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.51,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Dichos de Orsi sobre Malvinas sugieren que “Uruguay va a seguir con su posición” de defender el reclamo argentino, dijo académica",
-      "summary": "La doctora en Relaciones Internacionales Magdalena Bas señaló que la postura “es parte de una política de Estado” que “no cambia con los gobiernos, no cambia con el color político que esté o con el canciller de turno”El presidente argentino, Javier Milei, protagoniza un giro en su posición hacia...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/dichos-de-orsi-sobre-malvinas-sugieren-que-uruguay-va-a-seguir-con-su-posicion-de-defender-el-reclamo-argentino-dijo-academica/",
-      "published": "2026-09-17T19:03:10+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.79,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Asociación de Funcionarios de la INDDHH rechazó dichos de Marcos Israel y reclamó “imparcialidad” del directorio",
-      "summary": "Señaló que una institución “no debería convertir una posición política en una categoría sospechosa ni presentar como amenaza totalitaria a organizaciones sociales que critican el Estado de Israel”.La Asociación de Funcionarias y Funcionarios de la Institución Nacional de Derechos Humanos y...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/asociacion-de-funcionarios-de-la-inddhh-rechazo-dichos-de-marcos-israel-y-reclamo-imparcialidad-del-directorio/",
-      "published": "2026-09-17T18:37:40+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.63,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Nueva función de Sueño de una noche de verano en Casa de la Cultura de Colonia, el miércoles 23",
-      "summary": "La obra dirigida por Pedro Chajías, que ya se presentó con entradas agotadas, volverá a tener otra función en esa sala municipal.El próximo miércoles 23, en el Centro Cultural Bastión del Carmen, se presentará la segunda función de la obra Sueño de una noche de verano, dirigida por el docente Pedro...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/9/nueva-funcion-de-sueno-de-una-noche-de-verano-en-casa-de-la-cultura-de-colonia-el-miercoles-23/",
-      "published": "2026-09-17T18:32:02+00:00",
-      "image": null,
+      "source": "France 24",
+      "title": "Molestia e indignación en varias partes del mundo por altos costos del combustible",
+      "summary": "La molestia de los transportistas y los dueños de automóviles por el alto precio de los combustibles se siente a nivel mundial. En países europeos como Francia y Alemania, en Asia con Siria y Pakistán hasta América Latina con Guatemala y Bolivia, el costo de la gasolina ha desatado manifestación y...",
+      "url": "https://www.france24.com/es/video/20260917-molestia-e-indignaci%C3%B3n-en-varias-partes-del-mundo-por-altos-costos-del-combustible",
+      "published": "2026-09-17T20:32:41+00:00",
+      "image": "https://s.france24.com/media/display/f9dbac66-b2cb-11f1-bb44-7922de457103/w:1024/p:16x9/ES-20260917-113933-114111-CS.jpg",
       "coverage": 1,
       "relevance": 19.59,
       "sources": [
-        "La Diaria"
+        "France 24"
       ]
     },
     {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "El lado B de los Juegos Odesur: tres deportistas uruguayos lesionados",
-      "summary": "Víctor Rostagno sufrió rotura de ligamentos cruzados y menisco externo en la final de salto; Mateo Lluberas y Mariana García tuvieron golpes pero ya fueron dados de alta.Uruguay viene realizando una muy buena participación en los Juegos Odesur. Ya lleva 16 medallas conseguidas tras el gran éxito...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/el-lado-b-de-los-juegos-odesur-tres-deportistas-uruguayos-lesionados/",
-      "published": "2026-09-17T16:41:55+00:00",
-      "image": null,
+      "category": "belico",
+      "source": "France 24",
+      "title": "Familias huyen de los combates y cruzan el estrecho de Bab el-Mandeb mientras la OIM los recibe",
+      "summary": "Los civiles yemeníes viven un nivel de violencia que no habían experimentado antes. El avance de los rebeldes hutíes y su guerra contra el Gobierno internacionalmente reconocido y Arabia Saudita tiene azotado al país, obligándolos a dejar todo atrás. Algunos desplazados se han visto obligados a...",
+      "url": "https://www.france24.com/es/video/20260917-familias-huyen-de-los-combates-y-cruzan-el-estrecho-de-bab-el-mandeb-mientras-la-oim-los-recibe",
+      "published": "2026-09-17T20:23:46+00:00",
+      "image": "https://s.france24.com/media/display/7b96fc28-b2c8-11f1-8e2c-5570cf9529c5/w:1024/p:16x9/ES-20260917-113729-113907-CS.jpg",
       "coverage": 1,
-      "relevance": 18.9,
+      "relevance": 19.53,
       "sources": [
-        "La Diaria"
+        "France 24"
       ]
     },
     {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Los ómnibus articulados requieren una inversión 2,7 veces menor a la del tranvía y 8,8 veces menor al metro",
-      "summary": "Informe técnico de la Agencia del Sistema de Transporte Metropolitano fundamenta la elección por los BRT por razones operacionales, ambientales y económicas; la inversión inicial se calcula en 575 millones de dólares.Un informe elaborado por la Agencia del Sistema de Transporte Metropolitano (ASTM)...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/los-omnibus-articulados-requieren-una-inversion-27-veces-menor-a-la-del-tranvia-y-88-veces-menor-al-metro/",
-      "published": "2026-09-17T16:40:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.89,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "La educación puede cambiar el destino de un país",
-      "summary": "La educación es uno de los factores que más profundamente definen el destino de un país, aunque no siempre se la mire con esa dimensión. De ella depende no solo el nivel de conocimiento de una sociedad, sino también su capacidad de generar igualdad real de oportunidades y un desarrollo sostenido en...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/9/la-educacion-puede-cambiar-el-destino-de-un-pais/",
-      "published": "2026-09-17T16:03:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.66,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay vs Venezuela: Resultado EN VIVO, minuto a minuto y goles de los Juegos Suramericanos 2026",
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Ataques rusos con misiles y drones contra Ucrania dejan al menos 19 heridos, incluidos niños",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HRU5FbG9ZWE94QTBuSFlxcVhGWGxqbDkzTUNCdnRiaWdaZW4ydHk0NERoYmo4dUJ1TmxkZVRpd3NPU1VtNTdTZ3pYaG9FeE50U1FHZm1pVVR1VDVGZ1NGUnpobkppRV9fVUJ5STdmbEpfaEJ1SVZ3Z3BEM2Y?oc=5",
-      "published": "2026-09-17T18:23:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTdIemdQYjc0a0tZcEphSGtpU083NnUzcFZ3LWFmRzNxSVRVMTJKZjFPZUdrb1VsOHBnV0RHUUNnempQc3BTVDctakx4ZlRHZ3V0TEZBTVNEQ2JZUEktNmdGNWIyRy1rYjdpZHp1OFQ0RWRjRlRWMGk3OVAyYVdWTEdjREtheExfY2lIWmtNc2s0ZnpnMlBMcGZWNzFfNTJzTzB0Si1pcXZhOElX?oc=5",
+      "published": "2026-09-17T22:06:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.64,
+      "relevance": 18.37,
       "sources": [
-        "Google Noticias UY"
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Alberto Ruskolekier: “Ahora los hutíes tienen como objetivo de ataque a Arabia Saudita”",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVEZEX3MtMmtlR0hiRGdtUEJ4dUx6Um9SSHk1dkNPWS1LZUtMd29DVGU1UzRCUTNoQ053T09tYW1nRGhCUWxRaGUtcHJsVXQ1YVVQRl95aHBVMXFySW8zeGNNMTJ3eVh2QUxxRWpndG9OQ1VQZ2ZfUGRobWRiSEIxSVczNmNpdmhRTnp3WDd2VWFOM1FCdk5NME42eGF3QnlXYVRrZ2dZdFhfazBHZ0phNzlmelpKc2x2RWxCdmJjOFdsSVR1TmVPSDRxRXZvTDhKT05PTHlnMzQtdUdH0gHiAUFVX3lxTE00dXVQVHRfTnZ5clI0d1dmVDljT1gtbGpmN19LdUJhMHptTFRNdW9HdUlLcDlFV19pM193aThBaEFZYjlYamFKZ1dnY2lkUzd1YmUzd2diV1lCU2dzcm9pLVdHOFJzeU1wU1BlOU9oaktLdUJhcmMwbjc4NzJZMWlGUVBuMjhVS3JHS2FpVEkxYkM2N243clpaNUFlQVBCX3BRM1RDbU95UktPQXFUWWc5eWFyMERlNzlqUmp0RGpmRmhkRHVQLWdXTWE0QW1DUWVraC0wdU1fOVUxZ2J2Q2p6d1E?oc=5",
+      "published": "2026-09-17T21:56:15+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.31,
+      "sources": [
+        "Google Noticias"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Mary Vallio: “A uno no se le cruza por la cabeza otorgar un título” sin completar la carrera",
-      "summary": "El casi centenario Instituto de Formación Docente Ercilla Guidali de Pisano, de Paysandú, permaneció ocupado 48 horas por el sindicato.El gremio docente del Instituto de Formación Docente (IFD) de Paysandú acompañó con un paro de 48 horas las reivindicaciones del colectivo nacional. Una medida...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/9/mary-vallio-a-uno-no-se-le-cruza-por-la-cabeza-otorgar-un-titulo-sin-completar-la-carrera/",
-      "published": "2026-09-17T15:53:22+00:00",
+      "title": "Blancos y colorados conmemoran este sábado la Batalla de Carpintería con visiones encontradas sobre presentarse bajo un mismo lema",
+      "summary": "Para el colorado Conrado Rodríguez, la “desconfiguración de las sensibilidades partidarias no aporta a la diversidad”, mientras que el nacionalista Juan Rodríguez sostiene que el tema se debe discutirse recién en 2028.Este sábado se cumplirán 190 años de la Batalla de Carpintería, la primera en la...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/blancos-y-colorados-conmemoran-este-sabado-la-batalla-de-carpinteria-con-visiones-encontradas-sobre-presentarse-bajo-un-mismo-lema/",
+      "published": "2026-09-17T23:35:30+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.6,
+      "relevance": 19.83,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "FA ve como un objetivo “relevante y razonablemente viable” consolidar la recuperación del apoyo al gobierno entre sus votantes",
+      "summary": "La leve mejora de la aprobación entre los frenteamplistas podría sugerir que “puede continuarse, porque no se trata de incorporar a personas muy lejanas, sino a personas relativamente cercanas”, señaló Agustín Canzani.Las últimas encuestas de opinión pública sobre la gestión del presidente de la...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/fa-ve-como-un-objetivo-relevante-y-razonablemente-viable-consolidar-la-recuperacion-del-apoyo-al-gobierno-entre-sus-votantes/",
+      "published": "2026-09-17T23:25:17+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.77,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Delgado volvió a reclamar por la esencialidad en el puerto: “Hay momentos en los que a uno no le tiene que temblar el pulso”",
+      "summary": "El dirigente nacionalista sostuvo que el gobierno “está entrampado en problemas ideológicos” y dijo que la medida de servicios mínimos es “insuficiente”, cuando “están todas las causales dadas” para “declarar la esencialidad”.El presidente del Directorio del Partido Nacional (PN), Álvaro Delgado,...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/delgado-volvio-a-reclamar-por-la-esencialidad-en-el-puerto-hay-momentos-en-los-que-a-uno-no-le-tiene-que-temblar-el-pulso/",
+      "published": "2026-09-17T23:06:52+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.65,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Vertiente Artiguista afirmó que dichos y medidas de Ferrero “avanzan en sentido contrario a los compromisos internacionales”",
+      "summary": "La asociación de ex presas y ex presos políticos Crysol sostuvo que la fiscal de Corte subrogante “debe presentar la renuncia”; la Mesa Política del FA, en tanto, “está preocupada por el desmantelamiento de la Fiscalía”.A través de un comunicado, la Vertiente Artiguista lamentó “profundamente” los...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/9/vertiente-artiguista-afirmo-que-dichos-y-medidas-de-ferrero-avanzan-en-sentido-contrario-a-los-compromisos-internacionales/",
+      "published": "2026-09-17T23:02:29+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.62,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Una nueva encuesta en Brasil muestra un empate técnico entre Lula y Flávio Bolsonaro en una eventual segunda vuelta",
+      "summary": "En el contexto de una competencia muy reñida, la campaña del presidente intenta centrar los ataques contra el candidato opositor vinculándolo al banquero Daniel Vorcaro.La encuesta Atlas/Bloomberg publicada este jueves en Brasil muestra al presidente Luiz Inácio Lula da Silva y al candidato...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/una-nueva-encuesta-en-brasil-muestra-un-empate-tecnico-entre-lula-y-flavio-bolsonaro-en-una-eventual-segunda-vuelta/",
+      "published": "2026-09-17T22:54:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.57,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Odesur 2026: boxeo peleará por el oro y el remo va por más medallas",
+      "summary": "Uruguay ya suma 17 preseas; el handball femenino goleó de nuevo, mientras el fútbol masculino debutó con derrota ante Venezuela.Cerró el jueves y Uruguay suma 17 medallas en los Juegos Odesur Santa Fe 2026: 4 oros, 3 platas y 10 bronces. Una nueva jornada con revanchas, goleadas y algún que otro...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/odesur-2026-boxeo-peleara-por-el-oro-y-el-remo-va-por-mas-medallas/",
+      "published": "2026-09-17T22:31:22+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.43,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Dura baja para Cerro: Augusto Cambón se pierde el resto del año por lesión en la rodilla",
+      "summary": "El goleador del Clausura, a préstamo en el villero, se rompió un ligamento cruzado y no volverá a jugar hasta mediados de 2027.La mala suerte no le da respiro a Augusto Cambón, el centrodelantero de 21 años que atravesaba un Clausura con miras a consagratorio en Cerro, pero que se le termina de...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/dura-baja-para-cerro-augusto-cambon-se-pierde-el-resto-del-ano-por-lesion-en-la-rodilla/",
+      "published": "2026-09-17T22:26:02+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.4,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Estados Unidos rechazó darle la visa al presidente palestino, quien no podrá estar presente en la Asamblea General de la ONU",
+      "summary": "Mahmud Abbas tendrá que dar su discurso de manera virtual, tal como sucedió el año pasado, cuando Washington tampoco le permitió ingresar al país; 152 países votaron en contra de la decisión.Por segundo año consecutivo, Estados Unidos le negó la solicitud de visado de entrada al país al presidente...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/9/estados-unidos-rechazo-darle-la-visa-al-presidente-palestino-quien-no-podra-estar-presente-en-la-asamblea-general-de-la-onu/",
+      "published": "2026-09-17T22:20:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.36,
       "sources": [
         "La Diaria"
       ]
