@@ -1,143 +1,170 @@
 {
-  "updated_at": "2026-09-26T23:59:22.736022+00:00",
+  "updated_at": "2026-09-27T14:53:38.527856+00:00",
   "articles": [
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio al alza: ¿En cuánto cerró el dólar la semana?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOeWQzRExLNEljYmk1UFMxTFEzS0lMQ1NTQmFwOWNLb2Q1MlFoakptajlqZV9KcGNJWU1jZkJfZlFMYlVaM0N3RFRJTDluQ2pfejVQTGZtV3owY1V3RzVBYjByMXZKRVpmQ3pod3RLYTIxemQ5UEtSc2tESHNub1VIWEZteG5BMks3d0VXMHpiSi1QZ0ZzLVFzWGFRSWFyVEZkc1dwOXpxMmNDWjVNNFYwOENqenh1anRiTjdJcFVMQWhjS1FJOHJ1SXRqSFRPcWQ4MHBsVVJUMTdXc1RsU3pTT2w2cFRfTXZCMGo2NHR5a2VpQ3ZWeDNpSGNGMFBvN0sxd3NSYWRXSQ?oc=5",
-      "published": "2026-09-26T23:26:22+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.79,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Prosperidad Social: este es el último día de pago a beneficiarios de Renta Ciudadana y Devolución del IVA",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSTllb0dFSTRFVXpSeXl0Yjczc0FneHNYQ1JTcUFJZVRtRWRoTG9pY0lZOVU2SnYtd184SzBscWk4TFhINGNVVEZRRnNnNFNqVmFFcTM3UllTZ1I1d2E3ZkRhcWJsTG9ZdFcyaDR3Y2VJYktPTzNfV3huT21CSGU1LVI5SnduWGhST1U0UUNjUkJpd25ILWo0MTkyUmlVR3RWOFNNY1JOcmNORkQ0YkR5NTdMSDVHTk5tX0NXV3dfM1hLMm5zLVJxZlJXMlJxbUlBNEJWVFV6N2J0S0NzRmU0eUxJYzJReHEwd3h1ck9rbXjSAYsCQVVfeXFMTWJuUDFZWFdwUHlTWUZyZWJNLWw5VUNjR3R6UHBHLW80NEVtY0N6dGV0WDlDODlrNGVXR0xlQTN0OHNEMmtBSUFNQm9MT1M4RGtpSjhDQ3AwOWNBOEI3a0p5eGZKMUw5ZUlIMFNRTHl6aktheDlCQ2w0b3dpbTk4TmFxZTl4LTA5eVV6aWN0b3haWGg2eGlXeDBGYTlkX2RRRWNIRFhOWnRLeFpvNGNCSVVEOTMxWWE4TzhZYngyMmN4cFpxQTljcnFmTndRb01VOF9KR1E5SzV1a25JQXBRUE5nRlN5b3JqY2syaVdCZ1o2bnlqZ3Nac2hNTkdmUTRURy1EYV8xaTJ3eERB?oc=5",
-      "published": "2026-09-26T19:21:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.26,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Por qué el dólar perdió atractivo y qué recomienda el Gurú del Blue para invertir: “Te conviene hacerlo hoy”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPV2IwbnMtU0d1Um1OaUVmYUZ1T2l3RnNiQkYzVDRMUDZEazZibmVyUFJIRmxHYzBDV2VxdEFfQURjYWdjbGJ3SnJLaTlSZzZVbjNocVJqbFpIZTZyY0tGQXZJVUtuR19MVkdaOHBfdWlkUzltNC02SDBfaUg2TnlOaHVpVVlLYk5MUWRQcVdJdi1GZGRTX0IzcHBzZmp1MGtyaHhlb21fNnJGMWIySG1tY3FkYWRqOGlrV1duT19HSGYydDJMUmI4cTBWM0ZfZVNRdjI2VEJaQXFrX0dMaGNPSVNRUdIB_gFBVV95cUxQc1JyVzVLdWstZkM4b1J4azIzc0lKZUpVMlRnSGM3X0pZVVNLck9YOGtpT3hScEZ0czdGOHBuOTY1cjFIU3hBTzNUS2J3MzZfXy1KbHJPbF92SjZIWll0b3hIUGt4Qjd3Uk5YSElCS2k4cFhjWThqYkh1RGpYdm42RTZXX3ZLNy1qVEtJaTdGWnpDX0l1SkFUUGxQb3NLY0p4SkVjUXYwMGZRelJKVTZBNFVialFKcWNUVG5wbU1YeUNyUTAtallWSzltZHhmQldFSDM1VkhBcG5aNkNHLUpNbFFvR3VJQUpod1gtWWhHdnFzRlR1bUlpeXlqVWhaQQ?oc=5",
-      "published": "2026-09-26T17:45:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.66,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
       "source": "El País Eco",
-      "title": "Adif informa que sus webs vuelven a estar operativas tras un ciberataque a sus sistemas",
-      "summary": "Renfe abrió el viernes una investigación sobre un ciberataque vinculado a sistemas del administrador ferroviario",
-      "url": "https://elpais.com/economia/2026-09-26/adif-informa-que-sus-webs-vuelven-a-estar-operativas-tras-un-ciberataque-a-sus-sistemas.html",
-      "published": "2026-09-26T10:53:41+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/WVSROFI2UVHYNFBY2RMDFKFERU.jpg?auth=4b36420b846a8bb47595066e714048839b388bbb94796c05752397a2557ac1cd",
+      "title": "El consumidor entra en “modo control”: más visitas al súper, más legumbres y menos pescado",
+      "summary": "Los alimentos se han encarecido un 35% en los últimos cinco años, una subida que obliga a los hogares a cambiar de hábitos y a reajustar el presupuesto",
+      "url": "https://elpais.com/economia/2026-09-27/el-consumidor-entra-en-modo-control-mas-visitas-al-super-mas-legumbres-y-menos-pescado.html",
+      "published": "2026-09-27T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/PB4FWN2DBBFKPOG6JP5AVIOAFI.JPG?auth=e6128357b5744f7a41786906234bec909eba32a6566106a4eb2b1f50ded755eb",
       "coverage": 1,
-      "relevance": 16.49,
+      "relevance": 17.22,
       "sources": [
         "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Nubank estaría en negociaciones para comprar Monzo por hasta 10 mil millones de libras esterlinas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdGd3VXU4WWJxdFNZQUNUb25rSk1RY1JBWENyUHZxQ3BSMzhaT1hBN1FrRmRMQXhQYi1KSWhEemdyZURLMV93dVJySWRNZXhMeTB4WllUaGdSZjAweVM2VmR0QjJ4OFloMVhWMG5TUTI4alp2bVZxUUc3YkE1T2ZwUGZ1TWozdzVyeXFBRGhzRFd2NGVCTUhMelBTOUFwUzU5aVgwS1Z1SUlDR1NOOEdQT1BNcjh2WTJaelk3cURVMkhfZWVTMXlEd2NrakdsV2NZMGJaS2hOWE1zTjR2WC0yZ3Z2TE1HVmhz0gHoAUFVX3lxTE10Z3dVdThZYnF0U1lBQ1RvbmtKTVFjUkFYQ3JQdnFDcFIzOFpPWEE3UWtGZExBeFBiLUpJaER6Z3JlREsxX3d1UnJJZE1leEx5MHhaWVRoZ1JmMDB5UzZWZHRCMng4WWgxWFYwblNRMjhqWnZtVnFRRzdiQTVPZnBQZnVNajN3NXJ5cUFEaHNEV3Y0ZUJNSEx6UFM5QXBTNTlpWDBLVnVJSUNHU044R1BPUE1yOHZZMlp6WTdxRFUySF9lZVMxeUR3Y2tqR2xXY1kwYlpLaE5YTXNONHZYLTJndnZMTUdWaHM?oc=5",
-      "published": "2026-09-26T14:58:12+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "“Somos suficientes”: se acabó el pastel de la fiesta ibicenca",
+      "summary": "Los clubs cierran una temporada irregular con el mercado saturado y el anuncio del Consell de que no habrá más discotecas nuevas para “encapsular” un sector, concentrado en unas pocas manos, que supone un tercio del PIB insular",
+      "url": "https://elpais.com/economia/2026-09-27/somos-suficientes-se-acabo-el-pastel-de-la-fiesta-ibicenca.html",
+      "published": "2026-09-27T03:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/JLD3CS3LSBHWZKI7JCMUOODV2I.jpg?auth=dc774d4855a1436d3fd50f0f24c45b4cc0d59deed7d725d1efc58bc1667a700b",
       "coverage": 1,
-      "relevance": 15.62,
+      "relevance": 17.22,
       "sources": [
-        "Google Economía"
+        "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar blue: a cuánto cotizan hoy en Mendoza 26 septiembre 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUNVczRJSUVBV0xWZXNoNGFjVmFoSTNCSDZRMTlrcnp4V05xcVdSaHNvU1pkdndPcnRVU0x6NkJfUzZXNzBRT3IxV01qVzM3STJmQ3IweURpWVRTQ3Q2eGpEbzh3a2czd3lReWlYUFlXWHEwOFJHSGI4Um0yclppMXRlQVJESFpqNkNodEhqdHBxdllf?oc=5",
-      "published": "2026-09-26T14:35:06+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "Las claves: vencer la inercia de desconfiar de la IA para combatir otras inercias",
+      "summary": "Los inversores temen que los agentes automáticos reduzcan la fidelidad de los clientes a sus operadoras",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-27/las-claves-vencer-la-inercia-de-desconfiar-de-la-ia-para-combatir-otras-inercias.html",
+      "published": "2026-09-27T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/DKD7QI2ABJLVVIDNZOKCRBD5AA.jpg?auth=b110dee7b8c6aaf9fc35ce363bdd05b63009857a56a331d098d1345142a41f67",
       "coverage": 1,
-      "relevance": 15.47,
+      "relevance": 17.19,
       "sources": [
-        "Google Economía"
+        "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "El desempleo se ubicó en 7,2% en agosto de 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYWRMLWhVNE9JSV9ZMnVkQ19jdmdJcVhIcm92Tlc4OEpKX3VZTWpfbzRGVUhyYk9jdUtpT2x0NjFxUTJEY09wbE5XSHpHb2x5NU0zaW9wa0NsS3A2UGFmNEVXTTZEOURBYXNKTlV3b1hpdVNseUhoaUUzSHJISWZNM2NwdkZLbUd3T2tWLXRram5ITmk1UVHSAbABQVVfeXFMUHo5ZDhzMzhRdXZxNDdGZ0JEZXp5ck51ZHpUNlBnaTBNa0xITGp1QlcwMk13VUp1UGpadF9pbV9MMGJDRzRZODE5VTVSV3NoYUFpTEZqTVktbE11cXVRSkFiYlRwSHEzdDJGSlZRSHZsX3JvS2NDMGtRVldmbDhGbU41M2FENEJVc3VKVnlWWmtkMVk4czFhT3BteWJsZk0yMEFxWmlKRkpvY3FrZFBpVFg?oc=5",
-      "published": "2026-09-26T14:12:52+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "La Bolsa aún resiste a la política y al ‘shock’ energético",
+      "summary": "Los índices encadenan récords, pero las elecciones en EE UU o Francia amenazan con agitar los mercados",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-26/la-bolsa-aun-resiste-a-la-politica-y-al-shock-energetico.html",
+      "published": "2026-09-27T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/OUOS3RRQ4FNZTGPG5BWZT7KHDQ.jpg?auth=75c2f1a85c61740cec5bb1d839b45120ba791734205b1d2c0def2b6ebc6fda94",
       "coverage": 1,
-      "relevance": 15.33,
+      "relevance": 17.19,
       "sources": [
-        "Google Economía"
+        "El País Eco"
       ]
     },
     {
       "category": "economia",
-      "source": "Google Economía",
-      "title": "Semana roja en Argentina, caen los mercados",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczJ2OWZIRmI3VjlBcHIycFhGdFBybl83ZVJ6N001bkxsdEhrdmNPRHc0SElFX2UwT0N6X1RBOWdSb0htMjlXZXRsakkxUExIQUJmRk01Q3c0QS04bnZjMEdUazI2ZnVlVzhSTGZQRmNobW94a1paOW9FOFY0V0JHbDZ0XzVqdmZhOVVXd3Z6TEZsa2g3eFNLa2xfQi0tYnlMS09FeHBCRlhaaG93TUgtdNIBtgFBVV95cUxQVjJ0Qi1ESXZYZEQ4WHBNdU9oRm1URURqMl9YaHRTTVdhZURmNjYzZndLRThvUUNTcUpzZ3h0VS1JbGl1YnI3SGs2dWpvNDljUG82aExGRW1xZC1fNTNyR2JJc29XQ0IxdWFKbGJYRXlSbDJJOEdUVFB0TFlvckxhSlFfWGRNTWk5YzQ3WVJ4OTZhRVBTZkw2THlfMFVmUE1rQk55VWJUWFpFeUJNUjN3ZHJtNFZmQQ?oc=5",
-      "published": "2026-09-26T14:04:35+00:00",
-      "image": null,
+      "source": "El País Eco",
+      "title": "Olivier Bernhard, el campeón de ‘Ironman’ que se ha llevado a Mbappé de Nike",
+      "summary": "El empresario suizo impulsó la llegada del delantero francés, con el que la marca aspira a plantar cara a Nike y Adidas",
+      "url": "https://cincodias.elpais.com/opinion/2026-09-27/olivier-bernhard-el-campeon-de-ironman-que-se-ha-llevado-a-mbappe-de-nike.html",
+      "published": "2026-09-27T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/SDL62GKKOVEBDJ5OYPI47T4CY4.jpg?auth=4eecfe97cc553730de6a29e548c1b84a77c333506523c2851682a2ffa3c35f45",
       "coverage": 1,
-      "relevance": 15.28,
+      "relevance": 17.19,
       "sources": [
-        "Google Economía"
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Es hora de replantearse los objetivos de inflación",
+      "summary": "Resulta difícil de comprender por qué el BCE abandonó en 2021 la estrategia denominada como los dos pilares",
+      "url": "https://elpais.com/economia/negocios/2026-09-27/es-hora-de-replantearse-los-objetivos-de-inflacion.html",
+      "published": "2026-09-27T03:30:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/NSXVJKRLMVHI5IPO54BF4ONK5A.jpg?auth=478243e5eb5f340960383ae7050a84ab92e6ecd27f093dddd05f9a6c6b395dbe",
+      "coverage": 1,
+      "relevance": 17.13,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El coste invisible de la estabilidad financiera (II)",
+      "summary": "2027 podría ser el año en que la simplificación deje de ser una declaración de intenciones",
+      "url": "https://elpais.com/economia/negocios/2026-09-27/el-coste-invisible-de-la-estabilidad-financiera-ii.html",
+      "published": "2026-09-27T03:30:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/2IHK3EOLEZFR5C46UI3KVYDR54.jpg?auth=385ab0251394a34186e79c595cabf499945ac51f6cc072987b78330241598a48",
+      "coverage": 1,
+      "relevance": 17.13,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Nik Storonsky, el visionario que vino de Rusia para revolucionar la industria financiera con Revolut: “En los bancos tradicionales es prácticamente imposible hacer algo nuevo”",
+      "summary": "El fundador y consejero delegado pretende convertir una ‘fintech’ nacida para abaratar el cambio de divisas en el primer banco global sin perder la velocidad de una tecnológica",
+      "url": "https://elpais.com/economia/negocios/2026-09-26/nik-storonsky-el-visionario-que-vino-de-rusia-para-revolucionar-la-industria-financiera-con-revolut-en-los-bancos-tradicionales-es-practicamente-imposible-hacer-algo-nuevo.html",
+      "published": "2026-09-26T15:30:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/YF27MVEXTJFKFBACGYD3GH2NAU.JPG?auth=9e1bb1623d6f821da0c4ee779f858d92d19b500ae0aab18a7010ea73a57cd7e6",
+      "coverage": 1,
+      "relevance": 12.63,
+      "sources": [
+        "El País Eco"
       ]
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Los jóvenes a León XIV: Siguiendo los pasos de los santos de Francia",
-      "summary": "La vigilia de oración con jóvenes en el Stade de France de Saint-Denis comenzó con unas palabras de bienvenida del obispo de la diócesis, monseñor Étienne Guillet: «¡Fortalezcan a estos jóvenes de Francia, fortalezcan a toda nuestra Iglesia!». La joven Inès, en nombre de todos, destacó que hoy...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-09/papa-leon-vigilia-jovenes-paris-viaje-apostolico.html",
-      "published": "2026-09-25T20:18:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---veglia-di-preghiera-c/1790368505757.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 2,
-      "relevance": 21.8,
+      "title": "El Papa: Rechazar la tentación de quitar la vida con el pretexto de una falsa compasión",
+      "summary": "La persona humana es “digna” por “el mero hecho de existir y de tener como fin la eternidad” y “su dignidad no se mide ni se discute”, reafirmó el Papa León XIV esta tarde, durante el encuentro con los enfermos y acompañantes del centro sanitario “Accueil Notre-Dame” en el Santuario de Lourdes, en...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-09/papa-leon-xiv-viaje-apostolico-francia-enfermos-defensa-vida.html",
+      "published": "2026-09-27T14:02:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---incontro-con-gli-oper/1790518201082.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.48,
       "sources": [
-        "Aleteia",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Bozo: Los franceses están inquietos y en busca de un sentido. Por eso miran al Papa",
+      "summary": "Monseñor Pierre Antoine Bozo comenta la enorme participación en la Misa del Papa en la Plaza de la Concordia de París y el entusiasmo general por la visita de León XIV. “En el corazón de los franceses hay una gran preocupación por muchas cosas. La sociedad de consumo no basta para hacerlos felices...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-09/obispo-bozo-entrevista-viaje-francia-papa-leon-xiv-iglesia.html",
+      "published": "2026-09-27T13:41:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790497519944.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.35,
+      "sources": [
         "Vatican News"
       ]
     },
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "En la gruta de Lourdes, León XIV reza por Francia, su pueblo y sus líderes",
-      "summary": "Tras pasar dos días en París, a su llegada a Lourdes la noche del 26 de septiembre de 2026, León XIV se dirigió directamente a la “gruta”, el lugar donde se dice que la Virgen María se apareció a la joven Bernadette Soubirous en 1858. Allí, recibido con entusiasmo por decenas de miles de personas...",
-      "url": "https://es.aleteia.org/2026/09/26/en-la-gruta-de-lourdes-leon-xiv-reza-por-francia-su-pueblo-y-sus-lideres/",
-      "published": "2026-09-26T21:42:07+00:00",
+      "title": "Don Justino Cortés: el sacerdote que estudió la semilla evangelizadora de México",
+      "summary": "Los estudios sobre el proyecto evangelizador que emprendieron los primeros misioneros en México son contados. Por ello, los que existen son un gran tesoro para la Iglesia y la identidad de los pueblos. El sacerdote Don Justino Cortés Castellanos, quien actualmente tiene 94 años, dedicó parte de su...",
+      "url": "https://es.aleteia.org/2026/09/27/don-justino-cortes-el-sacerdote-que-estudio-la-semilla-evangelizadora-de-mexico/",
+      "published": "2026-09-27T14:30:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.34,
+      "relevance": 20.05,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "5 consejos para dejar de pelear por quién tiene la razón",
+      "summary": "Es común que muchas parejas se enfrasquen en discusiones sobre quién tiene la razón, hasta llegar a creer que tenerla es tan importante como poseer la verdad. Así, una diferencia pequeña termina ocupando toda la mesa y dejando al cariño sin su lugar primordial. La conversación se convierte en una...",
+      "url": "https://es.aleteia.org/2026/09/27/5-consejos-para-dejar-de-pelear-por-quien-tiene-la-razon/",
+      "published": "2026-09-27T14:03:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.88,
       "sources": [
         "Aleteia"
       ]
@@ -145,13 +172,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "La Maison Bakhita acoge al Papa: Encuentro y fraternidad, la caridad parisina",
-      "summary": "En el encuentro con León XIV, al comienzo de su segundo día en Francia, la directora del Centro de Acompañamiento e Integración lo describió como un lugar de para exiliados y voluntarios, \"donde cada uno ofrece al otro la humanidad de su mirada\". La red, con \"Aux Captifs, la Libération\" y \"À Bras...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-09/directora-maison-bakhita-al-papa-leon.html",
-      "published": "2026-09-26T19:03:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---visita-al-centro-di-a/1790407496761.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "El Papa pide rezar el Rosario por el fin de las guerras en el mundo",
+      "summary": "Ante la imagen de la Virgen de Lourdes en Francia, el Papa León XIV convoca a las comunidades cristianas a rezar el rosario en octubre por la paz y la reconciliación. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-09/el-papa-pide-rezar-el-rosario-por-el-cese-de-las-guerras.html",
+      "published": "2026-09-27T11:05:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790505300068.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.95,
+      "relevance": 19.37,
       "sources": [
         "Vatican News"
       ]
@@ -159,13 +186,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "En Lourdes, el Papa encomienda Francia a la Virgen María",
-      "summary": "Tras llegar a la ciudad mariana, el Sumo Pontífice se dirigió al corazón del santuario para rezar a la Virgen en la gruta de Massabielle, rodeado de miles de fieles. Recogido ante ella, León XIV pidió, entre otras cosas, «el don de la concordia fraternal» para el país anfitrión y le confió también...",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-09/en-lourdes-el-papa-encomienda-francia-a-la-virgen-maria.html",
-      "published": "2026-09-26T18:55:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---preghiera-alla-grotta/1790447996647.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "El Papa: Hacer penitencia por un mundo que va mal. Ser misioneros de la esperanza",
+      "summary": "“La Virgen nos pide que hagamos penitencia, no sólo por nosotros mismos”, sino también “‘por los pecadores’, por un mundo que va mal”, dijo el Papa León XIV durante la Misa de esta mañana en el Santuario de Lourdes, donde reiteró la exigencia de conversión y exhortó a ser misioneros de la esperanza...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-09/papa-leon-xiv-misa-santuario-de-lourdes.html",
+      "published": "2026-09-27T09:55:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790501999468.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.9,
+      "relevance": 18.93,
       "sources": [
         "Vatican News"
       ]
@@ -173,55 +200,27 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Parolin ante la ONU: \"Restablecer la confianza\" a través de diálogo, la justicia y la paz",
-      "summary": "En su intervención ante la Asamblea General en Nueva York, el Secretario de Estado del Vaticano llamó a poner fin de las guerras, a respetar el derecho internacional, a un uso responsable de la inteligencia artificial y a un multilateralismo renovado. Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-09/parolin-onu-restablecer-la-confianza-dialogo-justicia-paz.html",
-      "published": "2026-09-26T16:35:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/09/26/16/1790433653673.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "En un minuto: el segundo día del Papa en Francia",
+      "summary": "Las imágenes de Vatican Media recogen la segunda jornada de León XIV en Francia. Desde la visita a la Maison Bakhita hasta el encuentro con los miembros de la Asamblea Sinodal Provincial, los catecúmenos y los neófitos, pasando por la misa en la Place de la Concorde. Por la tarde, la salida de...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-09/en-un-minuto-el-segundo-dia-del-papa-en-francia.html",
+      "published": "2026-09-27T09:46:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/27/2026-09-27-viaggio-apostolico-in-francia---santa-messa-a-lourdes/1790497503601.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.02,
+      "relevance": 18.88,
       "sources": [
         "Vatican News"
       ]
     },
     {
       "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Los catecúmenos en Francia “contradicen cualquier actitud derrotista”, exclamó León XIV",
-      "summary": "“Como ustedes y con ustedes, me asombra la cantidad de personas que hoy se encuentran en el umbral de la fe”, declaró el Papa León XIV a los catecúmenos reunidos en el Instituto Católico de París el 26 de septiembre de 2026, segundo día de su viaje a Francia. Este aumento en los bautismos de Leer...",
-      "url": "https://es.aleteia.org/2026/09/26/los-catecumenos-en-francia-contradicen-cualquier-actitud-derrotista-exclamo-leon-xiv/",
-      "published": "2026-09-26T16:08:34+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.26,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "En París, 700.000 fieles en la Misa de León XIV",
-      "summary": "Dar testimonio de su fe en Dios para responder a la “sed de sentido” que caracteriza a la humanidad. Esta fue la exhortación de León XIV a los católicos de Francia, durante una multitudinaria misa en la Plaza de la Concordia de París, la tarde del 26 de septiembre de 2026. Ante la multitud de Leer...",
-      "url": "https://es.aleteia.org/2026/09/26/en-paris-700-000-fieles-en-la-misa-de-leon-xiv/",
-      "published": "2026-09-26T15:52:36+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.16,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
       "source": "Vatican News",
-      "title": "La sed de Dios sacia a París: apoteósico abrazo a León XIV",
-      "summary": "El Papa cierra sus actividades públicas en la capital tras ser aclamado masivamente en los Champs Elysées, estrechar la mano de los marginados en la Maison Bakhita, impulsar la sinodalidad y celebrar la sagrada eucaristía en la Plaza de la Concordia. Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-09/cronica-cierre-etapa-parisina-viaje-papa-lourdes-metz.html",
-      "published": "2026-09-26T14:11:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/26/2026-09-26-viaggio-apostolico-in-francia---santa-messa-place-de-/1790431801950.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Jornada Mundial del Migrante y del Refugiado: Sin cálculos, solo dignidad para los niños",
+      "summary": "La celebración de hoy está dedicada al tema “Incluso uno solo de estos pequeños”. Según la ONU, hoy en día más de 117 millones de personas se encuentran desplazadas forzosamente en todo el mundo, y alrededor del 40% son menores. Las guerras, la pobreza, la violencia y los desastres ambientales son...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-09/jornada-mundial-migrante-refugiado-ninos-iniciativas.html",
+      "published": "2026-09-27T09:42:39+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2021/12/05/09/1638692016604.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.12,
+      "relevance": 18.86,
       "sources": [
         "Vatican News"
       ]
@@ -229,13 +228,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Darwin murió sin poder demostrarlo. 150 años después, la ciencia acaba de darle la razón con una planta carnívora",
-      "summary": "La naturaleza tiene una asombrosa capacidad para esconder a sus depredadores más eficientes a plena vista, y a día de hoy seguramente haya muchas plantas a nuestro alrededor que son carnívoras y no lo sabemos. Esto es lo que le ocurrió en 1875 al mismísimo Charles Darwin, que en su obra...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/darwin-murio-poder-demostrarlo-150-anos-despues-ciencia-acaba-darle-razon-planta-carnivora",
-      "published": "2026-09-26T18:30:50+00:00",
-      "image": "https://i.blogs.es/6bf2ed/planta/1024_2000.jpeg",
+      "title": "En 1945, un submarino británico localizó a ciegas uno alemán a 150 metros de profundidad. Lo que ocurrió justo después no ha vuelto a pasar jamás",
+      "summary": "En febrero de 1945, un submarino británico encontró frente a Noruega a un U-boat alemán que navegaba sumergido. No podía verlo, apenas podía escucharlo y las armas de la época no estaban concebidas para perseguir autónomamente un objetivo que se movía en tres dimensiones bajo el agua. Después de...",
+      "url": "https://www.xataka.com/magnet/1945-submarino-britanico-localizo-a-ciegas-uno-aleman-a-150-metros-profundidad-que-ocurrio-justo-despues-no-ha-vuelto-a-pasar-jamas",
+      "published": "2026-09-27T14:30:09+00:00",
+      "image": "https://i.blogs.es/9b4158/vanguard-class-submarine_0/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.45,
+      "relevance": 20.35,
       "sources": [
         "Xataka"
       ]
@@ -243,13 +242,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Después de 35 años, los arqueólogos han vuelto a excavar un teatro romano en Málaga y han encontrado una grada casi intacta",
-      "summary": "Una de las edificaciones que definían lo importante que era una ciudad en el Imperio Romano eran los teatros y en Hispania había unos cuantos, algunos tan famosos como el de Mérida o el de Cádiz. Precisamente en la antigua Bética había uno poco conocido, el de Singilia Barba, a unos siete...",
-      "url": "https://www.xataka.com/magnet/despues-35-anos-arqueologos-han-vuelto-a-excavar-teatro-romano-malaga-han-hallado-grada-casi-intacta",
-      "published": "2026-09-26T18:00:50+00:00",
-      "image": "https://i.blogs.es/20f7d6/gemini_generated_image_j2pkt3j2pkt3j2pk/1024_2000.jpeg",
+      "title": "Noelia Hernández, educadora felina: \"Los gatos muchas veces eligen a las personas que más pasan de ellos\"",
+      "summary": "Si tienes gato es posible que te haya pasado: adoras a tu gato, le compras los mejores juguetes, le das de comer y muchos mimos, pero tu gato sólo te devuelve indiferencia. Mientras tanto, esa persona que pasa del gato es la que es bendecida con su cariño. El gato la busca, siempre está donde está...",
+      "url": "https://www.xataka.com/magnet/noelia-hernandez-educadora-felina-gatos-muchas-veces-eligen-a-personas-que-pasan-ellos",
+      "published": "2026-09-27T14:00:10+00:00",
+      "image": "https://i.blogs.es/cbe8eb/scar/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.26,
+      "relevance": 20.17,
       "sources": [
         "Xataka"
       ]
@@ -257,13 +256,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "En junio, cuatro estudiantes envolvieron parte de un glaciar con lana de oveja. Acaban de descubrir que frenaron su deshielo a la mitad",
-      "summary": "El pasado mes de junio, cuatro estudiantes subieron hasta un glaciar de los Alpes suizos con una idea tan sencilla como extraña: cubrir parte del hielo con lana de oveja y dejar que pasara el verano. En septiembre, las mediciones apuntaban a que aquella manta natural había funcionado prácticamente...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/junio-cuatro-estudiantes-envolvieron-parte-glaciar-lana-oveja-acaban-descubrir-que-frenaron-su-deshielo-a-mitad",
-      "published": "2026-09-26T17:30:50+00:00",
-      "image": "https://i.blogs.es/eebfac/3672400216_a88ba202eb_o/1024_2000.jpeg",
+      "title": "Ni gimnasio ni 10.000 pasos: los que más viven solo se mueven todo el día",
+      "summary": "En los últimos años hemos visto una importante evolución en la filosofía que hay que seguir a la hora de salir a caminar. Pero en lugar de centrarse únicamente en esta variable, hay que tener en cuenta otras muchas, como el estilo de vida en general, como por ejemplo la que vemos en las famosas...",
+      "url": "https://www.xataka.com/medicina-y-salud/gimnasio-10-000-pasos-que-viven-solo-se-mueven-todo-dia",
+      "published": "2026-09-27T13:30:10+00:00",
+      "image": "https://i.blogs.es/4b0c52/pasear-camino/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.07,
+      "relevance": 19.98,
       "sources": [
         "Xataka"
       ]
@@ -271,13 +270,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Un estudio ha descubierto cuánto duran los discos duros y qué marca falla primero",
-      "summary": "Un estudio con cientos de miles de discos duros ha puesto en duda la creencia sobre cuánto duran estos dispositivos. La investigación, publicada en arXiv, analiza diferencias de fiabilidad en cuatro de los fabricantes más populares y desmiente los mitos más comunes. Los resultados apuntan a que la...",
-      "url": "https://hipertextual.com/hardware/estudio-vida-util-discos-duros-fiabilidad/",
-      "published": "2026-09-26T18:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/hdd-01.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "10 películas que fueron un desastre de taquilla y ahora son de culto",
+      "summary": "Con frecuencia, un desastre de taquilla deja algo en claro. El público no encontró atractiva una producción por razones que pocas veces están claras. De una historia que no llegó a cautivar a la audiencia, a efectos visuales que decepcionaron a la mayoría de los amantes del cine. Pasando por un...",
+      "url": "https://hipertextual.com/cine-television/10-peliculas-que-fueron-un-desastre-de-taquilla-y-ahora-son-de-culto/",
+      "published": "2026-09-27T14:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Peliculas-de-culto.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 17.95,
+      "relevance": 19.86,
       "sources": [
         "Hipertextual"
       ]
@@ -285,13 +284,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Un biólogo anilló en 1956 un albatros en Midway: casi 70 años después, esa misma hembra sigue volviendo a criar en la colonia",
-      "summary": "En el remoto atolón de Midway, en pleno océano Pacífico, la vida se rige por los ciclos de anidación. Sin embargo, hay un ejemplar que ha transformado la forma en la que la ciencia entiende la biología y la longevidad de las aves marinas, y la culpable ha sido 'Wisdom', una hembra de albatros de...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/biologo-anillo-1956-albatros-midway-casi-70-anos-despues-esa-hembra-sigue-volviendo-a-criar-colonia",
-      "published": "2026-09-26T17:00:49+00:00",
-      "image": "https://i.blogs.es/1cac55/wisdon/1024_2000.jpeg",
+      "title": "La nueva colonización de África es renovable y China ya la está liderando",
+      "summary": "África es un gigante funcionando a medio gas con un enorme potencial porque tiene de todo: gas, petróleo, minerales... y otras cosas más mundanas pero igualmente valiosas en tiempos de transición energética como el viento o el sol. Sin ir más lejos, 2025 fue el año de mayor crecimiento solar de su...",
+      "url": "https://www.xataka.com/energia/nueva-colonizacion-africa-renovable-china-esta-liderando",
+      "published": "2026-09-27T13:00:10+00:00",
+      "image": "https://i.blogs.es/3b6b15/doug-bagg-k9l_mfsrdby-unsplash/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.88,
+      "relevance": 19.79,
       "sources": [
         "Xataka"
       ]
@@ -299,13 +298,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Ante el avance del streaming, la radio europea se está uniendo para exigir FM y DAB+ obligatorios en los coches nuevos",
-      "summary": "Las radios públicas, privadas y asociativas de Francia se han unido para lanzar un S.O.S. a la Unión Europea con un objetivo: salvar la mítica radio de los coches, esa que nos ha mantenido al tanto de la actualidad, nos ha entretenido durante largos viajes con canciones random, testimonios...",
-      "url": "https://www.xataka.com/movilidad/avance-streaming-radio-europea-se-esta-uniendo-para-exigir-fm-dab-obligatorios-coches-nuevos",
-      "published": "2026-09-26T16:30:50+00:00",
-      "image": "https://i.blogs.es/eb9bcc/stephen-andrews-qhbg3dkb1y0-unsplash/1024_2000.jpeg",
+      "title": "La comedia romántica de moda no es en realidad una comedia: lo que 'La hipótesis del amor' revela sobre las mujeres en la ciencia",
+      "summary": "'La hipótesis del amor' es la comedia romántica mamarracha que necesitas para pasar el rato si quieres ver algo sin pensar demasiado. Sin embargo, si te apetece verla pensando, descubrirás que en realidad la nueva película de Amazon Prime, basada en la novela de Ali Hazelwood, es más que eso. Esta...",
+      "url": "https://www.xataka.com/cine-y-tv/hipotesis-amor-mucho-que-comedia-romantica-asi-retrata-acoso-que-sufren-cientificas-vida-real",
+      "published": "2026-09-27T12:30:09+00:00",
+      "image": "https://i.blogs.es/a85c73/la-hipotesis-del-amor/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.7,
+      "relevance": 19.6,
       "sources": [
         "Xataka"
       ]
@@ -313,13 +312,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "‘En el corazón de la bestia’, final explicado: ¿sobrevive el perro protagonista?",
-      "summary": "En el corazón de la bestia es una historia en apariencia sencilla. Pero en realidad, es el relato de la amistad entre James Belmont (Brad Pitt) y su perro Odin; es mucho más que solo un tropo sensiblero. En realidad, el director David Ayer logró construir una épica en miniatura en que esta amistad...",
-      "url": "https://hipertextual.com/cine-television/en-el-corazon-de-la-bestia-final-explicado-sobrevive-el-perro-protagonista/",
-      "published": "2026-09-26T17:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/En-el-corazon-de-la-bestia-23.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "7 veces en las que la saga Star Wars ha fallado (y no son las que piensas)",
+      "summary": "Star Wars es, sin duda, una de las franquicias más importantes del mundo del cine. Creada por George Lucas en 1977, transformó para siempre la historia del cine y la cultura popular. No solo al combinar la fantasía con todo tipo de referencias complejas de cine, literatura, religión y mitología....",
+      "url": "https://hipertextual.com/cine-television/7-veces-en-las-que-la-saga-star-wars-ha-fallado-y-no-son-las-que-piensas/",
+      "published": "2026-09-27T13:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/Star-Wars-Visions-El-Noveno-Jedi.jpg?fit=1024%2C614&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 17.58,
+      "relevance": 19.49,
       "sources": [
         "Hipertextual"
       ]
@@ -327,13 +326,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Hay una mansión en Silicon Valley donde la élite de la IA se reúne para construir el futuro: ya acumula 37 incidentes policiales",
-      "summary": "Hace más de una década, en Silicon Valley era típico que varios informáticos alquilaran una casa y se pasaran días y noches programando tratando de sacar adelante una idea (una de estas 'hacker houses' fue la primera base de operaciones de Facebook, por cierto). El auge de la IA ha llevado aquel...",
-      "url": "https://www.xataka.com/robotica-e-ia/hay-mansion-silicon-valley-donde-elite-ia-se-reune-para-construir-futuro-acumula-37-incidentes-policiales",
-      "published": "2026-09-26T16:00:49+00:00",
-      "image": "https://i.blogs.es/d3f65e/magnific_bien-pero-manten-los-colo_u5wocxjqld/1024_2000.jpeg",
+      "title": "Italia metió a 65.000 presos donde cabían 47.000. Un verano histórico acaba de añadir el ingrediente que faltaba en la cárcel: 50 ºC",
+      "summary": "Italia acaba de descubrir qué ocurre cuando una crisis penitenciaria que lleva años enquistada se encuentra con un verano extremo. Cerca de 65.000 personas han pasado los meses más asfixiantes hacinadas en un sistema con menos de 47.000 plazas reales, muchas veces dentro de edificios antiguos, mal...",
+      "url": "https://www.xataka.com/magnet/italia-metio-a-65-000-presos-donde-cabian-47-000-verano-historico-acaba-anadir-ingrediente-que-faltaba-carcel-50-oc",
+      "published": "2026-09-27T12:00:10+00:00",
+      "image": "https://i.blogs.es/8ea861/carcere/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.51,
+      "relevance": 19.42,
       "sources": [
         "Xataka"
       ]
@@ -341,13 +340,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Las portadas del día: estelar, festival en Wembley...",
-      "summary": "Así vienen las primeras páginas de este domingo 27 de septiembre de 2026.",
-      "url": "https://www.marca.com/futbol/album/2026/09/27/portadas-dia-estelar-festival-wembley.html",
-      "published": "2026-09-26T23:39:44+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab857b1275b0.jpeg",
+      "title": "Cumple su sueño de correr el maratón de Berlín con 84 años... ¡y acaba en 4.40:58!",
+      "summary": "El sudafricano Johannes Maros Mosehla, que se convirtió en 2023 en el atleta de más edad en acabar el Comrades Marathon, quería correr un maratón en el extranjero",
+      "url": "https://www.marca.com/atletismo/2026/09/27/cumple-sueno-correr-maraton-berlin-84-anos-acaba-4-40-58.html",
+      "published": "2026-09-27T14:49:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab924bdf2130.jpeg",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 20.47,
       "sources": [
         "Marca"
       ]
@@ -355,11 +354,67 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Viéitez supera a Palmquist en un combate histórico y se convierte en la primera campeona de WOW FC",
-      "summary": "La peleadora española remontó una pelea que tenía practicamente perdida para consagrarse como la monarca de peso paja",
-      "url": "https://www.marca.com/combates-ufc/2026/09/27/vieitez-supera-palmquist-combate-historico-convierte-primera-campeona-wow-fc.html",
-      "published": "2026-09-26T23:22:18+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab852e998add.jpeg",
+      "title": "El masajista que acabó corriendo un Mundial para salvar a una selección campeona: “Esto es una locura\"",
+      "summary": "El eslovaco Vladimir Kovacik viajó a Montreal para masajear piernas ajenas y terminó pedaleando las suyas propias, con el maillot de Eslovaquia a la espalda:",
+      "url": "https://www.marca.com/ciclismo/mundial/2026/09/27/masajista-acabo-corriendo-mundial-salvar-seleccion-campeona-esto-locura.html",
+      "published": "2026-09-27T14:36:24+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab929d3a85dc.jpeg",
+      "coverage": 1,
+      "relevance": 20.39,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Tom Kim, de la Presidents Cup a los Juegos Asiáticos para tratar de evitar el servicio militar obligatorio",
+      "summary": "El surcoreano disputa el segundo partido individual en Medinah y ser marchará a Japón en cuanto termine de jugar, por lo que no podría celebrar una hipotética victoria del Equipo Internacional",
+      "url": "https://www.marca.com/golf/2026/09/27/tom-kim-presidents-cup-juegos-asiaticos-tratar-evitar-servicio-militar-obligatorio.html",
+      "published": "2026-09-27T14:30:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab9263d2f152.jpeg",
+      "coverage": 1,
+      "relevance": 20.36,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "España - Corea del Norte, en directo",
+      "summary": "Sigue en vivo y en directo el España - Corea del Norte de la final del Mundial Sub 20 femenino",
+      "url": "https://www.marca.com/futbol/futbol-femenino/seleccion/2026/09/27/6ab922c86c283cdca8b5be66.html",
+      "published": "2026-09-27T14:30:05+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/17905182880267.jpeg",
+      "coverage": 1,
+      "relevance": 20.35,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Jennifer Lopez sorprende a sus fans al mostrarse sin maquillaje: \"Es un momento aterrador\"",
+      "summary": "La actriz y cantante, de 57 años, ha compartido un vídeo en sus redes sociales en el que aparece sin maquillaje mientras inicia su rutina de cuidado de la piel",
+      "url": "https://www.marca.com/tiramillas/cine/2026/09/27/jennifer-lopez-sorprende-fans-mostrarse-maquillaje-habla-nueva-etapa-personal-momento-aterrador.html",
+      "published": "2026-09-27T14:20:46+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab9250c016c6.jpeg",
+      "coverage": 1,
+      "relevance": 20.29,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "‘Cohete’ sube el listón: tetracampeón del SuperCER en su campaña más dominante con Skoda",
+      "summary": "Llarena supera a Ares por la mínima tras el precipitado desenlace del Rally de Llanes",
+      "url": "https://www.marca.com/motor/rallies/2026/09/27/cohete-sube-liston-tetracampeon-supercer-campana-dominante-skoda.html",
+      "published": "2026-09-27T14:16:45+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab91c4fa9c03.jpeg",
       "coverage": 1,
       "relevance": 20.27,
       "sources": [
@@ -369,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Inglaterra 2-3 España I Resumen",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/2026/09/27/inglaterra-2-3-espana-i-resumen-video.html",
-      "published": "2026-09-26T22:13:36+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab8438acbb49.jpeg",
+      "title": "Merckx, el Mundial de Montreal y el trofeo que tardó 50 años en tener un tercer dueño",
+      "summary": "Medio siglo después, la Triple Corona sigue teniendo solo tres nombres: Eddy Roche y Pogacar",
+      "url": "https://www.marca.com/ciclismo/mundial/2026/09/27/merckx-mundial-montreal-trofeo-tardo-50-anos-tercer-dueno.html",
+      "published": "2026-09-27T14:07:42+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab922b87af35.jpeg",
       "coverage": 1,
-      "relevance": 19.84,
+      "relevance": 20.21,
       "sources": [
         "Marca"
       ]
@@ -383,86 +438,57 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "¿Por qué los futbolistas de España no celebraron el gol de Baena?",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/2026/09/27/futbolistas-espana-celebraron-gol-baena-video.html",
-      "published": "2026-09-26T22:03:38+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/13.jpeg",
+      "title": "El médico de Las Palmas le salva la vida a un pasajero en el aeropuerto de Gran Canaria",
+      "summary": "Diosdado Bolaños auxilió al hombre tras desplomarse repentinamente",
+      "url": "https://www.marca.com/futbol/las-palmas/2026/09/27/medico-palmas-le-salva-vida-pasajero-aeropuerto-gran-canaria.html",
+      "published": "2026-09-27T14:07:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/27/6ab923044d7f0.jpeg",
       "coverage": 1,
-      "relevance": 19.78,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "España presenta el Bernabéu y Zorrilla como sedes para la Final Four",
-      "summary": "Se disputará el próximo verano, entre el 9 y el 13 de junio",
-      "url": "https://www.marca.com/futbol/seleccion/2026/09/26/espana-presenta-bernabeu-zorrilla-sedes-final-four.html",
-      "published": "2026-09-26T21:38:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/6ab83b62a3193.jpeg",
-      "coverage": 1,
-      "relevance": 19.62,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "De la Fuente defiende a Ferran y lo compara con Hugo Sánchez",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/2026/09/26/fuente-defiende-ferran-compara-hugo-sanchez-video.html",
-      "published": "2026-09-26T21:36:45+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/x0o1gk3eH6nHxcN.jpeg",
-      "coverage": 1,
-      "relevance": 19.61,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Un gigante brilla en la bacanal ofensiva del Palau",
-      "summary": "El pívot (21+6 y 30 de valoración) lidera el triunfo del Barça ante un buen Leyma Coruña",
-      "url": "https://www.marca.com/baloncesto/acb/2026/09/26/gigante-brilla-bacanal-ofensiva-palau.html",
-      "published": "2026-09-26T21:20:27+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/6ab828371f17a.jpeg",
-      "coverage": 1,
-      "relevance": 19.51,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Alcaraz: \"Estos partidos me ayudan a ver dónde está mi nivel\"",
-      "summary": "El murciano se congratulaba de la victoria ante Fritz y habla de los cambios en el servicio",
-      "url": "https://www.marca.com/tenis/2026/09/26/alcaraz-partidos-me-ayudan-ver-mi-nivel.html",
-      "published": "2026-09-26T21:10:16+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/26/6ab8307218a08.jpeg",
-      "coverage": 1,
-      "relevance": 19.44,
+      "relevance": 20.21,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "¿Paz o escalada? Las amenazas que marcaron la Asamblea de la ONU",
-      "summary": "La Asamblea General de Naciones Unidas se convirtió esta semana en escenario de amenazas, acusaciones y llamados a la diplomacia, mientras las guerras en Gaza y Ucrania, entre otros conflictos, siguen marcando la agenda internacional. Donald Trump y Benjamin Netanyahu defendieron sus posiciones...",
-      "url": "https://www.france24.com/es/una-semana-en-el-mundo",
-      "published": "2026-09-26T20:13:44+00:00",
-      "image": "https://s.france24.com/media/display/2c06ff7c-b8f0-11f1-8688-11fa9f8a3b4f/w:1024/p:16x9/IMG-0205.png",
-      "coverage": 2,
-      "relevance": 29.39,
+      "source": "BBC Mundo",
+      "title": "Por qué 130 años después sigue la obsesión con el asesinato de los padres de Lizzie Borden, uno de los mayores misterios sin resolver en EE.UU.",
+      "summary": "En junio de 1892, Lizzie Borden fue enjuiciada y exculpada del asesinato de su padre y madrastra. El caso se convirtió en uno de los misterios más infames en la historia de EE.UU. y tema de novelas, películas y un nuevo drama de Netflix.",
+      "url": "https://www.bbc.com/mundo/articles/cv5yjzzgx022o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T14:40:27+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/990c/live/1a52d770-b741-11f1-aa9c-3d062fa3aea7.jpg",
+      "coverage": 1,
+      "relevance": 21.62,
       "sources": [
-        "France 24",
-        "Google Noticias"
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "La policía antiterrorista británica investiga un \"incidente grave\" cerca de una base aérea que utiliza el ejército de Estados Unidos",
+      "summary": "Cinco sujetos fueron detenidos sospechosos por delitos relacionados con explosivos, informaron las autoridades británicas.",
+      "url": "https://www.bbc.com/mundo/articles/cj3v4qlv5p1xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T13:37:34+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d931/live/5c527830-ba73-11f1-907e-dba842f2553c.jpg",
+      "coverage": 1,
+      "relevance": 21.22,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "La Casa de los Secretos, la lujosa mansión donde Reino Unido espiaba a los generales nazis y que cambió el curso de la II Guerra Mundial",
+      "summary": "Mientras los prisioneros de guerra nazis de alto rango se relajaban y charlaban en las elegantes habitaciones de Trent Park, en el sótano los escuchaban en secreto.",
+      "url": "https://www.bbc.com/mundo/articles/cdrvp7plr08o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-27T11:32:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a4e5/live/1ed2bf40-974d-11f1-9c09-a729ba578a81.jpg",
+      "coverage": 1,
+      "relevance": 20.44,
+      "sources": [
+        "BBC Mundo"
       ]
     },
     {
@@ -473,82 +499,10 @@
       "url": "https://www.bbc.com/mundo/articles/crx2zzgjledno?at_medium=RSS&at_campaign=rss",
       "published": "2026-09-26T17:11:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8087/live/4f71efd0-b9cc-11f1-aade-db4851409c93.jpg",
-      "coverage": 2,
-      "relevance": 29.15,
-      "sources": [
-        "BBC Mundo",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Los ministros de Exteriores de Rusia y Alemania se reúnen en la ONU a la sombra de la guerra en Ucrania",
-      "summary": "El ministro de Exteriores de Alemania, Johann Wadephul, protagonizó este sábado una reunión inédita con su homólogo ruso, Serguéi Lavrov, en medio de las tensiones entre ambos países por las acusaciones de Berlín sobre supuestos actos de sabotaje ordenados por Moscú en su territorio. El Kremlin...",
-      "url": "https://www.france24.com/es/europa/20260926-los-ministros-de-exteriores-de-rusia-y-alemania-se-re%C3%BAnen-en-la-onu-a-la-sombra-de-la-guerra-en-ucrania",
-      "published": "2026-09-26T18:32:59+00:00",
-      "image": "https://s.france24.com/media/display/8ad98460-b9d2-11f1-8c71-852b23529bb9/w:1024/p:16x9/HTJ204uXgAAWm68.jpeg",
-      "coverage": 2,
-      "relevance": 28.76,
-      "sources": [
-        "France 24",
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump rechaza plan iraní para reabrir Ormuz; anuncia que podría retomar ataques tras 'midterms'",
-      "summary": "Según 'The Wall Street Journal', el presidente estadounidense, Donald Trump, anunció que rechazó la propuesta de Irán para reabrir el estrecho de Ormuz y terminar los ataques en siete días. Según el medio, Trump habría dicho a sus asesores que espera retomar los ataques contra Irán después de las...",
-      "url": "https://www.france24.com/es/video/20260926-trump-rechaza-plan-iran%C3%AD-para-reabrir-ormuz-anuncia-que-podr%C3%ADa-retomar-ataques-tras-midterms",
-      "published": "2026-09-26T20:01:55+00:00",
-      "image": "https://s.france24.com/media/display/738938fa-b9dc-11f1-847e-91cf9f3cd539/w:1024/p:16x9/ES-20260926-114001-114155-CS.jpg",
       "coverage": 1,
-      "relevance": 19.32,
+      "relevance": 13.56,
       "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Irlanda en tensión por jugar ante Israel en la Nations League: Un jugador deja la concentración y usarán brazaletes negros en apoyo a Palestina",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS3lVZjZzakVKOGNfTnZISFBpU2NwVXlLZHpHSTdrSWcwcHh5VnNrT2hfOEtVTE1PZWpSaENWeGtZMUtfaVdOajJ3R21xeThaMXJIQlpKUEVUbElmOVBYY2NPLVlxcHJ6aFpqQmZYb0ZxblJtVlZNQUlmQjJCUk5tMTR2WFNmQmo5eHh5U0hXd1FoU2x5MVRXamRWUnBHRVhybGZKdTFadHROa0VqWUI1bldESnB3SmZrRVZkRm5Va0xtRDYxTTREQkpfdFRGMDFXV1NPbVR4NFI3SknSAdsBQVVfeXFMTkt5VWY2c2pFSjhjX052SEhQaVNjcFV5S2R6R0k3a0lnMHB4eVZza09oXzhLVUxNT2VqUmhDVnhrWTFLX2lXTmoyd0dtcXk4WjFySEJaSlBFVGxJZjlQWGNjTy1ZcXByemhaakJmWG9GcW5SbVZWTUFJZkIyQlJObTE0dlhTZkJqOXh4eVNIV3dRaFNseTFUV2pkVlJwR0VYcmxmSnUxWnR0TmtFallCNW5XREpwd0pma0VWZEZuVWtMbUQ2MU00REJKX3RURjAxV1dTT21UeDRSN0pJ?oc=5",
-      "published": "2026-09-26T22:23:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.4,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump dice que Estados Unidos llegará a un acuerdo con Cuba y descarta una intervención militar",
-      "summary": "El presidente de Estados Unidos, Donald Trump, afirmó este sábado que espera alcanzar un acuerdo con Cuba y aseguró que no será necesaria una intervención militar en la isla. La declaración llega después de que CBS News revelara que la Reserva del Ejército analiza la posibilidad de aportar personal...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260926-trump-dice-que-estados-unidos-llegar%C3%A1-a-un-acuerdo-con-cuba-y-descarta-una-intervenci%C3%B3n-militar",
-      "published": "2026-09-26T17:05:07+00:00",
-      "image": "https://s.france24.com/media/display/5880077a-b732-11f1-a74e-a5615d7a48ac/w:1024/p:16x9/2026-09-23T005200Z-286321362-RC2JONAS182S-RTRMADP-3-CUBA-DAILYLIFE.jpg",
-      "coverage": 1,
-      "relevance": 18.21,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "¿Europa se prepara para una guerra con Rusia?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1Jsb09lbFVxNFZWUnZTUE15VjJUN3ZubGFZU0NsMk1kZDNPUEZmQUdrYVhST0N1YXZhZEItempVbzFSNzZaU1pmRktDRl9UUGlIdzdJWVB6d25tZU8xZTRhT0tPa2I0UjI5dm1nOHM3SGZxcmFES3dNdnU0dmRZOFo1S1hOTUVVZVYxejVFSTVIc3h2VWJfWg?oc=5",
-      "published": "2026-09-26T21:21:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.01,
-      "sources": [
-        "Google Noticias"
+        "BBC Mundo"
       ]
     },
     {
@@ -560,24 +514,51 @@
       "published": "2026-09-26T13:32:34+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/985f/live/ca6fc6d0-b855-11f1-a2ec-c153af45023f.jpg",
       "coverage": 1,
-      "relevance": 17.78,
+      "relevance": 12.7,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Cómo la turística Santa Marta se convirtió en la primera prueba de fuego de la lucha de De la Espriella contra los grupos armados en Colombia",
+      "summary": "La muerte de alias \"Cholo\", uno de los líderes de un grupo paramilitar colombiano, desató una ola de violencia que llevó a militarizar la ciudad por orden del presidente.",
+      "url": "https://www.bbc.com/mundo/articles/cm74ky4x3vp8o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-09-25T11:22:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16e0/live/76f11230-b854-11f1-a2ec-c153af45023f.jpg",
+      "coverage": 1,
+      "relevance": 12.7,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Canzani: “Se han dado cambios en la visión de la sociedad uruguaya que no son favorables para la izquierda”",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTmtLTDhBWHRMNy1uem1EMWI3d09JRHJESHdScjFva1I2NkZPaFB5aHRrY2tnUHhPa1JCYlZFVy1wSlM3OTVOS0w1YzdoWHJVUXpZejdDYUFkVUM2RGF4NWliQ1N2SWhpVzFPVGFwcEpSTGwtNDJmbVJHV2hONGRpSFhYQ3dSTHFIeW00WUhVYVJObWEyb1BPMnpXVnlHc3N5SF9hUm9HTFpxbUthTGtzYWFOaUdxV2IzSWRmU3ZwRmlHcFVUTGIxMFYyWk1meWxOT2oxLXpsckdhcmRNSlhhUkJQRWVkQQ?oc=5",
-      "published": "2026-09-26T07:05:37+00:00",
+      "source": "La Diaria",
+      "title": "Las más campeonas: Malvín volvió a coronarse en la liga femenina de básquetbol",
+      "summary": "Fue el título número 23 de las playeras que vencieron 68-52 a Defensor Sporting en el juego decisivo para liquidar la serie 3-2.Malvín volvió a ser campeón de la liga femenina del básquetbol uruguayo, algo que en un momento fue costumbre con 15 títulos consecutivos. Esta vez, le cortó el...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/las-mas-campeonas-malvin-volvio-a-coronarse-en-la-liga-femenina-de-basquetbol/",
+      "published": "2026-09-27T03:47:00+00:00",
       "image": null,
-      "coverage": 2,
-      "relevance": 25.06,
+      "coverage": 1,
+      "relevance": 15.73,
       "sources": [
-        "El País Uy",
-        "Google Noticias UY"
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Peñarol le ganó 2-1 a Boston River en los descuentos",
+      "summary": "Un gol agónico de Abel Hernández rescató el triunfo carbonero, que mantiene la punta de la tabla anual.Peñarol ganó con lo justo y en la hora este sábado en el estadio Centenario ante un Boston River que tuvo el debut de Diego Jaume como técnico y mereció algo más. El equipo de Diego Aguirre no...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/penarol-le-gano-2-1-a-boston-river-en-los-descuentos/",
+      "published": "2026-09-27T00:06:05+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 14.35,
+      "sources": [
+        "La Diaria"
       ]
     },
     {
@@ -589,7 +570,7 @@
       "published": "2026-09-26T22:50:54+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.47,
+      "relevance": 13.88,
       "sources": [
         "La Diaria"
       ]
@@ -603,7 +584,7 @@
       "published": "2026-09-26T22:01:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.16,
+      "relevance": 13.57,
       "sources": [
         "La Diaria"
       ]
@@ -617,7 +598,7 @@
       "published": "2026-09-26T21:53:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.12,
+      "relevance": 13.53,
       "sources": [
         "La Diaria"
       ]
@@ -631,51 +612,37 @@
       "published": "2026-09-26T21:25:06+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.94,
+      "relevance": 13.35,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Uruguay. “Una y mil veces”, documental entre Uruguay, Nicaragua y Cuba que reivindica el internacionalismo, fue presentado en Bilbao (+Fotos) - Resumen Latinoamericano -",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRmJ3VUxzTXhtb2c4TTdGUTY2YXdJYl9aR285M2hUOE9VNVkycVhwdHFvR2NmakRBOHpJSEc5QkJ2NXo0clJmVGdiWll2dVZHcGE0Ynhld2t3Z3JGWm4yMk9EUnBQTDhEV3lZWmxtSDk5aVgxOXpSdEFCRFJuZHBzT0kxNU0yQ3pLVEVBZ1l0Slp5dXQyTzN4SFBLRUlGZzdiVlo1cjgyWlJEYUdmSUx4Vks2VTJJQXlZZVJKRllRR3Z2aHpTcXVOUW9BTGw0WVBVdXRzbndqeVpiSE5RUnc1WFNjVWQwekNMbjU1SVF2X01GaFRiRE9VRGMxVE04ZUtvSHlRNUhOa0RUR0JfNzFGTg?oc=5",
-      "published": "2026-09-26T23:30:30+00:00",
+      "source": "La Diaria",
+      "title": "Progreso volvió a ganar en la hora con un gol de Nahuel López",
+      "summary": "El gaucho le dio un duro golpe a Racing, que pierde terreno en el Clausura y en la tabla anual.Progreso sigue dando dura batalla para escapar del descenso, tabla en la que marcha último. Con el aporte preponderante de Nahuel Magia López, el juvenil delantero melense formado en Nacional que está a...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/9/progreso-volvio-a-ganar-en-la-hora-con-un-gol-de-nahuel-lopez/",
+      "published": "2026-09-26T19:12:25+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.82,
+      "relevance": 12.52,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Corea del Sur - Uruguay | Pronóstico y cuotas 28.09.2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQR3FmZTlJU0Rjc1JoLTZLYjRrUVRmMllrN1Exc1hzYlAtbEozZTRudmo1TkZLX1NxRDB6dFhQTlJZNEpseTFEdGdHY3ZNSFBHcjZTajRTYjNqWXZENVlhaXhVb0tvdEUwNldKWU80LXBqYmR4OEs4SVNSRnhLajZ5aDUzV055Z3pxeTJF?oc=5",
-      "published": "2026-09-26T23:16:35+00:00",
+      "source": "La Diaria",
+      "title": "PIT-CNT cuestionó “despidos abusivos” a través de cierre de cuentas por parte de Pedidos Ya",
+      "summary": "Desde la empresa rechazaron que se hayan rescindido contratos como represalia por reclamos judiciales y aseguraron que se trata de “unos pocos casos de incumplimientos contractuales identificados”.A través de un comunicado, el Secretariado Ejecutivo del PIT-CNT expresó su solidaridad con los...",
+      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/9/pit-cnt-cuestiono-despidos-abusivos-a-traves-de-cierre-de-cuentas-por-parte-de-pedidos-ya/",
+      "published": "2026-09-26T18:38:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.73,
+      "relevance": 12.31,
       "sources": [
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El Observador",
-      "title": "Mirá los goles de Tiziano Correa y Maximiliano Gómez, que sorprendieron a Cerro Largo en Melo e impulsan a Nacional en el cierre del año",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZF9UWTZ1Qnd1dnFUWHVqTXNFc1pfVGtWUkJtXzRsWXpKMFIxSUxDV3E0Q0hiMm5Kcm5KR011ZGRQbzFTUkltWk9wVnBySVB2ZFpaLWV2d05kOUlSRnExSTItakZMWmtmOWo2S0E1QUNiRFBZMzRiVzNTTi1hazNhVUdFWDQ0LUhkU0NwVjR6dHNzMzh6TDgxVEV4SzJTMmNTRHBqSUJTUUVObnJkZXkxbWtZek00QnRiUG9RSzRMU2NtSXVoMEdaaHpmcUZhX1VhVTFBLVpCY0xDTk9NOThuUFRNZEtlMkVUYnlSUmFXYmpHU1ppV25mWXhRSDMwY0HSAYQCQVVfeXFMT093SGo5dEpicWhZVW5DOEZqZXV6MjFSeHB6SEx3V0tQeWhYMjNJaDVKME5mMDNSU1BjTlg2cEQybHdOT3FFd3pyTEZKd1YzLWgxN1Bjdjh4RXdMMzV1TUZEem1FQTh0MXh1dnVKemR1MkJKODZUeGgxWEJfNlhXNkJhWXdycDJFTkI5WDFrRDAwYlN0TzBWZnRDczlPaElleXBaVkJSNGJyeFhnTjA1RkczUTIyX01FbklFaHh3bFRKeU8wWkRkRTlndTgwZm1JV1JCOXJ3YjlsZXdNbFZXNWVqTEo5TmMxaEZIV1hQZDJ3ck9XNnB6TDY3VEdrNGZoOS12dFg?oc=5",
-      "published": "2026-09-26T20:42:04+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.37,
-      "sources": [
-        "El Observador"
+        "La Diaria"
       ]
     }
   ]
