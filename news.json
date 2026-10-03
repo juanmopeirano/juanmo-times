@@ -1,254 +1,269 @@
 {
-  "updated_at": "2026-10-03T00:47:39.715378+00:00",
+  "updated_at": "2026-10-03T14:28:32.023924+00:00",
   "articles": [
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "El ‘Superpeso’ no existe, es una invención: Moody’s Analytics atribuye su fortaleza a tasas, liquidez y dólar débil",
+      "title": "El dólar frena su racha ganadora frente al peso; así cerraron la primera semana de octubre",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORkdodk5ha2xHUkE3eGNhcEZ4SWdLb284ZlY0eVhIcHdBWEllbk9VWnlwSk9PdS1heEhpRHRaVlpDNTIzVTJ6cC01WDNidXhGVFZRNXdVLUZHeFN6d2MyTjlZYkFxR0NxZkI2c1lKR2RBV0ljMGJnbzNIX3BnOTFrdkptTjFsd0JDVjBFMHMwMTk3UGRuSmI2MUNHM3lUMkpOMVpKNjd3Qmo3eUozLXBsYzZBLUU3eHZ4dzNsWGVObkowb1lSb1FFRm1pVUVHYTY4RWlyVQ?oc=5",
-      "published": "2026-10-03T00:08:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3RuUXlSak1Bd1IzZ1NrQ0RpRGxhZ0ZaSnI3SWV5akQyS241OHVGWU02RWlWQnNFcDdXdWlaR3FpM1RMc1ZoLVNOZ3VMVUJjRzNxUG5vdHdQZHE0SmZ0OXVfejlxNzdrY3U2UWR6XzlhdjVjemQ3LXRFdXlwYUswUER6cDJCS1lZQkNSUHBBRTNOYk9UR0t4enZIempyZUhYVmN5SHA2X3BSN09LNzB2Q2l1ZllUQTN3a1hFTFFNOW1IdWNsSmc3bS1ySVItQWRPY1FaZTljb2pzTndPRUhlZ0Y1U28xNUXSAewBQVVfeXFMT255ZjA0TG5Samo4amN6dDd1YWRKVEVoY2RoNkpId2ItUGdDdlRBSGRtLWxxdkU1VnYzLXhEbm1pYjZBUjd5TnFPR2dQRnVkSUFKTVhBY0liX0RESl9ZSmszWVB5dS1VT1BNSzUycHh5MFluZEFLcmJIaWQzTVZnQUVPQTB3cVJlSHJEel9OM2E4bzFudFVpUnBmay1Oa1o2VHlmN1hPWHhJNENhVURtVDllcDlQaWcydExiczRoeDZTVHI4aFV2bHpfRHZHaHhZTWl2QzA3Y3Z0eEFlUFZvX2FwdGxMMWphUldlaV8?oc=5",
+      "published": "2026-10-03T13:31:06+00:00",
       "image": null,
+      "coverage": 1,
+      "relevance": 18.64,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Los coches de empresa lastran al eléctrico: los particulares compran ya un 25%, las compañías solo un 10%",
+      "summary": "Las ayudas del Plan Auto+, los modelos chinos baratos y el precio de la gasolina impulsan estos vehículos, mientras las compañías piden más incentivos fiscales para ayudar en la descarbonización",
+      "url": "https://elpais.com/clima-y-medio-ambiente/2026-10-03/los-coches-de-empresa-lastran-al-electrico-los-particulares-compran-ya-un-25-las-companias-solo-un-10.html",
+      "published": "2026-10-03T05:04:08+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/5N5UE5IZNFEYLOUAYZ2C5PGG4M.JPG?auth=04b2f01ce89d39201912c23b9db30c1baec20c18bf4e3e135fb91335c0e1e60e",
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La crisis de la vivienda, punto de inflexión",
+      "summary": "Los políticos que reduzcan la vivienda al regate partidista pueden estar jugando con fuego ante un creciente malestar social",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/la-crisis-de-la-vivienda-punto-de-inflexion.html",
+      "published": "2026-10-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/UHOBE3BX6FMRPKV5NTXVXDKU5U.jpg?auth=804318f04eb89e46b0e0ba2cb6687cbe96f779a01aede23e9b0c7aa8c5b6a69b",
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "La eutanasia del rentista en España ataca la enfermedad equivocada",
+      "summary": "Un parque público todavía pequeño amenaza con dejar el país sin sustituto suficiente si mengua la oferta privada",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/la-eutanasia-del-rentista-en-espana-ataca-la-enfermedad-equivocada.html",
+      "published": "2026-10-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/UFBTJGTILRKGRGQDTGNQ6464AM.jpg?auth=e111c9a0f321cf8976cba75b54da61f7f35a13f772e415edd16570bc9a583745",
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Lula eleva con acierto la apuesta contra el juego",
+      "summary": "El presidente brasileño prohíbe esa actividad por internet y convierte su país en referencia del debate mundial sobre sus daños",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/lula-eleva-con-acierto-la-apuesta-contra-el-juego.html",
+      "published": "2026-10-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/D4GEBKXXWBDRXMA4AUTFIVNT5I.jpg?auth=03a79d4e2e89bdcc6e6abbb5a396a2190c72e13984ab54788782da05a8f3f8e6",
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Del sistema de pensiones al sistema de ecuaciones: la incógnita que falta",
+      "summary": "La vivienda debe incorporarse como tercera variable a una jubilación que ya no puede sostenerse sobre los mismos cimientos",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/del-sistema-de-pensiones-al-sistema-de-ecuaciones-la-incognita-que-falta.html",
+      "published": "2026-10-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/CPAKZD7FHBFYLN5SIYGWHTDGAQ.jpg?auth=7c73cb41e345573d1371a29473eb7fad30e5379f6b7ec2df6d3ff21594408486",
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El atractivo de la renta fija flexible reside en la riqueza del mercado de bonos",
+      "summary": "Elegir bien entre las distintas emisiones que tiene una misma compañía pesa hoy tanto como escoger a quién prestar dinero",
+      "url": "https://cincodias.elpais.com/opinion/2026-10-03/el-atractivo-de-la-renta-fija-flexible-reside-en-la-riqueza-del-mercado-de-bonos.html",
+      "published": "2026-10-03T03:40:00+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/6LWMUOIW3NM4XFKBKNAXDPPY3U.jpg?auth=5e8cbfc7def4d44d9200d16f01ddb9f7cf0fa074d26493d310edca6b8bd18d55",
+      "coverage": 1,
+      "relevance": 17.35,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Más del 70% de los afiliados extranjeros regularizados provienen de Latinoamérica",
+      "summary": "Trabajo admite que hay 56.000 personas provenientes del proceso regularizador inscritas en el SEPE, pero precisa que más de la mitad no tarda ni un mes en encontrar empleo",
+      "url": "https://elpais.com/economia/2026-10-03/mas-del-70-de-los-afiliados-extranjeros-regularizados-provienen-de-latinoamerica.html",
+      "published": "2026-10-03T03:30:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/HRU66ZRSWBBNPB55DS5ZCWATUA.JPG?auth=93556d5b8c224449d4281ed64ffa24260f645bd123ecc4f87cb398f7350f6452",
+      "coverage": 1,
+      "relevance": 17.28,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Ataque israelí en Gaza, Pizzaballa: dolor y pésame por las víctimas",
+      "summary": "El Patriarca Latino de Jerusalén condena y lamenta la muerte de dos mujeres de la parroquia latina asesinadas en un ataque de las Fuerzas de Defensa de Israel. Bajo los escombros de un bloque de viviendas se han cobrado un total de cinco vidas de civiles y hay numerosos heridos, mientras que sigue...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/ataque-gaza-pizzaballa-muertos-palestinos-dolor-fdi.html",
+      "published": "2026-10-03T11:57:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/10/03/10/1791015921709.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 29.85,
+      "sources": [
+        "Google Noticias",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "San Francisco: Una voz universal para construir la paz",
+      "summary": "Con ocasión de la fiesta del 4 de octubre del “Pobrecillo de Asís”, fray Marco Moroni, custodio del Sagrado Convento, reflexiona sobre el mensaje de humanidad que dejó el Santo, a la luz del tiempo presente: “Necesitamos el vocabulario de la convivencia, la paz y la fraternidad”, el “del desarme...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/san-francisco-una-voz-universal-para-construir-la-paz.html",
+      "published": "2026-10-03T14:05:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/marzo/13/C0020.MP4.00_00_00_03.Immagine001.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.65,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Obispos etíopes llaman a la paz y la reconciliación",
+      "summary": "Tras el llamamiento del Papa León XIV por la región de Tigray, afectada por el conflicto, durante la Audiencia General del miércoles 30 de septiembre, los obispos de Etiopía han hecho su propio llamamiento a la paz y a la oración, subrayando que el conflicto armado solo empeora los problemas...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/etiopia-obispos-llamado-pastoral-paz-reconciliacion.html",
+      "published": "2026-10-03T13:26:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/02/14/1790945099217.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 20.41,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa se reúne con el presidente de Montenegro",
+      "summary": "Jakov Milatović ha sido recibido esta mañana por el Sumo Pontífice en el Palacio Apostólico. En las conversaciones mantenidas en la Secretaría de Estado, se ha prestado especial atención a la integración de Montenegro y otros países de los Balcanes Occidentales en la Unión Europea, así como al...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-10/papa-leon-audiencia-presidente-montenegro-3-oct-2026.html",
+      "published": "2026-10-03T11:47:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/03/2026-10-03-s-e--il-signor-jakov-milatovic--presidente-del-monten/1791020706335.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.79,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "León XIV: la unidad es esencial para la credibilidad del testimonio",
+      "summary": "Dirigiéndose a la comunidad del Pontificio Colegio Teutónico de Santa María en Campo Santo con motivo de su 150º aniversario, el Santo Padre recuerda la larga historia del Colegio y exhorta a su comunidad a mantener su cercanía al Sucesor de Pedro y a dar un testimonio creíble de la fe. Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-10/leon-xiv-discurso-pontificio-colegio-teutonico-audiencia.html",
+      "published": "2026-10-03T10:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/03/2026-10-03-comunita-del-pontificio-collegio-teutonico-di-santa-m/1791025511026.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.31,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El cardenal De Mendonça: Poner a la persona antes que al algoritmo",
+      "summary": "A través de su participación en modalidad en línea, el prefecto del Dicasterio para la Cultura y la Educación, cardenal José Tolentino De Mendonça, inauguró el Simposio \"La Educación y la Escuela en Portugal\", con una reflexión sobre la Inteligencia Artificial, el pensamiento crítico, la vida...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/cardenal-tolentino-de-mendonca-simposio-ia-fatima-portugal.html",
+      "published": "2026-10-03T10:23:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/j9f-0109aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.27,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa nombra al cardenal Gambetti nuevo arzobispo de Chieti-Vasto",
+      "summary": "León XIV ha elegido al cardenal boloñés de 60 años, franciscano conventual, como nuevo pastor de la archidiócesis de los Abruzos, tras aceptar la renuncia del arzobispo Bruno Forte, de 77 años. Desde febrero de 2021, Gambetti ha sido vicario general de Su Santidad para la Ciudad del Vaticano,...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/gambetti-nuevo-arzobispo-chieti-nombramiento-3-octubre-2026.html",
+      "published": "2026-10-03T10:00:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/04/29/2025-04-29-santa-messa-nel-iv-giorno-dei-novendiali-/1745945842752.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 19.12,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "La CLAR convoca al VI Congreso de Vida Religiosa de América Latina y el Caribe",
+      "summary": "La Confederación Latinoamericana y Caribeña de Religiosas y Religiosos (CLAR) convoca a la Vida Religiosa de América Latina y el Caribe a participar en el VI Congreso de Vida Religiosa, un encuentro continental que busca generar un espacio de comunión, reflexión, discernimiento y renovación de la...",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/vida-religiosa-iglesia-sinodalidad.html",
+      "published": "2026-10-03T09:00:46+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2023/11/27/2023.11.27-IV-Congreso-Latinoamericano-y-Caribenno-Vida-Religiosa-Artesana-del-cuidado-4.jpeg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
       "relevance": 18.75,
       "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar marca mayor alza en 6 meses por repunte de tasas, ¿se acelerará en octubre?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQ2oteExFNnhJekMzdlN2Q1Q2UDB1c1FicG5ycl85Z3NzVkZXd0VFUEZ3VGFQb3BlRmV6SG1JN2NkVlZrS29kRC1tVVJCX3cxUWl0LWFGN3VXN2stcTdkNnlldTB1SEVlUHNrRm44RFQxTktZOW8zT19lM1EyU0k4TGZSZnNJSmRwVklqaWpiV1dvb1hNWFNQTDFaMTBBeVRnTHlzb2U0MXV5Tk9RX2ZILTRtNzVIRFd2andpX1RuM2Q0QQ?oc=5",
-      "published": "2026-10-02T22:33:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.16,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "USD/MXN: así cerró la cotización del dólar en México hoy, viernes 2 de octubre 2026",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNS3k1ZlUxVmNSLW96bkdLaXFTMEJVWU1HT0JWRl9NbE9kd0NfaFE2bVY4dEQtU1F1WjMzSUVvcWRpbmVGbTdJZ19mNlJVV2RONHZ0SUk0RUdydHJYb1I0dGZKY0dZT3hYV2ZlM3lYS25pbmE3ZExWZmliVWQ4bjBIOFRqOW1NN1A5QjRwTnItVXl5YjJzbWFjal9mSzlHX2thYWRLUkN5Wm9Ba2RDYTVCQjVDcFN4VFdSTHNoSG5UMNIBxAFBVV95cUxONzJOS2l6OXZ1alpQNzZuVDNVSnRucEJ6UEY3dENfVkVDMWFBRUE0c0lnV0NtQUVrLWhacl8zLUxhNDFQME5RdTBPNmh3UDRvOTRJV1paMW9mWWNuZHMtTmZ4YTVuN0pTZ1A3YlZiZXdCWkhwU3NLQ2FqdWczbW5DN29LZHFxWDdDOXdvdlVyZFZyeFg3YW5LYTRyUGxZTkhoQVpmSkpIS2lWYzc2M0tDbDJENElZaVhKNU1qUmRJbWdRWXBP?oc=5",
-      "published": "2026-10-02T21:13:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.66,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El dólar operó en baja y las reservas del Banco Central superaron los US$48.000 millones",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdmdJbjBfRlBRZWhjZ3pmSkI1TkhBZjZ1dXA4LTRKaDR4WmZ0dFc4cXg3S3dfdWY2QkJMRVI3b0I2Y1Rwc3NsWEdJRlNHVHRaN0I3RkFzUTgzdWJuYjVBdTZUaFdLMk5lMUFRekhZdjdQV21JWGZUZEtaWV8tMDZEaV9JNTRHMkdaQlExZFJtQlNpNWM4TFY3azBER1JpMVJveE94MW1ZWFZ1dXRTWDFQSzVGLWFwTGsxU3ppTEtjYm9Bb2dzb05ReWIwUlkwVWZ6TjVXaWNTUHMxMHBRZGfSAeMBQVVfeXFMT2k4MDc5TVplelZYbkw5R0VRcjU5Q2trMExyM2RfZXhqZ3R0NWFfV1F1Z0dlWUNyVW1XMml2cFZqaTJTZks1eVc4ZDdISFl4Nmt5QV9NWGkxSHV5ZVRTQU5kVWtXWVJMaDdGWHpEYzlnWGs0dFdTN2NlS1NFc3ZFeDVNR3pVTWozRWJnNl9yTXBjNno3bkRVOGRKc0l5cDJzbWk4cjRVa3hNS2hBbjVZMVZOdG9EMDdib3lYbjNobmhpck84blJaSDcyM1E0MzRLejVUQm45YmNqZHBqZmR6T2RqTkU?oc=5",
-      "published": "2026-10-02T20:50:03+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.51,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Precio del dólar hoy 2 de octubre de 2026: peso mexicano cierra su cuarta semana depreciandose",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMUEwM0RNcGg0emxpelgwbkdYN25rZk5vQkFHT0dlWlpWVDhyQ0JRTzNuRFNnYzVsaXYtWTNSQmpPRE5qaEJLYnFLSFRZdDA5NHdhc2ZRM2hSYXNqVHM3bDhFOWNoMlZCMFFYdTdYelhZS0hFSjlXN0RRODdJQXZ1YnhGZ3Q?oc=5",
-      "published": "2026-10-02T20:48:21+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.5,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
-      "summary": "Sánchez, a PP, Vox y Junts: “La historia les juzgará antes de lo que creen y con más contundencia de la que imaginan”",
-      "url": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html",
-      "published": "2026-10-02T14:20:05+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/SFV4HVXOYRBHRHHZGSSI4GHVM4.JPG?auth=10a25234b377a6b3c19f2ec3b72cc3e4bdab421ddb0c08e6c920179da1668514",
-      "coverage": 1,
-      "relevance": 17.48,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿En cuánto cerró el dólar este viernes 2 de octubre?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbVhTYVBIeGJPZ2ZOdktsYjdLRTJaaGY4cHZYX2pnRFI4VW1jZll6OXlFX2ZRNkhuNWpQVDlnLW1lNWR6SGQ3RTU5YU1OVjF1TS1KVktjd2J6eFJCRVpPWGlHSEJzMkZzVU92UlJaR2xFM2lzNVhjUV9Lb0IwRGFUNVRIR3RpWDNFdjF0dDdIc1BJRnZMSnVyZmgwN0tEakZ1a25jVExZTmxFSEdwWlFEMUZnbXlySXdoTGhud25WNU9ncWJZRDJwUUVHMmtRTnVNcUxCbVZzdFloMjJINGc2SzFsWnNUMXBiOHlGamhWSm40alN3ZXl1UW81bi1uWUUxQmc?oc=5",
-      "published": "2026-10-02T20:28:13+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.38,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Qué cae tras el rechazo de los decretos de vivienda: del escudo antidesahucios a la prórroga del alquiler y las ayudas a la compra",
-      "summary": "PP, Vox y Junts tumban las rebajas fiscales a caseros e inquilinos y los topes a la actualización de la renta en un contexto de alta inflación. También caen las prórrogas indefinidas de los contratos",
-      "url": "https://elpais.com/economia/vivienda/2026-10-02/que-cae-tras-el-rechazo-de-los-decretos-de-vivienda-del-escudo-antidesahucios-a-la-prorroga-del-alquiler-y-las-ayudas-a-la-compra.html",
-      "published": "2026-10-02T13:52:39+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/WXOY2FGZ3BH23EQUNV3X52H3TM.JPG?auth=daa290e447b045aab06f2ea8da84b1736eeb2b95d5c64d463774c862d5d2ba00",
-      "coverage": 1,
-      "relevance": 17.31,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Una oración a la Virgen María que se reza dos veces al año",
-      "summary": "La súplica a la Virgen María, que se venera en Pompeya como Nuestra Señora del Rosario, es una oración que fue compuesta en 1883 por san Bartolo Longo como una respuesta la Encíclica Supremi Apostolatus officio con la que León XIII indicó la recitación del Rosario para enfrentar los males de la...",
-      "url": "https://es.aleteia.org/2026/10/02/una-oracion-a-la-virgen-maria-que-se-reza-dos-veces-al-ano/",
-      "published": "2026-10-02T20:46:08+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.69,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "León XIV: la Iglesia necesita del arte creado por humanos",
-      "summary": "“En la era de la tecnología y el consumismo, el gran peligro ya no es solo la censura, sino la estandarización”, declaró León XIV al recibir a los artistas en audiencia el 2 de octubre de 2026. “La Iglesia los necesita”, les aseguró, defendiendo el arte frente a las imágenes generadas por...",
-      "url": "https://es.aleteia.org/2026/10/02/leon-xiv-la-iglesia-necesita-del-arte-creado-por-humanos/",
-      "published": "2026-10-02T19:25:02+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.18,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "San Francisco de Asís, cuya muerte fue una última alabanza",
-      "summary": "Desde que recibió los estigmas en el monte Alverne, en septiembre de 1224, san Francisco se convirtió en la oración hecha hombre. Su cuerpo llevó desde entonces las marcas de Cristo crucificado, y sus últimos años son los de un hombre agotado por la enfermedad, casi ciego, pero cuya alma parece más...",
-      "url": "https://es.aleteia.org/2026/10/02/san-francisco-de-asis-cuya-muerte-fue-una-ultima-alabanza/",
-      "published": "2026-10-02T18:49:32+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.96,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "[RECETA] Pan de maíz de la abadesa Leocádia: receta de 1729",
-      "summary": "Hay recetas que parecen demasiado sencillas como para encerrar una historia. Un panecillo, hecho con harina, leche, azúcar y algunas especias, podría parecer simplemente otra receta antigua más. Pero los panecillos de maíz de Santa Clara guardan un testimonio de casi tres siglos sobre la vida...",
-      "url": "https://es.aleteia.org/2026/10/02/receta-pan-de-maiz-de-la-abadesa-leocadia-receta-de-1729/",
-      "published": "2026-10-02T18:21:51+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.79,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "“Eco-consumo: prácticas para una compra responsable",
-      "summary": "El consumo responsable es el hábito de comprar a conciencia: pensar en los productos no solo en el instante que los adquirimos, sino también en todo su ciclo de vida. “Va más allá de comprar un shampoo ecológico. Es cuestionarnos si consumimos por consumir o si seguimos una tendencia. ¿Va a darnos...",
-      "url": "https://es.aleteia.org/2026/10/02/eco-consumo-practicas-para-una-compra-responsable/",
-      "published": "2026-10-02T17:17:37+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.39,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "En Kazajistán comienza el II Coloquio Conjunto Interreligioso",
-      "summary": "Promovido por el Centro Internacional para el Diálogo Interconfesional e Interreligioso de la República de Kazajistán, junto al Dicasterio para el Diálogo Interreligioso de la Santa Sede, este año el congreso se centra en el tema “Promover la salud, promover la paz: un compromiso compartido para la...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/en-kazajistan-comienza-el-ii-coloquio-conjunto-interreligioso.html",
-      "published": "2026-10-02T14:38:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/novembre/19/George-Jacob-Koovakad-2AEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 16.99,
-      "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "La espada de San Miguel Arcángel peregrina en Paraguay",
-      "summary": "Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/la-espada-de-san-miguel-arcangel-peregrina-en-paraguay.html",
-      "published": "2026-10-02T14:25:27+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/02/fev.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 16.91,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Qué puedo hacer cuando mi pareja no dice lo que siente?",
-      "summary": "Muchas parejas tropiezan con la misma dificultad: a uno de los dos le cuesta manifestar lo que vive en su mundo interior. Hay quien prefiere, por carácter y temperamento, no hablar de sí mismo. Y hay quien, por el contrario, cuenta todo lo que piensa y siente a sus amistades, a su pareja y, si Leer...",
-      "url": "https://es.aleteia.org/2026/10/02/que-puedo-hacer-cuando-mi-pareja-no-dice-lo-que-siente/",
-      "published": "2026-10-02T15:52:53+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.86,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
       "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Este truco te permite instalar y actualizar Windows 11 2026 en ordenadores de hace 20 años",
-      "summary": "Una de las decisiones más controvertidas de Windows 11 desde su lanzamiento fue la compatibilidad. Microsoft endureció los requisitos mínimos, dejando fuera millones de ordenadores con procesadores que no pasaban el filtro. Aunque la tecnológica ha suavizado algunos requerimientos, la actualización...",
-      "url": "https://hipertextual.com/software/instalar-windows-11-26h2-cpus-antiguas-pop42/",
-      "published": "2026-10-02T21:45:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/03/windows-11-ordenadores-viejos-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "source": "Xataka",
+      "title": "En la Segunda Guerra Mundial algunos soldados de EEUU coleccionaban cráneos japoneses. Fue tan común que incluso Hawái intervino",
+      "summary": "Buscaban drogas, pero lo que se encontró la policía de EEUU en junio de 2003 mientras registraba una casa de Pueblo, en Colorado, fue otra cosa: una calavera humana. El cráneo estaba dentro de un baúl en el que se mencionaba una fecha (\"11 de noviembre de 1942\") y un lugar (\"Guadalcanal\"). Por si...",
+      "url": "https://www.xataka.com/magnet/segunda-guerra-mundial-algunos-soldados-eeuu-coleccionaban-craneos-japoneses-fue-comun-que-incluso-hawai-intervino",
+      "published": "2026-10-03T14:01:21+00:00",
+      "image": "https://i.blogs.es/2ca4d2/a9fa406b-4a96-4be7-bbcf-94053acfe5bf/1024_2000.png",
       "coverage": 1,
-      "relevance": 19.06,
+      "relevance": 20.33,
       "sources": [
-        "Hipertextual"
+        "Xataka"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Hay una carrera totalmente absurda por tener la carga más rápida del coche eléctrico. Geely acaba de superar a BYD",
-      "summary": "La carga rápida del coche eléctrico ha entrado en una fase extraña. Hace apenas unos años hablábamos de cuánto podía tardar una batería en recuperar buena parte de su autonomía; ahora, al menos en China, algunos fabricantes discuten quién consigue hacerlo unos segundos antes. La potencia sigue...",
-      "url": "https://www.xataka.com/movilidad/hay-carrera-totalmente-absurda-tener-carga-rapida-coche-electrico-geely-acaba-superar-a-byd",
-      "published": "2026-10-02T20:56:22+00:00",
-      "image": "https://i.blogs.es/4d6b3b/geely-smart-charging-drive-unit-display/1024_2000.jpeg",
+      "title": "Xiaomi POCO F9 Ultra, análisis: POCO ya no quiere ser la alternativa barata a los mejores móviles, quiere ser uno de ellos",
+      "summary": "Parecía que Xiaomi había dejado a POCO como una marca dedicada a los presupuestos ajustados. Pero no: el POCO F9 Ultra se dirige al segmento contrario, a aquellos que quieren el mejor teléfono y pueden pagarlo. No decepciona en ningún aspecto, me ha encantado como móvil principal. El principal...",
+      "url": "https://www.xataka.com/analisis/xiaomi-poco-f9-ultra-analisis-caracteristicas-precio-especificaciones",
+      "published": "2026-10-03T13:31:22+00:00",
+      "image": "https://i.blogs.es/2025c9/poco-f9-ultra-1/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.05,
+      "relevance": 20.14,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "¿Merecen la pena los nuevos Amazon Kindle? Los ponemos frente a frente con la anterior generación",
+      "summary": "El pasado jueves, Amazon renovaba buena parte de su familia Kindle. Tenemos tres nuevos Kindle, Kindle Paperwhite y Kindle Colorsoft con novedades bastante interesantes, como una pantalla a ras de marco y algo que cada vez vamos a ver en más dispositivos: una batería que podremos sustituir nosotros...",
+      "url": "https://www.xataka.com/seleccion/merecen-pena-nuevos-amazon-kindle-ponemos-frente-a-frente-anterior-generacion",
+      "published": "2026-10-03T13:15:22+00:00",
+      "image": "https://i.blogs.es/4209ec/recop-kindle/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.04,
       "sources": [
         "Xataka"
       ]
@@ -256,13 +271,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Apple endurece la seguridad de macOS para que la IA no acceda a tu información",
-      "summary": "Darle el control de tu ordenador a un agente de IA puede ser un arma de dos filos. Aunque las compañías afirman que sus modelos son seguros y tienen mecanismos de seguridad para evitar que accedan a tus archivos, la realidad es que pueden saltárselos sin que te des cuenta. Eso ocurrió con Muse, el...",
-      "url": "https://hipertextual.com/apple/apple-blinda-macos-incidente-ia-meta-muse/",
-      "published": "2026-10-02T20:19:39+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/macbook-azul.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "‘Verity. La sombra de un engaño’ es un thriller insípido que aburrirá hasta a los amantes del libro",
+      "summary": "Verity. La sombra de un engaño, incluso antes de su estreno, tiene un problema que resolver. El del sobrevivir a la fama del libro que se adapta y, en especial, a la de la controvertida escritora Colleen Hoover. La autora, responsable de éxitos polémicos como Romper el círculo y A pesar de ti, se...",
+      "url": "https://hipertextual.com/cine-television/verity-la-sombra-de-un-engano-es-un-thriller-insipido-que-aburrira-hasta-a-los-amantes-del-libro/",
+      "published": "2026-10-03T14:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Verity-23.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.52,
+      "relevance": 20.02,
       "sources": [
         "Hipertextual"
       ]
@@ -270,13 +285,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "SpaceX ha lanzado tres cohetes en 13 horas. Y el último llevaba un secreto de Estados Unidos",
-      "summary": "SpaceX tiene una cartera de clientes cada vez más selecta. Y es que, por primera vez, ha usado un cohete Falcon Heavy para impulsar al espacio una carga de la Oficina Nacional de Reconocimiento (NRO) de Estados Unidos. El vuelo, además, ha sido el tercero de una sucesión de lanzamientos...",
-      "url": "https://www.xataka.com/espacio/spacex-ha-lanzado-tres-cohetes-13-horas-ultimo-llevaba-secreto-estados-unidos",
-      "published": "2026-10-02T19:01:23+00:00",
-      "image": "https://i.blogs.es/22fc90/falcon_heavy_spacex/1024_2000.jpeg",
+      "title": "Los satélites que vigilaron a la Unión Soviética durante la guerra fría se jubilan: Estados Unidos manda sus últimos DSP al cementerio espacial",
+      "summary": "Durante la Guerra Fría, Estados Unidos quiso resguardarse de los posibles ataques de la Unión Soviética también desde el espacio. Por eso, se puso en marcha la constelación DSP (Programa de Apoyo a la Defensa), un conjunto de satélites capaces de detectar ataques balísticos con suficiente...",
+      "url": "https://www.xataka.com/espacio/satelites-que-vigilaron-a-union-sovietica-durante-guerra-fria-se-jubilan-estados-unidos-manda-sus-ultimos-dsp-al-cementerio-espacial",
+      "published": "2026-10-03T13:01:22+00:00",
+      "image": "https://i.blogs.es/623562/dsp-satelites/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.34,
+      "relevance": 19.96,
       "sources": [
         "Xataka"
       ]
@@ -284,13 +299,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Tenemos un nuevo modelo capaz de pasar el test de Turing en vídeo. O al menos eso dicen sus creadores",
-      "summary": "Una videollamada tiene algo que durante mucho tiempo hemos dado casi por sentado: si vemos a alguien reaccionar a lo que decimos, interrumpirnos, sonreír en el momento adecuado o mirar aquello que acabamos de enseñar a cámara, asumimos que hay una persona al otro lado. La inteligencia artificial...",
-      "url": "https://www.xataka.com/robotica-e-ia/tenemos-nuevo-modelo-capaz-pasar-test-turing-video-al-eso-dicen-sus-creadores",
-      "published": "2026-10-02T18:31:23+00:00",
-      "image": "https://i.blogs.es/f42e2e/griffin-turing-test2.png/1024_2000.jpeg",
+      "title": "Los suizos han puesto casi 5.000 paneles solares en una presa a 2.500 metros. Tienen una razón: el invierno",
+      "summary": "La presa de Muttsee, en los Alpes suizos, ha servido desde hace años como depósito superior de unas centrales hidroeléctricas cercanas. Ahora, un nuevo proyecto solar ha dado una vuelta más de tuerca a este embalse y ha instalado 4.872 paneles fotovoltaicos con una potencia instalada de 2,2 MW y...",
+      "url": "https://www.xataka.com/energia/suizos-han-puesto-casi-5-000-paneles-solares-presa-a-2-500-metros-tienen-razon-invierno",
+      "published": "2026-10-03T12:31:21+00:00",
+      "image": "https://i.blogs.es/9196d0/220905---alpinsolar/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.15,
+      "relevance": 19.77,
       "sources": [
         "Xataka"
       ]
@@ -298,13 +313,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "‘GTA 6’ llega a la NBA: Vice City tendrá su propio equipo oficial en la liga",
-      "summary": "Rockstar Games ha encendido la máquina de marketing de GTA 6 y la tiene funcionando a todo vapor, logrando alianzas históricas. La nueva campaña de promoción del juego involucra ni más ni menos que a la NBA, que le dará a Vice City su propio equipo en la liga gracias a una colaboración con Miami...",
-      "url": "https://hipertextual.com/videojuegos/gta-6-alianza-nba-miami-heat-vice-city/",
-      "published": "2026-10-02T19:04:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/GTA-6-nba-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "De qué va ‘Primetime’, la película de Robert Pattinson que causa furor e incomodidad",
+      "summary": "Primetime con Robert Pattinson se convirtió desde su estreno en una de las películas más interesantes de la temporada. Y razones no faltan. No solo se trata de un complejo caso de la vida real que abrió un durísimo debate sobre la ética televisiva. También, una reflexión angustiosa y turbia sobre...",
+      "url": "https://hipertextual.com/cine-television/de-que-va-primetime-la-pelicula-de-robert-pattinson-que-causa-furor-e-incomodidad/",
+      "published": "2026-10-03T13:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/Primetime.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.05,
+      "relevance": 19.65,
       "sources": [
         "Hipertextual"
       ]
@@ -312,27 +327,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "El mítico bar de Madrid donde se rodó esa escena de 'La bola negra': café de pota y una familia al frente desde 1959",
-      "summary": "Durante una jornada, un pequeño comedor de La Latina se llenó de focos, cámaras y técnicos. Hubo que reorganizar las mesas y repetir la escena una y otra vez, y el problema fue una fabada: cada plano exigía que el plato mantuviera el mismo aspecto durante horas. Lo cuenta EPE de La Copita...",
-      "url": "https://www.xataka.com/magnet/mitico-bar-madrid-donde-se-rodo-esa-escena-bola-negra-cafe-pota-familia-al-frente-1959",
-      "published": "2026-10-02T17:31:22+00:00",
-      "image": "https://i.blogs.es/a6765d/copita/1024_2000.jpeg",
+      "title": "Australia quiere celebrar el remo olímpico en un río con 100 cocodrilos. El verdadero miedo está bajo del agua, pero no son ellos",
+      "summary": "Salvo que alguna debacle ambiental lo evite, los Juegos Olímpicos de 2032 se celebrarán en Brisbane (Australia), donde los mejores deportistas del remo tendrán que batirse el cobre para ganar el oro en un río con un testigo de lujo: el cocodrilo marino o cocodrilo de agua salada, el mayor reptil...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/australia-quiere-celebrar-remo-olimpico-rio-100-cocodrilos-verdadero-miedo-esta-agua-no-ellos",
+      "published": "2026-10-03T12:01:21+00:00",
+      "image": "https://i.blogs.es/9d5f5b/saltwater_crocodile/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 17.77,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Tras años teletrabajando, estas son las tres herramientas que no pueden faltar en mi portátil y móvil para trabajar de forma segura",
-      "summary": "Hace ya más de cinco años que teletrabajo. La mayor parte del tiempo la paso en casa, aunque por circunstancias de mi vida personal también trabajo varias veces al mes en otros lugares. De hecho, eso me lleva en algunas ocasiones a trabajar conectado a redes WiFi públicas, como pueden ser la de un...",
-      "url": "https://www.xataka.com/seleccion/anos-teletrabajando-estas-tres-herramientas-que-no-pueden-faltar-mi-portatil-movil-para-trabajar-forma-segura",
-      "published": "2026-10-02T17:15:22+00:00",
-      "image": "https://i.blogs.es/591a3a/hannah-wei-aso6syjzgps-unsplash/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 17.67,
+      "relevance": 19.58,
       "sources": [
         "Xataka"
       ]
@@ -340,13 +341,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Las portadas del día",
-      "summary": "Así vienen las primeras páginas de este sábado 3 de octubre de 2026",
-      "url": "https://www.marca.com/futbol/album/2026/10/03/portadas-dia-pare-musica.html",
-      "published": "2026-10-02T23:38:19+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac040481b134.jpeg",
+      "title": "Mourinho abre el casting ante un problemón",
+      "summary": "El portugués explora todas las vías en busca de una solución: reconversión, alternativas y... la cantera toca la puerta",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/10/03/mourinho-abre-casting-problemon.html",
+      "published": "2026-10-03T14:19:18+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfef221b1da.jpeg",
       "coverage": 1,
-      "relevance": 20.07,
+      "relevance": 20.44,
       "sources": [
         "Marca"
       ]
@@ -354,13 +355,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Cubarsí y Espí, descartados",
-      "summary": "Para el duelo ante la República Checa",
-      "url": "https://www.marca.com/futbol/seleccion/2026/10/03/cubarsi-carlos-espi-descartes.html",
-      "published": "2026-10-02T23:11:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac039ef4eaa6.jpeg",
+      "title": "De Jong alardea de su recuperación y su... barcelonismo",
+      "summary": "Está en la recta final de su regreso a los terrenos de juego",
+      "url": "https://www.marca.com/futbol/barcelona/2026/10/03/frenkie-jong-alardea-recuperacion-barcelonismo.html",
+      "published": "2026-10-03T14:10:45+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac10782e18a8.jpeg",
       "coverage": 1,
-      "relevance": 19.9,
+      "relevance": 20.39,
       "sources": [
         "Marca"
       ]
@@ -368,13 +369,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Sorpresón: Stupa y Jon tumban a Chingotto y Galán",
-      "summary": "La pareja número cinco derrotó a los número dos por un doble 6-4 y disputará sus primeras semifinales como dupla",
-      "url": "https://www.marca.com/padel/2026/10/03/sorpreson-stupa-jon-tumban-chingotto-galan.html",
-      "published": "2026-10-02T22:43:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac03168f1498.jpeg",
+      "title": "El CPE busca a su próxima estrella paralímpica en un draft en Madrid",
+      "summary": "Con el apoyo de CaixaBank, se ha celebrado en el CAR una jornada de captación de talento entre niños y jóvenes con discapacidad para garantizar el relevo generacional",
+      "url": "https://www.marca.com/paralimpicos/2026/10/03/cpe-busca-proxima-estrella-paralimpica-draft-madrid.html",
+      "published": "2026-10-03T13:59:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac1091f6c23f.jpeg",
       "coverage": 1,
-      "relevance": 19.73,
+      "relevance": 20.32,
       "sources": [
         "Marca"
       ]
@@ -382,13 +383,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Clásico se calienta",
-      "summary": "A tres semanas del duelo en el Camp Nou, el 'caso Negreira', el regreso de Mourinho, el pulso por la Liga y la pugna del Balón de Oro caldean el ambiente de la cita",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/10/03/clasico-echa-humo.html",
-      "published": "2026-10-02T22:04:19+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6abfc7316676f.jpeg",
+      "title": "El Eibar es un cañón: remontada y liderato",
+      "summary": "Séptima victoria seguida de los armeros para dejar a Alberto González contra las cuerdas: el colista Albacete sólo ha sumado 1/24 puntos",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/03/eibar-canon-remontada-liderato.html",
+      "published": "2026-10-03T13:55:47+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac1089e3906f.jpeg",
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 20.3,
       "sources": [
         "Marca"
       ]
@@ -396,139 +397,83 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Messi vibra con la remontada del Eldense",
-      "summary": "El nuevo propietario del club alicantino posteó la imagen en sus redes sociales",
-      "url": "https://www.marca.com/futbol/cd-eldense/2026/10/02/messi-vibra-eldense-vio-directo-ipad-remontada-oviedo.html",
-      "published": "2026-10-02T21:29:39+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac0202cc56f5.jpeg",
-      "coverage": 1,
-      "relevance": 19.26,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Yáñez decide un derbi de locura",
-      "summary": "El golazo del extremo decide un duelo donde los blancos encajaron dos desafortunados goles y se salvaron del empate tras un remate al larguero del rojiblanco Castillo en el 101'",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/10/02/yanez-acaba-desgracias-castilla-le-da-alegria-derbi.html",
-      "published": "2026-10-02T21:29:34+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac01abd1b98d.jpeg",
-      "coverage": 1,
-      "relevance": 19.26,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Italia está de vuelta",
-      "summary": "Primer tropiezo de la era Zidane en casa después de que Bastoni igualara la maravilla de falta del atacante del Bayern y el arquero del City firmara una noche estelar",
-      "url": "https://www.marca.com/futbol/nations-league/cronica/2026/10/02/olise-basta-italia-fe-donnarumma-imperial.html",
-      "published": "2026-10-02T21:03:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac01b888bf5f.jpeg",
-      "coverage": 1,
-      "relevance": 19.1,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Baskonia reina en la locura del Buesa y se lleva el primer triunfo en Euroliga",
-      "summary": "El equipo de Galbiati consigue una trabajada victoria ante Armani Milán en un partido que lideró de inicio a fin pero que necesitó pelear por los múltiples parciales de ambos equipos",
-      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/02/baskonia-reina-locura-buesa-lleva-primer-triunfo-euroliga.html",
-      "published": "2026-10-02T20:58:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/02/6ac0140608e87.jpeg",
-      "coverage": 1,
-      "relevance": 19.07,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Etiopía vuelve a la guerra: ¿por qué el conflicto en Tigray amenaza con extenderse por la región?",
+      "title": "Emocionante adiós a Nairo Quintana: se implicó todo el pelotón",
       "summary": "",
-      "url": "https://www.france24.com/es/%C3%A1frica/20261002-etiop%C3%ADa-vuelve-a-la-guerra-por-qu%C3%A9-el-conflicto-en-tigray-amenaza-con-extenderse-por-la-regi%C3%B3n",
-      "published": "2026-10-02T23:58:49+00:00",
-      "image": null,
+      "url": "https://www.marca.com/ciclismo/2026/10/03/peloton-rinde-homenaje-nairo-quintana-adios-video.html",
+      "published": "2026-10-03T13:40:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/fNSpQ1gmFeyHRego_.jpeg",
       "coverage": 1,
-      "relevance": 20.49,
+      "relevance": 20.2,
       "sources": [
-        "France 24"
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Samantha Hudson irrumpe por videollamada en el concierto de Guitarricadelafuente",
+      "summary": "La cantante y activista dejó un mensaje para el público",
+      "url": "https://www.marca.com/tiramillas/musica/2026/10/03/samantha-hudson-irrumpe-videollamada-concierto-guitarricadelafuente-apoyar-protesta-vivienda.html",
+      "published": "2026-10-03T13:39:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac102a3062f7.jpeg",
+      "coverage": 1,
+      "relevance": 20.19,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La pedrada sobre Carlos Sainz, a más de 200 km/h",
+      "summary": "Le rompió la cámara de su coche en la calificación",
+      "url": "https://www.marca.com/motor/formula1/gp-bahrein/2026/10/03/pedrada-sobre-carlos-sainz-mas-200-km-h.html",
+      "published": "2026-10-03T13:30:38+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0d81306eb2.jpeg",
+      "coverage": 1,
+      "relevance": 20.14,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Poteros MVP en la Futures",
+      "summary": "El nivel de los guardametas en el torneo sorprende: \"El crecimiento de los porteros a estas edades es exponencial\"",
+      "url": "https://www.marca.com/futbol/2026/10/03/poteros-mvp-futures.html",
+      "published": "2026-10-03T13:27:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/03/6ac0f38376e46.jpeg",
+      "coverage": 1,
+      "relevance": 20.12,
+      "sources": [
+        "Marca"
       ]
     },
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "La conmoción por el ataque en una escuela de México en el que murió la subdirectora del centro y del que acusan a dos hermanos exalumnos",
-      "summary": "La subdirectora del establecimiento educativo murió en el ataque y otras cuatro personas resultaron heridas.",
-      "url": "https://www.bbc.com/mundo/articles/cx7vp55l3rz2o?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-02T21:25:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4068/live/00df4260-be62-11f1-b36c-81ad410b221e.jpg",
+      "title": "La fiscalía de Emiratos Árabes Unidos afirma que el copiloto del vuelo de Dubái a Israel atacó al capitán con un hacha",
+      "summary": "El hombre acusado de intentar secuestrar el vuelvo de Flydubai ha sido identificado por varios medios de comunicación como Hamam al-Hammami.",
+      "url": "https://www.bbc.com/mundo/articles/cm89zwqvnj72o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-03T12:20:18+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
       "coverage": 1,
-      "relevance": 20.44,
+      "relevance": 20.9,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "\"Era mi última oportunidad\": el piloto indio relata cómo evitó la tragedia tras ser apuñalado",
-      "summary": "Desde la cama del hospital de Abu Dabi en el que continúa su recuperación tras haber sido apuñalado por su copiloto en el vuelo de Flydubai, Smit Machchhar, el comandante indio de la aeronave que cubría la ruta Dubái-Tel Aviv, dio una mirada única sobre el ataque del pasado miércoles que, gracias a...",
-      "url": "https://www.france24.com/es/video/20261002-era-mi-%C3%BAltima-oportunidad-el-piloto-indio-relata-c%C3%B3mo-evit%C3%B3-la-tragedia-tras-ser-apu%C3%B1alado",
-      "published": "2026-10-02T21:40:45+00:00",
-      "image": "https://s.france24.com/media/display/879b5b5a-bd9e-11f1-bfef-13e372f41e70/w:1024/p:16x9/2026-10-01T041756Z-780811303-RC22UNAS3SOF-RTRMADP-3-ISRAEL-GULF-FLIGHT-PILOT.jpg",
-      "coverage": 1,
-      "relevance": 19.63,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Cuál es la gravedad de la situación energética en los países del G7?",
-      "summary": "Los países del G7 se blindan ante la llegada del invierno. Este 2 de octubre, el grupo anunció la liberación de 100 millones de barriles de petróleo y diésel para frenar la escalada de los precios, en medio de la crisis derivada de la guerra en Medio Oriente y el cierre del estrecho de Ormuz, así...",
-      "url": "https://www.france24.com/es/video/20261002-cu%C3%A1l-es-la-gravedad-de-la-situaci%C3%B3n-energ%C3%A9tica-en-los-pa%C3%ADses-del-g7",
-      "published": "2026-10-02T20:48:48+00:00",
-      "image": "https://s.france24.com/media/display/cde17ff2-be9f-11f1-8f38-578a4b968fd6/w:1024/p:16x9/ES-20261002-131642-132713-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.31,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Directo a... Washington y el futuro de Christa Pike tras sobrevivir a inyecciones letales",
-      "summary": "El futuro de Christa Pike sigue en discusión. Se trata de una mujer estadounidense que sobrevivió a una doble inyección letal en el estado de Tennessee por el asesinato que cometió hace más de 30 años, y quien ahora se encuentra en estado crítico tras la fallida ejecución. Pike se iba a convertir...",
-      "url": "https://www.france24.com/es/video/20261002-directo-a-washington-y-el-futuro-de-christa-pike-tras-sobrevivir-a-inyecciones-letales",
-      "published": "2026-10-02T20:47:57+00:00",
-      "image": "https://s.france24.com/media/display/a9211094-be9d-11f1-99fc-13e372f41e70/w:1024/p:16x9/ES-20261002-124825-125300-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.3,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "Google Noticias",
-      "title": "Estados Unidos sanciona a presunta red de financimiento de Hamás",
+      "title": "La Iglesia de San Porfirio de Gaza acoge el funeral de dos fallecidas en un ataque israelí",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ3hEU2VCUzBBYVlYSXZ4QllpWXVUbXZwOG1tYWhicDVtRTV0d1J2dmJmbkxlb0kyVk9DdTNzcndzVjZ4Y2ZPWVVRdnlWUUh0aGdVMXRqTnJNSllIa3pQSC14QXEzT1FzeGNfcDl5SGszNUZQSHFYY3Y4aUV5RlQ3bGhpeTVDV0xZVHZDLVpNZXpLYTMzZW5OMGxjM2E1d0xNby1MaEJzUnNEdVhyS2h3RG1XY1FoNVczTXNkRVUtbG9FOGvSAcgBQVVfeXFMTUp3dUJ1WUNGSl9sem9WU0RqTy10eTFWbUcwQ190SWc5Y2U2THp1QlA0Y2oxdk1Dbzg2aVVQekRLc1hxZXNKRWhSd0pjZ2kwVS1fQkdPN3E0UzRFaVBkQnNpN0FBb0VFb2JPQ1VjWkJMQzA5RGN6ZmdsQmFOTi1pNHdwaU9IRFdoeERnWjV6WFE0MV9ZemE0VlVJRWVVZlNiOHR3dzJEUkp2a2EwYzRHeVByQ3dWTUtnWXItU2lqcl9seVZnSEVyUk8?oc=5",
-      "published": "2026-10-02T21:40:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMERyenBUalRoTUpmTjdsU01aTVc5S1BSN0I3S3FzTk5BS3JKZ3FhNElNNkY1X1hPUldmZmdSUTEwRmJWU2pTWm1BV2RUcWptSmFuS0VlZktITDlJdDBCVE5Za2oxakhHVDFpMTlwSE5wejBzYUZfUXMzRFZSSE82dG1sOFR3RGZ0UFh3Y1N6R2NMcWpvMmdmSjFKU2hjZ1c3aU9CZS1RazdpZWhQR0xvMjFqN1JMTVVjTDdNVkhEdm52Y1EzWGJraVBLZ2dvb004cGFYV0hYTW4telHSAfYBQVVfeXFMUGJaUVRmaFM0dE5zRkFJZG1lR08zb1ZLQ0s3dWFuZktGVUR0OXZYb2JaSW1RZ09VV2FUcHNyWkRDNzNUVjZzSmJIVTRQYVZTQlNYdFR3czBpdXI2V3owb0YtWVQ5cTM0MWpMeklkUG1laFp4UzluRndHdnBSTGliazAyUldqVkhRZ19BVzk0RlVGZ3Z4UnlMZzlOUVk4TGR1V0wyN2FyUUlUc2lIaHZmRHBDNTdyVF9wbjF2Q0xBSzRPdnc3UFA4ejJMS2VUT1VCQnNoMENxTDYzdElrRGVILXozVjNtS09Ba19NWWwxcTU2dTcxLXl3?oc=5",
+      "published": "2026-10-03T13:18:02+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.83,
+      "relevance": 18.56,
       "sources": [
         "Google Noticias"
       ]
@@ -536,13 +481,13 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Tras rechazar propuesta de Irán para acabar la guerra, Estados Unidos despliega a miles de militares y un tercer grupo de portaaviones en Medio Oriente mientras el conflicto entra a su octavo mes",
+      "title": "Identifican al copiloto en el ataque a FlyDubai y otras noticias en Oriente Medio",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPZEJMU1RCUlR5MmxQYUJXeHNkd0t6ek5PZUFNVTRqUktoczMwQW5mRHc1OURZbFlkVXJZMGVuVFR1N2VnQzNtWDdxc3dPdWFQWTB4OUVhZHRFZ1dzSmpwelU3MGEtc2o5cGJjMFlxbjNDWnRIcDRuVExVZUNaekdDaU1LSDRaak5ubHByRmZBRU9jTGRoakFlYi1xdUVJOFJJZHpVWGkzMkxtZ1lPQVhreGVySzdKRllSWnpLdjdHclU2V3JFc0RjenRQTmY4UWJ3WUlnd1FDYjhBOFJRM0VCam5QX0ZMWkF2SmRYZGg4T3FhV3BZeFh3ZkxUV0RnYW9KTDR2dlFXU2FhUTZMeWVLcUR1RDRfR2hkbVpmcHIzblhrdEUwWlZ6YzZpZlhZUHpsZEJtVktaMTVrUkhwcFp5REREWk8xM0JDN2tRZnpHU0J2T3UzVTNCU3lvakJHYUhINmJXeUJXUTF0MFlOdnpkNEdnUFNvSlnSAfcCQVVfeXFMT2RCTFNUQlJUeTJsUGFCV3hzZHdLenpOT2VBTVU0alJLaHMzMEFuZkR3NTlEWWxZZFVyWTBlblRUdTdlZ0MzbVg3cXN3T3VhUFkweDlFYWR0RWdXc0pqcHpVNzBhLXNqOXBiYzBZcW4zQ1p0SHA0blRMVWVDWnpHQ2lNS0g0WmpObmxwckZmQUVPY0xkaGpBZWItcXVFSThSSWR6VVhpMzJMbWdZT0FYa3hlcks3SkZZUlp6S3Y3R3JVNldyRXNEY3p0UE5mOFFid1lJZ3dRQ2I4QThSUTNFQmpuUF9GTFpBdkpkWGRoOE9xYVdwWXhYd2ZMVFdEZ2FvSkw0dnZRV1NhYVE2THllS3FEdUQ0X0doZG1aZnByM25Ya3RFMFpWemM2aWZYWVB6bGRCbVZLWjE1a1JIcHBaeURERFpPMTNCQzdrUWZ6R1NCdk91M1UzQlN5b2pCR2FISDZiV3lCV1ExdDBZTnZ6ZDRHZ1BTb0pZ?oc=5",
-      "published": "2026-10-02T21:33:16+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQemJGbmo4dnhrMnQtN2JJQl9NU2Q4Vjl0cENkQTBHVkd3LXJxbXlxQmFGSzhNaXpKR2ZoUGViQng4Sk1HR2xQTVBHM0UtZ2p3R3R5TWZmdXA0dVlaZ3BFdHdQZy0xeUtpb0hzbmRrMERpN1hDRTlMdEdTaUc0X0xPT3FyNUZmS1QtNk5Zc3FKZ0prQjZkRGVrel9HaEZsc29qN0V4cVViajZtb3A5V2ZQMmY2cVZ6SFc5bVduOVVaNW5lTGVy?oc=5",
+      "published": "2026-10-03T11:20:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.79,
+      "relevance": 17.82,
       "sources": [
         "Google Noticias"
       ]
@@ -550,42 +495,139 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Retrato de una Rusia dividida por la guerra",
+      "title": "Rusia ataca puente en el norte de Kiev en nueva táctica para paralizar la capital de Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHo2STY1QzlpODl2S1V0bGx4UUNrdlUxT2hMMmF2dzk2djRycXlEMFVCQkp0WFcxRDlXUllIU25JdG9lVy0xVVNnS1RfdXA0OG9oQjh2Wkd1NmlDLTdCV0JXci1OcERDcXV5amp5OXVhb005Ul9LVnJhcGN2bnUzSnJWYVpEM3ZwVFlkc1BGLW55RU5EZkRLSmlKT2s?oc=5",
-      "published": "2026-10-02T20:19:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQTN5QkE1TVpfbXJrdDI2SzhYZ1dWLS14dGZLZXMxdkx2dURLNVFrc3dQZE1mWXE3MjlRVndCYnVCRGxBQlZMaXlVeFQ1UDNMcW1IOXNWR21xWTlDc2VpcHZpVFhKeUZaa3hmeWh6NWpWRlZGM19oMGRZbE84OHhCQUxSalRqOFoxVVhhNm5iel9uMkFUSzZ6dVNBQlU5ZlhEa096Qk50OXpaTFpYOHV0ZGhmRVhuNVFyWlRNYWhNM0dvUHo2U1E3MUw2QzFyOGc?oc=5",
+      "published": "2026-10-03T11:03:38+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.32,
+      "relevance": 17.72,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Letones votan con la mente en la guerra en Ucrania y la economía del país",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNHlPUmgzdF9lVjBKdWlGeEhvZzl1TmRBXzNPaWg1WWV3d2tlNUlEWTBUeU1LdWh6UUQ5bDlOYUgxMm4tZ1FLSGFrZXRXUlRKbm91NlNZQWJVMEkxZzlGUV9FdHBJVUtIdklIcXNiZjlXSG0yWl9LYmxKZkpGR1hfYTc0VHFpNm9DU0Z5MEpVcXVEMGlRelE?oc=5",
+      "published": "2026-10-03T10:54:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.66,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "El incidente del vuelo de Flydubai fue un acto terrorista",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeGdXWDllZ2VLeTU2X191N2xOanFrSHlvRno0RlVCS2VqN3hOM09RcmFKa0VZeERZMmtBZ1ljY2IwLXlYd3NGSTd6NjRNNWplcGZUV0hfclZWNndKd0oyOXRNdHNqQ0NiakE0U1B3ZkhoZUxScHQ1SEs5TlVDcURNdGxreVBUUHM5dFFBdFZQdXQzQnpUM3J0dUxFdm94aG5iNXhhNW5VUjFjWFVVVnZSY1h2UWt6YnV6clJNeUgtZXJGaGM?oc=5",
+      "published": "2026-10-03T09:37:12+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.18,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Brasil no ha dejado de apoyar la soberanía de las Malvinas",
+      "summary": "🇧🇷 ¿Brasil apoya a Reino Unido en la disputa con Argentina por las Malvinas? Una publicación en X afirma que firmó un acuerdo militar con los británicos y que Lula respaldó su postura. ❌ Es falso. A inicios de septiembre, Eduardo Uziel, encargado de negocios de Brasil en Argentina, reiteró el apoyo...",
+      "url": "https://www.france24.com/es/video/20261003-brasil-no-ha-dejado-de-apoyar-la-soberan%C3%ADa-de-las-malvinas",
+      "published": "2026-10-03T03:05:54+00:00",
+      "image": "https://s.france24.com/media/display/e868f2a4-bece-11f1-8821-578a4b968fd6/w:1024/p:16x9/DES-INFORMANDO-2.png",
+      "coverage": 1,
+      "relevance": 16.53,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Actualización sobre el conflicto en Ucrania (10/03): Es poco probable que Ucrania resista mucho más tiempo bajo el asedio masivo de Járkov.",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNUhaRlpOUlpuU1VTVWlLSllkY19JZHU5UmJKNGpxWkZ6eGpGVjhORUJkS2djZ0lMNDBBeHc3QmUyM0RaXzJGZzFkRXh4a2NuY1N1WUN4VFBtdTZ4d2lTY2Q1dmhZUjVNX0VjcEtFc0VmS3FhbUs5U1phbFBBdmFXZGYtUFFtYjZPSlN2d3pvSHE1bkVIcG1NSkpKbnZWUWtS?oc=5",
+      "published": "2026-10-03T07:31:50+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.4,
       "sources": [
         "Google Noticias"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Uruguay y su primer entrenamiento en India: las tres bajas de Diego Forlán y qué jugadores esperan su chance",
+      "source": "Google Noticias UY",
+      "title": "Previa del partido Uruguay Sub-18 vs Bélgica Sub-18 - Partido amistoso internacional (Amistosos)",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWkVYM255SE9waEJtVWg4RWloV3VUMDZpbXNGTEt4b2RrcUkzR0VZcXFGeTJLTm9pZFg0YkxLaFVTdUJKTjl6WTIzV2xrWVFiTk1ZSEF0RFBIRjZ0ZlR6ckd6Vm9RYlB3RnZCUkVDdUU3eWtmM2RkRVZjUm9mSE1pUWlYNHVadXpZb2twMnkybVFEenVydUFjc19FSEZuNG1xQ2xmRG56LTQxb2xNN0d2aE42OF9TdG9oYXZkMXI4RDhBWmZ0amtVendULTEzSmR5bHpsWnZYRFAwS2x1dUlPdnl3?oc=5",
-      "published": "2026-10-01T23:11:36+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGtLMjBmQ083TEp6blVoLTV4NkFKekdfRzZ2RkowUmJxQnd1WER1SXdzNkVWMXNpSnlhN1BHVjdBRW1QZXUwWWFQUnNDclYyVXBwbTI0YkRZWUNDMkFOckVCQkNwS2xDNXUxZXVxMGZjZGVxNnR4UTY1YUM0N040VTdGOHQyUzZoQVN6d3ZacGk?oc=5",
+      "published": "2026-10-03T10:15:34+00:00",
       "image": null,
-      "coverage": 2,
-      "relevance": 22.4,
+      "coverage": 1,
+      "relevance": 17.42,
       "sources": [
-        "El País Uy",
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Uruguay, tercero en América Latina en pasajeros aéreos internacionales por habitante",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU0JoWVphSXNBRGtnUi0tSkNVTy1CSTR4bjE0WnVfajBocDFfaS1mREF0LUxMMGx1SExuYWNuWDJiT1BGTGQyQVQ4eGEwd2JwRnNnTnF2T2pQTS1lZDR0Q2NreTBfMXYyTmxkZkpMNm5vaVFmQnlvbXV1V3VPQms4TVozR2hrZE51MGFfeDY0LWRJMnJnQW9XZzZGOXd3R2VyOXF1cXlLVU1WMWw1TVcwTHNwRmlMX25zTDJNZA?oc=5",
+      "published": "2026-10-03T09:40:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.2,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Barbón inicia su viaje oficial en Argentina y Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTlEbFNJdm9XZExBa3A3QndlTUU0S2dtYk5pVlRPbFA2N0dKclVhd0FZS1NBeEpMSHZsd3hud0dyRS1UcjE5SmZrS253ZDE2ZmF4NmdhNGVqWnJqdEJrOFVGblVzU1REQmZyZjBwY2tyVXZveW9hbGJqR3dOMldPTXRLS0hBT3ZGdHc2SWdDOHNxQ1lVS21WVWlGbk5MMWMxNFo5bFlvbWFYQdIBxAFBVV95cUxONGR5VlJkWFBYdUwzUzQ3Q0pVX3ZXd2FQR3RFenc5M2ZtNEkxNzJpeFZMU2VBbW4wZDFXekxuOGtGb1h0bnpwOEROeXpmWGhnY0VCMVdnNDJIdUtycGdVaHdUM1FpVEs3TlhhWVBpemk3c1ktRjhvUDB0bTlrcW0wXzRwMm55S2xPNWh0bnc1UTg2dXVUTFVaTTE3YUpHYWpFWTVlRVBMRUpKcXZTWS1nMjB6eXlINENpTF9Uak5NcjBRMF80?oc=5",
+      "published": "2026-10-03T07:33:57+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.41,
+      "sources": [
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Nelson Villarreal defensor derechos humanos Uruguay",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DbGg2TkszY01FcTJ1R05xdW5FeHRZRnA2cjNaNUJYTnRzZFA0NkxZcVktLWNrdEVSYjJsdFE5b2lUS185WGNWMWRjSjBFMXlUVTJrcg?oc=5",
+      "published": "2026-10-03T06:05:42+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 15.86,
+      "sources": [
         "Google Noticias UY"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fiscal de Lavado pidió el levantamiento del secreto bancario de algunos investigados en el caso Leiva",
-      "summary": "También se dispuso el relevamiento de las cámaras del Abitab de Jorge Gandini.El fiscal de Lavado de Activos, Enrique Rodríguez, resolvió este lunes abrir una nueva causa para investigar el esquema de blanqueo de la organización criminal a la que pertenecía [Pablo Leiva, asesor del edil...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/fiscal-de-lavado-pidio-el-levantamiento-del-secreto-bancario-de-algunos-investigados-en-el-caso-leiva/",
-      "published": "2026-10-03T00:36:27+00:00",
+      "title": "Piú Música Viajera presenta Rolando, un espectáculo para la primera infancia",
+      "summary": "Música, juego y movimiento en la sala Valle Inclán.El gerundio alude a una de las acciones que se ponen en juego en esta propuesta que Piú Música Viajera estrenaron en julio en la sala Rondeau y llevan ahora a la remozada sala Valle Inclán, en el Centro Gallego (San José 870), donde estará los...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/10/piu-musica-viajera-presenta-rolando-un-espectaculo-para-la-primera-infancia/",
+      "published": "2026-10-03T03:34:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.83,
+      "relevance": 15.82,
       "sources": [
         "La Diaria"
       ]
@@ -593,13 +635,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Se juega la fecha 21 de la B: todo sigue parejo y abierto",
-      "summary": "A seis fechas del final, el campeonato de Segunda Profesional se pone cada vez más palpitante.Este fin de semana se juega la fecha 21 del campeonato de Segunda Profesional y todo empieza a encaminarse hacia la definición. Restan las últimas seis fechas: 18 puntos en juego que son demasiados si se...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/se-juega-la-fecha-21-de-la-b-todo-sigue-parejo-y-abierto/",
-      "published": "2026-10-02T23:23:38+00:00",
+      "title": "Entrevista - Jorge Gandini",
+      "summary": "¿Cómo conoció al edil Gonzalo Gómez? En realidad, no lo conozco. Hay varias personas con ese nombre. Me habían recomendado a otro que se llama igual, pero en el apuro del armado de las listas hubo un error del que me hago cargo. ¿Entonces tampoco conoce al asesor Pablo Leiva, que fue procesado por...",
+      "url": "https://ladiaria.com.uy/humor/articulo/2026/10/entrevista-jorge-gandini/",
+      "published": "2026-10-03T03:34:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.37,
+      "relevance": 15.82,
       "sources": [
         "La Diaria"
       ]
@@ -607,13 +649,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Tecnología de seguridad para el campo: drones, reconocimiento facial y alambrado virtual",
-      "summary": "La cooperativa Impulso presentó en la Expo Salto soluciones tecnológicas para la seguridad, el monitoreo y la automatización rural.Entre las curiosidades que pudieron verse en la Expo Salto, una de las propuestas que llamó la atención por su originalidad fue la de la cooperativa Impulso. Allí, la...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/tecnologia-de-seguridad-para-el-campo-drones-reconocimiento-facial-y-alambrado-virtual/",
-      "published": "2026-10-02T23:19:53+00:00",
+      "title": "El pueblo opina | ¿Qué opina del fenómeno del Súper Niño?",
+      "summary": "Arturo. Exageran. Este tipo de cosas ya han pasado. ¿O no se acuerdan del arca de Noé? Mauro. El problema de esta generación es que les tiene miedo a los niños. Las personas ya no asumen su posición de autoridad. Si supieran funcionar como adultos, al Súper Niño ese lo ponían en su lugar con un par...",
+      "url": "https://ladiaria.com.uy/humor/articulo/2026/10/el-pueblo-opina-que-opina-del-fenomeno-del-super-nino/",
+      "published": "2026-10-03T03:34:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 15.82,
       "sources": [
         "La Diaria"
       ]
@@ -621,55 +663,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "64% de los uruguayos prefieren la democracia, pero 45% aceptaría un gobierno no democrático “si resuelve los problemas”",
-      "summary": "Una encuesta del Latinobarómetro recoge una caída de seis puntos en la aprobación de la democracia entre la población; solo 27% de ella considera que el país “va en la dirección correcta”.Poco más de 6 de cada 10 uruguayos entienden que la democracia es preferible a cualquier otra forma de...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/64-de-los-uruguayos-prefieren-la-democracia-pero-45-aceptaria-un-gobierno-no-democratico-si-resuelve-los-problemas/",
-      "published": "2026-10-02T22:58:48+00:00",
+      "title": "Día del Patrimonio dedicado a las raíces indígenas: recorridos y recomendaciones",
+      "summary": "“Somos un país mucho más mestizo y diverso de lo que creíamos”“El derecho a participar en la vida cultural no se limita al acceso a bienes o actividades culturales, comprende también la posibilidad de crear, recrear y transmitir la cultura. No se trata únicamente de una herencia que se recibe, sino...",
+      "url": "https://ladiaria.com.uy/cultura/articulo/2026/10/dia-del-patrimonio-dedicado-a-las-raices-indigenas-recorridos-y-recomendaciones/",
+      "published": "2026-10-03T03:34:55+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.22,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "En la recta final: campeonato uruguayo de fútbol femenino",
-      "summary": "Comienza la Serie de Honor mientras que la Serie Campeonato llegará cuando termine la Libertadores.El campeonato uruguayo de fútbol femenino llegó a la segunda parte, una instancia en la que se dividieron los equipos en dos grupos. Por un lado, los que se ubican del primer al sexto puesto en la...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/en-la-recta-final-campeonato-uruguayo-de-futbol-femenino/",
-      "published": "2026-10-02T22:27:29+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.02,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Se lanzó sello conmemorativo por los 150 años del teatro Florencio Sánchez",
-      "summary": "La bandoneonista Teresita Godoy interpretó un tango y los bailarines, del mismo género, Carla Mazzolini y Gaspar Godoy bailaron otro.En 1859 sanduceros liderados por el entonces jefe político, el coronel Basilio Pinilla, se reunieron y se comprometieron a llevar adelante una idea que abrazaron...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/se-lanzo-sello-conmemorativo-por-los-150-anos-del-teatro-florencio-sanchez/",
-      "published": "2026-10-02T22:27:15+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.02,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Jonnathan Aramburo: “La junta tiene una hoja de ruta y un concepto muy claro de austeridad”",
-      "summary": "El presidente del legislativo departamental defendió la descentralización, habló de la tercerización de la recolección de residuos y anunció la renovación de la flota de vehículos.El presidente de la Junta Departamental de Salto, Jonnathan Aramburo, esperaba un año relativamente tranquilo, pero la...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/jonnathan-aramburo-la-junta-tiene-una-hoja-de-ruta-y-un-concepto-muy-claro-de-austeridad/",
-      "published": "2026-10-02T21:59:02+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.85,
+      "relevance": 15.81,
       "sources": [
         "La Diaria"
       ]
