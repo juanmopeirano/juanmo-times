@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-04T15:01:24.494803+00:00",
+  "updated_at": "2026-10-04T18:52:10.208197+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "CGT se lanza a por la huelga general por la vivienda tras el congreso del sindicato",
+      "summary": "Tras las multitudinarias marchas del sábado que reclaman un paro laboral, CC OO y UGT siguen valorando cómo responder al malestar social",
+      "url": "https://elpais.com/economia/2026-10-04/cgt-se-lanza-a-por-la-huelga-general-por-la-vivienda-tras-el-congreso-del-sindicato.html",
+      "published": "2026-10-04T15:14:51+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/VXCXFWHWEZMZNP3CTUTXKMBC3M.jpg?auth=284f3d25b837a13b71d71d914841c30d1105b849d95cbafd20a045eba154ccdd",
+      "coverage": 1,
+      "relevance": 20.04,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,9 +24,23 @@
       "published": "2026-10-04T12:11:47+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/J6NG7TOH75PNFFPZTSY5DWBJKM.jpg?auth=2fed45c37b7ad8b9e21bed220f3ca459b8506f69f53df09e1f395602dc88f5bc",
       "coverage": 1,
-      "relevance": 20.34,
+      "relevance": 18.9,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar hoy, dólar blue hoy: a cuánto cotiza este domingo 4 de octubre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONWdwSXlMdkhfVVF4eXpPQ1pXdklyeENVLUZHdEp6QUhxZFpCNXdkNkVhRVowaWNsVnV6eXRYZmp0Zm9uT0lGSS1sbGJvSHhSVndxXzNZbWhhaWVoZ2ZqSTNPc0RwaFVlNDdVZy15TmxfSGh4Ry04cTFJRUowVWFUb2h6aEZReHcyeFhJT0Fqd2FtNHczNVlBZHB1VUJXNUZkdWhSUHVmc0VEd9IBrwFBVV95cUxPNzNVWnVqTHZ5ZXJRX1FrMENuLW5uUmg0OFh1YWp4eXZCLW1uZGhfY0JIY0FRTnZmd3U5czJXXzFDeF9PQ0FwUFRkbkhoUmtSbm9lWHZCb0lPazMtMlFKWlFmcXFfOGdtVGFIX1hLMmNvaEJONEEyd0JpZGdVQjlsOTZpVzVZQXBFaTVUd282RnZvSkVaZGF2cEdpM0VpOUZQZkFQWC14S3NPVGxUbXRv?oc=5",
+      "published": "2026-10-04T16:49:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.23,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -24,7 +52,21 @@
       "published": "2026-10-04T14:48:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.92,
+      "relevance": 17.47,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar blue: a cuánto cotizan hoy en Mendoza 4 octubre 2026",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdHRZaWd6RW5jQkJUckppSC1qRERoQTByT21pLWxpT2ZjNXU3enhxTWV5WEMwNXRKSFVrYlJCc3hQbDE5Q3pGTGFfTWVGem1IU0N1VWZoUmJ3cTlLUEFmRVBsdjhuQ19wTm1mMXB1WnJubUlfSkZra0JUZjJNNXExOXpKQ0xyVlZtQUxnZzJ3NA?oc=5",
+      "published": "2026-10-04T14:35:06+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.39,
       "sources": [
         "Google Economía"
       ]
@@ -38,7 +80,7 @@
       "published": "2026-10-04T14:23:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.76,
+      "relevance": 17.32,
       "sources": [
         "Google Economía"
       ]
@@ -46,13 +88,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Dólar hoy en Chile: precio este domingo 4 de octubre",
+      "title": "Dólar en Chile: precio y valor de la divisa hoy, domingo 4 de octubre",
       "summary": "",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnl0UTdzd0JLZ0Q2elZ0N05yM2ZGWGRsbkZDczM5Z3AzTTN5djVyNWZsVDZLQ2lDTXFHVE9xNEpwV0FCYzJJQ01mTXU5WjdFZVVLOGVIbHVjZEc5UEtIQVlXYS1fSGR2dWtXZzhxbGZ3V09ObzM4WHFwY1VUZVF2NHFJdGdHTzF6V1hwa3l5Z0NyY1h0TjlaVkRac0thcjh3MlVjeWVjZVFfa3ozUThFckUyWnNaYXpjRVE?oc=5",
       "published": "2026-10-04T12:00:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.87,
+      "relevance": 16.43,
       "sources": [
         "Google Economía"
       ]
@@ -66,51 +108,37 @@
       "published": "2026-10-04T11:41:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.75,
+      "relevance": 16.31,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Las claves: la situación en torno al diésel se enfría un poco, pero sigue estando muy caliente",
-      "summary": "Liberar reservas puede servir de parche temporal",
-      "url": "https://cincodias.elpais.com/opinion/2026-10-04/las-claves-la-situacion-en-torno-al-diesel-se-enfria-un-poco-pero-sigue-estando-muy-caliente.html",
-      "published": "2026-10-04T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/5Z4D5QH77NNNVMVAC4YUKB4GPU.jpg?auth=6803417456b5e7a922d106315999fd1d43c6eba85295eaff41d213cc10c50671",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Papa León XIV invita a inspirarse en san Francisco de Asís",
+      "summary": "«Jesús le pidió a Francisco que reparara su Iglesia»: durante la oración del Ángelus de este domingo 4 de octubre de 2026, León XIV se refirió principalmente a la festividad de san Francisco de Asís, en este día que marca el punto culminante del año jubilar proclamado en Italia con motivo del 800.º...",
+      "url": "https://es.aleteia.org/2026/10/04/papa-leon-xiv-invita-a-inspirarse-en-san-francisco-de-asis/",
+      "published": "2026-10-04T18:23:18+00:00",
+      "image": null,
       "coverage": 1,
-      "relevance": 17.14,
+      "relevance": 20.02,
       "sources": [
-        "El País Eco"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La singularidad del ciclo de inflación y deuda",
-      "summary": "Los colchones anti-cíclicos han mermado y se necesitan nuevos caminos para responder a las crisis",
-      "url": "https://elpais.com/economia/negocios/2026-10-04/la-singularidad-del-ciclo-de-inflacion-y-deuda.html",
-      "published": "2026-10-04T03:40:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KZQUJCYBDJCI7CR3ASWT4WPYMM.jpg?auth=61695f6169fd0f727f4460dbfa3996018b5720dbabedc4747ffd71a30daf4437",
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Rudelli en Pompeya: de la oración las bases para una nueva civilización",
+      "summary": "En la homilía antes de la Súplica a la Virgen del Rosario, el Sustituto para los Asuntos Generales de la Secretaría de Estado invitó a confiar a Dios “las realidades de hoy, especialmente las más atribuladas, para que venza la vida, avance la paz, prevalezca la justicia”. Después, la exhortación a...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/suplica-pompeya-sustituto-rudelli-bartolo-longo-paz.html",
+      "published": "2026-10-04T14:55:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/04/whatsapp-image-2026-10-04-at-18-06-09aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.14,
+      "relevance": 19.32,
       "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El apocalipsis laboral de la IA se pospone (por ahora)",
-      "summary": "Los expertos vislumbran más cambios cualitativos (reconversión de empleos, dificultades para los jóvenes) que cuantitativos (despidos masivos), pese a las predicciones catastrofistas de la industria, y alertan del alza de la desigualdad",
-      "url": "https://elpais.com/economia/2026-10-04/el-apocalipsis-laboral-de-la-ia-se-pospone-por-ahora.html",
-      "published": "2026-10-04T03:30:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/4KJVI4X5E5LDFLM2FJL2GZYK3U.jpg?auth=7e4a276645ec004a699b9e553375e572380d521f17b369f0433921e187f820f5",
-      "coverage": 1,
-      "relevance": 17.08,
-      "sources": [
-        "El País Eco"
+        "Vatican News"
       ]
     },
     {
@@ -122,7 +150,7 @@
       "published": "2026-10-04T12:53:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/04/img-3166.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 18.56,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +164,7 @@
       "published": "2026-10-04T14:13:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.9,
+      "relevance": 18.46,
       "sources": [
         "Aleteia"
       ]
@@ -150,7 +178,7 @@
       "published": "2026-10-04T12:35:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/03/19/1791047399414.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 18.44,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +192,7 @@
       "published": "2026-10-04T13:55:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.78,
+      "relevance": 18.34,
       "sources": [
         "Aleteia"
       ]
@@ -178,7 +206,7 @@
       "published": "2026-10-04T10:57:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/04/2026-10-04-angelus/1791110120279.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.27,
+      "relevance": 17.83,
       "sources": [
         "Vatican News"
       ]
@@ -192,35 +220,7 @@
       "published": "2026-10-04T10:27:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/20/2026-09-20-angelus/1789898696025.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.08,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Guardias suizos: los preparativos para los 500 años del Saqueo de Roma",
-      "summary": "2027 será un año conmemorativo extraordinario que la Guardia Pontificia está preparando con un congreso en Brig, en enero; un volumen de carácter histórico; y la participación en la Fiesta de Primavera de Zúrich. En mayo tendrán lugar las celebraciones en el Vaticano, que incluirán espectáculos de...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/guardias-suizos-500-aniversario-saqueo-de-roma-conmemoraciones.html",
-      "published": "2026-10-04T09:04:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2025/10/04/2025-10-04-messa-guardie-svizzere-pontificie/1759565221150.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.57,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El tiempo de la vendimia",
-      "summary": "«Había una vez un propietario que plantó un viñedo, lo rodeó con una cerca, cavó un lagar en él, construyó una torre para el vigilante y luego lo alquiló a unos viñadores y se fue de viaje». (Mt 21, 33) Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/el-tiempo-de-la-vendimia.html",
-      "published": "2026-10-04T06:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/febbraio/08/Ges---lultima-parola-di-Dio-La-basilica-papale-di-San-Paolo-fuori-le-muraAEM.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 17.42,
+      "relevance": 17.64,
       "sources": [
         "Vatican News"
       ]
@@ -228,153 +228,125 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "McDonald's está usando la IA para sugerir el precio del Big Mac en función del local. A sus clientes no les está gustando",
-      "summary": "Entras a un McDonald's, vas a pedir un Big Mac y te encuentras que vale 6,90 euros. Te vas a otro restaurante de la franquicia y descubres que allí vale 8 euros. Parece imposible, pero es cierto y de hecho ya está pasando en Estados Unidos, como ha reportado Reuters: el mismo Big Mac pasaba de...",
-      "url": "https://www.xataka.com/aplicaciones/mcdonald-s-esta-usando-ia-para-sugerir-precio-big-mac-funcion-local-a-sus-clientes-no-les-esta-gustando",
-      "published": "2026-10-04T14:31:22+00:00",
-      "image": "https://i.blogs.es/a77405/gemini_generated_image_kdsk30kdsk30kdsk/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.31,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Batman, Bender y Super Mario son de universos distintos, pero tienen algo en común: quieren que sus voces sigan siendo suyas",
-      "summary": "Hablar con un actor de doblaje es extraño. Charlas con Claudio Serrano y no pone el tono de Batman, pero su voz es extremadamente reconocible y sabes que estás hablando con Batman. Luego hablas con John DiMaggio o Charles Martinet y, automáticamente, una sonrisa se te dibuja en el rostro. No has...",
-      "url": "https://www.xataka.com/cine-y-tv/batman-bender-super-mario-universos-distintos-tienen-algo-comun-quieren-que-sus-voces-sigan-siendo-suyas",
-      "published": "2026-10-04T14:01:22+00:00",
-      "image": "https://i.blogs.es/6e9546/img_0501-2/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Un satélite espía estadounidense de la Guerra Fría se ha roto tras 38 años en órbita. No sabemos por qué ni en cuántos pedazos",
-      "summary": "El USA 32, un satélite de la inteligencia estadounidense lanzado en plena Guerra Fría, llevaba pululando por el espacio casi 40 años cuando un buen día, el 13 de septiembre de 2026 hacia las 21:13 UTC, se fragmentó en la baja órbita terrestre, según registra el INAF (el Instituto Nacional de...",
-      "url": "https://www.xataka.com/espacio/satelite-espia-estadounidense-guerra-fria-se-ha-roto-38-anos-orbita-no-sabemos-que-cuantos-pedazos",
-      "published": "2026-10-04T13:31:22+00:00",
-      "image": "https://i.blogs.es/d2eda1/gemini_generated_image_i4wywvi4wywvi4wy/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.94,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Este es el true crime más terrorífico de Netflix hasta la fecha que tienes que ver",
-      "summary": "Netflix ha llevado el género del true crime al siguiente nivel. En especial, por convertir las más perturbadoras historias sobre crímenes aterradores en una reflexión sobre la época. También, en una mirada inquietante acerca de los diversos errores legales, que hacen incluso más graves situaciones...",
-      "url": "https://hipertextual.com/cine-television/este-es-el-true-crime-mas-terrorifico-de-netflix-hasta-la-fecha-que-tienes-que-ver/",
-      "published": "2026-10-04T14:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/El-viudo-Hasta-que-la-muerte-nos-separe.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.82,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "\"Duele más que un beso\": las nuevas formas de infidelidad son una conversación en WhatsApp o un 'me gusta' en Instagram",
-      "summary": "Una contestación o 'me gusta' a una historia de Instagram, un comentario en una publicación, una conversación que empieza con un mensaje directo... Las redes sociales han modificado las formas de interacción y, con ellas, han surgido nuevos escenarios donde las parejas deben definir qué entra y qué...",
-      "url": "https://www.xataka.com/magnet/duele-que-beso-nuevas-formas-infidelidad-conversacion-whatsapp-me-gusta-instagram",
-      "published": "2026-10-04T12:31:22+00:00",
-      "image": "https://i.blogs.es/b85386/photo-1546795708-c962dc089798/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.56,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "3 razones para ver ‘El buen espíritu: Detrás de la puerta del Opus Dei’ en HBO Max",
-      "summary": "El buen espíritu: Detrás de la puerta del Opus Dei en HBO Max, reflexiona sobre un tema álgido en las últimas décadas. Las organizaciones eclesiásticas que utilizan su poder e influencia para manipular y hasta agredir a sus miembros. Pero más complicado todavía, la forma en que la mayoría opera en...",
-      "url": "https://hipertextual.com/cine-television/3-razones-para-ver-el-buen-espiritu-detras-de-la-puerta-del-opus-dei-en-hbo-max/",
-      "published": "2026-10-04T13:00:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/09/El-buen-espiritu-Detras-de-la-puerta-del-Opus-Dei.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.44,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Durante años no se sabía de dónde salían los murciélagos. Ahora la ciencia cree haber encontrado su verdadero origen",
-      "summary": "Los murciélagos representan aproximadamente una quinta parte de todos los mamíferos del planeta, y son los únicos capaces de volar de forma activa, dominando la noche gracias a un sofisticado sistema de radar natural. Sin embargo, su árbol genealógico ha sido uno de los grandes rompecabezas para...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/durante-anos-no-se-sabia-donde-salian-murcielagos-ahora-ciencia-cree-haber-encontrado-su-verdadero-origen",
-      "published": "2026-10-04T12:01:22+00:00",
-      "image": "https://i.blogs.es/156163/murcielago/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.37,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Tener electricidad en la Luna tiene sus retos: las noches duran dos semanas y no hay aire. Esta pila de hidrógeno quiere resolverlo",
-      "summary": "Teledyne Energy Systems, una empresa estadounidense de energía y tecnología espacial, ha sido seleccionada para trabajar con la NASA en una pila de combustible de hidrógeno. La idea es que ésta pueda abastecer de energía las próximas misiones que se realicen en la Luna. El acuerdo hace que el...",
-      "url": "https://www.xataka.com/energia/tener-electricidad-luna-tiene-sus-retos-noches-duran-dos-semanas-no-hay-aire-esta-pila-hidrogeno-quiere-resolverlo",
-      "published": "2026-10-04T11:31:22+00:00",
-      "image": "https://i.blogs.es/a501e2/teledyne/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.19,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Mueren dos jóvenes ahogados en una playa de Alicante tras bañarse con bandera roja",
-      "summary": "Los servicios de emergencia desplazaron dos unidades del SAMU y un soporte vital básico hasta la playa de Els Vivers, pero no pudieron salvarles la vida",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/10/04/mueren-dos-jovenes-ahogados-playa-guardamar-segura-banarse-bandera-roja.html",
-      "published": "2026-10-04T14:54:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac268638506e.jpeg",
-      "coverage": 1,
-      "relevance": 20.46,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Álex Sola se estrella con su coche de madrugada y se marcha corriendo",
-      "summary": "El futbolista del Almería, que no jugó en la victoria contra el Burgos, habría dado positivo en un test de alcoholemia tras movilizarse la Policía Local hasta el lugar del accidente",
-      "url": "https://www.marca.com/futbol/almeria/2026/10/04/alex-sola-estrella-coche-madrugada-marcha-corriendo.html",
-      "published": "2026-10-04T14:40:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac2647a717e7.jpeg",
+      "title": "Los coches modernos saben dónde conduces, cómo frenas y cómo aceleras: el problema es quién más lo sabe",
+      "summary": "A estas alturas de la película no nos pilla por sorpresa el hecho de que un coche actual recopile información de todo tipo. Esa información es útil para que el coche funcione debidamente y nos responda en todo momento. Sin embargo, es preocupante hasta qué punto otras empresas de las que nunca has...",
+      "url": "https://www.xataka.com/movilidad/coches-modernos-saben-donde-conduces-como-frenas-como-aceleras-problema-quien-sabe",
+      "published": "2026-10-04T18:31:22+00:00",
+      "image": "https://i.blogs.es/59ab08/hans-3srfiun-y28-unsplash/1024_2000.jpeg",
       "coverage": 1,
       "relevance": 20.37,
       "sources": [
-        "Marca"
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Una pequeña Inglaterra escondida en Roma: el tesoro romano que desvela un barrio inglés junto al Vaticano",
+      "summary": "A pocos pasos de la mítica plaza de San Pedro de Roma, los equipos de arqueología llevan años desenterrando capas de la capital italiana. Sin ir más lejos, en 2023 apareció el largamente buscado teatro de Nerón, pero un poco más arriba había una sorpresa menos impactante en lo arquitectónico pero...",
+      "url": "https://www.xataka.com/magnet/pequena-inglaterra-escondida-roma-tesoro-romano-que-desvela-barrio-ingles-al-vaticano",
+      "published": "2026-10-04T18:01:23+00:00",
+      "image": "https://i.blogs.es/452ed6/massimo-virgilio-bzitnujmjpu-unsplash/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.18,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Ya en Action (y rebajada por tiempo limitado) la batería externa Philips de gran capacidad para cargar varios dispositivos",
+      "summary": "Como cada semana, Action ha renovado su catálogo de ofertas con multitud de rebajas en toda clase de dispositivos y accesorios. Y entre las más interesantes encontramos esta batería externa de marca Philips, que ahora ha bajado a sólo 14,95 euros. Nada mal, teniendo en cuenta su capacidad y la...",
+      "url": "https://www.xataka.com/seleccion/action-rebajada-tiempo-limitado-bateria-externa-philips-gran-capacidad-para-cargar-varios-dispositivos",
+      "published": "2026-10-04T17:45:22+00:00",
+      "image": "https://i.blogs.es/9525b1/action-oferta-semanal/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.08,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Llevamos años diciendo que una cerveza cura la resaca. La ciencia dice que solo alargamos lo inevitable",
+      "summary": "Cuando se sale de fiesta y se toman un par de copas de más, a la mañana siguiente aparece la temida resaca, siendo este el momento en el que juramos que nunca más vamos a tomar una gota de alcohol (aunque luego no sea así). Y aquí aparece el clásico consejo que llevamos años escuchando y que apunta...",
+      "url": "https://www.xataka.com/medicina-y-salud/llevamos-anos-diciendo-que-cerveza-cura-resaca-ciencia-dice-que-solo-alargamos-inevitable",
+      "published": "2026-10-04T17:31:22+00:00",
+      "image": "https://i.blogs.es/9e54b4/cervezaa/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.99,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Apple está ensayando para el iPhone 20 aniversario todo pantalla. La primera prueba es el iPhone 18 Pro",
+      "summary": "En 2027, el iPhone cumplirá 20 añazos y todas las filtraciones señalan en una única dirección: Apple no va a dejar pasar la oportunidad de lanzar un móvil conmemorativo. Al igual que a los 10 años lanzaron el iPhone 8 y el iPhone X, se espera que el año que viene tengamos el iPhone 19 y este...",
+      "url": "https://www.xataka.com/moviles/apple-esta-ensayando-para-iphone-20-aniversario-todo-pantalla-primera-prueba-iphone-18-pro",
+      "published": "2026-10-04T17:01:22+00:00",
+      "image": "https://i.blogs.es/283210/original1/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.81,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Han encontrado huevos de dinosaurio en un lugar demasiado frío para que existiesen. Estos científicos creen que el titanosaurio fabricaba sus propias incubadoras",
+      "summary": "Aunque hubiese médicos que se resistían a usarla, la incubadora ha sido uno de los inventos más útiles de la historia de la humanidad. Básicamente, les daba a los bebés prematuros una segunda oportunidad para sobrevivir en el mundo. Pero, en realidad, los humanos no fuimos los primeros en fabricar...",
+      "url": "https://www.xataka.com/ecologia-y-naturaleza/han-encontrado-huevos-dinosaurio-lugar-demasiado-frio-existiesen-estos-cientificos-creen-que-titanosaurio-fabricaba-sus-propias-incubadoras",
+      "published": "2026-10-04T16:31:22+00:00",
+      "image": "https://i.blogs.es/00ecdd/huevos-dinosaurios/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.62,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "7 distopías ambientadas en un futuro que ocurre antes del año 2026",
+      "summary": "Si amas la ciencia ficción, lo sabes. El cine distópico traduce las ansiedades colectivas, proyectando futuros sombríos que nacen de los lugares más oscuros del presente. Lejos de ser meras fantasías escapistas, el lado más tenebroso del género desmantela la promesa del progreso humano para...",
+      "url": "https://hipertextual.com/cine-television/7-distopias-ambientadas-en-un-futuro-que-ocurre-antes-del-ano-2026/",
+      "published": "2026-10-04T17:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/distopias.jpg?fit=1024%2C819&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 19.5,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "La última extravagancia para entrar en Harvard cuesta 40.000 dólares: mandar a tu hijo a fregar platos y limpiar retretes",
+      "summary": "Hay padres que pagan por semestre para que sus hijos frieguen platos, limpien retretes, corten leña y pasen horas trabajando en una granja de Vermont. No se han equivocado de escuela: Mountain School atrae a estudiantes brillantes de todo Estados Unidos y presume de antiguos alumnos admitidos en...",
+      "url": "https://www.xataka.com/magnet/ultima-extravagancia-para-entrar-harvard-cuesta-40-000-dolares-mandar-a-tu-hijo-a-fregar-platos-limpiar-retretes",
+      "published": "2026-10-04T16:01:23+00:00",
+      "image": "https://i.blogs.es/647694/harvard_class_of_2015_graduates_in_harvard_yard/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.43,
+      "sources": [
+        "Xataka"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Dos medallas españolas en la Copa de Europa que devuelve el deporte internacional a Ceuta",
-      "summary": "Plata de Marina Muñoz y bronce de Eduardo Blanco en una prueba llena de banderas de España y Ceuta, así como de cánticos como \"Ceuta no se vende, Ceuta se defiende\"",
-      "url": "https://www.marca.com/triatlon/2026/10/04/dos-medallas-espanolas-copa-europa-devuelve-deporte-internacional-ceuta.html",
-      "published": "2026-10-04T14:22:28+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac2605f52560.jpeg",
+      "title": "España logra un podio histórico en Francia",
+      "summary": "El segundo puesto de Ernée es el mejor resultado de la historia de España en el Motocross de las Naciones",
+      "url": "https://www.marca.com/motor/mas-motor/2026/10/04/espana-logra-podio-historico-francia.html",
+      "published": "2026-10-04T18:30:14+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac29359c4aab.jpeg",
       "coverage": 1,
-      "relevance": 20.26,
+      "relevance": 20.36,
       "sources": [
         "Marca"
       ]
@@ -382,13 +354,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El 'gusano' informático que iba dejando parados a los F1 en Sepang",
-      "summary": "La parada de Hamilton, además de otros coches en la vuelta de formación con la lluvia revelan varios problemas y que los coches \"están intervenidos\" desde fuera",
-      "url": "https://www.marca.com/motor/formula1/gp-bahrein/2026/10/04/paso-software-coches-detuvieron-pista.html",
-      "published": "2026-10-04T14:18:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac25dbd9bd00.jpeg",
+      "title": "Los dos se quedan con las ganas de ganar",
+      "summary": "Pezzolesi adelantó a la UD, Latasa y Ponceau voltearon el marcador y Elías, tras gran acción de Jesé, puso las tablas",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/04/pudo-ganar-cualquiera-gran-canaria-gano-ninguno.html",
+      "published": "2026-10-04T18:28:09+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac28b824f790.jpeg",
       "coverage": 1,
-      "relevance": 20.23,
+      "relevance": 20.35,
       "sources": [
         "Marca"
       ]
@@ -396,11 +368,39 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Real Sociedad B 2-3 Granada | Resumen LaLiga Hypermotion",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/segunda-division/2026/10/04/real-sociedad-b-2-3-granada-resumen-laliga-hypermotion-video.html",
-      "published": "2026-10-04T14:11:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac25e6a36cea.jpeg",
+      "title": "El Ceuta se defiende y el Castellón pierde el liderato",
+      "summary": "Meritorio empate de los caballas, que suman por tercera jornada seguida, y el Eibar acabará la jornada en lo más alto de la clasificación",
+      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/04/castellon-pincha-casa-deja-escapar-liderato.html",
+      "published": "2026-10-04T18:23:36+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac298e348a73.jpeg",
+      "coverage": 1,
+      "relevance": 20.32,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Claudia Pina pasa a la historia de los Clásicos",
+      "summary": "La vigente y actual Pichichi de la Liga es la primera jugadora en anotar cuatro goles en un duelo entre Barcelona y Real Madrid",
+      "url": "https://www.marca.com/futbol/futbol-femenino/primera-division/2026/10/04/claudia-pina-historia-clasicos.html",
+      "published": "2026-10-04T18:23:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac294bbc0fc9.jpeg",
+      "coverage": 1,
+      "relevance": 20.32,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Fabián tampoco estará en Croacia",
+      "summary": "Se quedará en París tras el nacimiento de su hijo.",
+      "url": "https://www.marca.com/futbol/seleccion/2026/10/04/fabian-tampoco-estara-croacia.html",
+      "published": "2026-10-04T18:03:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac294ce1adeb.jpeg",
       "coverage": 1,
       "relevance": 20.19,
       "sources": [
@@ -410,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Así vivieron los jugadores del Sporting Hortaleza el ataque a su autobús: \"¿Nos lo van a dar por perdido, verdad? Qué bonito es el fútbol\"",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/copa-rey/2026/10/04/asi-vivieron-jugadores-sporting-hortaleza-ataque-autobus-dar-perdido-verdad-que-bonito-futbol-video.html",
-      "published": "2026-10-04T14:05:43+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac25d1097eed.png",
+      "title": "Invasión de hinchas del Real Cartagena en el Jaime Morón: videos del caos",
+      "summary": ":Hnchas del Real Cartagena invadieron la cancha tras derrota ante Boca de Cali",
+      "url": "https://www.marca.com/co/2026/10/04/invasion-hinchas-real-cartagena-jaime-moron-videos-caos.html",
+      "published": "2026-10-04T17:35:08+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac28d652867c.jpeg",
       "coverage": 1,
-      "relevance": 20.15,
+      "relevance": 20.02,
       "sources": [
         "Marca"
       ]
@@ -424,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Granada remonta en el 93' tras encajar dos goles en un minuto",
-      "summary": "El Sanse hizo una gran primera parte, pero Pacheta, con un cuádruple cambio al descanso, logró la reacción de los suyos",
-      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/10/04/granada-remonta-93-encajar-dos-goles-minuto.html",
-      "published": "2026-10-04T13:56:04+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac259a6d95b8.jpeg",
+      "title": "Albacete hace vibrar a la afición con otro podio en el cierre del Europeo de Camiones",
+      "summary": "El Jarama congregó a 30.000 espectadores para cerrar un año mágico en Madrid",
+      "url": "https://www.marca.com/motor/mas-motor/2026/10/04/albacete-vibrar-aficion-podio-cierre-europeo-camiones.html",
+      "published": "2026-10-04T17:34:52+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac28d29b58d0.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 20.02,
       "sources": [
         "Marca"
       ]
@@ -438,13 +438,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Djokovic renace en Pekín",
-      "summary": "El serbio remonta un set y acaba con el favorito Zverev para sumar siete semifinales en la capital china",
-      "url": "https://www.marca.com/tenis/2026/10/04/djokovic-imbatible-pekin-32-0-le-quita-record-nadal.html",
-      "published": "2026-10-04T13:50:17+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac2576d31165.jpeg",
+      "title": "Onces confirmados en el partidazo del día en Segunda",
+      "summary": "Sigue en vivo y en directo el Girona - Mallorca de LaLiga Hypermotion con todos los goles y estadísticas del partido",
+      "url": "https://www.marca.com/futbol/segunda-division/2026/10/04/01-0102-20261004-2893-181.html",
+      "published": "2026-10-04T17:30:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/04/6ac297ee8fe46.jpeg",
       "coverage": 1,
-      "relevance": 20.06,
+      "relevance": 19.99,
       "sources": [
         "Marca"
       ]
@@ -458,7 +458,7 @@
       "published": "2026-10-03T15:33:29+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2448/live/1043b780-befe-11f1-bc2e-018d645d8d21.jpg",
       "coverage": 2,
-      "relevance": 22.9,
+      "relevance": 22.7,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
@@ -466,14 +466,84 @@
     },
     {
       "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Por qué los católicos votan más a Lula, los evangélicos a Bolsonaro y cómo una polémica por una virgen influye en las elecciones de Brasil",
+      "summary": "El país sudamericano va a las urnas el domingo tras una controversia sobre su santa patrona que avivó la campaña polarizada entre izquierda y derecha.",
+      "url": "https://www.bbc.com/mundo/articles/cqr7d7xe1y9lo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T18:42:12+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2d8b/live/a6e4b2e0-be6b-11f1-b36c-81ad410b221e.jpg",
+      "coverage": 1,
+      "relevance": 21.64,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Por qué Canadá contempla una (improbable) invasión de EE.UU. (y qué papel juega el caso de Venezuela)",
+      "summary": "El primer ministro Mark Carney indicó que las fuerzas armadas están elaborando escenarios para hacer frente a un eventual conflicto bélico con su vecino del sur, aunque reconoció que el riesgo es bajo.",
+      "url": "https://www.bbc.com/mundo/articles/cqwy79n7190xo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-04T18:34:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c81/live/804a5860-bd08-11f1-8a64-4f07fd1a6b57.jpg",
+      "coverage": 1,
+      "relevance": 21.59,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "EE. UU. busca reiniciar en octubre los diálogos de paz entre Rusia y Ucrania: Zelenski",
+      "summary": "La Administración Trump ha contactado con Kiev y Moscú para que retomen en octubre los acercamientos para el fin de la guerra en Ucrania, según reveló este domingo el presidente ucraniano, Volodímir Zelenski, durante la visita del canciller alemán, Friedrich Merz, en pleno repunte de ataques contra...",
+      "url": "https://www.france24.com/es/europa/20261004-ee-uu-busca-reiniciar-en-octubre-los-di%C3%A1logos-de-paz-entre-rusia-y-ucrania-zelenski",
+      "published": "2026-10-04T18:04:42+00:00",
+      "image": "https://s.france24.com/media/display/9dae10fc-b8c3-11f1-92c1-c959b9d22ec6/w:1024/p:16x9/AP26266056109006.jpg",
+      "coverage": 1,
+      "relevance": 20.5,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "¿Quién es Lula da Silva? Sus inicios, polémicas y trayectoria política",
+      "summary": "Luiz Inácio Lula da Silva busca la reelección en una de las elecciones más reñidas de los últimos años. Nacido en una familia humilde, trabajó como tornero mecánico antes de convertirse en un influyente líder sindical durante la dictadura militar. Tras varios intentos, llegó a la Presidencia en...",
+      "url": "https://www.france24.com/es/video/20261004-qui%C3%A9n-es-lula-da-silva-sus-inicios-pol%C3%A9micas-y-trayectoria-pol%C3%ADtica",
+      "published": "2026-10-04T16:40:28+00:00",
+      "image": "https://s.france24.com/media/display/ee229a4a-c010-11f1-957f-dd51fcab6130/w:1024/p:16x9/2026-10-04T122058Z-3336-RC2CWNAJ164C-RTRMADP-3-BRAZIL-ELECTION-1.jpg",
+      "coverage": 1,
+      "relevance": 19.98,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Elecciones en Letonia: Kulbergs se impone en las urnas con un discurso firme contra Rusia",
+      "summary": "El partido gobernante United List (AS), liderado por el primer ministro Andris Kulbergs, obtuvo una amplia victoria en las elecciones parlamentarias de Letonia. Durante la campaña, Kulbergs defendió una línea firme frente a Rusia, asegurando que cualquier acercamiento a Moscú \"debilitaría\" al país....",
+      "url": "https://www.france24.com/es/video/20261004-elecciones-en-letonia-kulbergs-se-impone-en-las-urnas-con-un-discurso-firme-contra-rusia",
+      "published": "2026-10-04T15:41:33+00:00",
+      "image": "https://s.france24.com/media/display/9c7d216a-c001-11f1-9770-69fad0a7cb9f/w:1024/p:16x9/ES-20261004-080712-080904-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.61,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
       "source": "Google Noticias",
-      "title": "Rusia advierte del riesgo de un \"conflicto a gran escala en el espacio\" si Estados Unidos toma alguna medida a petición de Ucrania.",
+      "title": "Netanyahu ordena una revisión exhaustiva de la seguridad para la aviación civil extranjera",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQR2k3cGp0MUwtVW9CZWRSZVVOT3hCcTFfNmxfLU5nOEVsRnJDX0J3NXVrbmJ5QmNqT01RR2pZeTQ5YVpMZXdPT3JjelNDWGJDbTBrWVA3cUtsdkFvY1ozdHRPT0tYSmQ4VGlILW1xUklQUHFnbkl0czNPQnBEeUI4eHV0d2lGNDJKVzNOSUwxOURPdF9nY3oyQWJlSUlSS0NrYktETjFmSDBqVXJHa3d3MXdjdWh0aTVISGVKZkxzZ00xa3Mz?oc=5",
-      "published": "2026-10-04T14:40:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbDFuMk54R3dMRWF4Y3ZIZ1dtV3cwbG94dklkUGVQN3pfYWM4LS1WanJxeTRyZXo1UXZGZHFLc1JveFdhWF9Vb3M3WGxYa0hUX3BLc2IwSU8zemtHWENlYXRTR1lna2xtRzZPdHZfOWc3QnRjNExXSmx1RGRWZ01iY2dOb1l4MGh3aVVncEFidjJBR0ZOeENUZXUzZVpoZEQxRDJkWmRLTHlicWVOdlZYZDFWTWVndWFYWkNTNTZYUFBnUEhDb1U5bXlBOWZTcXpZQlQ3OHBTajVjaE3SAfYBQVVfeXFMTmIyUHd0cHliU3BnaGxNTFladkhsSlN4dkptQnhrQkFmSFl5UnBwQUliOERZY3YzX2pLY2Jnb2hQQVBnRURfY0w5WHNxcWVjeS1Fd3V0bURXa1BjWkw0MjVMSXB4dXp2ekpsTjhVTzk4VkFiY0NuMkxWTjFvbzFWQy0wWWc0LWRJSE5TeFhTWEc1aTFNM0xyNzBwaVpNRng3RHFfR2RwWVVpVFBsVjBXY2RXUDdhRFVNWUVyc2hlblhKWHBOSFVfM1FTZHVWNmdPVGhuMHpoSHgzcjRkRWpCOFNDU1hER3lfZzhhMVZjeXVNNUFxeWJB?oc=5",
+      "published": "2026-10-04T18:01:52+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.87,
+      "relevance": 18.69,
       "sources": [
         "Google Noticias"
       ]
@@ -481,85 +551,85 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Merz insta a Putin a poner fin a la guerra en Ucrania",
+      "title": "Israel investiga posibles fallas en los controles de seguridad tras el ataque en el vuelo de Flydubai -",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBvcHRpUVBOREN0UmRVOHpseS1SN1FhZnFhbklsSUdLSFRrOWxQQS11SjZzd2ZLdHlXTnd1OXczUVF0dVl5ZFozSw?oc=5",
-      "published": "2026-10-04T13:14:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlhiNUdUSkw4Z09USHQzQmVnb2kzbXpYYU9wcVVfaU50R0dnc3JGb2dOOEhERGNfS3hUZTNZT3J0ZUVuWTJNU2FodTg3Q0VXNjg2RkkwWHNnaVhRSS1rOGlvVWZGSmxNaDZVNURfdVZzdXF4M0FzbndUTjlpWWgyUGlWeWVMalFMUkVBamNIU2FhdmlvVlg4NElRTEJFanhId0hMZlhndkd3SUd6R0JSOUFaNnpTQWZYWk9aNm1OVkJOcXR2QndvOFJwNS1YOTJCcmFBQjhR?oc=5",
+      "published": "2026-10-04T17:21:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.33,
+      "relevance": 18.43,
       "sources": [
         "Google Noticias"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Friedrich Merz llega a la capital de Ucrania para una visita no anunciada en plena escalada rusa",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Director de la ONSC: “No puedo poner en duda el certificado de un médico” a un funcionario público",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQVhra3BVSkV3bTN1Y01ZMTV1UUZqZmg0RkFObUlFTzVscjlxVEcxbl9KTGZLc2lONW9Ka28wMENUYl9GX2w1Szk1MmpCNDgwZ0FEcElfc053MXJDcWFmM1lFOWYzS2gzODNkUGNVQVVzc1ZHbXp5bENrYXFMQTdZOFlxN29TWWp2SUhULWJjUVBXV0FsNDI3TnRHMFRCX1RVYTJMYkxyeTBaNndqWUozckpySTFpSkpXOXlpbHhSYzRxM3NjRUQ5WTdRQjU4bnA3RVNScWlObVrSAdgBQVVfeXFMTzNXRWVsN1EwNVp1NldQTHUwS3VaQ3lsYWR1SjRNaEFublFSOW9CcHZoTjNzMUNBUTlrWWlMc3BQTUZGYktncWNuSmk4ZUpjSXg4c2MxbXRtWkg0R1ZPRmZpWjRqS1lVUnF5MXBBd1Foc3o1dWxCczlyV1phTlprWGtuR19qWTFHdW1ucnpReEgycEJlUTdDOVVLYkJrS3o4amhnLWNHV1FiNkp3b3JMZmFMOFNOUzlDclBzZUFGQkhuMXhwaUR2LTBwMmZoZEk1VGsyU3VrMlJf?oc=5",
-      "published": "2026-10-04T12:36:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNsZ1FsT3ladGM2MmlrOGtNc2RuWTJVUnJpdkdhRGUzN1JwNUtZSzlyYkpvSFJwZ0FYaW9ZMWJKY3BRemxVMVNILXdRMXdaNmhnbmdqYThYR3lvNS1MYnJ3TmZLOUJGdTZucHlteEd4TF96dmsxZU1YWW94c0d6LWxYNTB4ME94N2NLSkdOS1dpcWhSV2gwTkh5ZEV2ckQzRzUxWnpCUzZJOHRVZmIwVnpLLXV3VHFpQjNkSTJaNDJ4QS00SDdrWFhCdEROZlRULS1ZYVVRQjF0QQ?oc=5",
+      "published": "2026-10-04T18:25:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.09,
+      "relevance": 21.23,
       "sources": [
-        "Google Noticias"
+        "El País Uy"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Emiratos: copiloto del vuelo rumbo a Israel planeaba \"acto terrorista\"",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "La “caja negra” de los pagos a ediles en todo el país: denuncias penales, demandas laborales y aportes a partidos",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnhDdVd6YXNNTXVBeUVZbmg3dlhOd0RvM3BKVXBuSU5DTFJnMVBtM1RMVENOT0JBdnpnSWxrUTlGRWZmYmU5SnVuQlk0OGkybGFlQlBYWUpnNlBmNzNEVzNTV1ZFcjlPSFAwWUFPd0laOE1wX1c1VFN4LTc1WFpaY1FPVVpBUEZWc3FJQ3NrczRpQnhxZXhGbW04RVB6SGcyckHSAaIBQVVfeXFMTi16Ylp0YjhhYjJGUDhQWFZuWV9vczh0NmQzcEQ4NG5qRFhGdk5MdE96VEJISnVQWjJ2ci1JcG42Vk9YRTZUbmprVGFVUEJJeHNXQ3lERF9nWGJOQ1hsQUE1QUJRaVAyVnQzbTBDT3RyZ3JuQ0t2MFdiak4yM0N0UjhwZkNxS1MyMUdxbGdxdHczanlGdGpTbXJyREZZMjdManp3?oc=5",
-      "published": "2026-10-04T11:47:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNUNFaTF6S1oxREx5cTk5WFE3eFp4LUVWX0Z0dFZ4bXRwQjZlYTNEQ05TSFc1eFkwSzV1T3JWWDlaOVRRYnBRTzdXdHo2bFhTSUlHMHAzR1hVbFdCcHB4dzVrdHN4UUVXal9lQzc2YzhjX1ltN3lDdU1IMl9nUUpOa1dOT21OR0tQSUxpc3NhM0hiYjhkVVdydzNJZlNXeEZHR3dxeVRtN2YwenlUcHFQZm9qazZZOUhNZ0YwbGttUW1fR2VXOVAwMHQ5dkZJTDdIRXpTTkc0djNwenhJ?oc=5",
+      "published": "2026-10-04T17:31:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.79,
+      "relevance": 20.9,
       "sources": [
-        "Google Noticias"
+        "El País Uy"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Friedrich Merz pide a Vladimir Putin desde Kiev que pare \"esta guerra sin sentido\"",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Los 12 equipos de la Liga Uruguaya de Básquetbol completaron a sus fichas mayores: así quedaron los planteles",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYkJwamlCcGxJckVYRktSbGczNnBIOGdsYjl4MWZqb3FzaUhmMktNLVJfZGplZXpGcnkxcVNYUVd5b245UXdLNjkwZG4yaGtGQi11YVJpTS04N3NGeUl6VmxJNktNSHJHQ1E0TC1BemdrRWJYQ2ZESUtaMkZWTC12Mkx4U1U3ZDEyc3hoam1Td3A1Y1lkMnVhekdSLVB3bmZ2eXlXNTNQZ0t0c0VXTk80am8wdkFZR05Yd245UXNULV9zYXlrNzRPYURKSmpheVBHNmliZ09yYWhkOVZNa2pGZTZB0gHiAUFVX3lxTFAwTWNNc2czNHR2RVFVSnUxN1hPczNQd3plcVhNQUNVUTkwY1ZJXzhXdW5BU1FQWTNYTjNNN1BmQmNZdVdwNzlKZmgzVWNfV0RHcktQWkV2ejlMTlBXd1pQZTNqSm9VV1dDdDI3TFNldHM3bVc5UUd2VDl1UFBVajhBdnVrb2ppTEJuQ2VhQTk0Q3NkcUZZZlhLTUFrWmZVOXF1eVE2TXlXajVOeTJmOS03UGlVY08yaklpOVZrSV9LRllJVDJmMkhEZl80a29VQTdDa1FzeWtySV9vQXhEaWR5U3c?oc=5",
-      "published": "2026-10-04T10:53:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb3huaWdtWWUxNzZPeXpZMW52OWZhUFB1dVI0dFhuOGtSSnFId2ZhcGkzODQwZEVjanhJSngydjRMb3M4TEhzdHZjeFBYejh5NkhhSGo3aGFYaXdNUW1Va01kTFZpcHR0Y3pVbE1yck5Qb094eG9Ea28yLUxsdnd5MDFuTTN5OG1yeVFUdk1DUHQ5OTRkZTRLUzkwdTUxRmlFYThjVjF0YVBWNFByT1pSUVpwMF9ySWFYQkg2UFNWQUhUeEhhTkNyRmZTLU5jU0htajFBaWVCWjNrLVZOeUdSQzZSZXNSS0ot?oc=5",
+      "published": "2026-10-04T16:39:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.45,
+      "relevance": 20.57,
       "sources": [
-        "Google Noticias"
+        "El País Uy"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Israel confirma que el ataque del copiloto durante el vuelo de Flydubai fue un acto terrorista",
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "Brasileños residentes en Uruguay y Paraguay participan activamente en comicios presidenciales",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdElaaEpjWnRSQUJMWXpBYlFwX2ZzYkJKZjJCeUg0Q3AxVDRCbmxObm5od3F0aW10endGcTQ1UkpWRlM3NnAxVl9mZmtaX1d5MEtzVFo2NXFYYzA2SmJUcmpmdG15OW1CR25nQndIakpkQUVuVms4ckdjRUhpTjBiXzlIcXlDNFdpc3huTGF3?oc=5",
-      "published": "2026-10-04T10:18:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSQTBic1NUSjhnX1h3UERyYkxrTHJMMUxtb01KYkt6NU9YaE1QUTQ3Zl9PdnpWT2hzSGRNb0x1bE9KZzFMY05UUGJxS3FhTmZlNWV4VFYwZFBBMzRwMlRsMFFvYkVjN0ZLbGV4RUxEM2g?oc=5",
+      "published": "2026-10-04T18:21:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.23,
+      "relevance": 18.81,
       "sources": [
-        "Google Noticias"
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Un portaaviones estadounidense visita un país del sudeste asiático tras pasar seis meses en Oriente Medio.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXhWRjlkZUZCUzlMeGFDamV5N3AwNnNHYkJQRkYtM09XQndPbkVZRkxmWWJVNjJrMUc1YWpnMFNGUkU4M0Y4UUNlOUJSdFgzS1JyTHNPVjJEQWhUQmoxQ0EwT0FDeEVlV0VqeXJ2RHZsb21maE5mc3JoeVhUTW95c2FqdkdnejRuY21GSllTdjdCOHZfNjlBSzJn?oc=5",
-      "published": "2026-10-04T09:43:08+00:00",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Lula da Silva dijo que está “confiado” en ganar las elecciones",
+      "summary": "El presidente y su contrincante, Flávio Bolsonaro, votaron esta mañana.El presidente brasileño, Luiz Inácio Lula da Silva, votó este domingo de mañana en escuela estatal João Firmino Correia de Araújo, en el municipio de São Bernardo do Campo, en San Pablo, en el marco de las elecciones que disputa...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/lula-da-silva-dijo-que-esta-confiado-en-ganar-las-elecciones/",
+      "published": "2026-10-04T15:23:39+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.01,
+      "relevance": 18.6,
       "sources": [
-        "Google Noticias"
+        "La Diaria"
       ]
     },
     {
@@ -570,65 +640,22 @@
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQejVoUUs1aGFTTGd0cFVUbDJUcjB2emU4UWVjWlVfM3RleDZvYVlFcnRMLUFyZTFlX0dGNG1DOHBXMWs2aVZYZ01LVmpzN09Oa0g2TVpHdmVES3ZnN1hsX08xOUtWaXZQbjAwTTU1YTJCanhOcnk2aGhaTG12amY0UkxVb3p2OTdIaGg1TFJZS1d1ZVhXQVRqT3hVdmpnWVRhMkczM25vZkNxQ0otQ3FkYmRVVkxqS1k?oc=5",
       "published": "2026-10-04T11:09:39+00:00",
       "image": null,
-      "coverage": 2,
-      "relevance": 29.95,
-      "sources": [
-        "El País Uy",
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Los 12 equipos de la Liga Uruguaya de Básquetbol completaron a sus fichas mayores: así quedaron los planteles",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQb3huaWdtWWUxNzZPeXpZMW52OWZhUFB1dVI0dFhuOGtSSnFId2ZhcGkzODQwZEVjanhJSngydjRMb3M4TEhzdHZjeFBYejh5NkhhSGo3aGFYaXdNUW1Va01kTFZpcHR0Y3pVbE1yck5Qb094eG9Ea28yLUxsdnd5MDFuTTN5OG1yeVFUdk1DUHQ5OTRkZTRLUzkwdTUxRmlFYThjVjF0YVBWNFByT1pSUVpwMF9ySWFYQkg2UFNWQUhUeEhhTkNyRmZTLU5jU0htajFBaWVCWjNrLVZOeUdSQzZSZXNSS0ot?oc=5",
-      "published": "2026-10-04T14:03:57+00:00",
-      "image": null,
       "coverage": 1,
-      "relevance": 21.04,
+      "relevance": 18.51,
       "sources": [
         "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Director de la ONSC: “No puedo poner en duda el certificado de un médico” a un funcionario público",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTTNsZ1FsT3ladGM2MmlrOGtNc2RuWTJVUnJpdkdhRGUzN1JwNUtZSzlyYkpvSFJwZ0FYaW9ZMWJKY3BRemxVMVNILXdRMXdaNmhnbmdqYThYR3lvNS1MYnJ3TmZLOUJGdTZucHlteEd4TF96dmsxZU1YWW94c0d6LWxYNTB4ME94N2NLSkdOS1dpcWhSV2gwTkh5ZEV2ckQzRzUxWnpCUzZJOHRVZmIwVnpLLXV3VHFpQjNkSTJaNDJ4QS00SDdrWFhCdEROZlRULS1ZYVVRQjF0QQ?oc=5",
-      "published": "2026-10-04T13:59:46+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 21.01,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Elecciones para la representación docente en el Codicen: Pablo Macedo y Limber Santos son los nuevos consejeros",
-      "summary": "El lema de los sindicatos de la educación obtuvo 27.768 votos frente a los 7.109 apoyos al lema que incluía a las listas 1 y 3.Este sábado se realizó la elección para definir quiénes ocuparán los dos cargos de representantes docentes en el Consejo Directivo Central (Codicen) de la Administración...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/10/elecciones-para-la-representacion-docente-en-el-codicen-pablo-macedo-y-limber-santos-son-los-nuevos-consejeros/",
-      "published": "2026-10-04T12:49:25+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.08,
-      "sources": [
-        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "India - Uruguay | Pronóstico y cuotas 06.10.2026",
+      "title": "Resumen del Corea del Sur vs Uruguay por amistoso FIFA",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWHdYYWNEcjEtRUtwOXlIaWxxZ3VidUlYVjloUkpMWkdrdmp6ZFZXR08wWGlEeU90M1JfMjF0NllfcGY5NDljaWNZQlpOX01KamtvLW54akZqZUF3a0NsNkY5Z3B3TEdGcm96Z2ExYUt3LUlTS09kNVMyQkh2SGpyTA?oc=5",
-      "published": "2026-10-04T14:24:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV0JIb0dYLWpsU0Fldk51Y21lNnFicmd3ZFN1aTU5ZnN0bVN0dk1LcU1yRWl2am43S2NJMmpvZHJ1WHFsVzBvTURYMkl5dzUyZld5V2Y1VGZmUkd6V3VSR2stNWh5TWl6NUR3cm5IRzdXMktqTEg5ZTZkQkZDZlBqMXdGSEZEd2hNbUN0VG55X1FQQVRoOWVkOGRIMVlqaEJvQ1RITF9B?oc=5",
+      "published": "2026-10-04T17:22:25+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.77,
+      "relevance": 18.44,
       "sources": [
         "Google Noticias UY"
       ]
@@ -636,43 +663,15 @@
     {
       "category": "uruguay",
       "source": "Google Noticias UY",
-      "title": "Armas modificadas y guerras entre bandas: así cambió la violencia criminal en Uruguay",
+      "title": "Mathías Olivera sufrió una lesión muscular y es baja en Uruguay para enfrentar a la selección de India",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa0NWSjNsems4SHVYRzNkNGR6TldsTHdUR0ZPRHpMV2x6UlRaaGhEUGtKSWFtZjROemF5LUh2WnZWcEtwSkFmMFlGZHkxSjFEaFlJcGZVdkRnYVhpa0NQWnd2X3J1bVlyTklKS3kxZ0FON2I1LTJCTmxkanhqdzRacVRUX1ItZ1F0QV9SVjRkMTF2UlMxVHR6eEk5VVJIRVF2UFQ2bERRRTR2azYxSElJSlNXMndQY1RaTURNeXU1bGkzeTJqSG1aSEJuS3JibDFkOGxvWTVWQXgzX1HSAfYBQVVfeXFMTkxPVjV2YWNvSi10QzJWYU9fdVkxNlVtR05pWFhVTHFqTzVJeG9sdC1JZHFKNlQ1Q0Iyc3U5RERweUdHczRubE8taDlMZVN0RlVZMExqX0dqdjBaWVJWTHk3amNBQ0lrdXZ0TjNOSEEzSjRfMGs4WE9sV3VpVVhDd3lVYUY0OUNxMkNOUW9XZUlzUXRNc1FqUVoySkxfeXVVM3pOak1HVUFqTDdKRzdNVnVCRlZqWjRycUgzMXNRLXVDR09VOW9PSmdIQTROWkM1LVlCLVRvVnFXMkg3ZVpNSC1zSTJabU9zUks4U3pJT0h6QnJDSElR?oc=5",
-      "published": "2026-10-04T08:10:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTzhJWUhwZjdHdU1XbDJ4WkhmMUx6aUxRYWVPcEd5MWtreG1mSk1ia2k1WG1jZ01zcFAtdktXNUZTS01xTF9JYnpXQ1hwclFyYzRzNFNYRWhNUzlRVWxVQTktNGtuTHk1ZGpYdktSblV6ZTRSTXpDYUlmLVZCX2hiUlBwMldJcWZ1N0t1cFBVUXVwN2p6WFY0WElqU1c5VkRZcnVLMFNTcTY1bW1MRmpYMVliUkc4R3NGQTlBMVpnNlZTRjF0d0VLejRxTk5xVXo0d3pXUDFuX3dtVmF4UFVTTVJjejNha3pxbG5tWktIc9IB9AFBVV95cUxNUzBSMGR3M3RHM045ck8zWEgxSko5eHVVWDhIbHVkOVpWVFVtSEhpS19RNjBXWDlsb2JmT0l3Ni1yaTFjY0dCOXJFYTBVdXl3ZWc1WDQ1Y25iUWVVWUZmd1N1MXpiMjBXcEdGT3FPX1lrTTNtcVRTZjFqRElyUklySElMV3h0eDBBVER0Q2UycjlaQUM4Q0I2dkxVN01MYVZReWd6WHVoYlowR0cyNTJfdk8yNDJjVjBNcHBVd0pZX2tHa3F0Z0l4Yi1hcldTMUlmaGxCY3hmenp3WWZ2TFF2ZjNXS1BKSHNhNC14QUsyMjJMNVZP?oc=5",
+      "published": "2026-10-04T17:12:46+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.43,
+      "relevance": 18.38,
       "sources": [
         "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "A días de su show, Lucía Rodríguez confesó que lleva vendidas pocas entradas: \"Estamos en problemas\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZ001VHowaXNmMkR4LUd2YjZjRTlMVzJ2NTVpbzFTeHRUdTN6ZXRNMmpadmFONWJKcTAzZF9iRVBOUDlJcnhrM1JVN0xKYTYteW1mRWIzcWl2Rm5BNjl5ekIycWF5ZzQxTWRXMFNwaVIxeXhDMnV5aWtSSjRGeWVMYWNUbkR6NlBvM1NDZWh0VHZUZ2c3VmpYSzl4S0JDU042T3ZMQXIxOFlrUzI0RUF4MllDYWxfUWR2cEcyLVVOR2xVYVhFWHVfMjhaUXlxVWxQT2RRTHd6WQ?oc=5",
-      "published": "2026-10-04T00:50:38+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.08,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Máster plan del Gran Parque Central: el avance importante de Nacional para una moción conjunta que \"no es fácil\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYUFXQzZxWDQ1RmVnLUthaUp4NmJkeW12T29xZUpUMmpaYWFxckZKTUlWNHoxaFpkMkZ4cklZTjQ2T09tQlE1RGhWSWluQVdVTDZDdEpkdERSWkNSZnJGZG9kT3hRWlAwSUZFYng5MlVUQy12NmNZaVFnZUQxd0dCTFVkQVQ3cUNtMWFoX3poNVB0X2RETVl2MWVsREZFRDJhVXotS29LV0N3QjJWX1VBUEc5SVYybXFxMWtIQzYyV2xGQ1k3SnlhYU9paXlUWE85SzN5cVVGdkl3RlFGYWVNS1VkdkE?oc=5",
-      "published": "2026-10-03T21:42:07+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 14.9,
-      "sources": [
-        "El País Uy"
       ]
     }
   ]
