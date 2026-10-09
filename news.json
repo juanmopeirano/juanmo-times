@@ -1,6 +1,34 @@
 {
-  "updated_at": "2026-10-08T17:02:25.129615+00:00",
+  "updated_at": "2026-10-09T01:31:38.405342+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Bruselas exige contención en el gasto ante la presión del mercado sobre la deuda soberana",
+      "summary": "El comisario de Economía, Valdis Dombrovskis, reclama a los ministros en el Eurogrupo “actuar con prudencia” frente al aumento de intereses de los bonos",
+      "url": "https://elpais.com/economia/2026-10-08/bruselas-exige-contencion-en-el-gasto-ante-la-presion-del-mercado-sobre-la-deuda-soberana.html",
+      "published": "2026-10-08T18:20:53+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/DEPE5POJH7BUNVPLXNUQEJWZ7Q.jpg?auth=0cae99f5c32893d772af11b0eac1813e69cd855eac3d1f5d4a7a87df9b477359",
+      "coverage": 1,
+      "relevance": 18.71,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Jornada financiera: las acciones argentinas subieron hasta 5% y el riesgo país tuvo una leve baja",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPd3haSXp1Umx5ajE2QVlSRDMtOEhEcERobHpZMUFMZktjRVpoREUwcXlTTVVXbUcyZ294ZHNMSmplWHMyTWc5RU5TZ3c0YmNJRkQ5S2c1ZTlHWnd3SVlKYmI0UkVBMlVjR203NlphMmVRejVTMV9icldlYWx6c0p5cXR0RjJ4VGVQTkRrZlRPUUlBaHZaQ0VFaFZ0dzZaUXEyamZiVUpvTDZVMDNjcjd4cWktQ0V5SHJrYzZQblhyM1ljc1hjV3BFZ2tmS0NVd1VNNDNPdzNqY9IB8gFBVV95cUxPb21EdTlzZDdrUVJPNDJmRktJOFlHVHNuWkJ2RVBHbm80WGFBTkcxTjUzS0tTeGU0NVBUWXNJTTRpZ0tCMlhMdTdzdkJ6RUEzUzZLU0dnWDQzOVJ3d1o0N295V2VaRlJISnBWZUNBV2UyRVJsYVFTc2Z6SXkyNng5eXdweXhSQ1NWdjFJLUFmclRTR00tZ2h5UE1uRzhGMDQ1Nng4SVQzMGwxT253WnRrUkpLdlE2b0VzQUU4YjY1dzVzQlE4dERpS05oYTIxYWlOUDVicEN3Uk1RUkJydmRXd3E2d3dQSjZMQTNCaGlXR0JBZw?oc=5",
+      "published": "2026-10-08T22:42:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.94,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +38,7 @@
       "published": "2026-10-08T15:10:56+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/MEMH2EEMUVBLFJ6NURCAUY2TJ4.jpg?auth=eece18f0405ea9dc89d686ae6687cf789c0926b0da5a349dc46583c662613472",
       "coverage": 1,
-      "relevance": 20.7,
+      "relevance": 17.52,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +52,37 @@
       "published": "2026-10-08T14:42:55+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/J3MEDO5P2ZLUBKRIJTPPBJXOH4.jpg?auth=69c154ee3aacae23c885d4ff4f8b108dc6a17238f1de807f2249cb0abd7123f3",
       "coverage": 1,
-      "relevance": 20.53,
+      "relevance": 17.35,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Mercados: subió la Bolsa argentina y bajó el riesgo país pese a la rueda negativa de Wall Street",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWElqekJqWmVpdURzNnItQ3huTHg4THBMNmlHSU54eTZyMy1nZVlSU3Q2c2pHRU0wMU5jOWZ5VWxIdGQ1M3AyV18wcWFyMnJucV9QMGtPaEh1VTZJNHJZRkQzbHVXUEhZZ3VWR1JhRXlhaWdzdXFPMmV3akxRQkRjMUFPdFBsZ3pjU0hMM3JzZm5xRnZXVTlWM2Uyc3hmWG1zcmp3MGlZNy1uZ09mRHBMdm5kNWhjSlZOcHJHZTE0bFliZWVGQ3pES3NULTl0S3ozVUFpV0Z3SDB6WUFyOWfSAfgBQVVfeXFMT0FfSkhqMi1ITlB1QVNPT0pxR2J3ZXVVMHlvcDhHRTFMWXBxMGNpUDVVYzhCY1IwcktCRFBlRUtPMWIyaHNPeDJ0cVN4YTAzUWVlMl9WaTREVGl5UW10UkgyUFd5UDlSWEd1MVNfMnRHdVNCNlpJeVNKZDJGcWZqZDZHQkV6OTZlcGxSNGt5TWdCWk14SDhEMy1ZVzB1UjRfNnFNZEp2TlRFU2p6Rm9BS1p6VS1xTGRCVWRvdlp3TFVkMmF4Y2VEcFVlOUFCdk1OZUhsN185VkVvNzVVTTZENm9fSlI2Y3NkWTBOQWwzNFlzT0YyaEZ4OE4?oc=5",
+      "published": "2026-10-08T20:41:04+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.18,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del dólar hoy en Panamá: cotización de cierre del 8 de octubre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObzNPNjlESmFiaVllVm9pZm9rWVRSazNSTHhwUi1BMEJFcFB4aTRzbVNwM1p3LWY2V3o4QTd3MW4taWQ0bnc5amR4bWlGN1QwWFNmdWF6SmVhenptWXd3WkxuSGNPOXVJenU2TDF2TjdzbWJySFJLZWVJTGtsX0ZWTlRLMG1CSkRMQjJEcm5XalpUYmZhU2FzODBOZnR3ZDBvdDRGZ2JIY01OWFFrall0b3AwSmF2X3hUZUoxNHBVMkM1WElHekFBOVRBUkdxUdIBzgFBVV95cUxObzNPNjlESmFiaVllVm9pZm9rWVRSazNSTHhwUi1BMEJFcFB4aTRzbVNwM1p3LWY2V3o4QTd3MW4taWQ0bnc5amR4bWlGN1QwWFNmdWF6SmVhenptWXd3WkxuSGNPOXVJenU2TDF2TjdzbWJySFJLZWVJTGtsX0ZWTlRLMG1CSkRMQjJEcm5XalpUYmZhU2FzODBOZnR3ZDBvdDRGZ2JIY01OWFFrall0b3AwSmF2X3hUZUoxNHBVMkM1WElHekFBOVRBUkdxUQ?oc=5",
+      "published": "2026-10-08T20:32:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.13,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,7 +94,7 @@
       "published": "2026-10-08T13:51:26+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/QQZDG7ZWFVKYTOOPCTP37YWB6I.jpg?auth=e533e8b540a7efe76e46e44e0c5f65f689e301fd740f8d1d033a7d7c5d35ab3b",
       "coverage": 1,
-      "relevance": 20.21,
+      "relevance": 17.02,
       "sources": [
         "El País Eco"
       ]
@@ -52,77 +108,36 @@
       "published": "2026-10-08T13:00:00+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/I65YVRJHG5CPPDPLK7MMJCVJOI.jpg?auth=04bf82cfed274d4dfb9a81601c6ee7d75f795694d59f46a35b8c52f0823414ff",
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 16.7,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Barrio rico, barrio pobre: la brecha de renta per cápita entre La Moraleja y Torreblanca supera los 220.000 euros",
-      "summary": "La estadística del IRPF por códigos postales, publicada por la Agencia Tributaria, muestra que solo 13 barrios registran ingresos medios superiores a los 100.000 euros anuales",
-      "url": "https://elpais.com/economia/2026-10-08/barrio-rico-barrio-pobre-la-brecha-de-renta-per-capita-entre-la-moraleja-y-torreblanca-supera-los-220000-euros.html",
-      "published": "2026-10-08T12:47:44+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/7XFPPRMGVBAUZKDMYIX5DTX2E4.jpg?auth=c47e6197560599b1fe7138dc3e535f5fa7fd5d853d03850a0e76c1b8efff76ab",
-      "coverage": 1,
-      "relevance": 19.81,
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Israel, 7 de octubre: Cronología del conflicto",
+      "summary": "Desde octubre de 2023, tres años de guerra han transformado el equilibrio de poder en Oriente Medio. Desde el ataque de Hamás a la ofensiva israelí en Gaza, hasta la extensión del conflicto a Líbano e Irán: las principales etapas de una crisis que aún continúa. Leer todo",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-10/israel-7-de-octubre-cronologia-del-conflicto.html",
+      "published": "2026-10-07T16:34:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/07/06/1791348000554.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 21.8,
       "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La crisis de la vivienda preocupa “mucho” o “bastante” a ocho de cada diez españoles",
-      "summary": "El barómetro monotemático del CIS publicado este jueves constata que el 76% de la ciudadanía cree que el Estado debería intervenir el mercado",
-      "url": "https://elpais.com/economia/vivienda/2026-10-08/la-crisis-de-la-vivienda-preocupa-mucho-o-bastante-a-ocho-de-cada-diez-espanoles.html",
-      "published": "2026-10-08T10:34:59+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/KJMAOHCDW5MKRB7HDLL6JCU7UA.jpg?auth=ffea2d67c1c0f5a286d58568b335e03e8b5d341dca3acb7084fee568917d14ad",
-      "coverage": 1,
-      "relevance": 18.98,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Peso retrocede para cotizar a 17.97 por dólar; mercados financieros operan con cautela",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPREtjYV9kNFhMX3FMRnBPd2xJYlVROTN6RWF6dXlDb0RkSHlFMS1YTWZQRkFMNi1QeFhIeEhwQlJJWm94MzJxQXp4Q0hBR21HMng5ZU5LblU2YWZCVjVCRFo4Z2FmN2VxNTBZLW90SHpRMTN2VzZndkZfZ1E2LWx6NnFZM1BRNF9uZ0hYd2RJbFVnSWpKMFBGUjBKU18yV2lZQnllMGM1b3RKUGJlWDhjT2J6dTVocUt4ZUFSYjFWc1hMUEMtVmRKS0pGMkdzdUdBdUN2cWdn?oc=5",
-      "published": "2026-10-08T16:28:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.78,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "¿Cuántos dólares compran los argentinos según Caputo?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUdnd0Rud2lmUHlFRTVlbWNoOFU1QU8weVZ0c29XV1lyYXVXNk1BTUZGd2JKQXM3WTN6VXUtQl85emJMbk1RaXFTblNJX2hTRGlMSzM0bWxnUk9QSHdjN3pMekdvUFBVeW1ha3o4YUFsbHRrSnVBRVFaZ29aUmRMR2FfNEVoMXpGY2ZuS0VRa250RW1ET1FEUmk0ZEYydVI0WE9Sck1selVNZw?oc=5",
-      "published": "2026-10-08T15:32:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.44,
-      "sources": [
-        "Google Economía"
+        "Google Noticias",
+        "Vatican News"
       ]
     },
     {
       "category": "iglesia",
       "source": "Vatican News",
       "title": "Haití, una crisis interminable: Que no se convierta en una tragedia olvidada",
-      "summary": "La situación humanitaria de la población en la zona sigue siendo compleja, marcada por la violencia, el desplazamiento y diversos problemas interrelacionados. La Fundación AVSI alerta: «En muchas zonas, la situación continúa empeorando». Leer todo",
+      "summary": "La situación humanitaria de la población haitiana sigue siendo compleja, marcada por la violencia, el desplazamiento y diversos problemas interrelacionados. La Fundación AVSI alerta: «En muchas zonas, la situación continúa empeorando». Leer todo",
       "url": "https://www.vaticannews.va/es/mundo/news/2026-10/haiti-crisis-interminable-tragedia-olvidada.html",
       "published": "2026-10-08T16:23:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2026/10/06/02/1791247228321.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.55,
+      "relevance": 17.37,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +151,21 @@
       "published": "2026-10-08T15:54:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/ansa/2024/10/10/18/1728576473224.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 17.19,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "León XIV a las Universidades Pontificias: El estudio como servicio a la fe y a la verdad",
+      "summary": "En la apertura del Año Académico, el Papa recordó la responsabilidad de la Iglesia de custodiar el tesoro de la Revelación desarrollando la inteligencia orante, la reflexión científica, la mediación cultural y su puesta en práctica. A los estudiantes y docentes una invitación a “custodiar el...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-10/papa-homilia-apertura-ano-academico-universidades-pontificias.html",
+      "published": "2026-10-08T15:43:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/08/2026-10-08-celebrazione-eucaristica-per-l-inaugurazione-dell-ann/1791477001675.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 17.12,
       "sources": [
         "Vatican News"
       ]
@@ -150,7 +179,7 @@
       "published": "2026-10-08T13:32:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384607332.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 16.3,
       "sources": [
         "Vatican News"
       ]
@@ -164,7 +193,7 @@
       "published": "2026-10-08T13:29:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2025/maggio/22/2025.05.22-LA-SEMANA-DEL-PAPA-LEON-XIV.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.47,
+      "relevance": 16.28,
       "sources": [
         "Vatican News"
       ]
@@ -178,7 +207,7 @@
       "published": "2026-10-08T14:30:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.25,
+      "relevance": 16.06,
       "sources": [
         "Aleteia"
       ]
@@ -192,91 +221,21 @@
       "published": "2026-10-08T12:11:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/08/2026-10-08-s-e--il-signor-julius-maada-bio--presidente-della-rep/1791450302499.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 18.98,
+      "relevance": 15.8,
       "sources": [
         "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Grech: El compromiso de acompañar a las familias con el Evangelio",
-      "summary": "El segundo día del encuentro, dedicado a la exhortación apostólica Amoris Laetitia, fue inaugurado por el cardenal Secretario General del Sínodo, quien exhortó a acoger con gratitud la experiencia de las familias, «auténticos ejemplos de esperanza», incluso en tiempos de dificultad. El Evangelio...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/cardenal-grech-encuentro-amoris-laetitia-dia-2.html",
-      "published": "2026-10-08T11:39:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/07/2026-10-07-incontro-con-i-presidenti-delle-conferenze-episcopali/1791384623080.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.78,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Sor Mary Barron, secretaria adjunta del Dicasterio para la Evangelización",
-      "summary": "El Papa León XIV nombra a la Hna. Mary Teresa Barron Secretaria Adjunta del Dicasterio para la Evangelización y presidenta de las Obras Misionales Pontificias, a partir del 4 de enero de 2027. Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-10/el-papa-nombra-a-sor-barron-secretaria-adjunta-del-dicasterio.html",
-      "published": "2026-10-08T11:38:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2023/12/23/MTBarron_.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.77,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "El País Tech",
-      "title": "La IA no distingue el bien del mal: dos físicos destapan lo que las grandes empresas quieren esconder",
-      "summary": "La inteligencia artificial tiene algo de fiera disfrazada de máquina inteligente: un nuevo estudio da una fórmula para entender cuándo sus respuestas se tuercen",
-      "url": "https://elpais.com/tecnologia/2026-10-08/la-ia-no-distingue-el-bien-del-mal-dos-fisicos-destapan-lo-que-las-grandes-empresas-quieren-esconder.html",
-      "published": "2026-10-08T15:25:13+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/PQHLQALRKVFEDJL7V5FN2HF3YM.jpg?auth=cbbf0c2a2143ee41e3ff066e823de403017826317b23a807b4141c3c62614240",
-      "coverage": 1,
-      "relevance": 20.79,
-      "sources": [
-        "El País Tech"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "El País Tech",
-      "title": "El consejo de sabios de la IA pide más impuestos a las tecnológicas y reforzar el control de los menores",
-      "summary": "El panel internacional de expertos que asesora al Gobierno en esta tecnología recomienda más regulación y apostar por la soberanía europea",
-      "url": "https://elpais.com/tecnologia/2026-10-08/el-consejo-de-sabios-de-la-ia-pide-mas-impuestos-a-las-tecnologicas-y-reforzar-el-control-de-los-menores.html",
-      "published": "2026-10-08T14:45:43+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/LCZD7TZU5ZEMXNY46MSIARE5JY.jpeg?auth=f7798e5bd2c7e43cb9563f57b20b86e89290b44c0f02e49375f772ee808c92fe",
-      "coverage": 1,
-      "relevance": 20.55,
-      "sources": [
-        "El País Tech"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Apple acaba de anunciar ‘Welcome Home’ para el 13 de octubre y todo apunta a estos dispositivos para el hogar",
-      "summary": "Durante años, el hogar inteligente ha sido una suma de dispositivos que prometían hacernos la vida más fácil. Ahora estamos viendo un cambio de enfoque. Amazon ha reforzado sus dispositivos Echo con Alexa+, Google está incorporando Gemini a su ecosistema doméstico y Samsung sigue ampliando su...",
-      "url": "https://www.xataka.com/eventos/apple-acaba-anunciar-welcome-home-para-13-octubre-todo-apunta-a-estos-dispositivos-para-hogar",
-      "published": "2026-10-08T16:36:00+00:00",
-      "image": "https://i.blogs.es/533872/apple-evento-welcome-home/1024_2000.jpeg",
+      "title": "Corea del Sur detecta indicios de IA en ataques a sus principales bancos y el presidente exige respuestas",
+      "summary": "Cuando pensamos en inteligencia artificial solemos hacerlo desde el lado de quien intenta ganar tiempo, automatizar tareas o analizar enormes cantidades de información. Pero esas mismas capacidades también pueden ponerse al servicio de quien busca una puerta abierta en un sistema. Algunas...",
+      "url": "https://www.xataka.com/seguridad/corea-sur-detecta-indicios-ia-ataques-a-sus-principales-bancos-presidente-exige-respuestas",
+      "published": "2026-10-08T21:13:31+00:00",
+      "image": "https://i.blogs.es/156186/corea-del-sur/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Los expertos coinciden: \"Los grandes responsables del consumo eléctrico son el termo o la lavadora y se nota en la factura\"",
-      "summary": "Con los precios de la electricidad en máximos, cualquier esfuerzo cuenta para tratar de neutralizar el impacto en el bolsillo. La cafetera, el router de internet, el termo del agua caliente, la nevera, el horno, la secadora, la televisión, el aire acondicionado… Hay aparatos en casa que, con...",
-      "url": "https://www.xataka.com/energia/expertos-coinciden-grandes-responsables-consumo-electrico-termo-lavadora-se-nota-factura",
-      "published": "2026-10-08T16:30:00+00:00",
-      "image": "https://i.blogs.es/b026c7/pexels-photo-11316620/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.3,
+      "relevance": 18.89,
       "sources": [
         "Xataka"
       ]
@@ -284,13 +243,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "El desastre de ‘Digger’, lo nuevo de Tom Cruise, le generaría pérdidas astronómicas a Warner Bros",
-      "summary": "Digger se encamina a ser el fiasco más grande en la carrera de Tom Cruise. La nueva película de Alejandro González Iñárritu no solo ha cosechado reseñas bastante pobres por parte del público y la crítica especializada, sino que ha tenido un desempeño en taquilla paupérrimo. Y ya se especula con...",
-      "url": "https://hipertextual.com/cine-television/desastre-digger-tom-cruise-perdidas-millonarias/",
-      "published": "2026-10-08T16:59:26+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/Digger-4-scaled.jpeg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Paramount pone en marcha una película live-action de ‘Cyberpunk 2077’",
+      "summary": "Cyberpunk 2077 tendrá su propia película live-action, desarrollada de la mano de Paramount Pictures. Según reporta Deadline, el proyecto cuenta con el aval de CD Projekt RED, que coproducirá el largometraje junto con Lorenzo Di Bonaventura, un histórico de Hollywood con pasado en sagas como...",
+      "url": "https://hipertextual.com/cine-television/cyberpunk-2077-pelicula-live-action-paramount/",
+      "published": "2026-10-08T20:52:24+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2021/03/Cyberpunk-2077.jpeg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.18,
+      "relevance": 18.45,
       "sources": [
         "Hipertextual"
       ]
@@ -298,13 +257,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Decenas de pasajeros tuvieron que ir de pie en el tren a Extremadura porque Renfe vendió más billetes que asientos",
-      "summary": "Quienes habitualmente viajamos a Extremadura tenemos una máxima cuando lo hacemos en tren: sabes cuándo te subes, pero no cuándo llegarás a tu destino. La última semana nos ha cambiado un poco la percepción. Ahora, puedes saber cuándo te subes, no tener muy claro cuándo llegarás a tu destino y,...",
-      "url": "https://www.xataka.com/movilidad/pie-tren-a-extremadura-porque-renfe-vendio-asientos-que-tenia-disponibles",
-      "published": "2026-10-08T16:00:28+00:00",
-      "image": "https://i.blogs.es/288504/renfe_598_fuente_de_piedra_-_pedrera/1024_2000.jpeg",
+      "title": "Los robots no siempre saben que una pared de cristal existe y eso es un problema",
+      "summary": "Hay algo que damos por hecho al caminar por una oficina: aunque podamos ver lo que hay al otro lado de una mampara de cristal, sabemos que no podemos atravesarla. Parece una distinción demasiado sencilla como para tener que explicarla. Sin embargo, cuando quien recorre ese mismo espacio es un...",
+      "url": "https://www.xataka.com/robotica-e-ia/robots-no-siempre-saben-que-pared-cristal-existe-eso-problema",
+      "published": "2026-10-08T20:00:27+00:00",
+      "image": "https://i.blogs.es/d95c99/robot-cristal-portada/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.11,
+      "relevance": 18.43,
       "sources": [
         "Xataka"
       ]
@@ -312,13 +271,41 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Es prácticamente imposible amañar las elecciones mediante el voto por correo en España",
-      "summary": "Todas las citas electorales siguen el mismo ritual, estricto, planificado y con un calendario diseñado al dedillo. Igual que una misa. O un concierto. Se convoca a las urnas, se agria el debate político, se apuran los tiempos en busca de alianzas, pegada de carteles, tarjetas del censo electoral,...",
-      "url": "https://www.xataka.com/magnet/amenaza-fraude-voto-correo-se-ha-convertido-obsesion-29-n-realidad-que-muy-dificil-que-ocurra",
-      "published": "2026-10-08T15:46:26+00:00",
-      "image": "https://i.blogs.es/e2b2b3/photo-1494172961521-33799ddd43a5/1024_2000.jpeg",
+      "title": "Esta gigantesca nube de Marte aparece cada mañana, mide más de 1.000 km y desaparece siempre antes de la tarde",
+      "summary": "En Marte existe una nube que ha llamado durante años la atención de los científicos. Se llama Nube Alargada de Arsia Mons (AMEC) y resulta interesante por muchos motivos. Para empezar, porque se forma diariamente durante los meses de primavera y verano. Cada día se forma al amanecer, crece y se...",
+      "url": "https://www.xataka.com/espacio/esta-nube-marte-aparece-cada-manana-mide-1-000-km-desaparece-antes-tarde-ahora-sabemos-que",
+      "published": "2026-10-08T19:30:26+00:00",
+      "image": "https://i.blogs.es/6e9100/nube-marte/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 18.24,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "El estreno más importante de la semana en Netflix: un thriller de seis episodios con Josh Harnett y la atmósfera de Stephen King",
+      "summary": "Octubre acaba de empezar y ya tenemos decenas de estrenos en las principales plataformas. Hoy nos centramos en Netflix, que este jueves día 8 da la bienvenida a 'Bajo la superficie', una miniserie de seis episodios que mezcla misterio, una criatura marina y drama familiar en una pequeña comunidad...",
+      "url": "https://www.xataka.com/streaming/estreno-importante-semana-netflix-thriller-seis-episodios-josh-harnett-atmosfera-stephen-king",
+      "published": "2026-10-08T19:00:28+00:00",
+      "image": "https://i.blogs.es/a28b0b/below/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 18.06,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Ya son oficiales los nuevos altavoces de JBL, dos opciones diferentes con sonido potente e IA donde la luz tiene mucho protagonismo",
+      "summary": "Habemus nuevos altavoces JBL y ambos, además, ya están disponibles para comprar. Son dos opciones bastante diferentes entre sí, tanto en características como en diseño. El primero de ellos es el JBL Pulse 6, un altavoz más compacto que tiene un diseño que recuerda un poco a un candil antiguo y que...",
+      "url": "https://www.xataka.com/seleccion/oficiales-nuevos-altavoces-jbl-dos-opciones-diferentes-sonido-potente-e-ia-donde-luz-tiene-mucho-protagonismo",
+      "published": "2026-10-08T18:30:27+00:00",
+      "image": "https://i.blogs.es/a44570/nuevos-altavoces-jbl/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 17.87,
       "sources": [
         "Xataka"
       ]
@@ -326,27 +313,41 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Apple anuncia su evento ‘Welcome home’: ¿Nuevos dispositivos para el hogar inteligente a la vista?",
-      "summary": "Tal y como se rumoreaba, dentro de muy pocos días tendremos un nuevo evento de Apple. La firma de Cupertino acaba de lanzar las invitaciones para Welcome home, una presentación especial en la que se espera la introducción del rumoreado hub inteligente, además de actualizaciones para el Apple TV y...",
-      "url": "https://hipertextual.com/apple/apple-evento-welcome-home-octubre-2026/",
-      "published": "2026-10-08T16:22:27+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/apple-welcome-home.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "‘Forza Horizon 6’ tiene fecha de lanzamiento en PS5 y sí, tendrás que esperar hasta 2027",
+      "summary": "Los rumores estaban en lo cierto: Forza Horizon 6 debutará en la PS5 en 2027. A pesar de que Playground Games había prometido que su aclamado juego de carreras se iba a lanzar en la consola de Sony antes de finales de 2026, esto finalmente no será así. Tanto el estudio como la firma japonesa […]...",
+      "url": "https://hipertextual.com/videojuegos/forza-horizon-6-ps5-fecha-lanzamiento-confirmada/",
+      "published": "2026-10-08T19:00:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/07/batch_massive_FH_6_Car_Pack_02_Italian_Passion_ALF_00_SE_048_SP_01_16x9_WM_9d9df31556.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.95,
+      "relevance": 17.75,
       "sources": [
         "Hipertextual"
       ]
     },
     {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Los expertos en ejercicio físico opinan igual: \"Si el objetivo es perder peso, debemos trabajar fuerza y resistencia de una forma secuenciada\"",
+      "summary": "Tener un sistema cardiovascular bien entrenado es fundamental si queremos tener una vejez con una calidad de vida aceptable, pero otro de los objetivos que se tiene a la hora de comenzar a entrenarse sin duda es la pérdida de peso. Y aquí hay un debate muy interesante que nos divide entre aquellas...",
+      "url": "https://www.xataka.com/medicina-y-salud/para-adelgazar-despues-50-cardio-fuerza-experto-senala-que-deberiamos-priorizar",
+      "published": "2026-10-08T18:00:28+00:00",
+      "image": "https://i.blogs.es/baead6/ejercicio-fuerza/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 17.68,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
       "category": "deportes",
       "source": "Marca",
-      "title": "Martín de la Puente: \"En una pista de tenis no hay diferencias: vamos a jugar al tenis\"",
-      "summary": "",
-      "url": "https://www.marca.com/tenis/2026/10/08/martin-puente-pista-tenis-hay-diferencias-jugar-tenis-video.html",
-      "published": "2026-10-08T16:50:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/feq7U1gnwyDAzYTAV.jpeg",
+      "title": "Los focos en Inglaterra, para Haaland",
+      "summary": "Así vienen los periódicos deportivos de este viernes 9 de octubre de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/10/09/portadas-dia.html",
+      "published": "2026-10-08T23:19:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac8246036799.jpeg",
       "coverage": 1,
-      "relevance": 20.43,
+      "relevance": 19.68,
       "sources": [
         "Marca"
       ]
@@ -354,13 +355,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Gabriel Sabatini: \"Hoy en día el tenis es mucho más veloz; está cambiando todo\"",
-      "summary": "",
-      "url": "https://www.marca.com/tenis/2026/10/08/gabriel-sabatini-hoy-dia-tenis-veloz-cambian-video.html",
-      "published": "2026-10-08T16:47:20+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/feq5M1gnwyFUKOq5H.jpeg",
+      "title": "Pionero Alcorcón: invita a todos los vecinos de la ciudad contra el Ibiza",
+      "summary": "El club pone en marcha el proyecto ‘Alcorcón Para Todos’",
+      "url": "https://www.marca.com/futbol/primera-rfef/2026/10/09/iniciativa-pionera-alcorcon-invita-todos-vecinos-ciudad-duelo-ibiza.html",
+      "published": "2026-10-08T22:36:28+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/09/6ac81a86279dc.jpeg",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 19.41,
       "sources": [
         "Marca"
       ]
@@ -368,13 +369,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Egan Bernal frena para volver a encontrarse: “No se trata de seguir por seguir”",
-      "summary": "El colombiano confirma que tiene contrato hasta finales de 2029 y que su intención es comenzar la próxima temporada, aunque admite que necesita recuperar tranquilidad, motivación y fortaleza mental",
-      "url": "https://www.marca.com/ciclismo/2026/10/08/egan-bernal-frena-volver-encontrarse-trata-seguir-seguir.html",
-      "published": "2026-10-08T16:43:13+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac6c361505fd.jpeg",
+      "title": "El Valencia sólo sabe ganar en la Euroliga",
+      "summary": "Derrota al Hapoel para igualar su mejor arranque histórico en la competición",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/08/valencia-solo-ganar-euroliga.html",
+      "published": "2026-10-08T21:47:19+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac80c513d8b1.jpeg",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 19.1,
       "sources": [
         "Marca"
       ]
@@ -382,13 +383,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Max Dowman lleva al equipo en la sangre: la promesa del Arsenal tiene solo 16 años",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/2026/10/08/max-dowman-lleva-equipo-sangre-promesa-arsenal-16-anos-video.html",
-      "published": "2026-10-08T16:34:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/ffAfE1gnyFhcWDrKx.jpeg",
+      "title": "¿Te acuerdas?",
+      "summary": "Te recordamos todo lo que pasó antes del gran parón de selecciones",
+      "url": "https://www.marca.com/futbol/primera-division/2026/10/08/te-acuerdas-laliga.html",
+      "published": "2026-10-08T21:33:56+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/07/6ac6957d866d6.jpeg",
       "coverage": 1,
-      "relevance": 20.33,
+      "relevance": 19.01,
       "sources": [
         "Marca"
       ]
@@ -396,13 +397,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Del Castillo sufre una lesión leve en el aductor del muslo izquierdo",
-      "summary": "No hay un plazo para su regreso a los entrenamientos",
-      "url": "https://www.marca.com/futbol/osasuna/2026/10/08/castillo-sufre-lesion-leve-aductor-muslo-izquierdo.html",
-      "published": "2026-10-08T16:34:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7c5e219cca.jpeg",
+      "title": "El Madrid por fin tiene la primera",
+      "summary": "Los blancos se estrenan en la Euroliga ante el Partizan con un gran juego hasta el descanso, una segunda mitad en la que apretaron los dientes y con un Maledon de nuevo decisivo",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/08/real-madrid-primera.html",
+      "published": "2026-10-08T21:08:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac8078a8b981.r_d.1380-202-0.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 18.85,
       "sources": [
         "Marca"
       ]
@@ -410,13 +411,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "La picante confesión de Camilo Cifuentes sobre su infidelidad a Westcol y Blessd: \"La cagué\"",
-      "summary": "El influencer contó en directo su error con su ex pareja y cómo se enamoró de La Mijita",
-      "url": "https://www.marca.com/co/2026/10/08/picante-confesion-camilo-cifuentes-sobre-infidelidad-westcol-blessd-cague.html",
-      "published": "2026-10-08T16:15:50+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7bee0f19cf.jpeg",
+      "title": "Messi recupera su foto más icónica para volver a despedirse",
+      "summary": "El argentino simuló su celebración en el Santiago Bernabéu, pero esta vez con la albiceleste",
+      "url": "https://www.marca.com/futbol/argentina/2026/10/08/messi-vuelve-despedirse-nueva-version-foto-mas-iconica.html",
+      "published": "2026-10-08T20:31:35+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7fd718a617.jpeg",
       "coverage": 1,
-      "relevance": 20.21,
+      "relevance": 18.62,
       "sources": [
         "Marca"
       ]
@@ -424,13 +425,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"¿Más carreras de noche?... No\"",
-      "summary": "No le importa correr de noche, \"porque no hay mucha diferencia\", pero hay algo imbatible en las diurnas a su juicio",
-      "url": "https://www.marca.com/motor/formula1/gp-singapur/2026/10/08/alonso-le-gusta-carreras-nocturnas.html",
-      "published": "2026-10-08T16:11:38+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7be017a53f.r_d.449-522-0.jpeg",
+      "title": "Joselu ya tiene nuevo equipo de forma oficial",
+      "summary": "Al Sailiya ha oficializado su fichaje",
+      "url": "https://www.marca.com/futbol/2026/10/08/joselu-vuelve-ponerse-marcha.html",
+      "published": "2026-10-08T19:40:07+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/09/02/6a9805215f1a8.jpeg",
       "coverage": 1,
-      "relevance": 20.18,
+      "relevance": 18.3,
       "sources": [
         "Marca"
       ]
@@ -438,13 +439,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Chimaev calienta la división y 'llama' a Dana White",
-      "summary": "El checheno, ex campeón del peso medio, lanzó un tuit en sus redes sociales",
-      "url": "https://www.marca.com/combates-ufc/2026/10/08/chimaev-calienta-division-llama-dana-white.html",
-      "published": "2026-10-08T16:10:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/08/6ac7bf000fb89.jpeg",
+      "title": "El médico de cabecera de Maradona, acusado de homicidio: piden 12 años de prisión",
+      "summary": "Leopoldo Luque es acusado de homicidio",
+      "url": "https://www.marca.com/futbol/2026/10/08/fiscalia-solicita-doce-anos-prision-medico-cabecera-maradona.html",
+      "published": "2026-10-08T19:16:06+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/09/19/68ccc3132c13f.jpeg",
       "coverage": 1,
-      "relevance": 20.18,
+      "relevance": 18.15,
       "sources": [
         "Marca"
       ]
@@ -458,7 +459,7 @@
       "published": "2026-10-08T16:38:55+00:00",
       "image": "https://s.france24.com/media/display/f80c31f6-c330-11f1-bfa6-4b195755b8ed/w:1024/p:16x9/ES-20261008-081001-081417-CS.jpg",
       "coverage": 2,
-      "relevance": 30.65,
+      "relevance": 27.47,
       "sources": [
         "France 24",
         "Google Noticias"
@@ -467,28 +468,27 @@
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Los israelíes que exigen que se rindan cuentas por los errores del 7 de octubre, tres años después de los ataques de Hamás",
-      "summary": "El primer ministro israelí, Benjamin Netanyahu, se niega a asumir cualquier responsabilidad personal por lo sucedido o a ordenar una investigación estatal.",
-      "url": "https://www.bbc.com/mundo/articles/cq3djxvd14zyo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-08T03:19:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/80cb/live/9b494cf0-c25f-11f1-babe-4199b0e7ccea.jpg",
-      "coverage": 2,
-      "relevance": 26.56,
+      "title": "El Pentágono trasmitirá en directo la ejecución de Nidal Hasan, el primer militar que será fusilado en EE.UU. desde la Segunda Guerra Mundial",
+      "summary": "\"Nos aseguraremos de que la gente pueda verlo\", dijo el secretario de Defensa de Estados Unidos, Pete Hegseth.",
+      "url": "https://www.bbc.com/mundo/articles/c6x29v4zxexro?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-09T00:02:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/42a5/live/f7fba8c0-c36e-11f1-a36e-931ff002f42a.jpg",
+      "coverage": 1,
+      "relevance": 21.15,
       "sources": [
-        "BBC Mundo",
-        "Google Noticias"
+        "BBC Mundo"
       ]
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Peste pulmonar en Rusia: ¿riesgo real o alerta prematura?",
-      "summary": "La muerte de una mujer de 28 años en la región rusa de Siberia encendió las alarmas ante la posibilidad de un caso de peste pulmonar. Mientras la OMS asegura que no tiene una \"visión completa\" sobre las sospechas de fuga del patógeno, las autoridades rusas han realizado una investigación...",
-      "url": "https://www.france24.com/es/video/20261008-peste-pulmonar-en-rusia-riesgo-real-o-alerta-prematura",
-      "published": "2026-10-08T15:26:12+00:00",
-      "image": "https://s.france24.com/media/display/9f07e974-c32b-11f1-934e-c55799ef8309/w:1024/p:16x9/ES-20261008-081453-082410-CS.jpg",
+      "title": "Con avances de las tropas oficialistas, se intensifica la guerra en Yemen",
+      "summary": "El Gobierno yemení busca reconquistar los territorios perdidos a manos de los rebeldes hutíes. Con nuevos avances de las tropas oficialistas y ataques de los rebeldes, se intensifica la guerra. Este 8 de octubre, los hutíes reivindicaron un ataque contra Arabia Saudita, que apoya al Gobierno...",
+      "url": "https://www.france24.com/es/video/20261008-con-avances-de-las-tropas-oficialistas-se-intensifica-la-guerra-en-yemen",
+      "published": "2026-10-08T20:54:51+00:00",
+      "image": "https://s.france24.com/media/display/bd431fd4-c359-11f1-9b38-4b195755b8ed/w:1024/p:16x9/capture-4442335956ac801d1aa6982-74108889.jpg",
       "coverage": 1,
-      "relevance": 20.2,
+      "relevance": 19.07,
       "sources": [
         "France 24"
       ]
@@ -496,13 +496,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Trump afronta las midterms con una brecha de entusiasmo entre sus propios votantes",
-      "summary": "Los votantes que apoyaron a Kamala Harris en 2024 muestran hoy más entusiasmo por participar en las midterms que quienes respaldaron a Donald Trump, según una encuesta de Reuters/Ipsos. El dato supone una señal de alerta para los republicanos a menos de un mes de unos comicios en los que se...",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261008-trump-afronta-las-midterms-con-una-brecha-de-entusiasmo-entre-sus-propios-votantes",
-      "published": "2026-10-08T13:49:46+00:00",
-      "image": "https://s.france24.com/media/display/f637b458-c269-11f1-a77a-f50f6d982dc3/w:1024/p:16x9/AP26277064284536.jpg",
+      "title": "Hutíes de Yemen atacan aeropuertos de Arabia Saudita",
+      "summary": "El Aeropuerto Internacional Rey Khalid suspendió operaciones este 8 de octubre tras nuevos ataques reivindicados por los hutíes de Yemen contra Arabia Saudita. En respuesta, Riad atacó centros de mando, sistemas y depósitos de misiles y armas en distintas ciudades. Los ataques reavivan los temores...",
+      "url": "https://www.france24.com/es/video/20261008-hut%C3%ADes-de-yemen-atacan-aeropuertos-de-arabia-saudita",
+      "published": "2026-10-08T20:24:36+00:00",
+      "image": "https://s.france24.com/media/display/c8910638-c351-11f1-af61-f50f6d982dc3/w:1024/p:16x9/ES-20261008-111138-111343-CS.jpg",
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 18.88,
       "sources": [
         "France 24"
       ]
@@ -510,13 +510,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Judíos etíopes llevan años esperando una visa para llegar a Israel",
-      "summary": "Una de las comunidades judías más antiguas del mundo reside en Etiopía. Según relatos religiosos, sus orígenes se remontan al año 950 a. C. y sus miembros serían descendientes de la reina de Saba y del rey Salomón. Conocida como Beta Israel, la comunidad fue perseguida por el régimen comunista que...",
-      "url": "https://www.france24.com/es/programas/en-foco/20261008-jud%C3%ADos-et%C3%ADopes-llevan-a%C3%B1os-esperando-una-visa-para-llegar-a-israel",
-      "published": "2026-10-08T13:00:29+00:00",
-      "image": "https://s.france24.com/media/display/5d96f05e-bc1c-11f1-8692-11fa9f8a3b4f/w:1024/p:16x9/PASDEREF-FR-Ethiopie-Focus-Juifs-180926.jpg",
+      "title": "¿Por qué la guerra en Medio Oriente sigue disparando la inflación en países de América Latina?",
+      "summary": "En México, la variación del Índice de Precios al Consumidor se aceleró por tercer mes consecutivo en septiembre hasta el 3,5%; en Chile saltó hasta el 4,1% anual, impulsada por el transporte; y Colombia reportó un nuevo ascenso, hasta el 6,3% interanual. Todos coinciden en que los picos de precios...",
+      "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261008-por-qu%C3%A9-la-guerra-en-medio-oriente-sigue-disparando-la-inflaci%C3%B3n-en-pa%C3%ADses-de-am%C3%A9rica-latina",
+      "published": "2026-10-08T20:07:34+00:00",
+      "image": "https://s.france24.com/media/display/8db80898-c33a-11f1-938f-27c2853ad5a5/w:1024/p:16x9/2ecde146766bb66fced1be8af2bb85db962fc7a8.jpg",
       "coverage": 1,
-      "relevance": 19.29,
+      "relevance": 18.77,
       "sources": [
         "France 24"
       ]
@@ -524,41 +524,41 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Parir en medio de la violencia: el peligro invisible que enfrentan las mujeres en Cisjordania",
-      "summary": "Los controles militares, las dificultades para acceder a centros médicos y la violencia de los colonos están marcando los embarazos de algunas mujeres en la Cisjordania ocupada. Retrasos para atravesar un checkpoint o el impacto de un ataque pueden impedir que una embarazada reciba atención médica...",
-      "url": "https://www.france24.com/es/programas/corresponsales/20261008-parir-en-medio-de-la-violencia-el-peligro-invisible-que-enfrentan-las-mujeres-en-cisjordania",
-      "published": "2026-10-08T12:40:27+00:00",
-      "image": "https://s.france24.com/media/display/324493a0-c2bd-11f1-836c-ef6152f87623/w:1024/p:16x9/Corresponsales-9.jpeg",
+      "title": "¿Hasta después de la muerte? El debate sobre la extracción de semen post mortem en Israel",
+      "summary": "En Israel, la extracción de semen post mortem se ha convertido en política de Estado a raíz del ataque de Hamás, del 7 de octubre. Antes era una práctica casi anecdótica y requería autorización de un juez; pero, bajo estado de emergencia, solo se necesita permiso para su uso. En tres años, 21...",
+      "url": "https://www.france24.com/es/video/20261008-hasta-despu%C3%A9s-de-la-muerte-el-debate-sobre-la-extracci%C3%B3n-de-semen-post-mortem-en-israel",
+      "published": "2026-10-08T19:56:31+00:00",
+      "image": "https://s.france24.com/media/display/e1afc6b8-c347-11f1-bfbd-f50f6d982dc3/w:1024/p:16x9/PORTADA-JANIRA-OK.png",
       "coverage": 1,
-      "relevance": 19.16,
+      "relevance": 18.71,
       "sources": [
         "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Muere Margaret Hamilton, la científica que desarrolló el software que fue clave para que la misión Apolo 11 llegara a la Luna",
+      "summary": "Hamilton lideró el desarrollo del software para la primera misión de alunizaje exitosa de la NASA y fue galardonada con la Medalla Presidencial de la Libertad.",
+      "url": "https://www.bbc.com/mundo/articles/ckj0lrd9dn19o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-10-08T17:05:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/edc3/live/6ef2dd00-c2e7-11f1-a64c-550be9e3c66b.jpg",
+      "coverage": 1,
+      "relevance": 18.54,
+      "sources": [
+        "BBC Mundo"
       ]
     },
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "El petróleo volvió a US$ 105 tras el bombardeo a un buque cerca de Ormuz y la posibilidad que Trump ataque otra vez a Irán",
+      "title": "Ataque a buque de bandera panameña en el Oriente Medio deja 12 marinos heridos, confirma AMP",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRFFlTERDTVl4Z2dkb1pkOTZMMDBoRTFNWU83TzgweVJOVzJMaE5GOEthWThIM3dZLVN3elk3UUFWMXp1TkxCY2RXdHd1MTB4NEpCak9qR0FMbXhMUkxrSDhSNE5nRlhmRkhsTm10SU0wTk1YcWpldVpoUTlRYXF1c19rSkUzUXFsMURBMGxyaUowcDctRHlrZlF3?oc=5",
-      "published": "2026-10-08T15:27:32+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWXFIUHBUZWl5eWhLalBDbXNQcGVaQ0NEM28yOTZEbUtiQ0xQWW1LaXhQYU5RcmFFd3cxWEgwMHJuNkpsOFFnNk5BbWZWY0RTeklpRFBYdTRNVGp4NU9SVnZ3blgtNGZoTmhWZ2dwVHNJd25Cd0tVS2dDX0pZYlZ0a1FIdTFfM3duUHF3Ylh30gGTAUFVX3lxTE5LSVczeXI0cjJIN2NXdlpqYkFFSHRRSTN3SnRCSXNvY2UydWVPaGdQU2V1dXhiN1hUbDBKVmczNDdSZTJIV01MYk1NdktGaXZ5WksxZERxRkt5MU1UaGxFYUdoRHUtTDlBbFdzaGt1QkRpUGRzNk5VT3dYZ3Yzd3JHZnIwemNlTnNpbDhGUXZzSDd3WQ?oc=5",
+      "published": "2026-10-09T00:06:08+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.41,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Cinco muertos en bombardeos israelíes a Gaza en aniversario del 7 de octubre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVFpMVFJGZTE5RzFGeTBiYnZFRkpZbEJ1SVE1dXVLVldBa3R2UUdWTFFfMUZtQk5icGdtVUU3SVZpa2hPM1pRM0szLUlUbjU2Vi1nZnN3QzZRNWlQZE5UUHRoZ1RNS2ctY3d3eVl3VVVMcm5ad0Rfak5MNkgwdnRNSDI3ZG02THU5Z1FVYW1yMDhhT3VxekRJNzlrYVNTdkVzbmpTT1dxYW0zUVpLWGhxT29sS3PSAbQBQVVfeXFMTXJOU3ZlejNGaUowQnhDeGNpMC1DTzZvNjF0b2pFTWNIMGxFcTVqZC1CajFQQm5pdWdDWEEyRDI5N3Y4VEUxV3NQd2J5emxTMm00VlhOZ3RsYWJMSU1pbENxMjJ2SnZPRW1admNOYmdNZWhYQ2laa1R0WUZ1bGZOZGVCOURNQU5uOGpZYTRoaF81UmVWNUVUU0JmQ1EzdFZtSE01OFdkaHVreUdUZVZVamRaYkYy?oc=5",
-      "published": "2026-10-08T15:23:54+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.38,
+      "relevance": 18.47,
       "sources": [
         "Google Noticias"
       ]
@@ -572,22 +572,7 @@
       "published": "2026-10-08T06:15:35+00:00",
       "image": null,
       "coverage": 2,
-      "relevance": 27.36,
-      "sources": [
-        "El País Uy",
-        "Google Noticias UY"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "La solicitud de Peñarol para prestar el Campeón del Siglo en el partido con MC Torque por Copa Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObGZCQk95cGg2N1dMbnlkZWVJb1RzcFN3OTd0OEJScXhKMkJta2RkWUJodERSUVM4bFktT1NuWnBfQU1sZDVHbzV4UjVaSDJZRVNqWE9jOW1mUm1oai1tV1VzdTNwRF8ybzJGYmpOSXpZS2p6M2p3dFRuY3ZEOHRDWXFVUS1xMEowbndTV2c3LVdhQVdDUDRlZUlZNXNrU2dReHdPVEN1M2hibl8wekRtVC15Nk52dzFDNFJ4UlUtcFVKMWx5aW1RcmMzRFV1ZjJWVTBORE9YUXdxaDQ?oc=5",
-      "published": "2026-10-07T16:28:54+00:00",
-      "image": null,
-      "coverage": 2,
-      "relevance": 22.4,
+      "relevance": 24.17,
       "sources": [
         "El País Uy",
         "Google Noticias UY"
@@ -596,13 +581,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Un violento temporal con vientos de más de 120 km/h provocó graves destrozos en Salto",
-      "summary": "La tormenta volvió a poner a prueba la capacidad de respuesta de los equipos de emergencia, con daños en viviendas, tendido eléctrico y zonas productivas.Una nueva tormenta, con características similares a la registrada el 18 de julio, volvió a provocar daños en Salto: hubo voladuras de techos,...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/un-violento-temporal-con-vientos-de-mas-de-120-kmh-provoco-graves-destrozos-en-salto/",
-      "published": "2026-10-08T16:58:53+00:00",
+      "title": "Anuncios en TikTok ofrecen préstamos a personas en el Clearing y tarjetas de crédito con la cédula, pero no son prestamistas",
+      "summary": "Publicidades que circulan en la red social prometen créditos de hasta 60.000 pesos y utilizan imágenes que imitan productos financieros.En las últimas semanas, TikTok se vio inundado con anuncios que ofrecen préstamos personales y tarjetas de crédito con pocos requisitos, incluso a personas que...",
+      "url": "https://ladiaria.com.uy/verifica/articulo/2026/10/anuncios-en-tiktok-ofrecen-prestamos-a-personas-en-el-clearing-y-tarjetas-de-credito-con-la-cedula-pero-no-son-prestamistas/",
+      "published": "2026-10-09T00:59:40+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.88,
+      "relevance": 19.7,
       "sources": [
         "La Diaria"
       ]
@@ -610,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Chediak: la sanción a Gómez estuvo “más cerca del techo que del piso” y debería “apartarse del ejercicio efectivo de la banca”",
-      "summary": "El integrante de la Comisión de Ética del PN y extitular de la Senaclaft señaló que “parece excesivo poder contar con nueve asesores por legislador departamental”El Partido Nacional (PN) suspendió por dos años al edil Gonzalo Gómez como coletazo de la condena de su asesor Pablo Leiva en el marco de...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/chediak-la-sancion-a-gomez-estuvo-mas-cerca-del-techo-que-del-piso-y-deberia-apartarse-del-ejercicio-efectivo-de-la-banca/",
-      "published": "2026-10-08T16:34:08+00:00",
+      "title": "República Ganadera: prorrogaron cierre de fronteras para Mussio y Jasidakis",
+      "summary": "El abogado Juan Pablo Decia cuestionó la falta de avances en la causa.El juez de Crimen Organizado de 1° turno, Alejandro Asteggiante, dispuso la prórroga del cierre de frontera y retención de pasaporte para los socios de República Ganadera, Nicolás Jasidakis y Andrés Musio. Tal como...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/republica-ganadera-prorrogaron-cierre-de-fronteras-para-mussio-y-jasidakis/",
+      "published": "2026-10-09T00:33:52+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.72,
+      "relevance": 19.54,
       "sources": [
         "La Diaria"
       ]
@@ -624,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Diputado del FA destacó los convenios para concretar obras que las “organizaciones difícilmente podrían afrontar por sí solas”",
-      "summary": "El diputado frenteamplista Juan Gorosterrazú valoró las gestiones de la actual administración para impulsar iniciativas que estaban detenidas y destacó el papel de estos convenios en el fortalecimiento de instituciones.En diálogo con la diaria, el diputado frenteamplista por Paysandú Juan...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/diputado-del-fa-destaco-los-convenios-para-concretar-obras-que-las-organizaciones-dificilmente-podrian-afrontar-por-si-solas/",
-      "published": "2026-10-08T14:59:09+00:00",
+      "title": "Las dos primeras encuestas para la segunda vuelta de las elecciones brasileñas le dan ventaja a Flávio Bolsonaro sobre Lula",
+      "summary": "El escritor Augusto Cury, quien salió tercero en las elecciones del domingo, manifestó que apoyará la candidatura del ultraderechista para el balotaje, que sigue sumando adhesiones extrapartidarias.Este jueves se conocieron las dos primeras encuestas realizadas en Brasil después de las elecciones...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/las-dos-primeras-encuestas-para-la-segunda-vuelta-de-las-elecciones-brasilenas-le-dan-ventaja-a-flavio-bolsonaro-sobre-lula/",
+      "published": "2026-10-09T00:25:54+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.13,
+      "relevance": 19.49,
       "sources": [
         "La Diaria"
       ]
@@ -638,41 +623,55 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La B: fecha clave entre viernes y domingo",
-      "summary": "Miramar Misiones y Cerrito juegan una final por el descenso; el líder, Oriental de La Paz, cierra la fecha frente a Uruguay Montevideo en choque de extremos.Entre viernes y domingo se jugarán los siete partidos de la segunda división y en todos hay puntos importantes en disputa. Quedan cinco fechas...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/la-b-fecha-clave-entre-viernes-y-domingo/",
-      "published": "2026-10-08T14:27:26+00:00",
+      "title": "Nuevo director de Servicios Públicos de la Intendencia de Salto reconoce que debe mejorar la gestión",
+      "summary": "Carlos Silva tiene a su cargo espacios verdes, alumbrado, talleres y cementerios; anunció que trabajará en una planificación de tareas para mejorar los servicios.Carlos Silva asumió el 1º de octubre la Dirección de Gestión de Servicios Públicos de la Intendencia de Salto, un área que integra la...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/nuevo-director-de-servicios-publicos-de-la-intendencia-de-salto-reconoce-que-debe-mejorar-la-gestion/",
+      "published": "2026-10-09T00:25:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.93,
+      "relevance": 19.49,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El Observador",
-      "title": "Destrozos en el norte del país por el temporal: viento, tormentas, caídas de árboles y otros daños",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNnlReGUxVkdiYkRCWVVKXzg0U3IyYVd1TnlyNkZBblh2d2I3bWctOGJWYnlsZ3F5dDUycjB0YTNyX1pwcUd6dm90TGd5VDN1MnF6andqWVZfbUxfLXpnVzAzSU5JZUhmd0U5am5CdzNrdFJrTUMwanA4XzNvY2ZsUDVLaFZnbHQ4U1dCaUtVaHY3U2JYeXliS0ktRHAtSmJWRGpIbHlXeFpFN2lDVmhNdXMtdTh0ZWZwb2w5VjlJWGhMNnhTdmNxR0lDRjVBRDJt0gHWAUFVX3lxTE1HdWwweHlGME83RXFRTjlVeFNVeEE1bllHaW1oaW9aMzUwUlBlaWx6Y3RHcGUzb3UyaDU1NEl1OE53dzY5eEhOMm5VUXBGaEtfSmJyejJDVE5jcUNJcll6b1hOU1ZkSW9DUFpQQUVPN2UySjkzdkowaF9obTZRM0Y0RFhJRGxSMGtLb2VySWlPcl9jVXhCY3dOSUNsS0o5LWdJNlRRS0tRWkNoZWhseEpYellzTFllM3hDOVFmcFd5MXBVMFZlR29yQWpuMVF3d2lqbWFhT2c?oc=5",
-      "published": "2026-10-08T13:46:00+00:00",
+      "source": "La Diaria",
+      "title": "Un policía y otras tres personas fueron detenidas por explotación sexual de menores vinculadas a centros del INAU",
+      "summary": "Según informó la institución, se desplegaron “los mecanismos necesarios para que las víctimas estuvieran resguardadas”.Cuatro personas, entre ellas un policía, fueron detenidas como sospechosas de participar en un esquema de explotación de menores de edad vinculadas a centros del Instituto del Niño...",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/un-policia-y-otras-tres-personas-fueron-detenidas-por-explotacion-sexual-de-menores-vinculadas-a-centros-del-inau/",
+      "published": "2026-10-09T00:14:50+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.37,
+      "relevance": 19.42,
       "sources": [
-        "El Observador"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Liga Uruguaya: el inicio se postergó una semana",
-      "summary": "Un conflicto entre el gremio de jueces y la Federación Uruguaya de Básquetbol llevó a que los clubes decidieran comenzar la competencia el 19 de octubre.El inicio de la Liga Uruguaya de Básquetbol 2026-2027 estaba pactado para el 12 de octubre, pero, en Asamblea General, los clubes decidieron...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/liga-uruguaya-el-inicio-se-postergo-una-semana/",
-      "published": "2026-10-08T12:49:28+00:00",
+      "title": "Vicepresidente de El Salvador: en Uruguay “hay la suficiente fortaleza institucional para manejar el problema” de la seguridad",
+      "summary": "Félix Ulloa se reunió con varios dirigentes de la oposición; Ojeda sostuvo que “hay mucho para aprender de la experiencia salvadoreña”.Félix Ulloa, vicepresidente de El Salvador, mantuvo varias reuniones con dirigentes políticos en la visita que hizo a Uruguay, además de su encuentro en la Torre...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/vicepresidente-de-el-salvador-en-uruguay-hay-la-suficiente-fortaleza-institucional-para-manejar-el-problema-de-la-seguridad/",
+      "published": "2026-10-09T00:06:07+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.32,
+      "relevance": 19.37,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Paysandú recibirá a partir de este viernes a 170 ediles de todo el país para debatir temas departamentales y nacionales",
+      "summary": "La Junta Departamental será la sede de las actividades del Congreso Nacional de Ediles, que se desarrollará entre el viernes 9 y el domingo 11 de octubre.Paysandú será sede este fin de semana de una nueva instancia de trabajo del Congreso Nacional de Ediles, que reunirá a unos 170 representantes y...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/paysandu-recibira-a-partir-de-este-viernes-a-170-ediles-de-todo-el-pais-para-debatir-temas-departamentales-y-nacionales/",
+      "published": "2026-10-09T00:04:35+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.36,
       "sources": [
         "La Diaria"
       ]
