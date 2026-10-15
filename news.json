@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-15T19:31:27.696325+00:00",
+  "updated_at": "2026-10-15T23:57:16.671445+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar hoy en Colombia cerró a la baja, mientras el petróleo retrocedió en los mercados",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2FDd0hZOFJOc2JIUXJQeDZJYU9SZFY3akdaWEdQbEVLdy0yTUhkWkdPamVPWWN2YzAyRlA5ZTR6MVp4RC1xWjJKeGMzSW1OWGl6cm5vYUFpbi0wbHZmSWdPamRNS0NXM2RKeGRkSjZDcDdpeVRGWS1zWTlwNFRGZVY5cnFJcVNqMXRLY05qMVpnQzNIQ3RTQnZSZEhJa05kYzU5TmFaZUpkU3lrU2R4V29NRklYY0piRF8wdS1TM0xESWdTV1lCajFpR3RyNkFMbEdUd05LZGtlQQ?oc=5",
+      "published": "2026-10-15T23:46:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.93,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +24,7 @@
       "published": "2026-10-15T16:33:34+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/TGZXJ3O5EHIHWD6KOIQMLU2HZA.jpg?auth=6b5f7c7f46b80beb666d6d7793b73bd2299a2019ea3f32e4c4509d0a8d0bcb71",
       "coverage": 1,
-      "relevance": 20.29,
+      "relevance": 18.63,
       "sources": [
         "El País Eco"
       ]
@@ -24,7 +38,7 @@
       "published": "2026-10-15T16:03:33+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/43DSZWKPJVKZXLN6PNIOZBAJ4M.jpg?auth=c2571b6fc39e3cb8e553bb7a012ddd8ac87e5ac84072d7cc9418b3e202642299",
       "coverage": 1,
-      "relevance": 20.1,
+      "relevance": 18.44,
       "sources": [
         "El País Eco"
       ]
@@ -38,9 +52,51 @@
       "published": "2026-10-15T15:56:28+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/JYWPLT7JEFCPTIO7MMG76JBLIY.png?auth=b0697cfb19a85a0299eafd70b315b3cbc804789da9810268579e08bff570a408",
       "coverage": 1,
-      "relevance": 20.06,
+      "relevance": 18.39,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar cierra en S/ 3,42 ante fortaleza comercial y crecimiento económico del Perú",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNb1JJbGVTUzhZOGtKVkVPNnI4YklWTzM2bDc0eUR1cE9aTXUzR2lyaVpKVU9GOU91MHBXaHUwUHZnc2d6QnpZOHBaYUY4aGJEZHVkdG1zeVloY0xnWnpBX3VkOEdGYUptcklwcWxubjIwSEhsdEZWbEotOTJXZGQwd1BCT3h4LUFxZWhUUG5MT0MyTHZ6bTBaelp1ZExITDdPLTg2Tnl3dFZLdmY0ZFd4cU1n?oc=5",
+      "published": "2026-10-15T21:20:48+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.02,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Peso mexicano revierte su caída frente al dólar pese al alza de la inflación de Estados Unidos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGtpZEdKbzc3dnI4WUlFOW1OeXRxbnE3c1JMVnlpdnRoaTdqMS1objJTSkRVYmVKLWFaeXQxbEhaQUdObHJxQ245ZkxyeEFyYUY4RGMxSmJFWDN2bWxjdF84VGdsOXVibV9pdWJXN1gwMEZoVkFvVXVuazRVdnNMYkZMUDdXUQ?oc=5",
+      "published": "2026-10-15T21:11:33+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.96,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Dólar Mayorista Estable a $1.513, Alejado del Techo de Bandas Cambiarias",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFlBUm1wYWk2d1RnVzVoODVGZzRDX0VraG1SY0xYbDhsWXcwZXV0YUlIeVl4dHZGSVFFSXlZRDloNlQtbFFDOXp4dzhsM3F0ZWpPREROV2gxaC11STJreG9WN0pEdTlQeGFRbWlwX0VycEhVNGl4TmhzT2dpUFFERHNYcGNvUVpqRXFOdzExRHJ5U2VfaWRlZXVLUFNlb0d0UkFobENZQUxaZw?oc=5",
+      "published": "2026-10-15T20:56:21+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -52,65 +108,51 @@
       "published": "2026-10-15T19:03:47+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.83,
+      "relevance": 17.17,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Funcas ve señales de ralentización en la economía española por la persistencia de la inflación",
-      "summary": "El servicio de estudios matiene que el PIB crecerá un 2,5% este año, pero rebaja su previsión hasta el 1,8% en 2027",
-      "url": "https://elpais.com/economia/2026-10-15/funcas-ve-senales-de-ralentizacion-en-la-economia-espanola-por-la-persistencia-de-la-inflacion.html",
-      "published": "2026-10-15T12:07:42+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/VMGEWAEVSNF2JLD7OW2DQFLCU4.jpg?auth=f598d80020eb5c4c560f51af579c73404627f806d42809f50b221fc7d8735045",
-      "coverage": 1,
-      "relevance": 18.63,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Cuba: El dólar alcanza los 800 pesos cubanos en el mercado informal",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMW1tZjdGaEJlZ2VtNEI4SDNXT1dJNmRIMWxmeG51UDJWRFNFNW1la1RZQTdoMnJqeHBQQXBrX3RMWU45TEFydFJqV2pMVExmeHFORldYV1JOR3VNU3pnRC1yNklBVDJpallERWpJN1kxRFRpTm9HWkhkZDdlbEZpZ241VWVUSEXSAYwBQVVfeXFMUFE5ZEFYVE9WSDBlNzMzX2RvblhaZnlkOVdoUUFWaXVoUUJRb0xXOFZjV0tLYkMzS2hGbVZRTERRVWlfVkJpZTBjbjNLMU5nNWdhaFQteEd6OVYyV0QxVFJlT2JteW9jVGRuV0ZtN0M4ajA4T05tUWxsOFMwRTh2V0JHRXYwMVM2RWVEM1Y?oc=5",
-      "published": "2026-10-15T18:26:02+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Rutina para parejas que buscan crecer juntos cada día",
+      "summary": "¿Alguna vez has sentido que, al final del día, no queda tiempo para conectar genuinamente con tu pareja? La comunicación honesta y el acompañamiento mutuo son las bases de una relación sólida. Basta con dedicar unos cuantos minutos antes de ir a la cama para estar sin distracciones con el otro. El...",
+      "url": "https://es.aleteia.org/2026/10/16/rutina-para-parejas-que-buscan-crecer-juntos-cada-dia/",
+      "published": "2026-10-15T22:22:55+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.59,
+      "relevance": 19.61,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Riesgo país en alza, dólar y acciones: así opera el mercado HOY jueves 15 de octubre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNOTRGWkxPMUdndGxaVkRIX1RMcEZDRXVSRmFNMHNOVWxIZHR0X2NBXy1lTVBfVUVxRnUxa2l4ZnQ5VWNxZG1GMHV0TUYwSkZMaWR1dTk1V1F6QnJscUU5RnUwZ0VEd0FRbkE3XzBZYnlNeFVkYXhlNk1Nd25FTzVob0hzOWRyX2s0UWloVm5wY0VjZW55S1RoOXM1UTQxLW9MNEtXTnFVSnBRdGZoUXNZZHNEQzNxUS05ci1aY1Y2VTkyMUYzNXZmUHUtTFVkWVozRmxBTGRiOWViZGhrcEh4UlZ0c2pzd9IB-gFBVV95cUxQcXBkZ3RnNDJ2VjF2ZFJ6bjZCVTlSVjhWMG9sbXZkNTR1eG5oaXZOMlpLSVF0dEMtZDZ6bDRlSmlValg4WkgydVBSV2JobVFhblVoVTAyLTZSd0NVaXR3azdnLWpBYi1uaGhWRjR5bWZFZUhwZlBfV3dmNnJGS3J2ZHg2NHpDRURfNUlRQXFIUTFKdnZPWlZwRHNZaG9xX3dIcl9abEdicXgwR01MYkRHOWdTT2FsTTRsQXNjb0drWXc0Tll0YjdvTjBneUw2cFUzWEVlakRzVENWdFoxOVFKNnB3T3RGcUVwZTAyM1oyTnRDbGU1MV9xUl9R?oc=5",
-      "published": "2026-10-15T16:06:08+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Cuál es la mejor manera de expresar tu amor por Dios?",
+      "summary": "Necesitaríamos ser excelentes poetas para escribir de manera detallada todos los sentimientos que embargan nuestro corazón al dirigirnos a Dios. Pero como no todos tenemos ese don, existe un excelente recurso que está a nuestro alcance y mejor aún, es el mismo Dios el que ha inspirado a sus...",
+      "url": "https://es.aleteia.org/2026/10/15/cual-es-la-mejor-manera-de-expresar-tu-amor-por-dios/",
+      "published": "2026-10-15T21:28:24+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.72,
+      "relevance": 19.27,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio baja hoy en Perú: ¿cuánto está el dólar este jueves 15 de octubre?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZjE1UFNLUE8wWUJQRm5kTWw2blE0MDVoYkVzTEItZFNIb05hdXd0a01aTHh3WVpuVTZ3RlNMTGI1Ym0xUmRmRTY2d0NmZGxCM3lwR3YxaVlnSXFUUm45WHJ0UWdyZC1yZFZCUXBHZmN6UlVPV0t5SV9JREwtNnpYaTBmS011RC1LXzVvbE5NVXl1bmF5T0o3SzQ1dXd5aGZ2aUM4bWQyY0pDUG9wQzZMSzVzZ0dfVGVBTG5xekZvenRqTzIwaGNfLUgxa1d0a3ZrVGI3b3FlX0RSbXJTSzFDdnEwa08wYlpuTmZYVkpBNEZmaUZ6TWxndzd2QUsyOXhUY1E?oc=5",
-      "published": "2026-10-15T16:03:45+00:00",
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "En Homs, la hermana Samia siembra esperanza entre las ruinas",
+      "summary": "La hermana Samia conoce bien Homs, donde vive desde hace casi veinte años. Cuando llegó a la ciudad en 2006, fundó allí el centro Le Sénevé, destinado a niños y jóvenes con discapacidad. En ese entonces, las estructuras adaptadas eran escasas y muchas personas permanecían confinadas en sus hogares....",
+      "url": "https://es.aleteia.org/2026/10/15/en-homs-la-hermana-samia-siembra-esperanza-entre-las-ruinas/",
+      "published": "2026-10-15T21:07:21+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.7,
+      "relevance": 19.14,
       "sources": [
-        "Google Economía"
+        "Aleteia"
       ]
     },
     {
@@ -122,7 +164,7 @@
       "published": "2026-10-15T16:55:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/15/2026-10-15-xi-diplomado-de-la-academia-de-lideres-catolicos112ad7fb-789a-4a2d-be0e-49b3417.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 18.16,
       "sources": [
         "Vatican News"
       ]
@@ -136,7 +178,7 @@
       "published": "2026-10-15T17:40:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.51,
+      "relevance": 17.84,
       "sources": [
         "Aleteia"
       ]
@@ -150,7 +192,7 @@
       "published": "2026-10-15T17:24:35+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.41,
+      "relevance": 17.75,
       "sources": [
         "Aleteia"
       ]
@@ -164,7 +206,7 @@
       "published": "2026-10-15T15:01:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/14/19/1791999607144.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.11,
+      "relevance": 17.45,
       "sources": [
         "Vatican News"
       ]
@@ -178,51 +220,51 @@
       "published": "2026-10-15T15:48:05+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 17.14,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El cardenal Parolin recibió al presidente de la República Dominicana",
-      "summary": "En el transcurso de la conversación se abordó la situación de la región, prestando especial atención a las repercusiones de los conflictos y a la delincuencia organizada transnacional Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-10/cardenal-parolin-recibio-al-presidente-de-republica-dominicana.html",
-      "published": "2026-10-15T13:03:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/10/15/2026-10-15-s-e--il-signor-luis-abinader--presidente-della-repubb/1792053906067.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "El próximo ‘Call of Duty’ no será ‘Modern Warfare’ ni ‘Black Ops’: Activision confirma que una nueva saga está en marcha",
+      "summary": "Modern Warfare 4 posiblemente sea uno de los Call of Duty que menos expectación ha generado en los fanáticos en mucho tiempo, al menos en lo que respecta a esta subfranquicia del shooter bélico. Algo así ya había sucedido en 2025 con Black Ops 7, por lo que el sentimiento no es del todo desconocido...",
+      "url": "https://hipertextual.com/videojuegos/activision-confirma-futuro-call-of-duty-no-sera-modern-warfare-o-black-ops/",
+      "published": "2026-10-15T21:20:30+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/10/Call-of-Duty-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.37,
+      "relevance": 19.22,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Esta extraña iglesia hace referencia a la bendición de Cristo",
-      "summary": "La iglesia de San Benito se encuentra en Brasil, y su arquitectura original evoca el gesto de bendición de Cristo. ¡Esta iglesia, con forma de mano bendiciendo, es verdaderamente asombrosa! Está ubicada en Andrelândia, al sur de Brasil. Consagrada en 1989 por el obispo diocesano, la iglesia de San...",
-      "url": "https://es.aleteia.org/2026/10/15/esta-extrana-iglesia-hace-referencia-a-la-bendicion-de-cristo/",
-      "published": "2026-10-15T14:30:00+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Mazorcas, cáscaras de coco y el \"tesorium\" romano: todas las alternativas al papel higiénico antes de que existiera",
+      "summary": "¿Conocéis esas escenas de película en las que un abuelo le cuenta a su nieto historias de la guerra que se le quedan grabadas para siempre? Algunos tuvimos una versión menos épica: la de cómo, después de hacer de vientre en el campo, nuestros mayores se limpiaban con piedras lo menos afiladas...",
+      "url": "https://www.xataka.com/magnet/mazorcas-cascaras-coco-tesorium-romano-todas-alternativas-al-papel-higienico-existiera",
+      "published": "2026-10-15T20:30:25+00:00",
+      "image": "https://i.blogs.es/6ff95b/alternativas-al-papel-higienico/1024_2000.png",
       "coverage": 1,
-      "relevance": 18.32,
+      "relevance": 19.21,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "León XIV presenta «buena recuperación del pulmón operado»",
-      "summary": "Dos días después de la operación en la que se le extirpó un tumor canceroso del pulmón derecho, los resultados de los «exámenes rutinarios» a los que se sometió León XIV fueron «normales», según indicaron sus médicos el 15 de octubre de 2026. Una radiografía de tórax «mostró una buena recuperación...",
-      "url": "https://es.aleteia.org/2026/10/15/leon-xiv-presenta-buena-recuperacion-del-pulmon-operado/",
-      "published": "2026-10-15T14:24:42+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "ChatGPT ya tenía algunas de las voces más naturales de la IA. GPT-Live-1.1 ahora va a por uno de sus puntos débiles",
+      "summary": "Llevo bastante tiempo probando las voces de los asistentes de inteligencia artificial, y hay algo que siempre me ha llamado la atención: lo mucho que ha cambiado la experiencia de hablar con una máquina. Hoy tenemos propuestas interesantes, como la de Grok, y otras que me parecen especialmente...",
+      "url": "https://www.xataka.com/robotica-e-ia/chatgpt-tenia-algunas-voces-naturales-ia-gpt-live-1-1-ahora-va-a-uno-sus-puntos-debiles",
+      "published": "2026-10-15T19:30:40+00:00",
+      "image": "https://i.blogs.es/50928f/nuevas-voces-chatgpt/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.28,
+      "relevance": 18.83,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
@@ -234,7 +276,7 @@
       "published": "2026-10-15T19:00:27+00:00",
       "image": "https://i.blogs.es/62c739/ovhcloud/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.31,
+      "relevance": 18.64,
       "sources": [
         "Xataka"
       ]
@@ -248,7 +290,7 @@
       "published": "2026-10-15T18:30:26+00:00",
       "image": "https://i.blogs.es/20f0dd/china-ubtech-walker-s2-border-patrol-humanoid-robot/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.12,
+      "relevance": 18.46,
       "sources": [
         "Xataka"
       ]
@@ -262,7 +304,7 @@
       "published": "2026-10-15T18:16:25+00:00",
       "image": "https://i.blogs.es/cc07f9/jensen-huang-gtc-2024/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 18.37,
       "sources": [
         "Xataka"
       ]
@@ -276,7 +318,7 @@
       "published": "2026-10-15T19:00:00+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/06/Galaxy-S23-Ultra-1.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 18.34,
       "sources": [
         "Hipertextual"
       ]
@@ -290,63 +332,63 @@
       "published": "2026-10-15T18:00:26+00:00",
       "image": "https://i.blogs.es/0941d6/1/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.93,
+      "relevance": 18.27,
       "sources": [
         "Xataka"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Por primera vez en mucho tiempo, Marvel recupera el beneplácito de los espectadores: su nueva serie tiene puntuaciones estupendas",
-      "summary": "'VisionQuest' ha llegado a Disney+ el 14 de octubre con dos episodios y un sello que Marvel hace tiempo que no tiene garantizado solo presumiendo de franquicia y legado: el de Certified Fresh en Rotten Tomatoes, con más un 81% de críticas favorables de los profesionales y un 86% del público. Parece...",
-      "url": "https://www.xataka.com/streaming/primera-vez-mucho-tiempo-marvel-recupera-beneplacito-espectadores-su-nueva-serie-tiene-puntuaciones-estupendas",
-      "published": "2026-10-15T17:30:27+00:00",
-      "image": "https://i.blogs.es/50bbe7/visionquest-review/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Durísimas portadas contra Lisandro en Inglaterra",
+      "summary": "Así vienen las primeras páginas de este viernes 16 de octubre de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/10/16/portadas-dia-record-velocidad-historia.html",
+      "published": "2026-10-15T23:51:26+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad166d7d3612.jpeg",
+      "coverage": 1,
+      "relevance": 20.46,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Jasikevicius irónico con el récord de su equipo: \"Si defiendes no tienes que poner tapones\"",
+      "summary": "El Fenerbahce batió el tope de tapones en un partido de la Euroliga (14)",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/16/jasikevicius-ironico-record-equipo-defiendes-tienes-poner-tapones.html",
+      "published": "2026-10-15T22:20:48+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/16/6ad15124b0150.jpeg",
+      "coverage": 1,
+      "relevance": 19.9,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Vinicius colapsa",
+      "summary": "El brasileño se sincera, admite que está lejos de su mejor versión y promete recuperar al futbolista que dominó el mundo del fútbol",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/10/15/vini-toca-fondo.html",
+      "published": "2026-10-15T21:55:32+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad10847b9298.jpeg",
       "coverage": 1,
       "relevance": 19.74,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Mejores enchufes inteligentes: cómo funcionan y 7 modelos recomendados para ahorrar en la factura de la luz",
-      "summary": "Muchas veces caemos en el error de pensar que empezar a domotizar partes de nuestra casa requiere una inversión muy elevada. Tener el control de muchos de nuestros aparatos electrónicos es más sencillo de lo que pensamos, especialmente si tenemos un enchufe inteligente. Gracias a estos, podemos ser...",
-      "url": "https://www.xataka.com/seleccion/mejores-enchufes-inteligentes",
-      "published": "2026-10-15T17:16:24+00:00",
-      "image": "https://i.blogs.es/382fa2/mike-winkler-trbh7hrenhg-unsplash/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.66,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Descubren un malware que te infecta con solo ver un anuncio",
-      "summary": "Una empresa israelí de publicidad colaboró con empresas de spyware para infectar equipos con solo mostrar un anuncio. De acuerdo con una investigación del Citizen Lab y la firma de seguridad Confiant, Discover Tech utilizó su red publicitaria para servir anuncios que parecían legítimos, pero que en...",
-      "url": "https://hipertextual.com/seguridad/malware-infecta-ver-anuncio-internet/",
-      "published": "2026-10-15T17:59:26+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/laptop-internet.jpg?fit=1024%2C645&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.62,
-      "sources": [
-        "Hipertextual"
+        "Marca"
       ]
     },
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "U. Craiova 1-1 Getafe | Resumen",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/conference-league/2026/10/15/u-craiova-1-1-getafe-resumen-video.html",
-      "published": "2026-10-15T19:12:32+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad1257851ecf.jpeg",
+      "title": "Golpe jurídico en Moto3: ¡devolverán los puntos a Adrián Fernández!",
+      "summary": "Se revoca la sanción",
+      "url": "https://www.marca.com/motor/motogp/gp-indonesia/2026/10/15/tribunal-apelacion-da-razon-leopard-le-devolveran-puntos-adrian-fernandez.html",
+      "published": "2026-10-15T21:54:49+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad149cce88d3.jpeg",
       "coverage": 1,
-      "relevance": 20.38,
+      "relevance": 19.73,
       "sources": [
         "Marca"
       ]
@@ -354,13 +396,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Union SG 1-1 Real Sociedad | Resumen",
-      "summary": "",
-      "url": "https://www.marca.com/futbol/europa-league/2026/10/15/union-sg-1-1-real-sociedad-resumen-video.html",
-      "published": "2026-10-15T19:05:20+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad123972b43c.jpeg",
+      "title": "El Valencia cierra una horrible semana con la derrota ante el Maccabi",
+      "summary": "Pierde su tercer partido seguido (dos de Euroliga y uno de Liga Endesa) en cinco días",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/15/valencia-cierra-horrible-semana-derrota-maccabi.html",
+      "published": "2026-10-15T21:30:05+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad12cb589901.jpeg",
       "coverage": 1,
-      "relevance": 20.34,
+      "relevance": 19.58,
       "sources": [
         "Marca"
       ]
@@ -368,13 +410,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El Getafe va con todo: entradas gratis para Georgia y Holanda",
-      "summary": "El cuadro azulón lo comunicó antes del encuentro frente al Craiova",
-      "url": "https://www.marca.com/futbol/getafe/2026/10/15/getafe-entradas-gratis-georgia-holanda.html",
-      "published": "2026-10-15T19:02:07+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad122e2f0e6e.jpeg",
+      "title": "El 'Tigre' vuelve a rugir: Andrés Feliz revienta al ASVEL con ocho triples",
+      "summary": "El dominicano lidera el triunfo del Real Madrid con 26 puntos (8/11 triples), 4 rebotes, 5 asistencias en 25 minutos",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/10/15/tigre-vuelve-rugir-andres-feliz-revienta-asvel-ocho-triples.html",
+      "published": "2026-10-15T21:25:15+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad1412932e5c.jpeg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 19.55,
       "sources": [
         "Marca"
       ]
@@ -382,13 +424,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "A centímetros de la victoria",
-      "summary": "El conjunto txuriurdin no cuajó un buen partido en su visita al USG, pero se adelantó nada más comenzar la segunda parte, con un gol de Turrientes que no supo aguantar hasta el final",
-      "url": "https://www.marca.com/futbol/europa-league/cronica/2026/10/15/real-le-victoria-88.html",
-      "published": "2026-10-15T18:46:39+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad1213a78163.jpeg",
+      "title": "Móstoles celebra su gran fiesta del deporte en su año más europeo",
+      "summary": "Móstoles vivió una jornada especial con la gira Patrimonio del Deporte de Radio MARCA, una programación dedicada al deporte local y una gran gala que reunió a destacadas figuras del deporte español.",
+      "url": "https://www.marca.com/radio/2026/10/15/mostoles-celebra-gran-fiesta-deporte-ano-mas-europeo.html",
+      "published": "2026-10-15T21:16:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad14050abd5d.jpeg",
       "coverage": 1,
-      "relevance": 20.22,
+      "relevance": 19.49,
       "sources": [
         "Marca"
       ]
@@ -396,57 +438,30 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Un misil de Gudelj para hacer justicia",
-      "summary": "El cuadro azulón mereció el punto y rompe su mala racha de cinco derrotas lejos del Coliseum",
-      "url": "https://www.marca.com/futbol/conference-league/cronica/2026/10/15/misil-gudelj-justicia.html",
-      "published": "2026-10-15T18:41:26+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad11e4a71339.jpeg",
+      "title": "El agente de Nico desvela la negociación con el Barça: \"Si eres camarero y no puedes ejercer tu profesión...\"",
+      "summary": "El agente de los Williams explicó en el Podcast 'Los Fulanos' cómo fue la negociación con el Barcelona en el verano de 2025",
+      "url": "https://www.marca.com/futbol/athletic/2026/10/15/felix-tainta-representante-nico-williams-tenia-idea-salir-athletic-vas-ganar-champions.html",
+      "published": "2026-10-15T21:14:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad1443a8f7f5.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 19.48,
       "sources": [
         "Marca"
       ]
     },
     {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Triunfo de Euskadi sobre España en el Mundial de Buenos Aires",
-      "summary": "Paleta goma femenino",
-      "url": "https://www.marca.com/otros-deportes/2026/10/15/triunfo-euskadi-sobre-espana-mundial-buenos-aires.html",
-      "published": "2026-10-15T18:31:03+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad11bdad2b62.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
+      "category": "belico",
+      "source": "France 24",
+      "title": "Yemen: rebeldes hutíes atacan el Palacio Presidencial de Adén y matan a dos guardias",
+      "summary": "Los rebeldes hutíes lanzaron este jueves 15 de octubre un ataque con misiles y drones contra el complejo que aloja la sede del Gobierno yemení respaldado por Arabia Saudita y reconocido internacionalmente. La ofensiva tiene lugar en medio de una escalada del conflicto, con decenas de ataques contra...",
+      "url": "https://www.france24.com/es/medio-oriente/20261015-yemen-rebeldes-hut%C3%ADes-atacan-el-palacio-presidencial-de-ad%C3%A9n-y-matan-a-dos-guardias",
+      "published": "2026-10-15T20:51:35+00:00",
+      "image": "https://s.france24.com/media/display/cfa7774a-ad26-11f1-b466-005056bf30b7/w:1024/p:16x9/FOTO-PORTADA-YEMEN-REBELDES-HUTIES.jpg",
+      "coverage": 2,
+      "relevance": 29.64,
       "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La Premier League pone el ojo en Juan Manuel Rengifo",
-      "summary": "Varios clubes rastrean al talentoso mediapunta de Atlético Nacional",
-      "url": "https://www.marca.com/co/2026/10/15/premier-league-pone-ojo-juan-manuel-rengifo.html",
-      "published": "2026-10-15T18:30:10+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/15/6ad11ae4d9827.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El Madrid ficha a Bernd Reichart",
-      "summary": "El ejecutivo alemán se incorpora al organigrama económico del club blanco",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/10/15/madrid-ficha-bernd-reichart-ceo-a22-sports-management.html",
-      "published": "2026-10-15T18:20:12+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/08/01/688cb0c204260.jpeg",
-      "coverage": 1,
-      "relevance": 20.05,
-      "sources": [
-        "Marca"
+        "France 24",
+        "Google Noticias"
       ]
     },
     {
@@ -458,10 +473,38 @@
       "published": "2026-10-15T17:02:31+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5f98/live/aad9c400-c7f1-11f1-9bb8-8794f734d112.png",
       "coverage": 2,
-      "relevance": 30.77,
+      "relevance": 29.11,
       "sources": [
         "BBC Mundo",
         "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Musk, Trump y Zelenski: ¿por qué se sacude la relación de EE. UU. con Ucrania antes de las midterms?",
+      "summary": "El presidente Volodímir Zelenski declaró sentirse \"traicionado\" tras la aparente restricción de acceso a los servicios de inteligencia estadounidenses y de satélites de SpaceX, lo que plantea nuevas dudas sobre el compromiso de Estados Unidos con Ucrania. Y, ante la presión que sufre Donald Trump...",
+      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-musk-trump-y-zelenski-por-qu%C3%A9-se-sacude-la-relaci%C3%B3n-de-ee-uu-con-ucrania-antes-de-las-midterms",
+      "published": "2026-10-15T22:23:11+00:00",
+      "image": "https://s.france24.com/media/display/268895e2-c8a9-11f1-b2d2-2d1c143cdef3/w:1024/p:16x9/img-princ-StarShield-ok.jpg",
+      "coverage": 1,
+      "relevance": 20.21,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "\"Trump, el protector de Putin en la Casa Blanca\": 'Kyiv Post'",
+      "summary": "Luego de que el presidente estadounidense, Donald Trump, acordara con su homólogo ruso, Vladimir Putin, la entrega de 300.000 toneladas de diésel ruso, 'Kyiv Post' reseña el cambio de tono del republicano hacia el líder del Kremlin y la posición en la que queda Ucrania en medio de este...",
+      "url": "https://www.france24.com/es/programas/revista-de-prensa/20261015-trump-el-protector-de-putin-en-la-casa-blanca-kyiv-post",
+      "published": "2026-10-15T19:24:05+00:00",
+      "image": "https://s.france24.com/media/display/3cd8031a-c8cb-11f1-ab02-2d1c143cdef3/w:1024/p:16x9/capture-b6ffa349.jpg",
+      "coverage": 1,
+      "relevance": 19.09,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -473,7 +516,7 @@
       "published": "2026-10-15T18:19:44+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 18.69,
       "sources": [
         "France 24"
       ]
@@ -481,55 +524,27 @@
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Trump cancela la transmisión en vivo de la ejecución con pelotón de fusilamiento del exmilitar Nidal Hasan",
+      "title": "Trump cancela la transmisión en vivo de la ejecución del primer militar que será fusilado en EE.UU. desde la II Guerra Mundial",
       "summary": "Trump dijo que algunos \"preferirían no ver\" la ejecución de Nidal Hasan, la primera a un exmilitar en más de 60 años.",
       "url": "https://www.bbc.com/mundo/articles/cq99z15e1271o?at_medium=RSS&at_campaign=rss",
       "published": "2026-10-15T15:55:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f672/live/b16bd830-c8a5-11f1-a573-f1e461934384.jpg",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb70/live/3dfbc1c0-c8d3-11f1-95b2-9f12d414946d.jpg",
       "coverage": 1,
-      "relevance": 20.35,
+      "relevance": 18.69,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Trump descarta retransmitir en directo la ejecución del autor de la matanza de Fort Hood",
-      "summary": "Donald Trump descartó retransmitir en directo la ejecución por fusilamiento de Nidal Malik Hasan, condenado a muerte por matar a 13 personas en la base militar de Fort Hood, en Texas, en 2009. La decisión llega tras las críticas a la propuesta, que el presidente había defendido como una forma de...",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261015-trump-descarta-retransmitir-en-directo-la-ejecuci%C3%B3n-del-autor-de-la-matanza-de-fort-hood",
-      "published": "2026-10-15T15:17:47+00:00",
-      "image": "https://s.france24.com/media/display/5d85b08a-c15a-11f1-a949-b942c38e4bd7/w:1024/p:16x9/ea1c3d12c8887041340d085bacee203cbc979e43.jpg",
-      "coverage": 1,
-      "relevance": 19.21,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Ataques con drones contra buques mercantes agravan la tensión en el mar Negro",
-      "summary": "Dos buques cisterna se incendiaron tras ser alcanzados por drones frente a la costa de Rumania, en el mar Negro, donde siete tripulantes permanecían desaparecidos este jueves. El presidente rumano, Nicușor Dan, acusó a Rusia de buscar la desestabilización del flanco oriental de la OTAN, aunque la...",
-      "url": "https://www.france24.com/es/europa/20261015-ataques-con-drones-contra-buques-mercantes-agravan-la-tensi%C3%B3n-en-el-mar-negro",
-      "published": "2026-10-15T14:25:17+00:00",
-      "image": "https://s.france24.com/media/display/3ec22678-c84a-11f1-85e1-4dd8ac2cf3bf/w:1024/p:16x9/000-B6L73WH.jpg",
-      "coverage": 1,
-      "relevance": 18.89,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "Google Noticias",
-      "title": "Aumentan a 74.396 los muertos palestinos por la ofensiva israelí en Gaza",
+      "title": "Yemen: al menos 2 escoltas del primer ministro murieron en ataque hutí contra Palacio Presidencial",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qdkpsQXdvQ01jdEp3TUlNVENMS0g0MnlrMGZEXzNMbkc4OWh6QzdCbWI2QmpfUzdWdUc1MVNfaVE0eWNUTFpkWGx4bVJzcDNx?oc=5",
-      "published": "2026-10-15T17:43:21+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3ZkbmRyUU81THlaeTd2RzhqQUdZZ1BraVdUWnFlQmNNakJYa3NaeTQ1YkRfZFNqalU4SW1zT1JuX05WMFNxVVVKMTc1ckFPMHVRdGFqWGZaaXB6WGtHRWl2RWNLaXpvQ1NoRGJCRTMtcmhyamJrNUpTak9kMmdVcG1pMTQ5ZjhzZ2JRSnFWREh0djd4MmhYUVJoNHQycnliaWp4dTVlejZSS1JScFE0MnFlOXlGbUV6RHpDSy1QWG14cXdKaEZqNkpmV3BvTDRPWklB?oc=5",
+      "published": "2026-10-15T21:52:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.32,
+      "relevance": 18.22,
       "sources": [
         "Google Noticias"
       ]
@@ -537,27 +552,13 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "En Rusia, dos tercios de las escuelas participan en la propaganda de guerra",
+      "title": "Qué saber sobre Starshield y por qué su interrupción inquietó a las fuerzas de Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2dKd1kzMDF4eFg1Zy1VYkt3RUJ6OVdGN05YdkR2am80bHk5ci1TeVpJTmhDSV9UdDBicU5TNHFBSW5IcWZIdXJNblZqcXQwNjNRT25lejlvLXQ3NGV2eUZ4OFRIeTRaMHcyb2RzRzgzUFR5T0dYY3JTVC1WR0ZNakdNT2FKcjZ4T3NsajY5MkM0TkRsVEZ1WFNJdzI4REw2RHgyM3NBZnV3NTZaMVFGOQ?oc=5",
-      "published": "2026-10-15T14:13:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbFFWS0ZQMlJOOXMzVVFrN0VuUFN3N09UQVRyYVJialVwb29ReGxGaHBXR2JGLW5UY05MT2NPNUtqaEtSZkJ0U244NGZXZEdjZjExa2VJS25mN2VydC1veFFpTTRWNFZ2VVdXczFfUzZQQjVLRmNPYVplYWNrNlhrVFZTdHFBSFl6RWZFdFVDOUxLX0JFX0c5Z2lER1VBd3JPLVJQOEk3OFVCRjEyXzBEeHdJdjVqb0lyUkZDbDU3RmFpcXlCMmk2UHRORkoyX1N2V3lBWmViUGhFQ2lXY1cw?oc=5",
+      "published": "2026-10-15T21:26:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.01,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Israel amenaza a Hezbolá con pérdidas territoriales si se suma a un ataque iraní",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWEZLdFA3aGkyTXRKRFZrM3NQclN6NnlNTl9WekZrSmlOa3ljZ0YzR2JpaUlLam1zcm1UUkoxa2ZGYVhwQU5YY0VCZEpkSkhNODhuX0RpNzA3MU9uRFpuV0w0SkpPVGJlZWVGZUpVRkNXVXRyRW1VMVlBS1M4bjNtZjd2dkxKR0J2bUhvdzdkZ1A5QWN3MkI3VXlEbS1ObFg3OEVhMDFDeWU0N0ZlaFpuOENfUTBBWmlkTEdvZkRtaVlFUFpBdnBqR0ZYZw?oc=5",
-      "published": "2026-10-15T14:04:18+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 16.96,
+      "relevance": 18.05,
       "sources": [
         "Google Noticias"
       ]
@@ -571,7 +572,7 @@
       "published": "2026-10-15T13:21:00+00:00",
       "image": null,
       "coverage": 2,
-      "relevance": 27.28,
+      "relevance": 25.62,
       "sources": [
         "El Observador",
         "Google Noticias UY"
@@ -580,13 +581,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Comenzó el vigésimo Concurso de Quesos del Uruguay, con récord de muestras y de participación internacional",
-      "summary": "El concurso comprende nueve categorías que abarcan una amplia variedad de productos y procesos de elaboración.Este miércoles comenzó el vigésimo Concurso Nacional de Quesos del Uruguay, una instancia que reunirá a productores artesanales e industriales de distintos países para evaluar y reconocer...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/10/comenzo-el-vigesimo-concurso-de-quesos-del-uruguay-con-record-de-muestras-y-de-participacion-internacional/",
-      "published": "2026-10-15T18:48:14+00:00",
+      "title": "La fecha 11 del Clausura tensa el campeonato arriba y abajo",
+      "summary": "Este viernes empieza una etapa que puede mover la aguja.Faltan cinco fechas para el cierre del Clausura y prácticamente todos los equipos juegan por puntos fundamentales para sus respectivos objetivos. La fecha 11 se disputa desde abajo hacia arriba, porque arranca este viernes con un...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/la-fecha-11-del-clausura-tensa-el-campeonato-arriba-y-abajo/",
+      "published": "2026-10-15T23:48:40+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.63,
+      "relevance": 19.85,
       "sources": [
         "La Diaria"
       ]
@@ -594,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Alejandro Sánchez sobre inversión de empresa española: no vamos a ser “un monocultivo de data centers”",
-      "summary": "El secretario de Presidencia señaló que se trata de “un muy buen mensaje a nivel internacional” y que es “una gran apuesta para generar un ecosistema digital”Tras el anuncio realizado este miércoles por el Poder Ejecutivo sobre la inversión millonaria de la empresa española en Uruguay, el...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/alejandro-sanchez-sobre-inversion-de-empresa-espanola-no-vamos-a-ser-un-monocultivo-de-data-centers/",
-      "published": "2026-10-15T17:52:09+00:00",
+      "title": "Salto: Inefop fortalece y reorienta su trabajo territorial para responder a las demandas de trabajadores y empresas",
+      "summary": "La nueva sede en Salto apunta a fortalecer la descentralización, mejorar el acceso de las pymes a las herramientas de apoyo y ampliar las oportunidades de capacitación para trabajadores y empresas.Autoridades del Instituto Nacional de Empleo y Formación Profesional (Inefop) inauguraron su nueva...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/salto-inefop-fortalece-y-reorienta-su-trabajo-territorial-para-responder-a-las-demandas-de-trabajadores-y-empresas/",
+      "published": "2026-10-15T23:39:33+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.28,
+      "relevance": 19.79,
       "sources": [
         "La Diaria"
       ]
@@ -608,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Instituto de Udelar defendió artículo del “segundo importador”: “Desde el punto de vista técnico, no tiene mucha discusión”",
-      "summary": "Los economistas que asistieron a la comisión que estudia el proyecto de competitividad señalaron que “habilitar legalmente la importación exclusiva” solo tendría sentido “en economías muy atrasadas”El Instituto de Economía de la Universidad de la República defendió este miércoles en el Parlamento...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/instituto-de-udelar-defendio-articulo-del-segundo-importador-desde-el-punto-de-vista-tecnico-no-tiene-mucha-discusion/",
-      "published": "2026-10-15T17:36:23+00:00",
+      "title": "Se aprobó en comisión el proyecto de Abdala para que jóvenes que cometieron delitos siendo mayores no vuelvan al Inisa",
+      "summary": "La iniciativa, que tuvo el respaldo unánime de los legisladores del oficialismo y la oposición, se pondrá a consideración del plenario de la cámara baja a principios de noviembre.La Comisión de Población y Desarrollo de la Cámara de Diputados aprobó por unanimidad el proyecto impulsado por el...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/se-aprobo-en-comision-el-proyecto-de-abdala-para-que-jovenes-que-cometieron-delitos-siendo-mayores-no-vuelvan-al-inisa/",
+      "published": "2026-10-15T23:27:56+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.18,
+      "relevance": 19.72,
       "sources": [
         "La Diaria"
       ]
@@ -622,13 +623,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "INIA sostiene que proyecto de competitividad no modifica su naturaleza jurídica, junta directiva ni fuentes de financiamiento",
-      "summary": "La institución compartió su postura de cara al proyecto de ley que presentó el gobierno, afirmó estar abierta a “promover ajustes que mejoren la propuesta bajo estudio” y asumió tres compromisos concretos en el caso de aprobarse.El Instituto Nacional de Investigación Agropecuaria (INIA) reafirmó su...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/10/inia-sostiene-que-proyecto-de-competitividad-no-modifica-su-naturaleza-juridica-junta-directiva-ni-fuentes-de-financiamiento/",
-      "published": "2026-10-15T16:52:51+00:00",
+      "title": "Agenda de las Mujeres Rurales +10 llega al Parlamento con líneas de acción para la próxima década",
+      "summary": "En el Día de las Mujeres Rurales, el documento elaborado por más de 150 mujeres de todo el país, y que propone medidas en materia de salud, trabajo, acceso a la tierra, cuidados y ambiente, se presentó en el Palacio Legislativo.El 15 de octubre de 2025, más de 150 mujeres rurales representantes de...",
+      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/10/agenda-de-las-mujeres-rurales-10-llega-al-parlamento-con-lineas-de-accion-para-la-proxima-decada/",
+      "published": "2026-10-15T23:12:44+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.91,
+      "relevance": 19.62,
       "sources": [
         "La Diaria"
       ]
@@ -636,43 +637,43 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La B: fecha decisiva entre viernes y domingo",
-      "summary": "Rentistas-Atenas es el mejor partido del fin de semana, mientras que el líder, Plaza Colonia, va con River Plate; Miramar Misiones jugará una final ante Cerrito por el descenso, donde puede bajar Uruguay Montevideo.Quedan cuatro fechas para que termine la fase regular y en este campeonato suben los...",
-      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/la-b-fecha-decisiva-entre-viernes-y-domingo/",
-      "published": "2026-10-15T16:45:50+00:00",
+      "title": "Para Di Candia, es necesario trabajar en el acceso a la vivienda como una “puerta de entrada al derecho a la ciudad”",
+      "summary": "El subsecretario de Vivienda y Ordenamiento Territorial participó en un conversatorio organizado por Fecovi y dijo que hay que trabajar en políticas que lleven a “más suelo público”.Autoridades del gobierno y dirigentes políticos y sociales intercambiaron este miércoles sobre políticas públicas de...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/para-di-candia-es-necesario-trabajar-en-el-acceso-a-la-vivienda-como-una-puerta-de-entrada-al-derecho-a-la-ciudad/",
+      "published": "2026-10-15T22:47:18+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.86,
+      "relevance": 19.46,
       "sources": [
         "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Dolor en Montevideo: falleció Rodolfo Reyes, el florista estrella de 18 de Julio y Yi por casi 50 años",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObUs3ZE00QUw0b1l4Z1l1cW5rdWhqaXJ5cjIwWU96aWNXSEhBV2hSWTVMVXF0UjlLMnkwSEctWjljc2IyWXU5UjBWYlVXbWtRTUNPVFJJTkt4TUNFSE00TnJxazJhN1RNa3RfVWJUZjM0b0VNVkNoUFozYXY5M1JsSU1lWjlKVlFldTBpdm16NjFCUV9DeDdHd3VsaEgxY0lzWlhjNlFqU0ZPTnowWTJvaVAwNTdURlVYNmxkc0o5eGNkdU5qbnlZVGtmdlFRcV9RcEZtTURKcHlBc3pkaDdGRA?oc=5",
-      "published": "2026-10-15T12:26:44+00:00",
+      "source": "La Diaria",
+      "title": "Nayib Bukele dijo que su gobierno tiene un plan para liberar a miles de personas detenidas durante el régimen de excepción",
+      "summary": "El presidente salvadoreño explicó que se determinará cuál fue el nivel de colaboración de una persona con las pandillas y que, en función de ello, podría recibir un beneficio de excarcelación.En un hecho inédito, el presidente de El Salvador, Nayib Bukele, afirmó de manera pública que su gobierno...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/nayib-bukele-dijo-que-su-gobierno-tiene-un-plan-para-liberar-a-miles-de-personas-detenidas-durante-el-regimen-de-excepcion/",
+      "published": "2026-10-15T22:00:54+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.75,
+      "relevance": 19.17,
       "sources": [
-        "El País Uy"
+        "La Diaria"
       ]
     },
     {
       "category": "uruguay",
-      "source": "Google Noticias UY",
-      "title": "Una nueva herramienta digital: \"Tarjetas virtuales\" para el partido entre Nacional y Rentistas por la Copa ...",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPMjd3ZW9yTHctc1FnZjVYN0JzMTdFLWdrcUpNX1BpaXJlOTdtZk1Kb3dmYVZRb2Q4RW9RejZLdnhMYXVtX3lyeTdKUGYzbDlJV0hBd0pkbjMtQkFMZnZtU2pWVkZoNVJ2dlNBako4OFBLay1va21NbklZNzdBVE9najBZUDNzQlBoZm53N0J5eVlqMlVrS2hvM2ZPWnNXTkZ0emctYzkxemxfS1hfTFRGV1ZLbFpEelRyTWNHR1BEbWlJc3dKNXVCUTZFWl9yUlhxckhjUnYzYjJJS0FETURsNWpfakd6SHctUGREbkVIS3Rmak5ndFUtMGMxUdIBgAJBVV95cUxQLXE2WUtPRFE3cGdka0RiaFNRX1gteGNaZnJFLXAtVmFHcTkyUEtJbVVZbEhENV9yR2llTUw2MzVfc1pBMVdMZENXXzUxLUFkemVBa0pKbDZoNHZ6R3pIUWt5aFRTSHIzb1ZmZjBZbGNvV3NhN0FQUm95blBBZEJEQ1pYaUNtNGNnTS1rcngzZGpOc0xwNmFfY1k5NWt0YWQyaXI1Nk13d1E1UHF0c2t4bklWOHlqbU8tVXdqTGFPM2lHRGV4MnhDS1hKNGd2NUg4SUpZZ1V2SC1oT1NSNE5rMzlpNndmMC1LZGRvaTg4RkhzY2FGbDhqMjdlekh4Yk5V?oc=5",
-      "published": "2026-10-15T18:30:56+00:00",
+      "source": "La Diaria",
+      "title": "Impactante 6-0 de Danubio ante Central",
+      "summary": "Los danubianos se metieron en octavos de final de la Copa AUF Uruguay.Danubio, en un resultado impactante e inesperado, venció 6-0 a Central Español en el Palermo y clasificó a los octavos de final de la Copa AUF Uruguay, cuyo sorteo se realizará este lunes 19 de octubre. La franja hacía muchísimo...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/10/impactante-6-0-de-danubio-ante-central/",
+      "published": "2026-10-15T21:46:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.62,
+      "relevance": 19.08,
       "sources": [
-        "Google Noticias UY"
+        "La Diaria"
       ]
     }
   ]
