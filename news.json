@@ -1,6 +1,20 @@
 {
-  "updated_at": "2026-10-27T20:16:31.866526+00:00",
+  "updated_at": "2026-10-28T00:47:27.842560+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Ferrovial crece un 7,1% en ventas y gana rentabilidad con el tirón de las autopistas en Estados Unidos",
+      "summary": "El grupo sondea nuevas carreteras en el país norteamericano tras adjudicarse la I-24 de Tennessee y la I-285 de Georgia por un total de 60.000 millones",
+      "url": "https://cincodias.elpais.com/companias/2026-10-27/ferrovial-crece-un-71-en-ventas-y-gana-rentabilidad-con-el-tiron-de-las-autopistas-en-estados-unidos.html",
+      "published": "2026-10-27T21:13:14+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/BCLRD5VMENGKZGBFXQUYK3N4LQ.jpg?auth=fe34caed72dc8c72b60f17a88373268b5380771be7d174eda966b10a3e2104da",
+      "coverage": 1,
+      "relevance": 20.06,
+      "sources": [
+        "El País Eco"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +24,7 @@
       "published": "2026-10-27T17:10:41+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/AG3J3N27JBCNBES7ILEEU3TKXM.jpg?auth=c7256e2f685ba3c882a8c09900a26dacfde9f6603245055198eaf841427304ef",
       "coverage": 1,
-      "relevance": 20.24,
+      "relevance": 18.55,
       "sources": [
         "El País Eco"
       ]
@@ -24,9 +38,37 @@
       "published": "2026-10-27T15:38:41+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/KGR3OK4VSFDAFJLI3LFGVZI54A.jpg?auth=0b060352bac20651a072d81bca936e3bebab5af7f8b0d41420aa71946003b35d",
       "coverage": 1,
-      "relevance": 19.66,
+      "relevance": 17.97,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Crece la demanda de las empresas para llevar sus dólares al exterior por la incertidumbre argentina",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQX28tYVJDTlk4RGluWmdUSUVRcS1zUmVyM0MtQ19NZ056Y1RobW1td1F4cVV2WE5DRmFjU2stbjNCbGU4ZldMdDNLZl9acXZYaEdNb0JrR0FBV3RaSjY3NFdlb1lrWjZ1WnV4VXhCbE0yeVZBSjNqNGFwVU5uNlhNQ2hKUlAxYW1VZkNQMlpiUk5EQXFXVkV0SUFoLUtCWVI5OXZvOU5hdDZqR3dzUnREdTlpMTlfM3ROb3RiSlhOWHRzRF9GUERTRE9KeEVKbGRVVm5tY2s4RQ?oc=5",
+      "published": "2026-10-27T21:47:38+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.88,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Peso mexicano retrocede frente al dólar a pesar del crecimiento de las exportaciones de México",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEhlVlpleWZmZjhRb1lmTm81YVhsS3dWYzFjMkc0Mnpua0tMSXdzOTktZVBXUWV1RTVyd2RiYUZacWEzV041bnZKZVoyVkpibHc2NTlRVEVrVC1KbENadTdkYTIzUVRFemo2NlhVdkNvLTZWR25TRXhCSTh1ZTY5Qk0xQUdjQQ?oc=5",
+      "published": "2026-10-27T21:06:38+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.62,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -38,9 +80,23 @@
       "published": "2026-10-27T14:41:10+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/BBUTVRVHASSJHJLTNY6GXH5224.jpg?auth=ba5d3606fc60268a5ed09a95812e2ddbad2092fca52a398f8a9eda26b5034649",
       "coverage": 1,
-      "relevance": 19.3,
+      "relevance": 17.61,
       "sources": [
         "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Riesgo país, dólar y acciones: así operó el mercado hoy, 27 de octubre",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTVE4dVhNSkFFb3N4YXZiNk43eDFCenNyMEJJOEs4Qjl3WHhOVjVrUXBkMi05d2N2V1htbzM0Uk52VllKamt3dXlMbTZtSHhHM0RTY0c0dVc4SzYzdE1hSHpUZFVVMkNUNnBBbVhVeEtBeDg0YmszbjNLb1hGZnQxd0JyemYxX195ZFhZajNCQzZkLW5PaC0tSE0tWVhOTWlMU3pXSHJlZ0F1TnFoVmVJaUxIS0RsQUo3ZkJ2TjdXR2ZKbjJ60gHYAUFVX3lxTE05S1poZkEySHdOY3kyTlZmUElCZ3FXVWUybnlYNWtIU2ptQzNyQUpYSzdva25VbElRbGVVV1FzU2pMZ2dWZ1dFc1RuRmJ0X0NCRUIzYlNzZkRxRC1Oby1MdnRjaTJ1UHFKcEVqUFdQNGpkMkZJbDAwMUE2cmJLMWlzMTNJR2ViQ3BERXFrbHdfbFZsTmxsN3NyczFHbGFvazRNYWcwNkpzRzNYcHlUd3Z6a2hGdGlTOUxLcDM4dy1KUXJaWXFKZEM5Vk82OEFNbHhGZmJaLXc4ZQ?oc=5",
+      "published": "2026-10-27T20:58:28+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.57,
+      "sources": [
+        "Google Economía"
       ]
     },
     {
@@ -52,65 +108,24 @@
       "published": "2026-10-27T13:11:48+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/4XSGRCGESBEUJDKP5TS5QSMMQY.jpg?auth=46756975ee7252b64c7d8e17aa5a207a993587a0664f1cf4022874d113880a0f",
       "coverage": 1,
-      "relevance": 18.75,
+      "relevance": 17.05,
       "sources": [
         "El País Eco"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Dólar hoy, dólar blue hoy: a cuánto cerró este martes 27 de octubre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVF6U1dfLXJibmw0TXo2WjhfRG5xOHprNldkTXdaQjBXNmdrMnIyLVVhbEhWV0l1Nnl1eFpBdkxFRlBFV0x1RzZ3VnRwU2FyVVoyWEw1YnRnT1ZFSUVTd1VqNVNvWlBPZ1o0TFp6a0dpUTVMRHR1djJOY3JLeE5Md005dWJ2cEFMYTlYQTg0V193NmJfNm45cV9VNEZuYWQ0MlY0Vm9RajMzS0NISTVySU5iWG9SSzJwNzIzVUxaanhjV0FuUElF0gHHAUFVX3lxTFBlUXpTV18tcmJubDRNejZaOF9EbnE4ems2V2RNd1pCMFc2Z2sycjItVWFsSFZXSXU2eXV4WkF2TEVGUEVXTHVHNndWdHBTYXJVWjJYTDVidGdPVkVJRVN3VWo1U29aUE9nWjRMWnprR2lRNUxEdHV2Mk5jckt4Tkx3TTl1YnZwQUxhOVhBODRXX3c2Yl82bjlxX1U0Rm5hZDQyVjRWb1FqMzNLQ0hJNXJJTmJYb1JLMnA3MjNVTFpqeGNXQW5QSUU?oc=5",
-      "published": "2026-10-27T19:06:42+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.56,
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa se reunirá con algunas víctimas de abusos en América Latina",
+      "summary": "Oficina de Prensa de la Santa Sede: \"Estos encuentros responden al deseo del Papa de expresar su cercanía a quienes han sufrido y siguen sufriendo a causa de esta violencia, y de construir con ellos caminos de sanación accesibles.\"Leer todo",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-10/papa-se-reunira-con-algunas-victimas-de-abusos-en-america-latina.html",
+      "published": "2026-10-27T15:59:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/03/10/1780476659861.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 27.5,
       "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "Uber Eats acuerda con los sindicatos renunciar a sus repartidores autónomos y completa la laboralización del sector",
-      "summary": "La gran plataforma que seguía operando con ‘riders’ por cuenta propia anuncia un pacto por el que serán dados de alta en una empresa de nueva creación",
-      "url": "https://elpais.com/economia/2026-10-27/uber-eats-acuerda-con-los-sindicatos-renunciar-a-sus-repartidores-autonomos-y-completa-la-laboralizacion-del-sector.html",
-      "published": "2026-10-27T12:08:57+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/IUGPGKVMC5D4JBDVOA33QFPTDQ.jpg?auth=1fd1d833034761c6dccc8695992e4289254e53ad2cbc48120704bf1708546225",
-      "coverage": 1,
-      "relevance": 18.35,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Acciones brasileñas caen y el real se recupera frente al dólar tras balotaje",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMExmWGYtc0JhbUMxX0p2akVSa0NBQklJS3VBenRvMWpHeW9Xcy1xcTFoZm53b1E0UGE5Qm8xUGlzOUZicW53aGMwQUxBOVpwZzFLZnJvTDliSFhBdWQ4WmZVUnVodjZXbDRPM2dMczFyRUZhQURBaVRHekRQeTd5dzBYeFZkTXdPb21NbGJqM0FFVHNoZ0d2TXhIQ2h6V0pXTkZYMk1ZemE2OEF5UG1Jekp3?oc=5",
-      "published": "2026-10-27T17:09:31+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.83,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Bolsa y real de Brasil se recuperan tras victoria de Lula da Silva mientras inversionistas esperan señales económicas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZkl4VTNnUnpzbG93YzNYUnRibUF0a0tkUy1VZ0hxVUNUV21raWlhRW9IdFpiSFg0ZldUZkhTWUJFYmFpckM1NXo2Q0hGREgxZXhRdDVuaDYtZkg4UDFocElhOEpzMVVoVzN0WmxXQU5LS3FCVHpsa1BxVUw1RnEtczlKX1BFQTlpN2RBSkpPNXFCbUR3aGZDRFM5b1BXSWpXX2RtazZnLVJRMk1zV2l5dGhsb3VaUFI2bTE2RE9XSDl3RGx3c1FWZnBZYkJwajg5cFEtZtIB2gFBVV95cUxOZktLVnNEQ25Ta2hxUkVyTWRNa1pHM3Z0UUJ3TlJDNHRvQThvb3RSeTZNME0xc3YtZVRRa1lwM0c5YWNUcjVDZ3RydEI2cUw1LUlud3FkbmJ1blBXYmJzNElDRzhkZU12UWF0bTFsLWtTUGZsZGd4RTF3Z19wUW1vUzJzVmdTTmgtOVpCeFgxZWNzMk1UNV8xWlpVZS1fVjZlUGpSdGF5NUZhOWpqUHJQalZDQWF6LWV4YXpPS01MSG5ud2pidnhZcGxGN3NlWS1vOGdSal9SUW0xUQ?oc=5",
-      "published": "2026-10-27T16:02:44+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.41,
-      "sources": [
-        "Google Economía"
+        "Google Noticias UY",
+        "Vatican News"
       ]
     },
     {
@@ -122,10 +137,38 @@
       "published": "2026-10-27T15:56:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/2026-08-05-virgen-de-los-33-florida2026-08-1aem.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 2,
-      "relevance": 29.17,
+      "relevance": 27.48,
       "sources": [
         "Google Noticias UY",
         "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Perimenopausia: las señales que muchas mujeres no reconocen",
+      "summary": "Si has tenido una sensación de cansancio repentino, irritabilidad, calor intenso -aún cuando hace frío- y tu ciclo ya no es el mismo de antes quizás podría estar entrando a la etapa de la perimenopausia. “La menopausia es un único día en la vida de la mujer que se diagnostica de forma retroactiva...",
+      "url": "https://es.aleteia.org/2026/10/27/perimenopausia-las-senales-que-muchas-mujeres-no-reconocen/",
+      "published": "2026-10-27T22:21:41+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.29,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Por qué el cristiano debe ejercer siempre la amabilidad?",
+      "summary": "La amabilidad es una cualidad que se agradece en el alma a la persona que la ejerce, sobre todo cuando el ambiente en el que nos desenvolvemos es hostil. Cada uno debe tener experiencias propias, indudablemente. Sin embargo, para algunos parecerá extraño que se relacione esta «habilidad blanda» -o...",
+      "url": "https://es.aleteia.org/2026/10/27/por-que-el-cristiano-debe-ejercer-siempre-la-amabilidad/",
+      "published": "2026-10-27T21:26:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.94,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -137,7 +180,7 @@
       "published": "2026-10-27T18:41:16+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.6,
+      "relevance": 17.91,
       "sources": [
         "Aleteia"
       ]
@@ -151,7 +194,7 @@
       "published": "2026-10-27T18:16:21+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.45,
+      "relevance": 17.76,
       "sources": [
         "Aleteia"
       ]
@@ -165,21 +208,7 @@
       "published": "2026-10-27T16:14:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/26/cuzco-missionari-servi-dei-poveri-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.28,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa se reunirá con algunas víctimas de abusos en América Latina",
-      "summary": "Oficina de Prensa de la Santa Sede: \"Estos encuentros responden al deseo del Papa de expresar su cercanía a quienes han sufrido y siguen sufriendo a causa de esta violencia, y de construir con ellos caminos de sanación accesibles.\"Leer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-10/papa-se-reunira-con-algunas-victimas-de-abusos-en-america-latina.html",
-      "published": "2026-10-27T15:59:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/06/03/10/1780476659861.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.19,
+      "relevance": 17.59,
       "sources": [
         "Vatican News"
       ]
@@ -193,37 +222,65 @@
       "published": "2026-10-27T17:06:33+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.01,
+      "relevance": 17.32,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "La Virgen María salvó a San Antonio María Claret de ahogarse",
-      "summary": "Todos los santos sentían una profunda devoción por la Santísima Virgen, a quien invocaban en cada una de sus necesidades, confiando en ella para recibir protección y ayuda. No solo confiaban en ella para sus necesidades cotidianas, sino también cuando más la necesitaban. Tal fue el caso de la vida...",
-      "url": "https://es.aleteia.org/2026/10/27/la-virgen-maria-salvo-a-san-antonio-maria-claret-de-ahogarse/",
-      "published": "2026-10-27T16:52:40+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Se filtra el iPhone 18e y esta sería la única razón real para comprarlo en 2027",
+      "summary": "Apple parece decidida a mantener la fórmula de su gama de entrada sin muchos cambios en 2027. Una nueva filtración reveló las principales características del iPhone 18e, el próximo móvil \"barato\" de la compañía que debutará en la primavera del próximo año. Los primeros datos anticipan que será más...",
+      "url": "https://hipertextual.com/apple/iphone-18e-filtracion-especificaciones-comparacion-17e/",
+      "published": "2026-10-28T00:09:17+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/iphone-17e-007.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.93,
+      "relevance": 19.96,
       "sources": [
-        "Aleteia"
+        "Hipertextual"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Perú, los Papas entre las heridas de la historia y la fuerza de la fe",
-      "summary": "De Juan Pablo II, que en 1985 llevó un llamamiento a la paz al corazón de la violencia de Ayacucho, a Francisco, que en 2018 dio voz a los pueblos de la Amazonía. Tres visitas a una tierra heredera de la civilización inca, donde el cristianismo ha echado profundas raíces. Ahora regresa León XIV,...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-10/peru-los-papas-entre-las-heridas-de-la-historia-y-la-fe.html",
-      "published": "2026-10-27T15:07:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2026/10/27/11/1793095506581.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Excel quiere ahorrarte horas frente a la pantalla con una nueva IA que hace el trabajo aburrido por ti",
+      "summary": "Excel es una de las aplicaciones que más se ha beneficiado de la integración de la IA. La más reciente tiene que ver con una función que permitirá obtener y limpiar datos automáticamente a través de Copilot. Los usuarios solo necesitarán dictar las instrucciones en lenguaje natural y el asistente...",
+      "url": "https://hipertextual.com/software/excel-obtener-limpiar-datos-ia-copilot/",
+      "published": "2026-10-27T23:02:01+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/excel-copilot.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.87,
+      "relevance": 19.54,
       "sources": [
-        "Vatican News"
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Siete días metiéndose en agua a 14 °C: lo que de verdad dice (y lo que no) el último estudio del “cold plunge”",
+      "summary": "La inmersión en agua fría era algo que parecía reservado para deportistas que necesitaban tener una buena recuperación física tras un esfuerzo considerable, como ocurre, por ejemplo, en futbolistas. Pero esto es algo que ha pasado a convertirse en un ritual para cualquier persona con el objetivo de...",
+      "url": "https://www.xataka.com/investigacion/siete-dias-metiendose-agua-a-14-c-que-verdad-dice-que-no-ultimo-estudio-cold-plunge",
+      "published": "2026-10-27T21:01:27+00:00",
+      "image": "https://i.blogs.es/df1b34/bano-frio/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.09,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Apple pisa el acelerador con el MacBook Neo 2",
+      "summary": "Este año, el MacBook Neo tomó el mercado de portátiles ligeros por asalto. El dispositivo de Apple demostró que un chip de iPhone (y ni siquiera el de última generación) era lo suficientemente potente para ofrecer una experiencia de primera calidad con macOS, sumando a esto un diseño y un precio...",
+      "url": "https://hipertextual.com/apple/apple-pisa-el-acelerador-con-el-macbook-neo-2/",
+      "published": "2026-10-27T20:50:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/MacBook-Neo-6.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -235,7 +292,7 @@
       "published": "2026-10-27T20:01:25+00:00",
       "image": "https://i.blogs.es/e7e78d/captura-de-pantalla-2026-10-27-a-las-17.21.12/1024_2000.png",
       "coverage": 1,
-      "relevance": 20.41,
+      "relevance": 18.71,
       "sources": [
         "Xataka"
       ]
@@ -249,7 +306,7 @@
       "published": "2026-10-27T19:31:27+00:00",
       "image": "https://i.blogs.es/7847df/magnific__quiero-que-hagas-un-montaje-con-ambas-imgenes-poni__7134/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.22,
+      "relevance": 18.52,
       "sources": [
         "Xataka"
       ]
@@ -263,7 +320,7 @@
       "published": "2026-10-27T19:01:27+00:00",
       "image": "https://i.blogs.es/78772d/armadura-satelites/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 18.34,
       "sources": [
         "Xataka"
       ]
@@ -277,202 +334,131 @@
       "published": "2026-10-27T19:45:00+00:00",
       "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2025/03/android-auto-scaled.jpg?fit=1024%2C637&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.0,
+      "relevance": 18.31,
       "sources": [
         "Hipertextual"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El Ayuntamiento de Burgos no encuentra a uno de sus empleados que cobró sin trabajar, así que ha usado el BOE para avisarle",
-      "summary": "El Ayuntamiento de Burgos reclama 279,20 euros que pagó a uno de sus trabajadores municipales por los días que no acudió a trabajar. Al no poder localizarlo en su domicilio, ha publicado un anuncio en el BOE (Boletín Oficial del Estado), para notificárselo. Sin respuesta. La cantidad es pequeña,...",
-      "url": "https://www.xataka.com/legislacion-y-derechos/ayuntamiento-burgos-no-encuentra-a-uno-sus-empleados-que-cobro-trabajar-asi-que-ha-usado-boe-para-avisarle",
-      "published": "2026-10-27T18:31:28+00:00",
-      "image": "https://i.blogs.es/ff1f62/casa_consistorial_burgos_di08/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El cambio de Mou, la polémica insensata...",
+      "summary": "La resaca de la gala del Balón de Oro y la jornada de Copa del Rey son los temas que centran la atención de la prensa deportiva",
+      "url": "https://www.marca.com/futbol/album/2026/10/28/portadas-dia.html",
+      "published": "2026-10-28T00:13:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/6ae13db29cc21.jpeg",
       "coverage": 1,
-      "relevance": 19.84,
+      "relevance": 20.29,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "El iPad mini 8 estrena pantalla OLED, pero también es más caro que la anterior generación: ¿merece la pena dar el salto?",
-      "summary": "Han pasado un par de años desde que Apple lanzó su iPad mini 7 y ahora, por fin, va a llegar una nueva generación. El iPad mini 8 llegará con cambios importantes, pero... ¿son suficientes? En este artículo vamos a desgranar los puntos clave de la nueva generación y compararla con la anterior....",
-      "url": "https://www.xataka.com/seleccion/ipad-mini-8-estrena-pantalla-oled-tambien-caro-que-anterior-generacion-merece-pena-dar-salto",
-      "published": "2026-10-27T18:15:26+00:00",
-      "image": "https://i.blogs.es/c15dfb/ipad-mini-7-y-ipad-mini-8/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Aston Martin lleva la tecnología de la F1 al descapotable más veloz de su historia: 1.079 CV y 350 km/h",
+      "summary": "La firma británica convierte su superdeportivo híbrido de motor central en un descapotable que mantiene toda la potencia y velocidad del Coupé. Llegará a sus primeros clientes en 2027.",
+      "url": "https://www.marca.com/coches-y-motos/coches/hibridos/2026/10/28/aston-martin-lleva-tecnologia-f1-descapotable-veloz-historia-1-079-cv-350-km-h.html",
+      "published": "2026-10-28T00:01:59+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae1135910bf8.jpeg",
       "coverage": 1,
-      "relevance": 19.74,
+      "relevance": 20.22,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Las guarderías son pequeñas fábricas de virus: la pregunta es si eso ayuda a los niños a inmunizarse en el futuro",
-      "summary": "Cualquier padre o madre que haya escolarizado a su hijo en una escuela infantil sabe que una semana de clases suele ir seguida de varios días en casa con fiebre, mocos, tos y seguramente un contagio a todo lo que hay alrededor. Esto hace que el sentimiento que se tenga sea que las guarderías son...",
-      "url": "https://www.xataka.com/medicina-y-salud/ninos-empiezan-guarderia-se-ponen-enfermos-parar-pregunta-eso-les-ayuda-a-inmunizarse-mayores",
-      "published": "2026-10-27T18:01:28+00:00",
-      "image": "https://i.blogs.es/6d7885/guarderia/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Alcazar 0-3 Málaga | Resumen",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/10/28/alcazar-0-3-malaga-resumen-video.html",
+      "published": "2026-10-27T23:21:00+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/gQPrw1guJ784VIlAW.jpeg",
+      "coverage": 1,
+      "relevance": 19.96,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Recreativo de Huelva 2-3 Rayo Vallecano | Resumen",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/10/28/recreativo-huelva-2-3-rayo-vallecano-resumen-video.html",
+      "published": "2026-10-27T23:15:50+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/28/mjt.jpeg",
+      "coverage": 1,
+      "relevance": 19.93,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El árbitro activó el protocolo antirracismo por insultos a Haitam",
+      "summary": "El marroquí advirtió a García Verdura que escuchó el grito \"p*** moro\" en la grada",
+      "url": "https://www.marca.com/futbol/malaga/2026/10/27/arbitro-activo-protocolo-antirracismo-insultos-haitam.html",
+      "published": "2026-10-27T22:54:37+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae12b51da1fd.jpeg",
+      "coverage": 1,
+      "relevance": 19.79,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Manacor 0-5 Villarreal | Resumen",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/2026/10/27/manacor-0-5-villarreal-resumen-video.html",
+      "published": "2026-10-27T22:49:51+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/gQO1A1guIdudd87YD.jpeg",
+      "coverage": 1,
+      "relevance": 19.76,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El Rayo remonta y despide a un combativo Recreativo de la Copa del Rey",
+      "summary": "Los locales aguantaron 45 minutos con uno menos y resucitaron en el segundo tiempo extra",
+      "url": "https://www.marca.com/futbol/copa-rey/cronica/2026/10/27/rayo-remonta-despide-combativo-recreativo-copa-rey.html",
+      "published": "2026-10-27T22:37:39+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae127708497b.jpeg",
+      "coverage": 1,
+      "relevance": 19.69,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El motivo por el que se le resiste el Balón de Oro a Mbappé",
+      "summary": "Rodri, Dembélé y Kane reúnen los títulos que le han faltado al delantero del Real Madrid y un perfil de jugador de equipo",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/10/27/balon-oro-le-resiste-mbappe-tres-ultimos-ganadores-respuesta.html",
+      "published": "2026-10-27T22:32:23+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae08cea849f4.jpeg",
       "coverage": 1,
       "relevance": 19.66,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "Apple se rinde ante la IA y lanza una gran actualización para sus aplicaciones más usadas",
-      "summary": "Apple ha lanzado una actualización que integra la IA en Pages, Numbers, Keynote y otras aplicaciones. Siguiendo la estrategia de Microsoft, los de Cupertino añadieron un asistente inteligente en sus aplicaciones creativas y de productividad. Apple usará sus modelos y los de OpenAI para ofrecer...",
-      "url": "https://hipertextual.com/apple/apple-asistente-ia-openai-pages-numbers-keynote/",
-      "published": "2026-10-27T18:43:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/10/apple-ia-keynote-pages-numbers.jpg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
-      "coverage": 1,
-      "relevance": 19.62,
-      "sources": [
-        "Hipertextual"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "A Landaluce se le escapan cuatro pelotas de partido ante Zverev en Viena",
-      "summary": "El madrileño fuerza el tercer set ante un verdugo que será número 1 ATP el lunes si gana un partido más en Viena",
-      "url": "https://www.marca.com/tenis/2026/10/27/landaluce-le-escapan-cuatro-pelotas-partido-zverev-viena.html",
-      "published": "2026-10-27T20:08:48+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae104a0b785b.jpeg",
-      "coverage": 1,
-      "relevance": 20.45,
-      "sources": [
         "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La redención de Yaman 'El Diamante': \"Sé a lo que aspiro y a dónde voy a llegar\"",
-      "summary": "El peleador de Mondragón habló con MARCA tras noquear a Ubay González en WOW 33 Vitoria",
-      "url": "https://www.marca.com/combates-ufc/2026/10/27/redencion-yaman-diamante-aspiro-llegar.html",
-      "published": "2026-10-27T20:06:19+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0fc91f37db.jpeg",
-      "coverage": 1,
-      "relevance": 20.44,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Eze Ponce y Ali Houary evitan un mal trago del Elche en Pinatar",
-      "summary": "Un doblete del argentino y un gol del canterano permiten a los franjiverdes remontar su duelo de Copa",
-      "url": "https://www.marca.com/futbol/copa-rey/cronica/2026/10/27/eze-ponce-ali-houary-evitan-mal-trago-elche-pinatar.html",
-      "published": "2026-10-27T20:06:11+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae1042bce240.png",
-      "coverage": 1,
-      "relevance": 20.44,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Unas imágenes de Ferran Torres y Sara Sampaio juntos en París aviva los rumores sobre su relación",
-      "summary": "Un vídeo difundido por el periodista Javi Hoyos muestra al futbolista del Barcelona y a la modelo portuguesa entrando juntos en un restaurante",
-      "url": "https://www.marca.com/tiramillas/sociedad/2026/10/27/ferran-torres-sara-sampaio-vistos-restaurante-paris-medio-rumores-sobre-posible-relacion-sentimental.html",
-      "published": "2026-10-27T19:43:57+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0feb5b693c.jpeg",
-      "coverage": 1,
-      "relevance": 20.3,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La principal plataforma china retira de su parrilla el Racing-Real Madrid",
-      "summary": "'Migu' cuenta con más de 400 millones de suscriptores",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/10/27/principal-plataforma-china-contenidos-television-e-internet-retira-parrilla-racing-real-madrid.html",
-      "published": "2026-10-27T19:39:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0fcc487a5b.jpeg",
-      "coverage": 1,
-      "relevance": 20.27,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "El Girona impone su ley",
-      "summary": "Los blanquirrojos demuestran su calidad y efectividad para superar al humilde Cuarte, todo coraje e intensidad",
-      "url": "https://www.marca.com/futbol/girona/2026/10/27/girona-impone-ley.html",
-      "published": "2026-10-27T19:29:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0f188bbb7c.jpeg",
-      "coverage": 1,
-      "relevance": 20.21,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Tebas se reúne con el embajador de China en España: \"Buscamos soluciones para superar este episodio\"",
-      "summary": "El presidente de LaLiga hace pública una imagen del encuentro",
-      "url": "https://www.marca.com/futbol/2026/10/27/tebas-reune-embajador-china-espana-buscamos-soluciones-superar-episodio.html",
-      "published": "2026-10-27T19:25:51+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0fa674c7b1.jpeg",
-      "coverage": 1,
-      "relevance": 20.18,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Lamine Yamal ya mira al futuro Balón de Oro: \"Llegará, las cosas buenas necesitan tiempo\"",
-      "summary": "El jugador del Barça reflexiona el día después de la gala",
-      "url": "https://www.marca.com/futbol/barcelona/2026/10/27/lamine-yamal-mira-futuro-balon-oro-llegara-cosas-buenas-necesitan.html",
-      "published": "2026-10-27T19:18:44+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/10/27/6ae0781bdee96.jpeg",
-      "coverage": 1,
-      "relevance": 20.14,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Elecciones en Israel: ¿qué pasa tras el cierre de las urnas?",
-      "summary": "Israel vive este 27 de octubre unas cruciales elecciones parlamentarias, las primeras desde el ataque de Hamás del 7-0, que sacudió al país y sumió a Medio Oriente en el caos. El gobierno del primer ministro Benjamin Netanyahu está en juego y sus rivales centristas prometen inaugurar una nueva era,...",
-      "url": "https://www.france24.com/es/medio-oriente/20261027-elecciones-en-israel-qu%C3%A9-pasa-tras-el-cierre-de-las-urnas",
-      "published": "2026-10-27T18:54:37+00:00",
-      "image": "https://s.france24.com/media/display/9704be14-d235-11f1-9f94-efcc5769f1db/w:1024/p:16x9/2026-10-27T114259Z-1718951271-RC2LBOAAAZ9N-RTRMADP-3-ISRAEL-ELECTION.jpg",
-      "coverage": 2,
-      "relevance": 30.29,
-      "sources": [
-        "France 24",
-        "Google Noticias"
       ]
     },
     {
       "category": "belico",
       "source": "BBC Mundo",
-      "title": "Israel cierra las urnas con un récord histórico de votación en unas elecciones decisivas para Netanyahu, el país y la región",
-      "summary": "El primer ministro israelí enfrenta una ajustada votación contra Gadi Eisenkot, un exmilitar que encabeza la oposición. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son vistas como un referéndum sobre Netanyahu.",
+      "title": "Elecciones en Israel: las encuestas muestran un empate de Netanyahu con Eisenkot y a los partidos árabes con récord de escaños en el Parlamento",
+      "summary": "El primer ministro israelí enfrenta una ajustada votación contra el exmilitar Gadi Eisenkot. Estas elecciones, las primeras desde los ataques liderados por Hamás contra Israel y las guerras que les siguieron, son vistas como un referéndum sobre Netanyahu.",
       "url": "https://www.bbc.co.uk/mundo/live/cmx28dldw68pt?at_medium=RSS&at_campaign=rss",
-      "published": "2026-10-27T20:16:28.359741+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d53/live/fd8316b0-d1f7-11f1-b441-2b33b063138f.png",
+      "published": "2026-10-28T00:47:24.232801+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2b/live/1e6b5b60-d268-11f1-b441-2b33b063138f.png",
       "coverage": 1,
       "relevance": 21.7,
       "sources": [
@@ -482,13 +468,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Elecciones en Israel: participación récord preocupa a Netanyahu",
-      "summary": "En nuestra sección En Contexto analizamos la histórica participación en las elecciones en Israel. Mientras que el Gobierno de Benjamin Netanyahu alentaba a sus seguidores a salir a votar, agitando el temor al sufragio de la población árabe, los sectores opositores hicieron lo propio, pero motivando...",
-      "url": "https://www.france24.com/es/programas/en-contexto/20261027-elecciones-en-israel-participaci%C3%B3n-r%C3%A9cord-preocupa-a-netanyahu",
-      "published": "2026-10-27T19:36:58+00:00",
-      "image": "https://s.france24.com/media/display/6e5701c2-d23d-11f1-bbe9-75c7729144f1/w:1024/p:16x9/37d10e7d00d8f4c1975ad0f4e4ff944fffb213abw.jpg",
+      "title": "Informe desde Tel Aviv: el ambiente en la sede del partido de Netanyahu tras las elecciones",
+      "summary": "En la sede del Likud, el partido del primer ministro Benjamin Netanyahu, los militantes esperan la aparición del líder israelí para conocer su reacción a los resultados preliminares de las elecciones legislativas. Entre los simpatizantes predomina la cautela: muchos consideran que aún es demasiado...",
+      "url": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-el-ambiente-en-la-sede-del-partido-de-netanyahu-tras-las-elecciones",
+      "published": "2026-10-28T00:38:33+00:00",
+      "image": "https://s.france24.com/media/display/58cf2a54-d266-11f1-9f93-47de50b3c1e4/w:1024/p:16x9/ES-20261027-180231-180611-CS.jpg",
       "coverage": 1,
-      "relevance": 20.55,
+      "relevance": 20.74,
       "sources": [
         "France 24"
       ]
@@ -496,13 +482,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Informe desde Jerusalén: elecciones en Israel, una evaluación a la gestión de Netanyahu",
-      "summary": "El primer ministro Benjamin Netanyahu se enfrenta a una dura batalla por su supervivencia política en las elecciones israelíes de este martes. Los votantes sopesan su liderazgo tras los ataques liderados por Hamás en 2023, las guerras en Gaza y contra Irán, y el creciente aislamiento internacional...",
-      "url": "https://www.france24.com/es/video/20261027-informe-desde-jerusal%C3%A9n-elecciones-en-israel-una-evaluaci%C3%B3n-a-la-gesti%C3%B3n-de-netanyahu",
-      "published": "2026-10-27T19:21:13+00:00",
-      "image": "https://s.france24.com/media/display/97ffaac8-d239-11f1-863a-efcc5769f1db/w:1024/p:16x9/ES-20261027-083253-083639-CS-01.jpg",
+      "title": "Informe desde Tel Aviv: tres sucesos clave por destacar en las elecciones en Israel",
+      "summary": "Las elecciones en Israel dejan varios hitos históricos que ayudan a entender el momento político que vive el país. Empezando por la histórica participación en las urnas, lo que ocurrió con Netanyahu y su partido y por último los partidos árabes y su buen desempeño. Desde Tel Aviv, nuestra...",
+      "url": "https://www.france24.com/es/video/20261028-informe-desde-tel-aviv-tres-sucesos-hist%C3%B3ricos-por-destacar-en-las-elecciones-en-israel",
+      "published": "2026-10-28T00:37:24+00:00",
+      "image": "https://s.france24.com/media/display/b095a710-d264-11f1-87b8-bf69a9ce9852/w:1024/p:16x9/ES-20261027-173210-173634-CS.jpg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 20.74,
       "sources": [
         "France 24"
       ]
@@ -510,13 +496,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Entra en vigor tregua humanitaria en Oleshky mediada por Melania Trump",
-      "summary": "Una tregua para abrir paso a la ayuda humanitaria. El alto el fuego localizado entre Rusia y Ucrania entró en vigor a primera hora de este martes en Oleshky, una localidad del sur de Ucrania bajo ocupación rusa, con el objetivo de permitir el acceso de una misión humanitaria prevista para los...",
-      "url": "https://www.france24.com/es/video/20261027-entra-en-vigor-tregua-humanitaria-en-oleshky-mediada-por-melania-trump",
-      "published": "2026-10-27T19:20:04+00:00",
-      "image": "https://s.france24.com/media/display/0aa45ece-d236-11f1-a169-a7bbbeea0b20/w:1024/p:16x9/ES-20261027-084016-084153-CS-01.jpg",
+      "title": "Daniel Schwartz: \"el crecimiento en la votación de los árabes tiene asustado a Netanyahu\"",
+      "summary": "Tras la jornada electoral en Israel, analizamos los desafíos con los que llega el primer ministro israelí a estos comicios. Entre ellos destaca el aumento de la participación del electorado árabe, un factor que podría reducir el margen de maniobra de su bloque político. A esto se suma el...",
+      "url": "https://www.france24.com/es/video/20261027-daniel-schwartz-el-crecimiento-en-la-votaci%C3%B3n-de-los-%C3%A1rabes-tiene-asustado-a-netanyahu",
+      "published": "2026-10-27T23:04:58+00:00",
+      "image": "https://s.france24.com/media/display/bf9a5878-d25a-11f1-a92d-efcc5769f1db/w:1024/p:16x9/capture-7eecb0a9.jpg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 20.16,
       "sources": [
         "France 24"
       ]
@@ -524,13 +510,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Elecciones en Israel: carrera contrarreloj para conquistar el voto de los indecisos",
-      "summary": "🇮🇱🗳️ A pocos metros de los centros de votación en Israel, los partidos políticos redoblan sus esfuerzos para convencer a los indecisos a último minuto.",
-      "url": "https://www.france24.com/es/video/20261027-elecciones-en-israel-carrera-contrarreloj-para-conquistar-el-voto-de-los-indecisos",
-      "published": "2026-10-27T18:19:10+00:00",
-      "image": "https://s.france24.com/media/display/1a666394-d226-11f1-8c9f-47de50b3c1e4/w:1024/p:16x9/Carrera-contrarreloj-para-conquistar-el-voto-de-los-indecisos.png",
+      "title": "¿Cuáles han sido las mayores controversias del Gobierno de Netanyahu en Israel?",
+      "summary": "Durante la jornada de elecciones legislativas en Israel, los jóvenes se convirtieron en protagonistas y reflejo de una sociedad profundamente dividida. Entre himnos, consignas y canciones de rap a las afueras de los centros de votación, algunos expresaron su rechazo al primer ministro Benjamin...",
+      "url": "https://www.france24.com/es/video/20261027-cu%C3%A1les-han-sido-las-mayores-controversias-del-gobierno-de-netanyahu-en-israel",
+      "published": "2026-10-27T23:03:24+00:00",
+      "image": "https://s.france24.com/media/display/124e35ce-d1f9-11f1-85b0-4d317af013fd/w:1024/p:16x9/2026-10-27T110806Z-1687809367-RC2NBOAX2B7X-RTRMADP-3-ISRAEL-ELECTION.jpg",
       "coverage": 1,
-      "relevance": 20.07,
+      "relevance": 20.15,
       "sources": [
         "France 24"
       ]
@@ -538,13 +524,13 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Francia: la generación que mantiene viva la memoria de Samuel Paty",
-      "summary": "Seis años después del asesinato de Samuel Paty, el docente de historia y geografía decapitado por un terrorista el 16 de octubre de 2020, una nueva generación de estudiantes reivindica la memoria del profesor y el valor de la educación frente al extremismo. Por primera vez desde el crimen,...",
-      "url": "https://www.france24.com/es/programas/en-foco/20261027-francia-la-generaci%C3%B3n-que-mantiene-viva-la-memoria-de-samuel-paty",
-      "published": "2026-10-27T17:32:21+00:00",
-      "image": "https://s.france24.com/media/display/64c25296-960a-11ee-b8e6-005056bf30b7/w:1024/p:16x9/000_347737Y-1.jpg",
+      "title": "Carlos Martínez Assad: \"Los partidos árabes nunca habían votado tanto en Israel\"",
+      "summary": "La jornada electoral en Israel muestra un escenario que ya estaban contemplados, es decir, que la elección no se decidirá el día de hoy sino luego del juego de alianza de los partidos. Por otro lado, los partidos árabes han mostrado una participación mayor, pues incluso en ocasiones anteriores...",
+      "url": "https://www.france24.com/es/video/20261027-carlos-mart%C3%ADnez-assad-los-partidos-%C3%A1rabes-nunca-hab%C3%ADan-votado-tando-en-israel",
+      "published": "2026-10-27T21:47:42+00:00",
+      "image": "https://s.france24.com/media/display/2ce32318-d24e-11f1-822e-a7bbbeea0b20/w:1024/p:16x9/ES-20261027-151645-152024-CS.jpg",
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 19.68,
       "sources": [
         "France 24"
       ]
@@ -552,27 +538,83 @@
     {
       "category": "belico",
       "source": "France 24",
-      "title": "Israel registra una participación electoral récord del 66,7 % a cuatro horas del cierre de las urnas",
+      "title": "¿Por qué el resultado final de las elecciones legislativas en Israel tarda en definirse?",
+      "summary": "Las elecciones legislativas en Israel registraron una participación histórica, en una jornada marcada por ser la primera celebrada desde los ataques del 7 de octubre de 2023. Los sondeos a boca de urna anticipan una contienda muy ajustada entre Benjamin Netanyahu y Gadi Eizenkot, pero el resultado...",
+      "url": "https://www.france24.com/es/video/20261027-por-qu%C3%A9-el-resultado-final-de-las-elecciones-legislativas-en-israel-tarda-en-definirse",
+      "published": "2026-10-27T21:35:16+00:00",
+      "image": "https://s.france24.com/media/display/3f6b77dc-d268-11f1-8421-efcc5769f1db/w:1024/p:16x9/capture-ce1fc795.jpg",
+      "coverage": 1,
+      "relevance": 19.6,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Informe desde Tel Aviv: cierran las urnas en Israel con un récord en participación",
+      "summary": "Durante la jornada de votaciones hubo una participación récord, siendo estas las primeras elecciones en Israel desde el ataque de Hamás del 7 de octubre de 2023. Benjamin Netanyahu y partidos de la coalición pidieron extender la jornada, pero el líder de la oposición se opuso. En vista de la gran...",
+      "url": "https://www.france24.com/es/video/20261027-informe-desde-tel-aviv-cierran-las-urnas-en-israel-con-un-r%C3%A9cord-en-participaci%C3%B3n",
+      "published": "2026-10-27T21:33:24+00:00",
+      "image": "https://s.france24.com/media/display/a6c8e9a4-d24b-11f1-9767-bf69a9ce9852/w:1024/p:16x9/ES-20261027-150640-150910-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.59,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Peñarol cobra medio millón de euros por una cláusula en la venta de Juan Rodríguez al Cagliari",
       "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20261027-%F0%9F%94%B4-en-directo-i-abren-las-urnas-en-israel-el-pa%C3%ADs-vota-en-sus-primeras-elecciones-desde-los-ataques-del-7-de-octubre",
-      "published": "2026-10-27T17:31:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVzJVM2o3RlFPS3h1S3F6SVBiVGUyY1NxeldNbjg5RjQxN0V6eXpxWXRnWGVLQzNqU0dvWkFWMjBJZ3Vac1cwUy1vd2JzX1JDdkppWldnb19IYk5ITDJLYW9zQkxuSkF5cTQzUUg5cktSZlE4RF96QzhjNUFVZkQ3UmxHZkItc3haa1REUkZCRzhfcmxRcnpBQlJQZi1GZFZETjNyX3Q1S28zQUJwb1lySzFPc1llRmZIR3ctZVNrOHY2SGJOTGM1QkRJcG5FY3p3?oc=5",
+      "published": "2026-10-27T22:27:43+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.77,
+      "relevance": 20.53,
       "sources": [
-        "France 24"
+        "El País Uy"
       ]
     },
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Crece desde el Pie: el programa que busca mejorar las condiciones de vida de embarazadas y recién nacidos en Salto",
-      "summary": "Las primeras actuaciones se concentrarán en la zona oeste y se proyecta postular a 23 familias para 2027.La Mesa Interinstitucional de Políticas Sociales de Salto abordó este martes distintos temas vinculados a las políticas públicas y la atención de las situaciones de vulnerabilidad social en el...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/crece-desde-el-pie-el-programa-que-busca-mejorar-las-condiciones-de-vida-de-embarazadas-y-recien-nacidos-en-salto/",
-      "published": "2026-10-27T20:11:18+00:00",
+      "title": "Edil oficialista reclama mayor presencia del gobierno en los barrios para escuchar a los vecinos y gestionar los reclamos",
+      "summary": "El curul de la Coalición Republicana reconoció dificultades para destrabar reclamos dentro de la Intendencia de Salto.David Escobar, edil de la Coalición Republicana (CR), lleva 15 años vinculado a la actividad política y sostiene que su principal característica es escuchar a los vecinos y...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/10/edil-oficialista-reclama-mayor-presencia-del-gobierno-en-los-barrios-para-escuchar-a-los-vecinos-y-gestionar-los-reclamos/",
+      "published": "2026-10-28T00:45:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 19.89,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "¿Dónde está Flávio Bolsonaro? Aliados del excandidato confirman que viajó a Estados Unidos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVE5TYTRlMGRGOWZNekp6aUxtQ25fSHRVdnlSVU1femtBeWk2Qm9zSmwwSXBlQUppRGI4TXVXTGFJelB3VWoxMTg0RjhPVTNfa0VicUt3OTR3dDlMQ0dHc01rTC1NRjRweEozRGhSWDJSdS1FcG5ITnBIQnNPUzRUVTNfUkxZa21sUzA0XzdTXy14VHhwTDhaajNpOVU3bFd4S1lYR0RZb1B1bmZGck1QUV9xQTFPUnpYcGNiREJn?oc=5",
+      "published": "2026-10-27T20:41:34+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.86,
+      "sources": [
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Elecciones en Israel: los aliados del opositor Eisenkot lograron más apoyo, pese a que el partido de Netanyahu fue el más votado",
+      "summary": "Según las encuestas a boca de urna, ninguno de los dos bloques alcanza por si solo la mayoría para formar gobierno, aunque el líder opositor ya festejó los resultados, y los partidos árabes lograron un apoyo histórico.En unas elecciones en las que el primer ministro de Israel, Benjamin Netanyahu,...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/10/elecciones-en-israel-los-aliados-del-opositor-eisenkot-lograron-mas-apoyo-pese-a-que-el-partido-de-netanyahu-fue-el-mas-votado/",
+      "published": "2026-10-28T00:07:28+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.65,
       "sources": [
         "La Diaria"
       ]
@@ -580,13 +622,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La Ursea recomienda suba de todos los combustibles para noviembre",
-      "summary": "El reporte mensual del organismo sugiere incrementos de 3,35% y 3,61% para las naftas Súper 95 y Premium 97, respectivamente, y 31,34% para el Gasoil 50S.Tal como lo hace a finales de cada mes, la Unidad Reguladora de Servicios de Energía y Agua (Ursea) difundió este martes la última versión de su...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/la-ursea-recomienda-suba-de-todos-los-combustibles-para-noviembre/",
-      "published": "2026-10-27T20:04:14+00:00",
+      "title": "En representación del G77, Uruguay exigió “el levantamiento inmediato, completo e incondicional” del bloqueo a Cuba",
+      "summary": "“Todo lo que sabemos de Cuba es amistad y solidaridad; no sabemos nada sobre terrorismo”, afirmó la embajadora Laura Dupuy al solicitar que se retire a Cuba de la lista de países patrocinadores de terrorismo.Este martes, la Asamblea General de la Organización de las Naciones Unidas (ONU) abrió...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/en-representacion-del-g77-uruguay-exigio-el-levantamiento-inmediato-completo-e-incondicional-del-bloqueo-a-cuba/",
+      "published": "2026-10-27T23:53:22+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 19.56,
       "sources": [
         "La Diaria"
       ]
@@ -594,13 +636,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "5k de INJU: la carrera que convoca a jóvenes de todo el país, este miércoles, en Juan Lacaze",
-      "summary": "Con carreras en los 19 departamentos, el Instituto Nacional de la Juventud busca poner en agenda pública “la prevención de la violencia desde otra perspectiva”.Bajo la consigna “La violencia no corre más”, el Instituto Nacional de la Juventud (INJU) viene desarrollando 19 carreras en todo el...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/10/5k-de-inju-la-carrera-que-convoca-a-jovenes-de-todo-el-pais-este-miercoles-en-juan-lacaze/",
-      "published": "2026-10-27T19:37:32+00:00",
+      "title": "Aumentó el consumo de carnes y bajó el de leche en Uruguay, según el Anuario Estadístico Agropecuario",
+      "summary": "El número de establecimientos lecheros viene bajando todos los años, de acuerdo con la información presentada por la Oficina de Estadísticas Agropecuarias.El Ministerio de Ganadería, Agricultura y Pesca presentó este martes el Anuario Estadístico Agropecuario 2026, que recoge los principales...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/aumento-el-consumo-de-carnes-y-bajo-el-de-leche-en-uruguay-segun-el-anuario-estadistico-agropecuario/",
+      "published": "2026-10-27T23:44:48+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.66,
+      "relevance": 19.51,
       "sources": [
         "La Diaria"
       ]
@@ -608,13 +650,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Diputada Badín advirtió que arribo de comunidades tecnológicas a +Colonia “no debe generar segregación territorial”",
-      "summary": "La legisladora frenteamplista expresó que impulsores “deben explicar” cómo se integrarán Praxis y WorkNomands a la sociedad coloniense; gobierno nacional e Intendencia respaldan las iniciativas si cumplen la normativa vigente.Representantes del megaproyecto inmobiliario +Colonia y de la compañía...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/10/diputada-badin-advirtio-que-arribo-de-comunidades-tecnologicas-a-colonia-no-debe-generar-segregacion-territorial/",
-      "published": "2026-10-27T18:47:11+00:00",
+      "title": "Fundación Fénix llevará a Montevideo la experiencia de su casa de Maldonado para personas liberadas de centros penitenciarios",
+      "summary": "“La esperanza se les nota en el semblante”, dijo el director Gonzalo Mieres al evaluar el impacto del proyecto departamental y exponer el trabajo que, por otra parte, desarrollan con internos en cuatro establecimientos.El deporte, el desarrollo humano, la espiritualidad y el trabajo son los cuatro...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/10/fundacion-fenix-llevara-a-montevideo-la-experiencia-de-su-casa-de-maldonado-para-personas-liberadas-de-centros-penitenciarios/",
+      "published": "2026-10-27T22:58:32+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.34,
+      "relevance": 19.22,
       "sources": [
         "La Diaria"
       ]
@@ -622,55 +664,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Javier García denunció penalmente por difamación e injurias a María Julia Muñoz",
-      "summary": "“A partir de ahora, que la Justicia se haga cargo de ella”, expresó el senador nacionalista tras los dichos de la exministra sobre presunta corrupción en el caso Cardama.El senador del Partido Nacional (PN) y líder del sector Alianza País, Javier García, presentó una denuncia penal contra la...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/10/javier-garcia-denuncio-penalmente-por-difamacion-e-injurias-a-maria-julia-munoz/",
-      "published": "2026-10-27T18:38:35+00:00",
+      "title": "Manuel Appratto relató el trabajo y las coordinaciones que se realizan en función de la visita de León XIV",
+      "summary": "El coordinador de gabinete de la intendencia explicó que la comuna no participa de los costos de la visita del papa; la iglesia cuenta con una productora que se encarga de escenario, audio, luces, vallas e ingresos.La experiencia que ha desarrollado Paysandú en eventos masivos y la fluida...",
+      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/10/manuel-appratto-relato-el-trabajo-y-las-coordinaciones-que-se-realizan-en-funcion-de-la-visita-de-leon-xiv/",
+      "published": "2026-10-27T22:56:23+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.29,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "El 82% de las multas de tránsito aplicadas por la Intendencia de Maldonado se registraron mediante cámaras",
-      "summary": "El edil frenteamplista Pablo Cicero reclamó fiscalizar infracciones que los medios electrónicos no captan y aseguró que la multa automática “no está siendo efectiva”.En un año, la intendencia aplicó 202.463 multas de tránsito en Maldonado, de las cuales el 82,6% se registraron mediante...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/10/el-82-de-las-multas-de-transito-aplicadas-por-la-intendencia-de-maldonado-se-registraron-mediante-camaras/",
-      "published": "2026-10-27T18:29:50+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.23,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "La Intendencia de Montevideo lanzó una campaña de prevención ante la llegada de El Niño",
-      "summary": "Autoridades de la comuna presentaron recomendaciones bajo el lema “El Niño no pide permiso”.La Intendencia de Montevideo (IM) presentó una serie de recomendaciones para prepararse frente a la llegada del fenómeno climático El Niño, por el que se prevé un aumento de las lluvias, vientos fuertes y un...",
-      "url": "https://ladiaria.com.uy/cotidiana/articulo/2026/10/la-intendencia-de-montevideo-lanzo-una-campana-de-prevencion-ante-la-llegada-de-el-nino/",
-      "published": "2026-10-27T17:53:24+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.01,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "El padre de Jonathan Correa fue condenado a 20 años de prisión",
-      "summary": "El joven fue asesinado por su padre en marzo en Flor de Maroñas y la Policía encontró su cuerpo en una cañada.El padre de Jonathan Correa, el adolescente de 15 años asesinado a golpes en marzo de este año, fue condenado a 20 años de prisión por el crimen y sus antecedentes por reiterados delitos de...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/10/el-padre-de-jonathan-correa-fue-condenado-a-20-anos-de-prision/",
-      "published": "2026-10-27T16:38:20+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.54,
+      "relevance": 19.21,
       "sources": [
         "La Diaria"
       ]
