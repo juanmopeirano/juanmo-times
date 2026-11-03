@@ -1,6 +1,90 @@
 {
-  "updated_at": "2026-11-02T19:51:40.987452+00:00",
+  "updated_at": "2026-11-03T03:07:16.489910+00:00",
   "articles": [
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "El futuro ya no es lo que era antes",
+      "summary": "El escritor Juan Gabriel Vásquez despide la primera sesión del World in Progress reflexionando sobre los riesgos que afronta la humanidad, como la inteligencia artificial",
+      "url": "https://elpais.com/internacional/2026-11-02/el-futuro-ya-no-es-lo-que-era-antes.html",
+      "published": "2026-11-02T22:16:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/QYF5OKMMEJARZCC6CF5XBZWUC4.jpg?auth=6a54480f0cf06cd2f38425762e5b5c07dedf32eaee04eb18d7bdf9ce4ea3a285",
+      "coverage": 1,
+      "relevance": 19.58,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El dólar alcanzó su precio más alto del año y el riesgo país volvió a superar los 800 puntos",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFRhWjlPTFhSTDlOSV9Xa1VwUkJscU80SXl3WjNNRGFBOVg2SG56eWxlcUlEa044Yml3X1JDdnJGdXVxdTNSRUlSRllydm1WUGFBUDZkU0NfREQ4X05CRHY1ZkpSajNWTzE0a25haVowY1FQZXhwbV8wS1VmNnVJVWs3UDIyXzlEUXBPVlhUNm5XbzJ0S3hhLURLYWpaSmtYMS10TVBUS2RWMTBuelc1d0VnT2QwTmxQalpSUzJiSdIBxAFBVV95cUxPSmJOYjVhTTR1VVdVMmlfXzA2MnQxOWNDSkpOLTNoVEVfMTV1WEhCYTdsbVFZanREVHhLakxYc0lSMTdSRUs5Tk84RWxxRWN0OWdseWEzUXZoUUF5WUlnc2xlY0NYdkJDQ1NvTWFyajdIeFVUMkdNaGlKTFlZejF0d2E4VkdzZTFEZi15SmtaSVhsUm9FLXhVdHZyakVhZDkyQnBsdXRFTnJoSW9ZMkl2QTlqcHBFTk1ZdHlXRXdITWt6QkxY?oc=5",
+      "published": "2026-11-03T00:05:55+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.87,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "En medio de tensiones financieras, el dólar y el riesgo país treparon a los máximos valores del año",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc2JMb1duQjhwa1RxM2swU2ZpQVMyeWh4UjdhVzk2c1V4VXZuY0FzaTFzdW92WXdwZmZER1pDTUVRb3hPLTBOSHE3TlFQVi1jT0lxN1E0dFVWcmtUZ3lkeHF3Wm1QOFR2dWxnSXMxMVF4VnVfUzZ6SDQyYkxQUlR5VFFyZzkyZDJYLVhMNzlHeTQ3SG5aMzVTS1NMNjhlV3JVX2tJTGkzNkdBdDRJekdsMUdDa1BOc2tWZWJueGQ2X0hjQ1hYVHRMWVhUV2VBS3ZsejZRQnlEWlVOZFQwN3lScHk2M2p3R1hRbDYxZFJB0gHzAUFVX3lxTE91ODEtamxwWVk0bDJ3ODNubURpdHZ5TlpCaG5QbThMZmxfc2lJNUI2ZXZLSWttOTdEdFBnQ2VsT0hKNzNYLWRQZlA2ZDI0MnJWYmJVSXp4WVV6WF9vOTFwMlZ5YkNGN1l0ZkJyYWNZazlpSXBhbFo3Yk9MOFJTN3JBSXNtWkF6YVVlU081TjRTS2lDakFHdDY2cFdESUVzbGE3Qk1Zc1BZNjdkLV9NazlUSWE3YnR5dGZjRE5GWkphNHRGbFRPNXFqbE5GUGNlWVgyc2JsX0x3dE9rckxmdDVhWndsaUpCZkt2eVJTaGFFTWRXcw?oc=5",
+      "published": "2026-11-02T22:15:44+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.18,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El riesgo país superó 800 puntos y el dólar tocó un nuevo máximo",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFE0aGNuYWk4Z1VXVmdYc3FoM2NqOU1fdTZSdG8xR3l1cE5fc2p6aFgtZHNocWNFeERXRTVPWVM0TGJNWVJiTnN2d1hJYzdPNnRVVUFRa2tvSlJkS19zZU41R2lZdjRfMHRmUlR3bTk3alZXX0FPWmF2ZHdESlctZDdmNzhQa3NzR0szREZJRWIxSGxLUUxTaWlFMThTb1d5dk8xMENSc9IBpwFBVV95cUxQUFE0aGNuYWk4Z1VXVmdYc3FoM2NqOU1fdTZSdG8xR3l1cE5fc2p6aFgtZHNocWNFeERXRTVPWVM0TGJNWVJiTnN2d1hJYzdPNnRVVUFRa2tvSlJkS19zZU41R2lZdjRfMHRmUlR3bTk3alZXX0FPWmF2ZHdESlctZDdmNzhQa3NzR0szREZJRWIxSGxLUUxTaWlFMThTb1d5dk8xMENScw?oc=5",
+      "published": "2026-11-02T21:59:44+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.08,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Mercados alterados: el Riesgo País superó los 800 puntos y el dólar tocó el valor más alto del año",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS1hfcVdUeVU0ZnlydmpzSExpN0J5ZXVidDBjOFZaRXRTZDJhVlBra1NMWkxDVVBLNFVXMGRiMG1EVU5KeHZTY0lhdV92QlRRUkpPbGtiSFNEU2x2WDE0SjJFOUNKcFpiUXR6R1ppejZoencyS3FSa09PQVYwbEpHUV8xNmI1SlYzcHZyMy1FZnh6MTFra2gxMkJubVRHaTlMUHFMRUwzWHRXdTlKU1NORWJ3VEVTVjhpZGxiS2ZVSHhUbmFRWVI1RUtualhQRFI2UkVYdXQ5aC1STWs?oc=5",
+      "published": "2026-11-02T21:50:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.02,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del dólar hoy 2 de octubre de 2026: peso mexicano supera al dólar por expectativas de paz en Medio Oriente",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaF9udzNLWlJPd1ZETHZXWXhtU3N3c3NranJqcm1QOXg4Z012QllLNFoxZ3ZheUMxbFNEMjdVQ05jVGJObGJRRUlPd1ZvZ25vS3dDaGNIMzJOT3M4TGV3aktJNmxXNjFldnRNNk1LUGhVX0dGeS14NmpLSGhMMG5uYUpkbHFtSEk?oc=5",
+      "published": "2026-11-02T21:18:46+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 16.82,
+      "sources": [
+        "Google Economía"
+      ]
+    },
     {
       "category": "economia",
       "source": "El País Eco",
@@ -10,7 +94,7 @@
       "published": "2026-11-02T14:43:03+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/W3S66Y7SVNFNFFII2OMO6CWCOY.jpg?auth=cef12a4ad6897cb750579f309f757bb2f5dfd5a28e811c4d8afc0ef37eadb5cf",
       "coverage": 1,
-      "relevance": 19.47,
+      "relevance": 16.75,
       "sources": [
         "El País Eco"
       ]
@@ -18,99 +102,129 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "El #dólar alcanza un nuevo récord de 900 pesos en el mercado informal #cubano, mientras el #euro se acerca a los 1.000 y la moneda nacional su hunde entre la inflación y una política económica fracasada. LEE MÁS en #DiarioDeCuba LINK en el primer c",
+      "title": "Mercados: el riesgo país llegó a 797 puntos y cayó el petróleo",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSHBSWFotX2lDOTJSbFJoT3NhdUtEMmNlSUM2bU04d2JHSVlqX2xyeWFqbzFEY0JVZjJJS0VDX01lMUR1YnZtSlc4bER5a3M5cjB0TjM5dndpLWlPSjFVM1U0Rm4ybzlCVTU1TFJobGt4dU9qWm1PYXZjYVN1SHlPREtvRG92YkQzYVFtd2FsTEd5dW9NNzBxbDZOdUp6M3QwbU5CVTZKbEpIUzhKY21rVFA0OGlzSkdDRWs1RWVCck1xVkZMSW9NWWs1b3NrdXA1dV9xWkpUdXZZMzBfQVdsXy05M2lnM00?oc=5",
-      "published": "2026-11-02T17:50:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1URENjMkwzdzRpcFZaM3VOTzFENFRVVG90LXgzYkRuSlRTUHZEZ09zNHFCazBDQy1Ic2F6UnRvaGE1NnpnXy1qVldzMkRNd0huSklNOXpWeS12Rm5Hd3NaX3ZKcXJLZw?oc=5",
+      "published": "2026-11-02T21:02:41+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.25,
+      "relevance": 16.72,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este lunes 2 de noviembre?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPODF2LUh2M19zd3FuSGM5TUctdERJdWwzMmh5Q21VMUZPb2V2TExicGp1bmJaQXp2aXRURlNvM0xuRW5kakFTc0hmS1ZvQktDaXV0MWNfU2g3X3M0V3JSLVctLXVOdUJ6c285dDhTajFPMFNGYnhlSWJvSzI0VlhWVUFCMzFIX29kMkU4Vy1uQVBBZ282eXMzUGZzdnFjLXFMWlJKei05TFZwMEpWaGZtN01nNU5Uejd2MFBZaFJILWxQVERLeW1BWTAxWmh1cXRzc2VNWE1RSjJUSzFUTi0wUVZXaDRyVjc2dldHb05XRFdUUzNtWG03dV9BeTdKQUZlakE?oc=5",
-      "published": "2026-11-02T17:20:03+00:00",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "¿Qué se vota y cómo se vota en Estados Unidos en las elecciones de medio término?",
+      "summary": "Este martes se llevarán a cabo las elecciones de mitad de mandato, en las que se pondrán en juego 435 bancas de diputados y 35 de senadores.Este martes son las elecciones de medio término en Estados Unidos. Como lo establece la ley, se realizan el martes siguiente al primer lunes de noviembre, cada...",
+      "url": "https://ladiaria.com.uy/verifica/articulo/2026/11/que-se-vota-y-como-se-vota-en-estados-unidos-en-las-elecciones-de-medio-termino/",
+      "published": "2026-11-02T23:10:37+00:00",
       "image": null,
-      "coverage": 1,
-      "relevance": 18.05,
+      "coverage": 2,
+      "relevance": 28.42,
       "sources": [
-        "Google Economía"
+        "Google Economía",
+        "La Diaria"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El riesgo país cede levemente, pero se mantiene en torno a los 780 puntos y se recalienta el dólar",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "El mapa del papa León XIV en Uruguay: el recorrido y los lugares que visitará en Montevideo, Paysandú y Florida",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNRVQ0V3B2cWZlNHBLTG9PeXdYQWVOR0FaODJwaVJvQWpnN0p0OGNYMWthdzZxN3VwbDNmcDBHXzU4c1pDOXhTYVQ4UmstR25Ram5jY3VqYVZwVXM2S25ka0UzVkVHRW9YMFFtZTk5VjZPbU9oZEQ0TF9TZVBKZGExeEpXeW5yLW1CNDRmZTl0V0Ezd0xXQi1pZHhQTDFUblFkWTIzYVRNZFQ3VGJhU0hSZ1JKNEpSS2VZdUZjYmF0dzN6UThuTnRwckltWXZmM3NQd1dXRFJCdXRxTU14S1QxMlJWczNadw?oc=5",
-      "published": "2026-11-02T17:12:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOWXZsWHp1d1BTdjAxMlFxLWxPTEJjYmE4Q2ZnYXZ6d1gwbXlZWXEwYzNOeWtBaFc3MndQaUNnZFRRMU1VMmREYmdsX0lLTGlKQ1VtYzZUUDF5VkdxUE1oRkVOQjlUeXBSRkIyb1VtUW04ZjNQVmNDVmtYS2U5a2dmT3FvQXUwMGwxZVlJSnYwb0lvMTRnR1FFdEFtbVBNOUtUSGFZVTRCd2ZUblVnei1OTHhnQ044RWxuajZZNkNGU2ZNMnZyaklxNHRwcnJUS1JlQTYzTGpIV1hMNnVhQWF2RlNQVFNtQjU4R0dRRg?oc=5",
+      "published": "2026-11-02T18:30:26+00:00",
       "image": null,
-      "coverage": 1,
-      "relevance": 18.0,
+      "coverage": 2,
+      "relevance": 28.17,
       "sources": [
-        "Google Economía"
+        "El País Uy",
+        "Google Noticias UY"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El dólar mayorista sube en el inicio de noviembre y se acerca a los $1.550: qué pasó con las reservas",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPczdnb2dtaWdUTm15MnRVYm82eHlwaVgwOHg3a1hFdEExVlpEeFF0a2ZxaUhMQWUxUGZ4YUMwTjdYSDFGTHhvclNjbnBJS25OS0h6bkJlam9BNjRrVlFpLVVEYUJtc0RiS1BhMWVrTGlwdEFDT25zZmVzUXJWSENIcVpwZWVOQ01kVkpibTRQYVl3T2JXOUJyb0RLeE95SFdIWWZWNnpxMmRDTFFBcW1CUGxraDFpa1pncTdSS1N30gHDAUFVX3lxTE9pYmRSUlRLTEc5c2RzTVBPT0lXUUFTRWJRT2wzRXVhYzRaQ0V3RjhWNjhMWWgtcnZkY0s5OW5LM1VPTmZpcDZPYmpWMFEzZWF2eklvdVgwZ1c0ckswVFQzeF9Ya3lHM3k1LXNTUFpUWnpzTWtKYzNlZ2t5VGwyYmZadk1Yb1dUZEUtcUd0cWJneU0zWHY4MzkxSVJGZkUtUmdmaDVFa0hfbTFyZXdkVFlma1B2WGVNOGZQUWVhd2tmLWp3NA?oc=5",
-      "published": "2026-11-02T16:29:50+00:00",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "¿Un país de ateos? Cómo evolucionó el catolicismo y qué lugar ocupa hoy la religión en Uruguay",
+      "summary": "Uruguay se prepara para recibir a León XIV, en lo que será la primera visita de un Papa al país desde 1988. Las encuestas muestran una caída sostenida de la identificación con el catolicismo, pero hay alto nivel de religiosidad.La visita del papa León XIV a Uruguay marcaría el regreso de un...",
+      "url": "https://ladiaria.com.uy/verifica/articulo/2026/11/un-pais-de-ateos-como-evoluciono-el-catolicismo-y-que-lugar-ocupa-hoy-la-religion-en-uruguay/",
+      "published": "2026-11-03T02:47:15+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.74,
+      "relevance": 19.77,
       "sources": [
-        "Google Economía"
+        "La Diaria"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Mercados: el dólar oficial toca el valor más alto del año, aunque avanzó menos que la inflación",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRHhoS09LNWRtT3ppZENtYk1MMHo2bER6RFBpa1d2ZGFSMWl6ajlabUlfTmhObDV3RTBqb01ZN1dUT2Rodkp1T2x3VTBSWmJjUlpDczdJYmJWcngtZ2VRTlZoZ2gzb2tlZkNzQk9MQmN6UlgwYlg2c2VlQWRwaUxQS252aG9CSkRGaDVfNjBad2hoVURrcVBIS3F6MS11Y2h3RmZBWUhOUHFwYVhPQkRid0FYdWFWU3lnQVFzd1JhT2ludzZrUXc3eHBrdlRNTGt2ZUJQdWJ3UTFXQXM?oc=5",
-      "published": "2026-11-02T15:45:00+00:00",
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Tragedia en la madrugada riverense: un motociclista de 23 años murió tras chocar contra una columna en avenida presidente Giró",
+      "summary": "Además, hubo varios procedimientos que finalizaron con la retención de 45 vehículos por faltas graves y alcoholemia.El hecho ocurrió en la madrugada del lunes a la altura de la sede de APADIR cuando la víctima, que según las pericias preliminares se desplazaba a gran velocidad tras haber estado en...",
+      "url": "https://ladiaria.com.uy/rivera/articulo/2026/11/tragedia-en-la-madrugada-riverense-un-motociclista-de-23-anos-murio-tras-chocar-contra-una-columna-en-avenida-presidente-giro/",
+      "published": "2026-11-03T02:27:46+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.46,
+      "relevance": 19.65,
       "sources": [
-        "Google Economía"
+        "La Diaria"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "🪙💵 Así amanece el peso en el tipo del cambio ante el dólar este 2 de noviembre",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Así están la Tabla Anual, Clausura y Descenso de la Liga AUF Uruguaya tras el empate de Deportivo Maldonado",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTFVDOEZnV1U0U0lGZmJnRTRKUFlxN0VWdXN5d3dXRVZjaURfdml6Si1yMzV4RHdMQ0ZYbG1tVmtRZmlXdmJ0UldKR1p4Z2JZckEzaUVOelROSzJyNWlzM2h4WHVwcmFlbkRtc2JQcXE3MEZHQ0dKa0F4ZWh0TFFRYlJiWkMxRDhXUnJkYmdBdHdKaEF0Q0c3dkxxTG9DbHlyNy0wR3BKaDNMYlNRREwzdkRQaGhsdHpqaF9uVEFYQ1ZSQ3VaQ2MwTEE3d0Rzb3dvT0FNa256Qm9mV1VCVTIyVHRKWQ?oc=5",
-      "published": "2026-11-02T15:37:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb1E2UEhnSHVNTFZ4QWtXdS1IQ296cDltU2pmd1N1WWZUdkRPYmZianRZaVJ1cFVmbkdkQk5PbW8ybFBrSk9yMnEyYjNUM0w0TnRYUlNrUHROSWxoNkpnN3dHbG5wNjBhamczNXR0dWI5Q3Z3S2VRMzV3T090Q3l3NWpuRmhEanFGZ3VIWWtEajdEaFBaRGNDZmRHaXNHREs3YmcwTzBtN2FUN0RkQ1c5b01SSEcyckplQXQ5MUlReTRycjZ3VWNaZVZ0N1VKZzVBLUM5ZUR0U2pUaUJF?oc=5",
+      "published": "2026-11-02T22:16:32+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.41,
+      "relevance": 19.58,
       "sources": [
-        "Google Economía"
+        "El País Uy"
       ]
     },
     {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El dólar alcanza un récord de 900 pesos en el mercado informal de Cuba",
+      "category": "uruguay",
+      "source": "El País Uy",
+      "title": "Persecución policial en ruta 102: detuvieron a dos personas tras operativo con un helicóptero de apoyo",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ3dnWXBLWWZFaE5GeDFDcmRxR2xkSW1malkxSWpCVWRlTzdlS0szRm5iSUVHdUNIV1NnSF9RVS1PU2hpU3VzTDNrSmE4b1NRZUJWb1dzR2tJN1dmd0R3b2g4YU4tcE1Hb2NUZ3RrblhObm1KN0RfOTNjdlRhczE3U204OERIMDcyZ2NSempSUjZWTWxqUnVDWktmRHZTLVNuWXUzUQ?oc=5",
-      "published": "2026-11-02T15:12:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUlR0MXpZMEZHM1hpdFFSbUdrclhTS1F0RTlOU0tGTW5kcWY5bnNkYXBXX05LaTNXd2xlS05iTTc0OElndWtxN3JKbHB3aEtMOTJXSjhLZFp3Z1F3SFhYaDlnLWRCX1kybEZoa1o2RFNVdmVWcXJnaHNWcWdCem9sVWo1Z3h4R0pvWkpEWDctVG9UZTdpRUIwMkQxOGxtbG1TTHJOaE03SjY4WjUzQjBrZXlodFU5dUdQSmdFdWVCb3RldnNENGtWcjk2ZkNVMDA5TEVyUFR4U1FqdzQtelZOX0hHR04?oc=5",
+      "published": "2026-11-02T22:01:36+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 17.25,
+      "relevance": 19.49,
       "sources": [
-        "Google Economía"
+        "El País Uy"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Deportivo Maldonado no pudo llegar a la punta de la anual",
+      "summary": "El empate con Albion fue un partido espectacular con inolvidable actuación de los goleros.En un partido casi único e inexplicable si uno solo observa el resultado final sin goles, Albion y Deportivo Maldonado empataron 0-0 en el Franzini y ello hizo que Peñarol se mantuviera en la cima de la tabla...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/deportivo-maldonado-no-pudo-llegar-a-la-punta-de-la-anual/",
+      "published": "2026-11-03T01:47:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.4,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Trump mintió sobre sus logros y advirtió sobre sus adversarios en la jornada previa a las elecciones de mitad de mandato",
+      "summary": "“Estos son los candidatos más peligrosos: yihadistas y miembros de los Hermanos Musulmanes”, expresó el mandatario sobre el postulante demócrata al Senado Abdul El-Sayed.Este martes los ciudadanos estadounidenses están convocados para votar en una instancia clave, las elecciones de medio mandato,...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/trump-mintio-sobre-sus-logros-y-advirtio-sobre-sus-adversarios-en-la-jornada-previa-a-las-elecciones-de-mitad-de-mandato/",
+      "published": "2026-11-03T01:10:29+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.17,
+      "sources": [
+        "La Diaria"
       ]
     },
     {
@@ -122,10 +236,38 @@
       "published": "2026-11-02T15:49:01+00:00",
       "image": null,
       "coverage": 2,
-      "relevance": 28.68,
+      "relevance": 25.96,
       "sources": [
         "Aleteia",
         "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Nuestros seres queridos no murieron, han nacido a la Luz",
+      "summary": "La tristeza invade nuestro corazón porque esa persona amada ha muerto. Sabemos que no volveremos a verla en este mundo y que el tiempo que nos reste de vida la extrañaremos con todas nuestras fuerzas, por eso, el dolor en algunos momentos parece insoportable. Entonces, los recuerdos afloran con...",
+      "url": "https://es.aleteia.org/2026/11/02/nuestros-seres-queridos-no-murieron-han-nacido-a-la-luz/",
+      "published": "2026-11-02T19:50:06+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.47,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Mapa del amor: qué tanto conoces el mundo de tu pareja",
+      "summary": "Es fácil creer que conoces a tu pareja de memoria, pero muchas veces seguimos conviviendo con la versión de la persona que conocimos hace años. La intimidad no se mantiene sola con el cariño o la rutina; se alimenta de la curiosidad activa por su presente: sus batallas actuales, sus metas recientes...",
+      "url": "https://es.aleteia.org/2026/11/02/mapa-del-amor-que-tanto-conoces-el-mundo-de-tu-pareja/",
+      "published": "2026-11-02T19:16:14+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.26,
+      "sources": [
+        "Aleteia"
       ]
     },
     {
@@ -137,7 +279,7 @@
       "published": "2026-11-02T18:35:10+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.72,
+      "relevance": 17.0,
       "sources": [
         "Aleteia"
       ]
@@ -151,7 +293,7 @@
       "published": "2026-11-02T16:57:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/02/31.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.71,
+      "relevance": 16.99,
       "sources": [
         "Vatican News"
       ]
@@ -165,7 +307,7 @@
       "published": "2026-11-02T16:12:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/31/image-3.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.43,
+      "relevance": 16.7,
       "sources": [
         "Vatican News"
       ]
@@ -179,7 +321,7 @@
       "published": "2026-11-02T17:36:38+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.36,
+      "relevance": 16.63,
       "sources": [
         "Aleteia"
       ]
@@ -193,37 +335,51 @@
       "published": "2026-11-02T15:30:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/02/2026-11-02-commemorazione-di-tutti-i-fedeli-defunti--santa-messa/1793632797907.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 19.16,
+      "relevance": 16.44,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Con la fe, el vínculo con el difunto «no se rompe, sino que se transforma», asegura León XIV",
-      "summary": "«La fe en Cristo nos dice que nuestro vínculo con los fieles difuntos no se rompe, sino que se transforma», explicó el Papa León XIV el 2 de noviembre de 2026, conmemoración de todos los fieles difuntos. Como el año pasado, el Obispo de Roma presidió la celebración eucarística a las 16:00 horas en...",
-      "url": "https://es.aleteia.org/2026/11/02/con-la-fe-el-vinculo-con-el-difunto-no-se-rompe-sino-que-se-transforma-asegura-leon-xiv/",
-      "published": "2026-11-02T16:38:20+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Binance sufrió el mayor robo de criptomonedas de la historia, pero el verdadero examen llegó después: la confianza",
+      "summary": "No hace falta operar con criptomonedas para haber oído hablar de Binance. Su nombre se ha convertido en una de las grandes referencias de un mercado que ha crecido hasta atraer a millones de personas en todo el mundo. Hablamos del mayor exchange de criptomonedas del planeta, una plataforma en la...",
+      "url": "https://www.xataka.com/criptomonedas/binance-sufrio-mayor-robo-criptomonedas-historia-verdadero-examen-llego-despues-confianza",
+      "published": "2026-11-02T22:55:00+00:00",
+      "image": "https://i.blogs.es/a724ca/binance/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.99,
+      "relevance": 18.92,
       "sources": [
-        "Aleteia"
+        "Xataka"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "De Lisboa a Seúl, las JMJ y los jóvenes en la construcción de la paz",
-      "summary": "Las Jornadas Mundiales de la Juventud de 2023 y 2027 fueron el tema central de la conferencia celebrada el 30 de octubre en Roma, en la Embajada de Portugal ante la Santa Sede, incluida en el Festival de la Diplomacia. La embajadora Paiva reconoce el compromiso de las nuevas generaciones «cuando...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/lisboa-seul-papel-jmj-jovenes-construccion-paz.html",
-      "published": "2026-11-02T14:40:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/ottobre/30/conferencia-embaixada.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Google ha dado un paso clave hacia los centros de datos espaciales: acaba de ejecutar IA en órbita",
+      "summary": "Nos hemos acostumbrado a utilizar la inteligencia artificial para tareas tan cotidianas como resolver una duda o traducir un texto. Lo hacemos desde el móvil o el ordenador, sin detenernos demasiado en los enormes recursos informáticos que hacen posible cada respuesta. Sin embargo, detrás de esa...",
+      "url": "https://www.xataka.com/robotica-e-ia/google-ha-dado-paso-clave-centros-datos-espaciales-acaba-ejecutar-ia-orbita",
+      "published": "2026-11-02T20:01:24+00:00",
+      "image": "https://i.blogs.es/d4a681/google-ia-espacio2/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 18.85,
+      "relevance": 17.84,
       "sources": [
-        "Vatican News"
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Olvídate de usar Claude Code para clonar tus juegos favoritos: Anthropic cambia las reglas por la piratería",
+      "summary": "Si pensabas pedirle a Claude Code que te ayude a crear tu propio GTA 6 sin saber programar y sin gastar miles de millones de dólares, ve pensando en una idea mejor. Anthropic ha cambiado las reglas del funcionamiento de su plataforma de programación con IA para impedir la piratería. A finales de la...",
+      "url": "https://hipertextual.com/inteligencia-artificial/olvidate-de-usar-claude-code-para-clonar-tus-juegos-favoritos/",
+      "published": "2026-11-02T20:23:57+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/04/claude-code-app-portada.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 17.68,
+      "sources": [
+        "Hipertextual"
       ]
     },
     {
@@ -235,7 +391,7 @@
       "published": "2026-11-02T19:31:27+00:00",
       "image": "https://i.blogs.es/ab9a64/img_7082-1-/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.37,
+      "relevance": 17.65,
       "sources": [
         "Xataka"
       ]
@@ -249,7 +405,7 @@
       "published": "2026-11-02T19:01:26+00:00",
       "image": "https://i.blogs.es/ca7e7a/magnific__aplica-el-estilo-quiero-que-el-fondo-sea-rojo-y-la__53736/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.19,
+      "relevance": 17.46,
       "sources": [
         "Xataka"
       ]
@@ -263,7 +419,7 @@
       "published": "2026-11-02T19:01:30+00:00",
       "image": "https://i.blogs.es/8aab18/electricista/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.89,
+      "relevance": 17.16,
       "sources": [
         "Genbeta"
       ]
@@ -274,10 +430,10 @@
       "title": "OpenAI combinará Chat y Work. Y hará realidad lo que muchos temían: ChatGPT y Codex compartirán los límites de uso",
       "summary": "Durante mucho tiempo, nuestra principal preocupación al abrir ChatGPT era conseguir una buena respuesta. Ahora hay otra pregunta que empieza a acompañar a quienes lo utilizan para algo más que conversar: cuánto margen queda antes de encontrarse con un límite. Y no porque todos los usuarios estén...",
       "url": "https://www.xataka.com/robotica-e-ia/openai-combinara-chat-work-hara-realidad-que-muchos-temian-chatgpt-codex-compartiran-limites-uso",
-      "published": "2026-11-02T18:01:28+00:00",
+      "published": "2026-11-02T18:00:00+00:00",
       "image": "https://i.blogs.es/6d03da/chatgpt-limites-de-uso/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.81,
+      "relevance": 17.08,
       "sources": [
         "Xataka"
       ]
@@ -291,387 +447,234 @@
       "published": "2026-11-02T17:15:26+00:00",
       "image": "https://i.blogs.es/240266/action/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.52,
+      "relevance": 16.8,
       "sources": [
         "Xataka"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Brasil hundirá un túnel bajo el canal del mayor puerto de Latinoamérica: de una hora en coche a unos 5 minutos",
-      "summary": "Entre las ciudades brasileñas de Santos y Guarujá hay un canal de acceso que las separa y que sirve para acceder al mayor puerto de contenedores de Latinoamérica, el de Santos, el de Santos: en 2024, fue capaz de mover 5,48 millones de contenedores (TEU), unos 1,56 millones más que el segundo...",
-      "url": "https://www.xataka.com/ingenieria-y-megaconstrucciones/brasil-hundira-tunel-canal-mayor-puerto-latinoamerica-hora-coche-a-unos-5-minutos",
-      "published": "2026-11-02T17:01:28+00:00",
-      "image": "https://i.blogs.es/88f7c7/gemini_generated_image_h90gwwh90gwwh90g/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El triunfo es oro, alerta en la Champions para algunos...",
+      "summary": "Así vienen los periódicos deportivos de este martes 3 de noviembre de 2026.",
+      "url": "https://www.marca.com/futbol/album/2026/11/03/portadas-dia.html",
+      "published": "2026-11-03T00:35:57+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae92b9d50a0f.jpeg",
       "coverage": 1,
-      "relevance": 19.44,
+      "relevance": 19.55,
       "sources": [
-        "Xataka"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Hipertextual",
-      "title": "El HomeView es solo el principio: filtrados los planes de Apple para una versión Ultra con brazo robótico",
-      "summary": "De la mano del HomeView, Apple recientemente ha dado el salto a una nueva de dispositivos para el hogar conectado. Pero este es solo el primer paso para ganarse un lugar en el segmento de las pantallas inteligentes. La compañía tiene planes todavía más ambiciosos de la mano de un HomeView Ultra,...",
-      "url": "https://hipertextual.com/apple/el-homeview-es-solo-el-principio-filtrados-los-planes-de-apple-para-una-version-ultra-con-brazo-robotico/",
-      "published": "2026-11-02T17:35:00+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/Apple-HomeView-lifestyle-living-room-261013-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Cristiano Ronaldo Jr, un crecimiento imparable: ahora con la sub 17",
+      "summary": "El hijo de CR7 se estrenará en esa categoría",
+      "url": "https://www.marca.com/futbol/2026/11/03/cristiano-ronaldo-jr-convocado-portugal-sub-17.html",
+      "published": "2026-11-02T23:33:29+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae91d2ce7cbc.jpeg",
       "coverage": 1,
-      "relevance": 19.35,
+      "relevance": 19.16,
       "sources": [
-        "Hipertextual"
+        "Marca"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Google ha mejorado tanto su buscador con IA que se ha encontrado con un problema: necesita empeorarlo para ganar dinero",
-      "summary": "Que todas las empresas se han volcado en la IA no es algo que a estas alturas nos sorprenda, ya que basta con abrir casi cualquier app, servicio o plataforma para ver que está ahí. Los chatbots son omnipresentes, las herramientas generativas también. Y pocas empresas la han abrazado de manera tan...",
-      "url": "https://www.xataka.com/robotica-e-ia/google-ha-mejorado-su-buscador-ia-que-se-ha-encontrado-problema-necesita-empeorarlo-para-ganar-dinero",
-      "published": "2026-11-02T16:33:27+00:00",
-      "image": "https://i.blogs.es/243fdd/google-portada/1024_2000.jpeg",
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El Raja de Casablanca echa a Paco Jémez tras cinco partidos",
+      "summary": "Apenas dos meses después de llegar al banquillo",
+      "url": "https://www.marca.com/futbol/2026/11/03/raja-casablanca-destituye-paco-jemez-cinco-partidos.html",
+      "published": "2026-11-02T23:26:21+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae91b33b95ad.jpeg",
+      "coverage": 1,
+      "relevance": 19.12,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El cambio que casi nadie esperaba",
+      "summary": "El equipo blanco encuentra el equilibrio con el balón y Mou empieza a ver cómo sus ideas calan en el vestuario",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/11/02/clave-nuevo-madrid-nadie-esperaba.html",
+      "published": "2026-11-02T22:56:54+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8672e59d80.jpeg",
+      "coverage": 1,
+      "relevance": 18.94,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Emery recuerda el 6-1 del Barça a 'su' PSG: \"Todo lo que pasó en ese partido, lo sabemos...\"",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/champions-league/2026/11/02/unai-emery-remontada-demostro-var-necesar-video.html",
+      "published": "2026-11-02T22:48:10+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/Lk1gwH9YWWGmIl.jpeg",
+      "coverage": 1,
+      "relevance": 18.88,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Mallorca 2-1 Cádiz | Resumen",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/segunda-division/2026/11/02/mallorca-2-1-cadiz-resumen-video.html",
+      "published": "2026-11-02T22:23:11+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae90d225f3b0.jpeg",
+      "coverage": 1,
+      "relevance": 18.72,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Deportivo 2-1 Osasuna | Resumen",
+      "summary": "",
+      "url": "https://www.marca.com/futbol/primera-division/2026/11/02/deportivo-2-1-osasuna-resumen-video.html",
+      "published": "2026-11-02T22:19:14+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae90b3a20cd1.jpeg",
+      "coverage": 1,
+      "relevance": 18.7,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Aubameyang vuelve dos semanas antes... y se acaba la mala racha",
+      "summary": "Jugó 24 minutos tras lesionarse el pasado 20 de septiembre acortando casi dos semanas en su recuperación",
+      "url": "https://www.marca.com/futbol/deportivo/2026/11/02/aubameyang-vuelve.html",
+      "published": "2026-11-02T22:13:55+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae90c42b745f.jpeg",
+      "coverage": 1,
+      "relevance": 18.67,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Ucrania: al menos 26 muertos en un ataque ruso durante una distribución de ayuda en Zaporizhia",
+      "summary": "Rusia llevó a cabo varios ataques aéreos el lunes 2 de noviembre contra una escuela que distribuía ayuda humanitaria en Komyshuvakha, en la región de Zaporizhia, en el sureste de Ucrania. Al menos 26 personas murieron. Estos bombardeos han destruido \"cualquier esperanza de progreso hacia la paz\",...",
+      "url": "https://www.france24.com/es/europa/20261103-ucrania-al-menos-26-muertos-en-un-ataque-ruso-durante-una-distribuci%C3%B3n-de-ayuda-en-zaporizhia",
+      "published": "2026-11-03T00:34:35+00:00",
+      "image": "https://s.france24.com/media/display/239cd19c-d71b-11f1-90e9-695cb59fade5/w:1024/p:16x9/2026-11-02T213053Z-3438278-RC2RFOA2ZCQZ-RTRMADP-3-UKRAINE-CRISIS-ATTACK-ZAPORIZHZHIA-REGION.jpg",
+      "coverage": 2,
+      "relevance": 29.85,
+      "sources": [
+        "France 24",
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "\"Era como si cayera un misil\": 9 muertos al estrellarse un avión privado en un vecindario de Florida",
+      "summary": "La aeronave privada se estrelló en el condado de Palm Beach, Florida. Imágenes captadas por los residentes mostraban al jet cayendo a gran velocidad antes de estrellarse.",
+      "url": "https://www.bbc.com/mundo/articles/c61m4yyjyrrxo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-03T01:52:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dcbe/live/2ee3b230-d6cd-11f1-a701-fddedf244c16.jpg",
+      "coverage": 1,
+      "relevance": 21.23,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "BBC Mundo",
+      "title": "Las 7 elecciones clave que tienes que mirar para saber si los demócratas recuperan el control del Senado en EE.UU.",
+      "summary": "Todas las miradas están puestas en un puñado de elecciones al Senado que decidirán el control de la codiciada Cámara Alta. Aquí tienes una breve guía.",
+      "url": "https://www.bbc.com/mundo/articles/c9ly0x3jr86eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-02T22:06:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d352/live/f9439fd0-d6fb-11f1-b983-c357054e4d1e.png",
+      "coverage": 1,
+      "relevance": 19.82,
+      "sources": [
+        "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Ciberataque en Europa arruina cientos de kilos de alimentos en supermercados de diferentes países",
+      "summary": "Una ola de ciberataques ha afectado los sistemas de refrigeración de supermercados en varios países de la Unión Europea, provocando fallos en neveras y congeladores y obligando a algunos establecimientos a retirar productos o desechar alimentos. Además, los incidentes recuerdan a ataques similares...",
+      "url": "https://www.france24.com/es/video/20261102-ciberataque-en-europa-arruina-cientos-de-kilos-de-alimentos-en-supermercados-de-diferentes-pa%C3%ADses",
+      "published": "2026-11-02T23:00:35+00:00",
+      "image": "https://s.france24.com/media/display/0c5515f4-d70b-11f1-b91b-a575454bc579/w:1024/p:16x9/ES-20261102-131034-131221-CS.jpg",
       "coverage": 1,
       "relevance": 19.26,
       "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Mastantuono saca a la Fiorentina del pozo",
-      "summary": "El argentino desatascó el duelo ante el Sassuolo",
-      "url": "https://www.marca.com/futbol/liga-italiana/cronica/2026/11/02/mastantuono-saca-fiorentina-pozo.html",
-      "published": "2026-11-02T19:28:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8e44d6cb66.jpeg",
-      "coverage": 1,
-      "relevance": 20.36,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Morata, doblete... y sin más tiempo para el milagro",
-      "summary": "Cuarta victoria, todas ante su afición, del Pucela, mientras Morata marca sus dos primeros goles con el Leganés",
-      "url": "https://www.marca.com/futbol/segunda-division/cronica/2026/11/02/valladolid-reencuentra-zorrilla-pese-goles-morata.html",
-      "published": "2026-11-02T19:27:35+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8e0eecdc5f.jpeg",
-      "coverage": 1,
-      "relevance": 20.35,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"Cambiaría ganar la Champions por mi Balón de Oro\"",
-      "summary": "El Balón de Oro habló en rueda de Prensa antes del partido de mañana del Metropolitano",
-      "url": "https://www.marca.com/futbol/atletico/2026/11/02/kane-cambiaria-ganar-champions-mi-balon-oro.html",
-      "published": "2026-11-02T19:10:22+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8dd536bde7.jpeg",
-      "coverage": 1,
-      "relevance": 20.24,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Oficial: Jake Paul se enfrentará a Doumbé el 24 de diciembre en Dubái",
-      "summary": "El púgil estadounidense más mediático se vuelve a subir al ring ante una de las mayores superestrellas de los deportes de contacto en Francia",
-      "url": "https://www.marca.com/boxeo/2026/11/02/oficial-jake-paul-enfrentara-doumbe-24-diciembre-dubai.html",
-      "published": "2026-11-02T18:58:29+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8db7c95cc0.jpeg",
-      "coverage": 1,
-      "relevance": 20.17,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "\"Hubo momentos en los que dudé de si podría volver a pegar la derecha a mi máximo nivel\"",
-      "summary": "El murciano se congratula de haber recuperado su mejor nivel tras la lesión en su muñeca derecha",
-      "url": "https://www.marca.com/tenis/masters-1000-paris/2026/11/02/alcaraz-lesion-hubo-momentos-dude-podria-volver-pegar-derecha-mi-maximo-nivel.html",
-      "published": "2026-11-02T18:58:09+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8dae74e7d9.jpeg",
-      "coverage": 1,
-      "relevance": 20.17,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La cruda realidad de Bronny James",
-      "summary": "El base ha jugado menos de 10 minutos en lo que va de temporada, los Lakers han perdido por 25 con él en pista y ante los Raptors un parcial de 2-13 tras su salida casi les condena",
-      "url": "https://www.marca.com/baloncesto/nba/2026/11/02/cruda-realidad-bronny-james.html",
-      "published": "2026-11-02T18:22:09+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8c302c2517.jpeg",
-      "coverage": 1,
-      "relevance": 19.94,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Adiós a una era: El 'superequipo' que dice adiós al pelotón en 2027",
-      "summary": "Campeones del mundo, de grandes vueltas y clasicómanos de relumbrón cuelgan la bici esta temporada",
-      "url": "https://www.marca.com/ciclismo/album/2026/11/02/adios-superequipo-dice-adios-peloton-2027.html",
-      "published": "2026-11-02T18:16:03+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8d117bec46.png",
-      "coverage": 1,
-      "relevance": 19.9,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Retirados los últimos vagones del accidente de Urda mientras continúa la búsqueda de restos humanos",
-      "summary": "La retirada de los convoyes permitirá trasladar este martes los vagones a una ubicación designada por la jueza para analizar las causas del siniestro, que ha dejado 69 fallecidos",
-      "url": "https://www.marca.com/tiramillas/sucesos/2026/11/02/retirados-ultimos-vagones-accidente-urda-continua-busqueda-restos-humanos.html",
-      "published": "2026-11-02T18:07:38+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/02/6ae8d09a20e1a.jpeg",
-      "coverage": 1,
-      "relevance": 19.85,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Midterms: seguridad y economía, preocupaciones de los votantes de Carolina del Norte",
-      "summary": "El nombre de la refugiada ucraniana Iryna Zarutska ha estado en medio de la campaña republicana en Carolina del Norte. El hombre que la asesinó, quien tiene problemas de salud mental, había quedado libre en 2020 tras un beneficio otorgado por el ex gobernador demócrata Roy Cooper, quien en la...",
-      "url": "https://www.france24.com/es/video/20261102-midterms-seguridad-y-econom%C3%ADa-preocupaciones-de-los-votantes-de-carolina-del-norte",
-      "published": "2026-11-02T18:58:32+00:00",
-      "image": "https://s.france24.com/media/display/95f3a568-d6e4-11f1-bc1c-a575454bc579/w:1024/p:16x9/ES-20261102-073735-073920-CS-01.jpg",
-      "coverage": 1,
-      "relevance": 20.47,
-      "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
       "source": "France 24",
-      "title": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar?",
-      "summary": "¿Qué hay detrás de la violencia contra los periodistas que las autoridades no pueden frenar? Cada 2 de noviembre, el mundo conmemora el Día Internacional para Poner Fin a la Impunidad de los Crímenes contra Periodistas, una fecha establecida por la ONU hace 13 años tras el asesinato de dos...",
-      "url": "https://www.france24.com/es/programas/invitad-del-d%C3%ADa/20261102-qu%C3%A9-hay-detr%C3%A1s-de-la-violencia-contra-los-periodistas-que-las-autoridades-no-pueden-frenar",
-      "published": "2026-11-02T18:35:14+00:00",
-      "image": "https://s.france24.com/media/display/1c787be8-d6ec-11f1-ae62-1beafce15fea/w:1024/p:16x9/capture-3beab436.jpg",
+      "title": "Israel negocia contrarreloj antes de que Herzog anuncie al líder que intentará formar gobierno",
+      "summary": "En Israel, las principales fuerzas políticas intensifican las negociaciones para formar una coalición de gobierno antes de que el presidente Isaac Herzog anuncie a qué líder encargará oficialmente la misión de intentar conformar un Ejecutivo. Las conversaciones se centran en la búsqueda de apoyos...",
+      "url": "https://www.france24.com/es/video/20261102-israel-negocia-contrarreloj-antes-de-que-herzog-anuncie-al-l%C3%ADder-que-intentar%C3%A1-formar-gobierno",
+      "published": "2026-11-02T22:58:18+00:00",
+      "image": "https://s.france24.com/media/display/b70135dc-d706-11f1-ba73-695cb59fade5/w:1024/p:16x9/ES-20261102-130430-130644-CS.jpg",
       "coverage": 1,
-      "relevance": 20.32,
+      "relevance": 19.24,
       "sources": [
         "France 24"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Los aliados \"temen que Trump ataque a la OTAN\" si pierde las Midterms: 'Politico'",
-      "summary": "Estados Unidos irá a las urnas este 3 de noviembre para sus elecciones de medio mandato, que definirán la nueva configuración del Senado y la Cámara de Representantes. A su vez, las Midterms servirán como un referendo sobre el segundo Gobierno del presidente Donald Trump y de sus controversiales...",
-      "url": "https://www.france24.com/es/programas/revista-de-prensa/20261102-los-aliados-temen-que-trump-ataque-a-la-otan-si-pierde-las-midterms-politico",
-      "published": "2026-11-02T18:20:45+00:00",
-      "image": "https://s.france24.com/media/display/88a2bb18-d6c8-11f1-8cbf-1beafce15fea/w:1024/p:16x9/ES-20261102-081255-082022-CS.jpg",
-      "coverage": 1,
-      "relevance": 20.23,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "Investigan un posible ciberataque que afecta los refrigeradores de supermercados en 7 países europeos y causa pérdidas millonarias",
-      "summary": "Según los informes, la temperatura de los congeladores en varias tiendas de toda Europa llegó a alcanzar los 50°C.",
-      "url": "https://www.bbc.com/mundo/articles/cw1l31v5rnrpo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T15:39:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
-      "coverage": 1,
-      "relevance": 20.13,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Trump entra en la lista de depredadores de la prensa de RSF por \"reducir el periodismo a propaganda\"",
-      "summary": "Reporteros Sin Fronteras incluye en la lista anual de depredadores de la prensa al mandatario estadounidense, Donald Trump, \"como resultado de su espantoso historial de ataques\" contra los periodistas. El veto a algunos medios de comunicación en la Casa Blanca, \"acciones legales abusivas\" o la...",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261102-trump-entra-en-la-lista-de-depredadores-de-la-prensa-de-rsf-por-reducir-el-periodismo-a-propaganda",
-      "published": "2026-11-02T18:02:44+00:00",
-      "image": "https://s.france24.com/media/display/86231eb0-4d65-11f1-8e3a-005056bf30b7/w:1024/p:16x9/2026-05-09T051410Z-1227356759-RC2Q9FAW3JY6-RTRMADP-3-IRAN-CRISIS-TRUMP-ALLIANCES.jpg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "De Bélgica a Suecia, nueva ola de ciberataques contra sistemas de refrigeración afecta a decenas de supermercados",
-      "summary": "A primera hora de este lunes 2 de noviembre, tiendas y supermercados de al menos siete países, entre ellos Bélgica, Luxemburgo, Finlandia, Estonia y Suecia, informaron sobre un aumento repentino de la temperatura en sus neveras y congeladores, en un aparente ciberataque dirigido a sus sistemas de...",
-      "url": "https://www.france24.com/es/europa/20261102-de-b%C3%A9lgica-a-suecia-nueva-ola-de-ciberataques-contra-sistemas-de-refrigeraci%C3%B3n-afecta-a-decenas-de-supermercados",
-      "published": "2026-11-02T16:34:29+00:00",
-      "image": "https://s.france24.com/media/display/071116b6-d6b0-11f1-99f9-695cb59fade5/w:1024/p:16x9/000-D64Y2DM.jpg",
-      "coverage": 1,
-      "relevance": 19.57,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "BBC Mundo",
-      "title": "\"Cerró la frontera, pero vivimos peor\": el descontento de los votantes latinos que le dieron a Trump un histórico apoyo en el sur de Texas",
-      "summary": "Trump logró en 2024 un apoyo histórico en el Valle del Río Grande, una región fronteriza con México que no había elegido a un republicano para la Casa Blanca en más de tres décadas. Hoy las encuestas las encabezan los demócratas.",
-      "url": "https://www.bbc.com/mundo/articles/c6y9315lrelzo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-02T14:09:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dfd6/live/305c3730-d345-11f1-8a05-59afc813496d.jpg",
-      "coverage": 1,
-      "relevance": 19.56,
-      "sources": [
-        "BBC Mundo"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Líder supremo de Irán otorga “facultades” al Gobierno para negociar un fin de la guerra con EE. UU.",
+      "source": "Google Noticias",
+      "title": "Ataque a Qeshm: EE.UU. golpea isla iraní en Ormuz hoy",
       "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20261102-l%C3%ADder-supremo-de-ir%C3%A1n-otorga-facultades-al-gobierno-para-negociar-un-fin-de-la-guerra-con-ee-uu",
-      "published": "2026-11-02T15:39:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QUENUOHlDS242YUN2VXZYSHk3MzVJbFZ4Z0d0dndMVmQ0dkVURW5Va0pTakxmTnNreVoyVkx4b1RaWF9pUzdONlo0UW9PZVNOTThmRDhUV1V1Sk1VT3BaSFZfZkZRamEwSnc?oc=5",
+      "published": "2026-11-03T02:42:12+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.22,
+      "relevance": 18.84,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "EE. UU. lanzó ataque contra isla iraní a unas horas de elecciones, según WSJ",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa3IwRGtoZ2t0eDJEWm9XdFJKS3BRbnAtd1ExaVpVSVVfcDJPRjQ4R0RjbG45NTdQU0l5cXFLNnFnd2cyNTlxR3hRcjJtaDNVbXloLTAwQ1N4Y3lvaFo4LU9wZ1RIMjNrWDVKcXVVd3FxRklXNHdJbG5Vd1BVZEFnY3B5M2g2cFZnM0N4dzVWRGFoa2xIRGZoNDRCNG96ekxfLWtMdEhTeUVqN3VVZ1pseUwwS01Yb2tEU09rcWdDVFdGZw?oc=5",
+      "published": "2026-11-03T02:37:38+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.81,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Ucrania y Rusia se acusan mutuamente ataques cibernéticos durante la noche",
+      "summary": "Ucrania y Rusia informaron que sus aplicaciones de alerta de emergencia fueron hackeadas durante la noche, enviando falsas advertencias a la población sobre inminentes ataques aéreos, químicos y nucleares.",
+      "url": "https://www.france24.com/es/video/20261102-ucrania-y-rusia-se-acusan-mutuamente-ataques-cibern%C3%A9ticos-durante-la-noche",
+      "published": "2026-11-02T21:40:16+00:00",
+      "image": "https://s.france24.com/media/display/03026218-d701-11f1-8cc0-a575454bc579/w:1024/p:16x9/ES-20261102-100852-101042-CS.jpg",
+      "coverage": 1,
+      "relevance": 18.76,
       "sources": [
         "France 24"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "\"Puedes verlo todo\", el elogiado documental con chances en los Oscar tiene fecha de estreno en Uruguay",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGFGcjBZTURSZ3F5eVB0Y1JsRzFZUkl3aWxidm94RkhsZnRRSkdsT0d0RWI1LWpuNkZBTUN5dDlSbUFmUnh2dFZlTEQtRVl1ZEtla0RIZkpRQWVpWTN2ZWppSEo3UWxyQUg1YTRNcFpqSk1UdmlreXpBRUdwei1BckFvOV94V3hDbmZqamFRa3MtWkJsREhabUdCZDdhLTB5S0lNbHV6NmJnc29LQUxxMXVsbUNqR0R2eDhpUFVPQnJCSnBFOFlERTVuaDVJYzh4ZThF?oc=5",
-      "published": "2026-11-02T16:51:12+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 20.27,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Se encuentran abiertas las inscripciones a becas del Fondo de Solidaridad",
-      "summary": "Quienes la pidan por primera vez podrán hacer la solicitud entre el 1º de noviembre y el 28 de febrero, mientras que quienes deseen renovar la beca deberán hacerlo a partir del 2 de enero.Desde este 1º de noviembre, y hasta el 28 de febrero del próximo año, se encuentran abiertas las inscripciones...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/11/se-encuentran-abiertas-las-inscripciones-a-becas-del-fondo-de-solidaridad/",
-      "published": "2026-11-02T19:48:54+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.88,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "ADES Montevideo realiza un paro de 24 horas en reclamo de más presupuesto para atender situaciones de violencia en liceos",
-      "summary": "El sindicato advierte un “acumulado de situaciones de violencia extrema” y definió que este miércoles se realice una paralización con varios liceos ocupados.La filial montevideana de la Asociación de Docentes de Educación Secundaria (ADES) definió la realización de un paro de 24 horas este...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/11/ades-montevideo-realiza-un-paro-de-24-horas-en-reclamo-de-mas-presupuesto-para-atender-situaciones-de-violencia-en-liceos/",
-      "published": "2026-11-02T19:30:17+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.77,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Disputas entre narcos y beneficios a turistas: medios del mundo miran a Uruguay por la visita del papa León XIV",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZzRlcXZ5eW0yazNEQ1lBNEpKeDNIVUJlNWJ0U2Y4X1JxbmExUWJQOUFEaVd2emRSWjJFTEcydkVDVDhoWGhGUjhfMUUxUEc4QUZybGIwa3J0QU1XMVJFUEd5ekY2MkJTZzJoSjI0Y3FtLWdfVTYza1M0ZlBHVS1oRkV5MmhhSHpPYWpOQ1BieVZNUjJoTm04RVpCa0xDVHRCejQ3VVAyNklScmdfang2WUNzeWxsNlEzekJoT2gwV0VobEMtcWtHUGtPb2xpLVlOenRHVjczV1Mydw?oc=5",
-      "published": "2026-11-02T15:27:34+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.75,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Nacho Álvarez contó su alocada idea de entrevistar a alguien mientras \"fuma un porro\" y a qué político elegiría",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbE1qM3EtS2FLQk15RE9QSGJIOUJuZUlZUkVLOFVjU0JRbE9aWnZSXzl0ejlRbDY5dWNKaHdNZzV1bGN3UUlSTVpkTjR5X0dVaVE0V3d1U1BQMXI0T0t1dnZQZEdrUWM4MlpFWDZoRkJGY3JQbU1EbkUxdEJrb2tvZF9ULXpMM0NjanU0MUJHenZDbnVnTVQ0RjV4dHlhX1paMUlOajdJZEhrakozVUpocDRsQjU1aElxRHVLQjUxbE9jZUVIVDl3cVRpMDkxeXlsVGM5ZUpQWS1IM2hsUFFfN0wzUFRpZFRR?oc=5",
-      "published": "2026-11-02T15:09:40+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.64,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Los Tipitos llegan a la Plaza de Toros de Colonia del Sacramento el próximo sábado",
-      "summary": "La banda argentina cerrará el ciclo 2026 del formato carpa cerrada propuesto por la gestión del antiguo complejo taurino.El sábado 7 a las 21.00, la banda argentina con más de 30 años de trayectoria Los Tipitos llegará a la Plaza de Toros de Colonia del Sacramento para presentar un repertorio...",
-      "url": "https://ladiaria.com.uy/colonia/articulo/2026/11/los-tipitos-llegan-a-la-plaza-de-toros-de-colonia-del-sacramento-el-proximo-sabado/",
-      "published": "2026-11-02T19:06:33+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.62,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Marta Franco: “Es posible crear una nueva comunidad digital donde mujeres y disidencias podamos encontrarnos”",
-      "summary": "Las Bravas | Con la activista y periodista española, autora del libro Las redes son nuestras. Una historia popular de internet y un mapa para volver a habitarlaMarta G Franco se define como habitante de internet desde 1999, ese número llamativo antes de que el siglo cambiara y el 2000 pasara la...",
-      "url": "https://ladiaria.com.uy/feminismos/articulo/2026/11/marta-franco-es-posible-crear-una-nueva-comunidad-digital-donde-mujeres-y-disidencias-podamos-encontrarnos/",
-      "published": "2026-11-02T18:48:49+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.51,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Diagnóstico de salud mental en Maldonado: registros clínicos parciales e información fragmentada dificultan atención integral",
-      "summary": "El documento es pilar del Plan de Salud Mental de Maldonado en 2027 que, entre otras acciones, prevé la instalación de un Observatorio de Salud Mental.El diagnóstico multidisciplinario y participativo en el que se basará el Plan de Salud Mental de Maldonado, a partir de 2027, detectó registros...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/diagnostico-de-salud-mental-en-maldonado-registros-clinicos-parciales-e-informacion-fragmentada-dificultan-atencion-integral/",
-      "published": "2026-11-02T18:41:28+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.46,
-      "sources": [
-        "La Diaria"
       ]
     }
   ]
