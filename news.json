@@ -1,58 +1,86 @@
 {
-  "updated_at": "2026-11-04T17:37:46.159473+00:00",
+  "updated_at": "2026-11-05T01:52:25.173543+00:00",
   "articles": [
     {
       "category": "economia",
       "source": "El País Eco",
+      "title": "Díaz se encamina a su primer aumento del salario mínimo sin acuerdo con los sindicatos para aprobarlo antes del 29-N",
+      "summary": "Trabajo planea sacar a audiencia pública en las próximas horas el decreto para subir el SMI en torno al 5%",
+      "url": "https://elpais.com/economia/2026-11-04/diaz-se-encamina-a-su-primer-aumento-del-salario-minimo-sin-acuerdo-con-los-sindicatos-para-aprobarlo-antes-del-29-n.html",
+      "published": "2026-11-04T20:15:58+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/XZGZKMLYONPV7FNVC5HZNTPWSM.jpg?auth=96e13ae7fa6df7fd2d192a6b5a1e83e183cb58fc611225f9b1bc4152c3f3c4f6",
+      "coverage": 1,
+      "relevance": 19.3,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Avatel pacta un preacuerdo del ERE con los sindicatos que reduce a 383 los despidos",
+      "summary": "La operadora fija indemnizaciones de hasta 45 días por año y recorta en 61 el número las salidas obligatorias",
+      "url": "https://cincodias.elpais.com/companias/2026-11-04/avatel-pacta-un-preacuerdo-del-ere-con-los-sindicatos-que-reduce-a-383-los-despidos.html",
+      "published": "2026-11-04T18:03:03+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/FLAM4QG3WVGJXK6R3QVYHYWPKY.png?auth=1b3fc3d84847069de20204c27e62051d3c868d72779bf151d59379abe4dd53d7",
+      "coverage": 1,
+      "relevance": 18.47,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Vuelve la tensión financiera Sube el dólar, caen las reservas y crece el riesgo país",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMm0zY2xlS052WWtLRTZMdmM0M2JZSlIxQ3Y1YUNPalVyelFHWTVaeTE2ZU5XVFNqQjB1UVdqVHBlRVBUTTdLWnN6Q0prZzhFTEZUZFJtSmR3RGRjQnBwSmE4Q3Y4OWdMWWFKc2NvbklrdExmM0oyUWFPc29MU2d0LTFGcFBZMF9WYUJ5QzgzVk4wZTBsZFMzVVRLRzd6aUZkdU9mdzRBdm5Rb1ByQTMzSURGaTcweW5HX0E?oc=5",
+      "published": "2026-11-05T00:05:02+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.33,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Luis Caputo destacó la estabilidad del dólar y el orden fiscal",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQN20zbEZsQklscnBMQXUzWnRRdWR4SzF1aExHTWVEZHJHZ3NlbVZBMlJrMEg4a0pNQnhTQWlNVkF1X3lhdmJwZXRFNEVINXJwalNVZjd0MmUyOEdaSTZKYkw0RGJVREtvZ2w3N2Z2LUpJclJCYkpZRW10bDdhLUlKVmUxSGVaMWhWQm9nTnVGNkt4ck4wTF9VNC1VNGYybmE0bXo4UUFOeTJjTGVnVWc?oc=5",
+      "published": "2026-11-05T00:01:45+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.31,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Los bonos en dólares operaron con caídas",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUm9iZGtySnpiTDBQUnJncXFvckl4N0R1aTl3a2lYUEV2a3RkamZ6N2pCdFJMVmg4cmRCUjJTbjk3LUFNZmdXOHRMLWFQekk2cnMxVU9JQXlaZ296SGlYajRQc0hLejhYV3hlWHhvX2ZxWjdNa2RMd213YnN2dnZkSVlEakRYTklwdGNJUk0tMzZadlZQUS1PWEtPUHBWbnlLQ1hMMnQ5SW5kQdIBuAFBVV95cUxNMDE4aTN2UHIySXRpdGhlaEx5dFBUdzIxZTdxU2YwZkVfa2ppVGNRZXMwbkZrUkxPWDFwcXd4VkFPb0JqOU5QM3Z5c2pScnJpU1M2QVY2dmZSVVhWTFlCaDVYempsRkRBN0h1ZlY5bnNWamhqVnlsZFhEWUZCQVdtRERZelRPMkM4TVlLNFJEcUhuSkpjUVFnZUVncm9RYld5TE9YZGZRODlQM2hQYjJVU0V5ckNXMEhz?oc=5",
+      "published": "2026-11-04T21:38:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.41,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
       "title": "Los expertos de Trabajo expresan su inquietud porque las subidas del salario mínimo no impulsen más el resto de sueldos",
-      "summary": "Trabajo comunica este miércoles a sindicatos y patronal las recomendaciones de los especialistas, que instan al Gobierno a “potenciar otras herramientas” además del SMI para mejorar las condiciones laborales",
+      "summary": "Trabajo ha comunicado este miércoles a sindicatos y patronal las recomendaciones de los especialistas, que instan al Gobierno a “potenciar otras herramientas” además del SMI para mejorar las condiciones laborales",
       "url": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-expresan-su-inquietud-porque-las-subidas-del-salario-minimo-no-impulsen-mas-el-resto-de-sueldos.html",
       "published": "2026-11-04T15:00:29+00:00",
       "image": "https://imagenes.elpais.com/resizer/v2/JLSAOYZM6NB3DMNSR27BIBH5CQ.jpg?auth=032d1684b82e5e027a76863e85c10a2050a06a0f82fadbbdf6959aa57a75d140",
       "coverage": 1,
-      "relevance": 20.42,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La Airef empeora su previsión de déficit y lo sitúa en el 2,8% del PIB este año",
-      "summary": "El organismo prevé que España incumpla ya en 2026 con el plan fiscal pactado con Bruselas para los próximos ejercicios",
-      "url": "https://elpais.com/economia/2026-11-04/la-airef-empeora-su-prevision-de-deficit-y-lo-situa-en-el-28-del-pib-este-ano.html",
-      "published": "2026-11-04T11:58:56+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ERWRSWRWQNGWZBC2HQ3Y74E2RA.JPG?auth=15a826b78c4d14ff5f374c0ebceb0aa4001c35332b7deec3c185a830e2c9e115",
-      "coverage": 1,
-      "relevance": 19.28,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El banco de desarrollo CAF estrena sede en Madrid para movilizar más recursos en proyectos para América Latina",
-      "summary": "La entidad de América Latina y el Caribe inaugura la oficina europea de su nueva vicepresidencia, que estará dirigida por Alicia Montalvo",
-      "url": "https://elpais.com/economia/2026-11-04/el-banco-de-desarrollo-caf-estrena-sede-en-madrid-para-movilizar-mas-recursos-en-proyectos-para-america-latina.html",
-      "published": "2026-11-04T11:52:42+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/ULUUMUUM4RDT7ESJE7LSC4BSMQ.jpg?auth=4256434d416763aef218fcf07c3a95e831ad1a154b80d9ac5f60d7f98d4124d8",
-      "coverage": 1,
-      "relevance": 19.24,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La inflación de la zona euro repunta al 4% en octubre por el encarecimiento de la energía",
-      "summary": "Los costes de los carburantes y la electricidad se disparan un 20,8% y empujan al alza el índice general, mientras la tasa subyacente se mantiene estable en el 2,2%",
-      "url": "https://elpais.com/economia/2026-11-04/la-inflacion-de-la-zona-euro-repunta-al-4-en-octubre-por-el-encarecimiento-de-la-energia.html",
-      "published": "2026-11-04T11:34:53+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/HC6S6WRIMZA27H6J3UPDR4UZXA.jpg?auth=9abd76d91cef2786a2c87e3a4ac162e561a074be1a39f49683578fa92696b5a8",
-      "coverage": 1,
-      "relevance": 19.13,
+      "relevance": 17.33,
       "sources": [
         "El País Eco"
       ]
@@ -60,41 +88,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Suben las acciones, cae el dólar y repunta el oro tras la derrota de Trump",
+      "title": "El dólar registra su mayor caída en dos meses: así reaccionan las monedas de América Latina",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2R1MWdJRDJaLWF0aXprcDhsTk50LXp5MGdQanByR2VTWmQySVc4cWJ6a3M0bVo1X1RwSzFaTF85MDd0MVpWVklzaW55WFBTcnNIdy0tNWFqNGlxSjBCb29IWXotQWNVTC1FTnpkb0RTQV81RV9VMTVYV0NuZTM5bVJZa09IZk9TS1JwS1V4cnU0SWlLOHUxbWItZ3JuTk1vMXJIcE5ZdkXSAa4BQVVfeXFMTWRPa2NJY3l4WmhvaWdGQmRMd3o5emhieFNnMlBEaU81N2ZvNlRBeV9CZTlpYl9nWnFGempXcXR0N3IwTVJjN3hWb213RkoyN0l2Tl9IMllsbE5lSmxmMURnX2dRaGw3NGt5RFIzbGZTblhLdTlWUjJYd2VZM1lpZ0hNQ2V2TDZVc09VQTZrckY2cDk3SVRwMkxWTTE5SDcxd1ktdlI3RVlHZmgtQzlB?oc=5",
-      "published": "2026-11-04T16:26:10+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUzlocUNNNFV4N3ctYldwa3VaLTNGc1RKMEt0M1liT1hKaHpzd1ZEM3AyMDIwS0lwOXBVcUJVdzZDd09UakdrVjR6aFM4alRHREVSWTdPUHdpbnUzd29neDJJMV9xRHZPdjhpZTMybUdHX2JCN0QzV2FMM0dKaG4xMTJNU3BKRTllb2R6VDJ1VjBPbFZZc2VQc1liM0RNVkVzb3RPX0RQTU1BZ1J1OGYxdEh1OU85d3FnMXZVSkdzYjVwV0JyOXU3eFdwa9IB3wFBVV95cUxQVXYtT3FJd1lrRnVWYWdBSm5INThpV2NmbzFEV1pocXlUUDlCU3pOVXF2MWdVZ0h3R0x1UjZlSEN0RWRVd21oNXJqd09UWmJhRkNUN0JqX09DdTRGMW80ek9fNDVjbExJNmlvZkN0QzV2Y184bU1WN01ZZk9wbnlFWjIyRy1YOW1aOGNsT1B3RHdLX3kzWDF6SWl6N0lqaGZ0NHZrdHY1ZFJyelBlbGhERkJvc0Zsa21sZWV3dDNuemhic0VXX0p3S21TMlRYWlRDb2Zxa20wckdteTIyektz?oc=5",
+      "published": "2026-11-04T21:22:37+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.55,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "La OCDE señala a Madrid como una de las ciudades con mayor desequilibrio entre población y oferta residencial",
-      "summary": "La organización sitúa a Lisboa y a la capital española entre los mercados más tensionados y cuestiona que movilizar viviendas vacías baste para resolver la crisis",
-      "url": "https://elpais.com/economia/vivienda/2026-11-04/la-ocde-senala-a-madrid-como-una-de-las-ciudades-con-mayor-desequilibrio-entre-poblacion-y-oferta-residencial.html",
-      "published": "2026-11-04T09:31:49+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/QCDCPJM4PVBX7JHNGP5MYLVYIY.jpg?auth=354bba347be9b9acee77a811d75a4f2992bb68aceca7aee48fcc8e205a67c277",
-      "coverage": 1,
-      "relevance": 18.36,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este miércoles 4 de noviembre?",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOanpsQVZfRm0yeXVCZFVVTVBwTGRTVVQxQTFyTG83QWVWNzQ5c1YzV2R6S2F4dlVqcEhOYUpfLTlvYVN3Wkt3QjFFc09Ra3NUblYzbk4wTk9VV2ItMk9la0FtTDNQYUY0M3U4aGtxRDJLZzZXZmNlOEFGUHpRbm9rY1pNWTQ4LXNPeXRNR0tXZG1Tek82YjVlNFBVLXlEaGZhVmNxcS1sWmplZEllQVV3XzRNQjZCVnp5MVpSN0tjbG8yWWNNRy1QUzVpbGVraHJUUnBDc1RpY01ScFR1dDNUNmpadHZ1UmF1SE5HSk40LTBNSC04enNPaG1zb2dTQ1JjZ3dyQ183aw?oc=5",
-      "published": "2026-11-04T15:38:11+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.25,
+      "relevance": 17.31,
       "sources": [
         "Google Economía"
       ]
@@ -102,13 +102,13 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Acciones, dólar y riesgo país: así reacciona hoy el mercado luego de la derrota de Donald Trump en el Congreso de EE.UU.",
+      "title": "Precio del dólar hoy 4 de noviembre de 2026: peso mexicano gana luego de las elecciones intermedias en Estados Unidos",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPamliSXdxRE5Kd0o3SVZmX1B3eHNKTi1fSmRlTWswQ1NrLXppcEtBTjJ6R1pCVkJkSlZMUENkbkZkaFFyU1ZmYXZLN05QRVI0SWpIbVN4TTBnNVZHSVZRM3NZd2xWSV9DdUJxYUJBclI5SHNXU1d6bjBLNFd4el93bm0zNE94QWoyUWFjYlJHZGc2bmdlckNlclFWLS1xanVJM25kMWRBdGRvbHBPSjJQdXkzcDZreUZ5T0ptbFBtRkVfZm9uc0piQWh5cHpvVkthdGk4czlDdnROck9iejlDZ0hva0VhbTc4M0M2ZA?oc=5",
-      "published": "2026-11-04T14:59:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZVdVaTRfcFc0OXB2dHRrb0hzZEM2eFN1LWVLYml4R3Bxbk5rWmZSTDZNNWw0SE0wUXV6eWJ4Rk40UWpLQ0c4UEVNMGsyQXlHSVl1VjJGQVY1dEVpV0RxU0x0dG0wazBBVWpwcDRHTG1mYktMWXpBLWRrd3lhTU9HRGFjb00zYmc?oc=5",
+      "published": "2026-11-04T21:08:07+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.01,
+      "relevance": 17.22,
       "sources": [
         "Google Economía"
       ]
@@ -116,15 +116,87 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "La expectativa en Uruguay ante la llegada del Papa León XIV",
-      "summary": "A tres días de la llegada del Papa León XIV a Uruguay, el clima que se respira en la capital es de total normalidad. En su primer viaje apostólico a América Latina el Pontífice visitará del 6 al 17 de noviembre Uruguay, Argentina y Perú. En los tres días que pasará en Uruguay mantendrá encuentros...",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-11/la-expectativa-en-uruguay-ante-la-llegada-del-papa-leon-xiv.html",
-      "published": "2026-11-03T22:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/02/2026-11-02-cattedrale-montevideo4.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Nuncio en Uruguay: La presencia del Papa ayudará a los jóvenes a no sentirse solos",
+      "summary": "Monseñor Gianfranco Gallone relata la expectativa ante la llegada del Papa el próximo 6 de noviembre y la situación del país: «Aquí, los ecos de la guerra y la inestabilidad económica tardan en llegar, pero existe un problema muy grave: los suicidios. Espero que el Papa les dé a quienes se sienten...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/nuncio-en-uruguay-la-presencia-del-papa-ayudara-a-los-jovenes-a.html",
+      "published": "2026-11-04T18:00:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/03/76ca7da2-52f7-450c-ace3-915d55cf20d1.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 2,
-      "relevance": 23.44,
+      "relevance": 27.85,
       "sources": [
         "Google Noticias UY",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "El Papa recibe a Bob Dylan en el Vaticano",
+      "summary": "El renombrado cantautor y poeta estadounidense, ganador del Premio Nobel de Literatura, que se encuentra de gira por Italia, con una parada en Roma, fue recibido, esta tarde, en el Palacio Apostólico, por León XIV. El Pontífice había citado sus versos en el prólogo de un libro sobre desarme.Leer...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-11/el-papa-recibe-a-bob-dylan-en-el-vaticano.html",
+      "published": "2026-11-04T17:14:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-bob-dylan/1793809201434.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 27.56,
+      "sources": [
+        "Aleteia",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Villarreal: El Papa va a dejar cuestionamientos amplios en la sociedad uruguaya",
+      "summary": "Con la llegada del Papa León XIV a Montevideo, el próximo 6 de noviembre, se dará inicio al 5to Viaje Apostólico de su pontificado. A su llegada, el primer encuentro del Santo Padre será con las Autoridades y la Sociedad Civil de Uruguay. Sobre este encuentro y la realidad social de este país que...",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-11/nelson-villarreal-duran-sociedad-politica-iglesia.html",
+      "published": "2026-11-04T14:45:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/03/img-7251.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 26.63,
+      "sources": [
+        "Google Noticias UY",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "Alzheimer en casa: cuidar con paciencia, amor y fe",
+      "summary": "Estás en casa de tus papás y de pronto sale tu mamá de su habitación y no sabe dónde está ni quién eres. Esta es una de las escenas a las que muchas familias se enfrentan cuando el Alzheimer llega a alguno de sus seres queridos. Dicha enfermedad, es neurodegenerativa progresiva y la causa más común...",
+      "url": "https://es.aleteia.org/2026/11/05/alzheimer-en-casa-cuidar-con-paciencia-amor-y-fe/",
+      "published": "2026-11-04T23:08:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.18,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Plataforma Laudato si': Opciones comunes para sanar las heridas de la Tierra",
+      "summary": "Los resultados de los primeros cinco años del espacio digital diseñado por el Dicasterio para el Servicio del Desarrollo Humano Integral para conectar iniciativas de ecología integral fueron presentados esta mañana, 4 de noviembre, en la Oficina de Prensa de la Santa Sede, p or la prefecta hermana...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/plataforma-laudato-si-smerilli-desarrollo-integral-vaticano.html",
+      "published": "2026-11-04T18:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/04/23.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 18.03,
+      "sources": [
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Cuatro pilotos argentinos rezan por el viaje de León XIV a Latinoamérica",
+      "summary": "Los pilotos de Aerolíneas Argentinas, presentes en la audiencia general en la Plaza de San Pedro, expresaron su orgullo y entusiasmo por formar parte de la aerolínea nacional que transportará al Papa en cinco vuelos nacionales durante el viaje que el Pontífice realizará a Uruguay, Argentina y Perú...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-11/papa-audiencia-pilotos-argentinos-rezan-por-viaje-latinoamerica.html",
+      "published": "2026-11-04T18:00:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-udienza-generale/1793785541634.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 1,
+      "relevance": 17.85,
+      "sources": [
         "Vatican News"
       ]
     },
@@ -137,7 +209,7 @@
       "published": "2026-11-04T16:01:00+00:00",
       "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/04/17.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 20.2,
+      "relevance": 17.1,
       "sources": [
         "Vatican News"
       ]
@@ -145,125 +217,27 @@
     {
       "category": "iglesia",
       "source": "Aleteia",
-      "title": "Cuando el protagonismo le quita el mérito a tus buenas obras",
-      "summary": "En la era digital, todos nos enteramos de lo que pasa en el mundo de inmediato porque tenemos un dispositivo móvil en la mano que nos avisa con ruidosas notificaciones cuando hay alguna novedad. Aprovechando el espacio cibernético se encuentran miles de personas subiendo contenidos de distinta...",
-      "url": "https://es.aleteia.org/2026/11/04/cuando-el-protagonismo-le-quita-el-merito-a-tus-buenas-obras/",
-      "published": "2026-11-04T15:36:01+00:00",
+      "title": "«Tenemos una tristeza infinita»: alejados de sus nietos, continúan amando",
+      "summary": "«Llevamos diez años sin poder ver a cinco de nuestros nietos», confiesa Luc. «Oscilo entre la ira, la pena y la sensación de que se ha echado a perder algo, porque no los hemos visto crecer y madurar. No tendremos recuerdos, salvo los de su primera infancia, que guardamos con mucho cariño en...",
+      "url": "https://es.aleteia.org/2026/11/04/abuelos-que-no-ven-a-sus-nietos-afirman-sentir-profunda-tristeza/",
+      "published": "2026-11-04T16:55:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.44,
+      "relevance": 16.85,
       "sources": [
         "Aleteia"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Jonathan Roumie explica su afición por las calaveras",
-      "summary": "Si alguna vez te has fijado bien en las manos de Jonathan Roumie, habrás notado que al actor le encantan las calaveras. De hecho, la estrella de The Chosen ha reunido una impresionante colección de anillos con forma de calavera, y ahora ha añadido un colgante a juego. Quizás no sea la imagen que...",
-      "url": "https://es.aleteia.org/2026/11/04/jonathan-roumie-explica-su-aficion-por-las-calaveras/",
-      "published": "2026-11-04T15:22:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.35,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Episcopado guatemalteco se prepara con alegría para la beatificación de fray Augusto",
-      "summary": "Ante la beatificación del fraile Augusto Ramírez que se llevará a cabo el próximo 7 de noviembre, la Conferencia Episcopal de Guatemala transmitió su alegría al ver reconocido el martirio del sacerdote y su compromiso con la Iglesia.Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-11/episcopado-guatemalteco-se-prepara-con-alegria.html",
-      "published": "2026-11-04T13:38:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/gennaio/22/111.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.3,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Qué es el desarrollo económico? La respuesta de León XIV",
-      "summary": "León XIV se pronunció en contra del desempleo y de las condiciones laborales que ponen en peligro a los trabajadores, durante la audiencia general del 4 de noviembre de 2026. Ante los fieles reunidos en la Plaza de San Pedro, el Papa pidió respeto por los migrantes, la participación política de los...",
-      "url": "https://es.aleteia.org/2026/11/04/que-es-el-desarrollo-economico-la-respuesta-de-leon-xiv/",
-      "published": "2026-11-04T14:57:51+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.2,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "Vaticano: El artista Vilanova y las postales que narran la historia de los lazos humanos",
-      "summary": "El artista español concluye el ciclo «Reading Again», organizado por el Dicasterio para la Cultura y la Educación y curado por Donatien Grau en el espacio de arte contemporáneo de la Santa Sede en Roma. La instalación, titulada «El deber urgente de seguir siendo humanos», podrá visitarse hasta el...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/conciliazione5-muestra-vaticano-artista-espanol-vilanova.html",
-      "published": "2026-11-04T13:20:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/03/37.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 19.19,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "El Papa recibe en audiencia al presidente de Chile",
-      "summary": "León XIV se reunió en audiencia con el presidente de Chile, José Antonio Kast Rist. Se hizo referencia a la importante contribución de la Iglesia católica a la vida social del paísLeer todo",
-      "url": "https://www.vaticannews.va/es/papa/news/2026-11/el-papa-recibe-en-audiencia-al-presidente-de-chile.html",
-      "published": "2026-11-04T11:30:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/04/2026-11-04-s-e--il-signor-jose--antonio-kast-rist--presidente-de/1793782505369.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
-      "coverage": 1,
-      "relevance": 18.5,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Bandas organizadas roban camiones cargados de componentes para centros de datos: ya suman 100 millones de dólares",
-      "summary": "La fiebre del oro de la IA está replicando una especie de \"lejano oeste americano del siglo XXI\" con todos los ingredientes de un buen western. Hay minas de oro, que son los centros de datos, buscadores de fortuna con los bolsillos llenos de dinero dispuestos a comprar palas y todo el material que...",
-      "url": "https://www.xataka.com/empresas-y-economia/bandas-organizadas-roban-camiones-cargados-componentes-para-centros-datos-suman-100-millones-dolares",
-      "published": "2026-11-04T17:31:22+00:00",
-      "image": "https://i.blogs.es/ee0870/nishat-samadzai-rxvtdbr00cg-unsplash/1024_2000.jpeg",
+      "title": "Tencent acaba de lanzar una nueva IA. Lo interesante no es solo lo que sabe hacer, sino lo que ha decidido no enseñarle",
+      "summary": "Hay conocimientos que pueden servir tanto para resolver un problema como para provocarlo. Todo depende de quién los utilice, con qué intención y en qué circunstancias. Esta distinción, que podemos reconocer fácilmente en ámbitos como la informática o la investigación científica, adquiere otra...",
+      "url": "https://www.xataka.com/robotica-e-ia/tencent-acaba-lanzar-nueva-ia-interesante-no-solo-que-sabe-hacer-sino-que-ha-decidido-no-ensenarle",
+      "published": "2026-11-04T22:55:00+00:00",
+      "image": "https://i.blogs.es/637058/tencent-hy4-1/1024_2000.png",
       "coverage": 1,
-      "relevance": 20.46,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Samsung suma a un nuevo integrante a su catálogo de auriculares: así son los Galaxy Buds On orientados a tener un mejor confort",
-      "summary": "Este ha sido un año en el que Samsung ha presentado varios auriculares. Primero tuvimos los Galaxy Buds4 y Galaxy Buds4 Pro y ahora ha llegado un nuevo integrante a la familia: los Samsung Galaxy Buds On, que además se distancian del formato que veníamos viendo en anteriores auriculares de la...",
-      "url": "https://www.xataka.com/seleccion/samsung-suma-a-nuevo-integrante-a-su-catalogo-auriculares-asi-galaxy-buds-on-orientados-a-tener-mejor-confort",
-      "published": "2026-11-04T17:15:26+00:00",
-      "image": "https://i.blogs.es/68c405/samsung-galaxy-on/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 20.36,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Encuentran un Citroën BX olvidado en un garaje desde hace 38 años: fue de un ingeniero de la RAF que participó en el Thrust 2",
-      "summary": "En octubre de 1983, John Watkins, un ingeniero de la Real Fuerza Aérea de Reino Unido, ayudó al equipo del Thrust 2 a establecer un nuevo récord de velocidad en tierra. Ese mismo mes, adquirió un Citroën BX 16RS, el mítico utilitario en versión deportiva del fabricante galo. En 1988, lo aparcó en...",
-      "url": "https://www.xataka.com/movilidad/encuentran-citroen-bx-olvidado-garaje-hace-38-anos-fue-ingeniero-real-fuerza-aerea-que-participo-thrust-2",
-      "published": "2026-11-04T17:01:24+00:00",
-      "image": "https://i.blogs.es/a9c265/citroen-1/1024_2000.png",
-      "coverage": 1,
-      "relevance": 20.27,
+      "relevance": 19.39,
       "sources": [
         "Xataka"
       ]
@@ -271,13 +245,13 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Nintendo recibe un golpe que podría afectar a todos los que compran juegos físicos",
-      "summary": "El futuro de los juegos físicos de Nintendo podría enfrentarse a un nuevo obstáculo. Macronix, uno de los fabricantes de memorias ROM que se usan en los cartuchos de Nintendo Switch y Nintendo Switch 2, decidió abandonar el negocio. Esto podría provocar una subida de precio en los juegos de...",
-      "url": "https://hipertextual.com/videojuegos/nintendo-switch-2-problema-juegos-fisicos-cartuchos/",
-      "published": "2026-11-04T17:37:04+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/03/juegos-nintendo-switch.jpg?fit=1024%2C731&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "Un ciberataque altera los bancos de sangre en Francia y enciende las alarmas en Europa",
+      "summary": "Un ciberataque afectó los sistemas de refrigeración de almacenamiento de sangre en Francia. A unos días de que hackers vulneraran cientos de supermercados franceses y tiendas de Países Bajos, el objetivo ahora fue la infraestructura encargada de conservar productos sanguíneos. El Servicio Nacional...",
+      "url": "https://hipertextual.com/seguridad/ciberataque-refrigeracion-sangre-francia/",
+      "published": "2026-11-04T21:35:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/bolsa-sangre.jpg?fit=1024%2C683&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 20.2,
+      "relevance": 18.59,
       "sources": [
         "Hipertextual"
       ]
@@ -285,13 +259,13 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Óscar Puente: \"Analicen la historia de este país los últimos 30 años: si no tienes alta velocidad no eres nadie\"",
-      "summary": "Óscar Puente ha decidido abandonar el Ministerio de Transportes abriendo uno de los debates más complejos, delicados y también que más sensibilidades agita en España cuando se habla de infraestructuras: la expansión de la red de alta velocidad. O mejor dicho, la obsesión de las ciudades y regiones...",
-      "url": "https://www.xataka.com/movilidad/oscar-puente-obsesion-espana-alta-velocidad-no-tienes-no-eres-nadie-no-se-te-trata-como-mereces",
-      "published": "2026-11-04T16:45:24+00:00",
-      "image": "https://i.blogs.es/6dbf56/031126-rueda-prensa-ministros-3/1024_2000.jpeg",
+      "title": "Comprar electricidad barata y venderla cara: el negocio de las baterías eléctricas tiene un enemigo inesperado",
+      "summary": "El auge de las renovables, especialmente de la energía solar, ha creado una nueva oportunidad para el negocio de las baterías. Si algo hemos visto en los últimos meses, sobre todo en los de verano, es que los precios de la electricidad pueden llegar a cero, cuando no ser negativos. Esto hace que...",
+      "url": "https://www.xataka.com/energia/comprar-electricidad-barata-venderla-cara-negocio-baterias-tiene-enemigo-inesperado",
+      "published": "2026-11-04T20:31:29+00:00",
+      "image": "https://i.blogs.es/89c774/virtue-solar-5ckhscrqmxc-unsplash/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.17,
+      "relevance": 18.49,
       "sources": [
         "Xataka"
       ]
@@ -299,55 +273,111 @@
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "Los glaciares de los Pirineos tienen fecha de caducidad: apuntan a desaparecer por completo en 2034",
-      "summary": "Los glaciares que hay en los Pirineos están viviendo sus horas más bajas. Lo que durante siglos fue un paisaje dominado por masas de hielo perpetuo se está transformando a un ritmo que ya no se mide en siglos, sino en veranos de mucha calor. Así lo apuntan los últimos datos de la campaña 2025-2026,...",
-      "url": "https://www.xataka.com/ecologia-y-naturaleza/glaciares-pirineos-tienen-fecha-caducidad-apuntan-a-desaparecer-completo-2034",
-      "published": "2026-11-04T16:31:23+00:00",
-      "image": "https://i.blogs.es/b62422/piirneos/1024_2000.jpeg",
+      "title": "Los ciberataques siguen afectando a empresas europeas y ahora golpean al banco francés Crédit Mutuel Arkéa",
+      "summary": "Cuando hablamos de ciberataques a bancos, es fácil imaginar cuentas vaciadas o clientes que no pueden acceder a su dinero. Sin embargo, la seguridad de una entidad financiera abarca mucho más que la aplicación que utilizamos para consultar el saldo. También depende de cómo se autorizan las...",
+      "url": "https://www.xataka.com/seguridad/ciberataques-siguen-afectando-a-empresas-europeas-ahora-golpean-al-banco-frances-credit-mutuel-arkea",
+      "published": "2026-11-04T20:01:26+00:00",
+      "image": "https://i.blogs.es/a373c3/credit-mutuel-arkea/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 18.31,
       "sources": [
         "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Genbeta",
-      "title": "Los titulares de derechos de Elvis Presley demandan a Anthropic",
-      "summary": "Los propietarios de los derechos de 274 composiciones interpretadas por Elvis Presley han puesto en marcha una demanda contra la empresa Anthropic por supuestamente utilizar las letras de sus canciones para entrenar al asistente Claude sin su consentimiento y sin pagar por ello. Dicha demanda fue...",
-      "url": "https://www.genbeta.com/actualidad/titulares-derechos-elvis-presley-demandan-a-anthropic",
-      "published": "2026-11-04T17:01:23+00:00",
-      "image": "https://i.blogs.es/c80ea5/elvis-presley/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 19.97,
-      "sources": [
-        "Genbeta"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Marvel ya habría elegido al próximo actor de Lobezno (Wolverine): es bajito y ha ganado 2 premios Emmy",
-      "summary": "Con la nueva película de X-Men en marcha, los fans de Marvel llevan meses preguntándose quién será el nuevo actor de Lobezno (Wolverine). Hace unas semanas, la compañía anunció a los primeros miembros del reparto del filme. Pero aunque se revelaron nombres muy importantes para el equipo mutante, no...",
-      "url": "https://hipertextual.com/cine-television/marvel-ya-habria-elegido-al-proximo-actor-de-lobezno-wolverine-es-bajito-y-ha-ganado-2-premios-emmy/",
-      "published": "2026-11-04T16:57:54+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2024/07/Deadpool-y-Lobezno1-2.jpeg?fit=1024%2C640&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "‘God of War Laufey’ retrasa su lanzamiento: cuándo llega a PS5",
+      "summary": "God of War Laufey, el nuevo juego de Santa Monica Studio, retrasará su lanzamiento un puñado de meses, anunciaron sus desarrolladores. El estudio compartió un escueto comunicado en redes sociales para anunciar la nueva fecha pactada para la llegada del juego a la PS5 y PS5 Pro. En principio, God of...",
+      "url": "https://hipertextual.com/videojuegos/god-of-war-laufey-retrasa-su-lanzamiento-cuando-llega-a-ps5/",
+      "published": "2026-11-04T20:18:31+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/06/god-of-war-laufey.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 19.95,
+      "relevance": 18.11,
       "sources": [
         "Hipertextual"
       ]
     },
     {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Hay físicos empeñados en demostrar que Einstein se equivocó y los neutrinos del Mediterráneo, de momento, no les dan la razón",
+      "summary": "La ciencia lleva muchos años estudiando la teoría de la relatividad de Einstein y analizando si todos los pilares sobre los que se sostiene son suficientemente sólidos. De vez en cuando, alguno se tambalea, mientras que otros cobran aún más fuerza con cada nuevo descubrimiento. Uno de los que están...",
+      "url": "https://www.xataka.com/espacio/einstein-a-prueba-fondo-mediterraneo-neutrinos-no-encuentran-grietas-teoria-relatividad-momento",
+      "published": "2026-11-04T19:01:24+00:00",
+      "image": "https://i.blogs.es/877e58/detecor-neutrinos-mar-mediterraneo/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 17.93,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Hipertextual",
+      "title": "Honor prepara un móvil con una batería que podría durar una semana",
+      "summary": "La autonomía es una de las características clave para aquellos que quieren comprar un nuevo móvil. Aunque la mayoría de los fabricantes se enfocan en la potencia o en las cámaras, la realidad es que la batería juega un papel crucial en la decisión de compra para muchos, sobre todo aquellos que usan...",
+      "url": "https://hipertextual.com/mobile/honor-movil-bateria-15000-mah-semana-autonomia/",
+      "published": "2026-11-04T19:30:00+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/01/honor-magic-8-lite-04.jpg?fit=1024%2C684&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "coverage": 1,
+      "relevance": 17.81,
+      "sources": [
+        "Hipertextual"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Los centros de datos también se presentaban a las elecciones de EEUU y han perdido estrepitosamente",
+      "summary": "Estados Unidos celebró anoche una de las elecciones más impactantes de su historia reciente. El Partido Demócrata recuperó el control del Congreso y del Senado, bloqueando cualquier vía legislativa para el Gobierno de Donald Trump, y colocó a varios gobernadores en regiones hasta ahora...",
+      "url": "https://www.xataka.com/robotica-e-ia/centros-datos-tambien-se-presentaban-a-elecciones-eeuu-han-perdido-estrepitosamente",
+      "published": "2026-11-04T18:31:00+00:00",
+      "image": "https://i.blogs.es/e44155/photo-1772695648965-1abdf9eb6b85/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 17.74,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
       "category": "deportes",
       "source": "Marca",
-      "title": "La NBA estudia una revolución",
+      "title": "Así vienen las portadas: palo de L'Equipe al Lens",
+      "summary": "La apasionante jornada de Champions League y la figura de Jesús de Miguel son los temas protagonistas en las portadas de la prensa deportiva.",
+      "url": "https://www.marca.com/futbol/album/2026/11/05/portadas-dia.html",
+      "published": "2026-11-05T00:13:24+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aebc7a1f2462.jpeg",
+      "coverage": 1,
+      "relevance": 19.88,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La parada imposible de Álvaro Valles",
+      "summary": "El rinconero pudo hacer más en el 2-1, pero salvó al Betis en muchas otras ocasiones",
+      "url": "https://www.marca.com/futbol/betis/2026/11/05/parada-imposible-alvaro-valles.html",
+      "published": "2026-11-04T23:42:51+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aebc0ff225a0.jpeg",
+      "coverage": 1,
+      "relevance": 19.69,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "El hat-trick de Douvikas",
       "summary": "",
-      "url": "https://www.marca.com/futbol/2026/11/04/nba-estudia-revolucion-video.html",
-      "published": "2026-11-04T17:29:56+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/gcsbk1gwsYU5oRzkN.jpeg",
+      "url": "https://www.marca.com/futbol/2026/11/05/hat-trick-douvikas-video.html",
+      "published": "2026-11-04T23:29:53+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/gdZTs1gwx_UoqfAuU.jpeg",
       "coverage": 1,
-      "relevance": 20.45,
+      "relevance": 19.61,
       "sources": [
         "Marca"
       ]
@@ -355,13 +385,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "El troleo del Galatasaray al Stuttgart",
+      "title": "El gol más elegante de Bellingham",
       "summary": "",
-      "url": "https://www.marca.com/futbol/2026/11/04/troleo-galatasaray-stuttgart-video.html",
-      "published": "2026-11-04T17:26:23+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/gcsSU1gwsXwPSHKtZ.jpeg",
+      "url": "https://www.marca.com/futbol/2026/11/05/gol-elegante-bellingham-video.html",
+      "published": "2026-11-04T23:25:22+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/gdYZs1gwxx7ochsjg.jpeg",
       "coverage": 1,
-      "relevance": 20.43,
+      "relevance": 19.58,
       "sources": [
         "Marca"
       ]
@@ -369,85 +399,99 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Marc Márquez lo tiene claro: \"Si no atacas, te atacan\"",
-      "summary": "En el \"Inside Ducati\" del GP de Malasia, Marc evidencia, una vez más, que es un genio a la hora de plantear las carreras",
-      "url": "https://www.marca.com/motor/motogp/gp-qatar/2026/11/04/marc-marquez-claro-atacas-te-atacan.html",
-      "published": "2026-11-04T17:17:46+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb5e6640bff.jpeg",
-      "coverage": 1,
-      "relevance": 20.37,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Gabriel Rufián, tras la dimisión de Óscar Puente: \"Se va, pero los trenes de mier** se quedan\"",
-      "summary": "El portavoz de ERC en el Congreso cree que la “ineficiencia” y la “inseguridad” en el sistema ferroviario seguirán pese al adiós del ministro de Transportes",
-      "url": "https://www.marca.com/tiramillas/politica/2026/11/04/gabriel-rufian-dimision-oscar-puente-trenes-mier-quedan.html",
-      "published": "2026-11-04T17:17:12+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb682450732.jpeg",
-      "coverage": 1,
-      "relevance": 20.37,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Enrique Riquelme da la bienvenida a Nadal al Madrid y le pide ayuda",
-      "summary": "El que fuera rival de Florentino Pérez en las elecciones de junio aprovecha la entrada del tenista en la directiva para trasladarle las reivindicaciones de su plataforma de socios",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/11/04/enrique-riquelme-da-bienvenida-nadal-madrid-le-pide-ayuda-evitar-venta-club.html",
-      "published": "2026-11-04T16:54:25+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb6315ca25d.jpeg",
-      "coverage": 1,
-      "relevance": 20.23,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "La Séptima confirma su parrilla completa: estos son todos sus programas y presentadores de lunes a domingo",
-      "summary": "La nueva cadena comenzará sus emisiones este jueves, 5 de noviembre",
-      "url": "https://www.marca.com/tiramillas/television/2026/11/04/septima-confirma-parrilla-completa-son-todos-programas-presentadores-lunes-domingo-1.html",
-      "published": "2026-11-04T16:46:42+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb5f67a6248.jpeg",
-      "coverage": 1,
-      "relevance": 20.18,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Revés para el Atlético: Cuti Romero, lesionado",
-      "summary": "El central, lesionado, no jugará contra el Barcelona y tampoco irá convocado con Argentina",
-      "url": "https://www.marca.com/futbol/atletico/2026/11/04/reves-cuti.html",
-      "published": "2026-11-04T16:37:31+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb5308385fd.jpeg",
-      "coverage": 1,
-      "relevance": 20.12,
-      "sources": [
-        "Marca"
-      ]
-    },
-    {
-      "category": "deportes",
-      "source": "Marca",
-      "title": "Owono habla de la muerte de Jesús de Miguel: \"Están siendo los días más difíciles de mi vida\"",
+      "title": "El enésimo cañonazo de Valverde",
       "summary": "",
-      "url": "https://www.marca.com/futbol/segunda-division/2026/11/04/owono-habla-muerte-jesus-miguel-estan-siendo-dias-dificiles-mi-vida-video.html",
-      "published": "2026-11-04T16:31:54+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/gcmbw1gwrq3fpu0CZ.jpeg",
+      "url": "https://www.marca.com/futbol/2026/11/05/enesimo-canonazo-valver-video.html",
+      "published": "2026-11-04T23:23:01+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/gdY7w1gwxv1N5KYcl.jpeg",
       "coverage": 1,
-      "relevance": 20.09,
+      "relevance": 19.57,
       "sources": [
         "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Los 26 días de oro del Madrid",
+      "summary": "Cuatro triunfos en Liga y tres en Champions es su inmaculada hoja de servicio tras el regreso del parón",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/11/05/26-dias-oro-madrid.html",
+      "published": "2026-11-04T23:10:39+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aeb9aa18620c.jpeg",
+      "coverage": 1,
+      "relevance": 19.49,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "Pedro Martínez: \"No hay excusas. Echamos de menos a los que no están pero hemos competido bien\"",
+      "summary": "El entrenador del Real Madrid analiza la derrota de su equipo ante el Panathinaikos",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/11/04/pedro-martinez-hay-excusas-echamos-estan-hemos-competido-bien.html",
+      "published": "2026-11-04T22:55:25+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aebb3128b2e5.jpeg",
+      "coverage": 1,
+      "relevance": 19.39,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "deportes",
+      "source": "Marca",
+      "title": "La burrada de Nunn ante el Madrid es récord absoluto de la Euroliga",
+      "summary": "Anotó 23 puntos en un último cuarto sublime",
+      "url": "https://www.marca.com/baloncesto/euroliga/2026/11/04/burrada-nunn-madrid-record-absoluto-euroliga.html",
+      "published": "2026-11-04T22:54:44+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/04/6aebb700c0ae2.jpeg",
+      "coverage": 1,
+      "relevance": 19.39,
+      "sources": [
+        "Marca"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Informe desde Rock Hill: las Carolinas le dieron la espalda a Trump, ¿por qué?",
+      "summary": "Hace menos de una semana, Donald Trump levantaba la mano de Lindsey Graham durante la campaña al Senado por Carolina del Sur. Sin embargo, los votantes del estado se inclinaron por una candidata demócrata que logró capitalizar el deseo de cambio y consiguió la primera victoria de su partido desde...",
+      "url": "https://www.france24.com/es/video/20261104-informe-desde-rock-hill-las-carolinas-le-dieron-la-espalda-a-trump-por-qu%C3%A9",
+      "published": "2026-11-04T23:29:20+00:00",
+      "image": "https://s.france24.com/media/display/581a16ea-d8a7-11f1-8e4a-1beafce15fea/w:1024/p:16x9/capture-ab7074a5.jpg",
+      "coverage": 1,
+      "relevance": 19.91,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Irán se burla del varapalo electoral de Trump: \"Hablaron de un cambio de régimen, lo hicimos realidad\"",
+      "summary": "El Gobierno iraní celebró este miércoles 4 de noviembre el varapalo en las elecciones de medio mandato sufrido por el Partido Republicano y Donald Trump y lo atribuyó al amplio rechazo a la guerra contra Irán. Teherán multiplicó sus burlas e incluso difundió imágenes generadas por inteligencia...",
+      "url": "https://www.france24.com/es/medio-oriente/20261104-ir%C3%A1n-se-burla-del-varapalo-electoral-de-trump-hablaron-de-un-cambio-de-r%C3%A9gimen-lo-hicimos-realidad",
+      "published": "2026-11-04T21:53:51+00:00",
+      "image": "https://s.france24.com/media/display/5d8eb2b0-d899-11f1-b70e-bf1914cabd52/w:1024/p:16x9/2026-11-03T112707Z-496333801-RC29GOA693FU-RTRMADP-3-IRAN-CRISIS.jpg",
+      "coverage": 1,
+      "relevance": 19.31,
+      "sources": [
+        "France 24"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "Las reacciones internacionales al revés de Trump en las Midterms",
+      "summary": "Las reacciones internacionales no se hicieron esperar tras las elecciones de mitad de mandato en Estados Unidos, que dejaron al Partido Demócrata con el control de la Cámara de Representantes y del Senado, en un duro revés para el presidente Donald Trump. Desde Israel, dirigentes de la oposición...",
+      "url": "https://www.france24.com/es/video/20261104-las-reacciones-internacionales-al-rev%C3%A9s-de-trump-en-las-midterms",
+      "published": "2026-11-04T21:43:47+00:00",
+      "image": "https://s.france24.com/media/display/c99e016a-d892-11f1-96da-bf1914cabd52/w:1024/p:16x9/ES-20261104-130901-131019-CS.jpg",
+      "coverage": 1,
+      "relevance": 19.25,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -459,9 +503,23 @@
       "published": "2026-11-04T17:20:28+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
       "coverage": 1,
-      "relevance": 21.59,
+      "relevance": 18.5,
       "sources": [
         "BBC Mundo"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "France 24",
+      "title": "La certificación de resultados electorales en Israel disipa las denuncias de fraude de Netanyahu",
+      "summary": "La Comisión Electoral Central (CEC) de Israel proclamó oficialmente los resultados de las elecciones parlamentarias de la semana pasada, luego de no hallar pruebas de irregularidades que \"comprometieran\" el proceso, pese a las denuncias de \"robo\" del Likud de Benjamin Netanyahu. Con esto, el...",
+      "url": "https://www.france24.com/es/medio-oriente/20261104-la-certificaci%C3%B3n-de-resultados-electorales-en-israel-disipa-las-denuncias-de-fraude-de-netanyahu",
+      "published": "2026-11-04T19:01:05+00:00",
+      "image": "https://s.france24.com/media/display/ba8453b4-d879-11f1-a777-a575454bc579/w:1024/p:16x9/FOTO-PORTADA-ISRAEL-HERZOG-RESULTADOS-ELECCIONES.jpeg",
+      "coverage": 1,
+      "relevance": 18.23,
+      "sources": [
+        "France 24"
       ]
     },
     {
@@ -473,49 +531,21 @@
       "published": "2026-11-04T16:31:09+00:00",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d711/live/606773e0-d872-11f1-85ab-b3cc3b5498c6.jpg",
       "coverage": 1,
-      "relevance": 21.28,
+      "relevance": 18.19,
       "sources": [
         "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Vance atribuye la derrota republicana en las elecciones de medio mandato a la guerra en Irán",
-      "summary": "",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261103-en-directo-estados-unidos-midterms-elecciones-medio-mandato-congreso-gobernaciones-trump-democratas-republicanos",
-      "published": "2026-11-04T17:04:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 20.59,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Irán y Estados Unidos: ¿acuerdo diplomático o una nueva escalada militar?",
-      "summary": "Washington y Teherán aceleran las negociaciones después de que Donald Trump amenazara de atacar a Irán después de las midterms. Ambas partes han informado de progresos en estos diálogos pero Donald Trump suele dar señales encontradas. ¿Habrá acuerdo entre Irán y Estados Unidos? ¿Se dirige la región...",
-      "url": "https://www.france24.com/es/programas/expreso-de-oriente/20261104-ir%C3%A1n-y-estados-unidos-acuerdo-diplom%C3%A1tico-o-una-nueva-escalada-militar",
-      "published": "2026-11-04T14:49:00+00:00",
-      "image": "https://s.france24.com/media/display/074ff296-d85e-11f1-9a4e-695cb59fade5/w:1024/p:16x9/WEB-PORTADA-04NOV-EXP.png",
-      "coverage": 1,
-      "relevance": 19.75,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
       "source": "Google Noticias",
-      "title": "¿Sigue el conflicto? EU bombardea Irán antes de las elecciones 2026",
+      "title": "La situación en Gaza desató una guerra en el elenco de la serie del rabino de Netflix",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGpuYzBtQkhydndwNjBXcmxHUWR4RnQ0Mk1FM19HZy0xaDlHal83dTJZc3E5eHdGVmpBVUFSS3NKR29FMFZjUFkwYzNNT21VUFBHSEhIZERsMlVadWlMaW41OU81emdNSjlyVFB2MUNGejRqRklaZm1Rc2tOZUpXYnpiVHNOZ2lYdzBTUUQ3eXAtNmh5cTRfNndldUFZSkNVb3g5Zlh30gGmAUFVX3lxTE9HRnZ3b3BRNGcwWDVnQzdiUm9qZlo1cEx6dWF6YU1jYm5VdVZVdldPbm02X0ZiWjdCZkU5NENiWlUwUnQ3UzdGMTR3RDFmYXFhS0RhaXJubWFfZVc2UUJZQUdiRk5ZN1dVbDc3YUhsMFhsVzhIeFotOG5uVnpjTnFyaTVKV2hvN294dG8yRUtRV05HaC1Hd1hndmtmRzJPTGdCemltQUE?oc=5",
-      "published": "2026-11-04T17:05:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaG1kdjUtYUg4TW5kRGpkS0twUG9zV3lwVFhOSTJUZjQxZm52cFJtTmQ3akRwajhNaFRiNGQ4dlZ0TEhtTkUxcWMwMURwMVpSSGVUU2JmVnl6cEw3Mk9ZYzNGcnRvTVdDMkw5WTdBVmEyM09jcFhmUlNKUU41ZXhLOEV0Mll2LXVmSjg4?oc=5",
+      "published": "2026-11-04T22:39:07+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 17.79,
       "sources": [
         "Google Noticias"
       ]
@@ -523,55 +553,27 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Trump confirma ataque a instalación antiaérea en Irán",
+      "title": "Moscú ofrece hipotecas baratas para atraer población a los territorios ocupados de Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN000c1dLLVZhUkNwX3hfTFcwYkZLOGQ0R3QzSlZBOUhrZ3B6cWFnektmcWc5VlpUUjIyTFdZa3JEWmV1eW8xYTh1RThQQmdyWjY3bExWMUpDbE9iY2NIZ1JXX2E4Z3NWcWVUWHRvRGw1bF9BUUs2RVdVaWU0Q1o1ZFJzWURYd2hjdl9QWE9tNlJ2akVSSEJDX2Z2T0J1V0E?oc=5",
-      "published": "2026-11-04T17:01:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWEltR2F0VDdTVk56X3FuSDcwSkI4RnFxQURZc2RRVzNmYnhfd1BILUkyR01GYlY5blVTT0xweWc3UXFBZTNlSVJaOTVxbDZtbE9yeGRYMEd1WWJZSEw3Vy1Kc0hpbVJXSzVqdw?oc=5",
+      "published": "2026-11-04T22:35:19+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.77,
+      "relevance": 17.77,
       "sources": [
         "Google Noticias"
       ]
     },
     {
-      "category": "belico",
-      "source": "Google Noticias",
-      "title": "Vance atribuye a la guerra de Irán la debacle de los republicanos en las 'midterms': \"Es la razón obvia\"",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUTAzWk9nVEk1ZVRHQ1VpaEdTcGJaU1RMMUhlbVVxS3k2TUZBZExCZzgxbl9YMFBhOEFWQ25EcG1aUmFGSW5ISTVjS2ZtSVVSRXpKUEViandxZTI1UEluY2ljNVlUZVM4LUY4UkgtQTJBQm0zaDdMY1Q1ZUZTNzE4WlRvOE1aV3ZsLVAydHVQdHZWSG5Kaldfb3hGa1NYeElTMVl4ekw4XzFPZHhKZS1UNnN4dEhMeFVPdEsyc0l0djlNUTRheng2SDVnZldDbmp1ZTJSWEpqaEMyczZDOWVwcnJQRmUwRjTSAYICQVVfeXFMT05wb1VzcmZ6VHBGQU5xTzUweXVwT3hObGNLa0o4SWIyQnZyYUN4YzNaMllkc2I5R29WX0xXbEdhZVZCZ2E3TWhGSHVSajVVb1FFSWdIR0pkNnQ1dG9OeUJsSEZUWHVqaC11cnBvWXRtTUlQQTJQRDRBQ0hOTjQ3MkF1Z2lNLXQ5MnhvQ1d3OXl3MmhtRDR0OTlhOXVEZ2FLQTdyZThXQlhSRzg4WU1zSEM1TXdXNGhvWHlLVUpvRU9LcG1SV253ZE9ZMS1LNGRPcEI5Um9ObzBpSlVVRXZhSGM5TnU4MzF2eDFtMWt2OXVQcHhwNTdjaVhCdWZOU2Vrd0R3?oc=5",
-      "published": "2026-11-04T16:45:00+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.67,
-      "sources": [
-        "Google Noticias"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Netanyahu, vinculado en Israel a la derrota de Trump, con Irán, Gaza y la ayuda militar de fondo",
-      "summary": "El avance del Partido Demócrata en las midterms de Estados Unidos se ve en Israel como una \"segunda derrota del primer ministro, Benjamin Netanyahu, en solo una semana\". Además que Estados Unidos ha ganado un escepticismo que profundiza la preocupación de cómo van a seguir las relaciones con su...",
-      "url": "https://www.france24.com/es/video/20261104-netanyahu-vinculado-en-israel-a-la-derrota-de-trump-con-ir%C3%A1n-gaza-y-la-ayuda-militar-de-fondo",
-      "published": "2026-11-04T11:42:52+00:00",
-      "image": "https://s.france24.com/media/display/412c56a4-d844-11f1-a6e0-a575454bc579/w:1024/p:16x9/ES-20261104-051909-052550-CS.jpg",
-      "coverage": 1,
-      "relevance": 18.58,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Interpelación a Castillo: “Lo que pasó en el puerto” fue la consecuencia de “una ideología”, afirmó Juri",
-      "summary": "El diputado colorado preguntó en el llamado a sala si el ministro de Trabajo y Seguridad Social actuó en representación de “todos los uruguayos o siguió siendo el dirigente sindical de toda su vida”.A las 11.00 de este miércoles comenzó la interpelación al titular del Ministerio de Trabajo y...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/interpelacion-a-castillo-lo-que-paso-en-el-puerto-fue-la-consecuencia-de-una-ideologia-afirmo-juri/",
-      "published": "2026-11-04T17:33:37+00:00",
+      "title": "Para el vicepresidente de Antel, hay que “pensar la soberanía en clave regional” ante el desarrollo de las empresas tecnológicas",
+      "summary": "“Estamos en una etapa en la que, quizás por primera vez en la historia de la humanidad, un conjunto reducido de personas que tienen un proyecto tienen las condiciones materiales para impulsarlo”, dijo Pablo Álvarez.Este miércoles, el vicepresidente de Antel, Pablo Álvarez, brindó una entrevista a...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/para-el-vicepresidente-de-antel-hay-que-pensar-la-soberania-en-clave-regional-ante-el-desarrollo-de-las-empresas-tecnologicas/",
+      "published": "2026-11-05T01:13:59+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 19.66,
       "sources": [
         "La Diaria"
       ]
@@ -579,13 +581,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "La historia negada de la Banda Oriental: pueblos indígenas, pasado y presente construyendo futuro",
-      "summary": "“Raíces indígenas: pasado, presente y futuro” fue el lema del Día del Patrimonio de este año. El nombre es muy sugerente, porque existe una controversia y construcción histórica muy subjetiva que expone una tensión histórica estructural. El lema no es neutro; interpela directamente la construcción...",
-      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/la-historia-negada-de-la-banda-oriental-pueblos-indigenas-pasado-y-presente-construyendo-futuro/",
-      "published": "2026-11-04T17:24:39+00:00",
+      "title": "Biblioteca Hojarasca estrena cinco audiovisuales que reconstruyen la memoria de Punta Negra a través de sus habitantes",
+      "summary": "Este domingo se presenta el trabajo basado en 35 entrevistas a vecinos de distintas generaciones del balneario, que creció significativamente en las últimas dos décadas.La biblioteca Hojarasca presentará Entretejiendo la memoria de Punta Negra, un trabajo realizado a partir de 35 entrevistas a...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/biblioteca-hojarasca-estrena-cinco-audiovisuales-que-reconstruyen-la-memoria-de-punta-negra-a-traves-de-sus-habitantes/",
+      "published": "2026-11-05T01:05:17+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.82,
+      "relevance": 19.61,
       "sources": [
         "La Diaria"
       ]
@@ -593,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Nuevo informe sostiene que el 0,1% más rico produce más emisiones que el 44% más pobre de la población mundial en su conjunto",
-      "summary": "Oxfam Intermón publicó un nuevo informe donde evidencia que “ricos inversores” financian industrias altamente contaminantes y, al mismo tiempo, “lucran de la preparación ante desastres y de la recuperación posterior”.La próxima semana comenzará la Conferencia de las Naciones Unidas sobre el Cambio...",
-      "url": "https://ladiaria.com.uy/ambiente/articulo/2026/11/nuevo-informe-sostiene-que-el-01-mas-rico-produce-mas-emisiones-que-el-44-mas-pobre-de-la-poblacion-mundial-en-su-conjunto/",
-      "published": "2026-11-04T17:21:33+00:00",
+      "title": "El vaciamiento del Ueno Bank en Paraguay pone en duda la gobernabilidad del presidente Santiago Peña",
+      "summary": "Este jueves se comenzará a devolver parte del dinero a los millones de ahorristas damnificados por el desfalco, que provocó una enorme crisis política y financiera en el país.La Justicia paraguaya imputó a 27 personas por el vaciamiento del Ueno Bank, entidad financiera que debido a su falta de...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/el-vaciamiento-del-ueno-bank-en-paraguay-pone-en-duda-la-gobernabilidad-del-presidente-santiago-pena/",
+      "published": "2026-11-05T01:04:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.8,
+      "relevance": 19.6,
       "sources": [
         "La Diaria"
       ]
@@ -607,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Silvia Nane sobre proyectos “tecnolibertarios” en +Colonia: “Parte de lo que reviste a estos emprendimientos es el oscurantismo”",
-      "summary": "La copresidenta de la Comisión de Programa del Frente Amplio dijo que, frente a un posible intento de tener “autonomía legal y jurídica”, el Estado va a tener que “actuar”La directora de Desarrollo Sostenible e Inteligente de la Intendencia de Montevideo, Silvia Nane, planteó algunos reparos ante...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/silvia-nane-sobre-proyectos-tecnolibertarios-en-colonia-parte-de-lo-que-reviste-a-estos-emprendimientos-es-el-oscurantismo/",
-      "published": "2026-11-04T16:00:53+00:00",
+      "title": "Plan de Ordenamiento Territorial de Piriápolis: la Intendencia “romantiza” una participación ciudadana “irreal”, según colectivos",
+      "summary": "Un encuentro de técnicos comunales con alcaldes y concejales para “avanzar” en la elaboración del documento expuso contradicciones con respecto al alcance de las instancias participativas.“Maldonado crece ordenado, con diálogo y entre todos: avanza elaboración de Plan Local de Ordenamiento...",
+      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/plan-de-ordenamiento-territorial-de-piriapolis-la-intendencia-romantiza-una-participacion-ciudadana-irreal-segun-colectivos/",
+      "published": "2026-11-05T00:37:40+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.29,
+      "relevance": 19.43,
       "sources": [
         "La Diaria"
       ]
@@ -621,41 +623,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Paseo Lausana fue premiado por su diseño sostenible e inclusivo y la recuperación de espacios públicos",
-      "summary": "La paisajista Viviana Lichner contó cómo un área degradada se transformó en un espacio de encuentro comunitario; por otro lado, observa “un retroceso” en la gestión del arbolado urbano por parte de la Intendencia de Maldonado.El Paseo Lausana, ubicado en el barrio homónimo de la ciudad de...",
-      "url": "https://ladiaria.com.uy/maldonado/articulo/2026/11/paseo-lausana-fue-premiado-por-su-diseno-sostenible-e-inclusivo-y-la-recuperacion-de-espacios-publicos/",
-      "published": "2026-11-04T15:50:33+00:00",
+      "title": "FUM-TEP y AUTE trabajan en la refacción eléctrica de escuelas a través de brigadas solidarias",
+      "summary": "En el marco del acuerdo, que se concretó inicialmente en junio, se realizó la primera instancia de refacción en la escuela 230 la semana pasada.En junio de este años, la Federación Uruguaya de Magisterio - Trabajadores de Educación Primaria (FUM-TEP) y la Agrupación de Funcionarios de UTE (AUTE),...",
+      "url": "https://ladiaria.com.uy/educacion/articulo/2026/11/fum-tep-y-aute-trabajan-en-la-refaccion-electrica-de-escuelas-a-traves-de-brigadas-solidarias/",
+      "published": "2026-11-05T00:30:39+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.23,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "El País Uy",
-      "title": "La irónica reacción de Elon Musk tras perder su millonaria apuesta en las elecciones de EE.UU.",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbTY2VU5lMkdaYVdfMXo5bVQ1cTEzajRCNXF2UmFvUE9HbXBaQ0dYNEJYSi1xbHhTOWdWYzAzZU5fR3dDM2R3SVZUN1ZGM0UyYkJ6cVEtamtlX0RCWU1lY1RYdXNUaGZ2bU5KWDNYbkxFMzVUdEQyd1B1dWtRcC1aTlBZUVVzVVJfZFljVXpUcE1XUzJreHpTR1N0SU1wQUcxZUhRN0stdzRGdjBIdTQtSXd5eGpXUmpxcHY5R0RfRDZicDg4R2ppUlBBNHhSOF9ZcWNHTTBhdw?oc=5",
-      "published": "2026-11-04T11:45:43+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.2,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Dos liceos ocupados en el marco del paro de ADES Montevideo en reclamo de presupuesto para atender situaciones de violencia",
-      "summary": "Los liceos 71 y 26 fueron ocupados por los docentes, que reclaman portería durante todo el horario y cargos suficientes de adscripción y equipos multidisciplinarios.En el marco del paro de 24 horas definido por la filial montevideana de la Asociación de Docentes de Educación Secundaria (ADES) este...",
-      "url": "https://ladiaria.com.uy/educacion/articulo/2026/11/dos-liceos-ocupados-en-el-marco-del-paro-de-ades-montevideo-en-reclamo-de-presupuesto-para-atender-situaciones-de-violencia/",
-      "published": "2026-11-04T15:38:59+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.16,
+      "relevance": 19.39,
       "sources": [
         "La Diaria"
       ]
@@ -663,13 +637,41 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Vallcorba afirmó que los riesgos climáticos y cibernéticos “cada vez van a tener mayor relevancia”",
-      "summary": "En un evento de la Asociación Uruguaya de Empresas Aseguradoras, el subsecretario de Economía y Finanzas hizo referencia a “la poca conciencia que existe sobre el tema” en materia de digitalización.El subsecretario del Ministerio de Economía y Finanzas, Martín Vallcorba, participó este miércoles en...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/vallcorba-afirmo-que-los-riesgos-climaticos-y-ciberneticos-cada-vez-van-a-tener-mayor-relevancia/",
-      "published": "2026-11-04T15:22:59+00:00",
+      "title": "Los data centers y sus defensores fueron otro de los grandes perdedores de las elecciones de medio término de Estados Unidos",
+      "summary": "Los candidatos que prometieron tomar medidas contra estas instalaciones ganaron en la mayoría de los casos.En las elecciones de medio mandato realizadas en Estados Unidos el martes, en la que la ciudadanía se volcó masivamente en favor del Partido Demócrata, castigando duramente la actual gestión...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/los-data-centers-y-sus-defensores-fueron-otro-de-los-grandes-perdedores-de-las-elecciones-de-medio-termino-de-estados-unidos/",
+      "published": "2026-11-04T23:49:22+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.06,
+      "relevance": 19.13,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Conexión Ganadera: ¿por qué no se remata el apartamento de Punta del Este de la familia Basso?",
+      "summary": "Las acciones judiciales presentadas por Daniela Cabral para obtener derechos vitalicios sobre el apartamento afectaron el valor del inmueble en el mercado.El apartamento 1305 ubicado en la torre I del Edificio Imperiale, en Punta del Este, fue adquirido por Gustavo Basso el 13 de noviembre de 2012....",
+      "url": "https://ladiaria.com.uy/justicia/articulo/2026/11/conexion-ganadera-por-que-no-se-remata-el-apartamento-de-punta-del-este-de-la-familia-basso/",
+      "published": "2026-11-04T23:47:08+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.12,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Proyecto de reducción de multas: para el Frente Amplio, “es importante respetar el acuerdo que salió de la Cámara de Diputados”",
+      "summary": "Oficialismo y oposición buscan llegar al consenso con un texto que se trataría en comisión la próxima semana.El proyecto para rebajar el valor de la mayoría de las multas por exceso de velocidad, que fue aprobado en la cámara baja en mayo, demoró su tratamiento en la Comisión de Transporte y Obras...",
+      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/proyecto-de-reduccion-de-multas-para-el-frente-amplio-es-importante-respetar-el-acuerdo-que-salio-de-la-camara-de-diputados/",
+      "published": "2026-11-04T23:39:51+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.07,
       "sources": [
         "La Diaria"
       ]
