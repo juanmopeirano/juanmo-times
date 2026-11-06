@@ -1,86 +1,16 @@
 {
-  "updated_at": "2026-11-06T01:52:07.062562+00:00",
+  "updated_at": "2026-11-06T16:59:12.617142+00:00",
   "articles": [
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
-      "summary": "El ministerio estrena el mecanismo previsto para campañas excedentarias, cuestionado por parte de la industria, los envasadores y Competencia",
-      "url": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
-      "published": "2026-11-05T21:01:00+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/X42AJGXDEJCRBBHL7DANOINM5U.jpg?auth=cf1e139a9a8ed795bab22199787ca1ed8854c2189bd53e0be93de172c81283c7",
+      "title": "El mecanismo para retirar parte de la producción de aceite satisface a los productores y disgusta a la industria del envasado",
+      "summary": "Las organizaciones agrarias hablan de medida “histórica” y confían en que sirva para estabilizar los precios en origen sin afectar a los consumidores",
+      "url": "https://elpais.com/economia/2026-11-06/el-mecanismo-para-retirar-parte-de-la-produccion-de-aceite-satisface-a-los-productores-y-disgusta-a-la-industria-del-envasado.html",
+      "published": "2026-11-06T14:53:27+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/5JG5NRV7IJBSTJ2YFCIM5OVT5U.jpg?auth=32fa6f226bf0feb29a40a2c5726571fd632daeb4726693353c5e81be2c62366b",
       "coverage": 1,
-      "relevance": 19.58,
-      "sources": [
-        "El País Eco"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "La incertidumbre financiera y el feriado bancario alimentan las dudas sobre qué pasará con el dólar",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdzZtZzQzNWZlSUhDVjV1Q2hLM3VKcUR6VjBXMVZwNHBjNzh3UEpBMHl2bEN1c2ZWVmxQYzF4T0lYWXNpOGMwTHJuX2t1dzFBOTd2aVZxU0ZQN1BNVlozYlNNSm1iOGZDcXQ3QXRnZXBXYlBDNjBEbmlYUF9FSm85MkljOTlUT0ZMUS12TjJMc3Y1a1J1TlAzMTRVSHFsVVUzeWJPZVBlY0VvOXZRYUpBWGJnODI0WHpadVRMRjB0OXlnSjd3WVQ1VzdmU1V3WUloSlg0cncwWHZIQ2NR?oc=5",
-      "published": "2026-11-06T00:05:58+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 18.34,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "El dólar se dispara en Paraguay: el guaraní registra la mayor caída mundial en medio de la crisis política y bancaria",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOEgteDM0WENmVU9ONnZ5bk52dEpIR1F4dXpwZldmc29Qb0d0eEtuU3hLTzVoT0h5NXdackhoODV2Q0RYV1A0RExDa3I4Q1lvbkUtSXNlV0owdVctalJzXzJkeEZBSzhVY0pkaUl1VWtiNTR0aFhEUVJvSE02Mm1SYkJOODRSYXdUcmMyOUVKN0NETjlXWTJ0QWdETGNVMlZT?oc=5",
-      "published": "2026-11-05T22:04:46+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.58,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Riesgo país en alza, dólar y acciones: así opera el mercado HOY, jueves 5 de noviembre",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOHZpU09FdDA2aV9WUkNnVmlXT0dkMG95eWhpT2R0azFXUnQ0b2hCWFJaYlc3QWpFYnI1U0Q1UFk1a0J5ZjN1QkJ6MGVtLU1BNENtWmFaMzVicDA1d0gteTdmb3lNb2NQaFZjT3dxTjU2YkxYM0JId2hVRlE1eHYtdWU3RE1WRkNvZ3YyRHY1Vm5QSE5LNlZ0Qkx5Y2RTMkZ0R0t6MjRseVgycUswVFdGbk84Z29Hdm94YlJxVzFVNXNEMmhRNUo1ZDNEOWlRQUHSAeMBQVVfeXFMT19SWGpoSHZQQXg5WXFTNUkzUGhBX0lFdHdBcEYtVTBTaDB6S0d0dkJuRGZyRTdXVi02bjE2TnVGbExnV3N6QmZPMVhjZHU3TXRSalp2M3FEV3JzeVB4Nk9aVlJZaXYycENHZlNDMmlSOFJwNGpnOFpWOWtqZEpIOUc2dC1OSDctazdCNXJBZ0xBRkNCQnZ3WVRORG9QQUlxSHRLakNyNnhVZ0Q4bXlmSlVZODJ2V1h5LUwyeWVPM1ROWDdrdzdfa3pENW9YM1dDM3BQUERlb3RDUDBCRlduSFpEaDg?oc=5",
-      "published": "2026-11-05T21:21:22+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.31,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "Google Economía",
-      "title": "Precio del dólar hoy 5 de noviembre de 2026: peso mexicano pierde tras el recorte de Banxico",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWktxTXFzclJQOTNoQkZ2MTZDNHVLbmtON2tiU2VNRG9rMy1tcWZudkRTZHViTUt6SEFwYTdQS3lYd2xSUGREcEF4WHc4M3QwWjA2dG1RNUdWbzBkZUh4eHlQNEYtREVWMl9VYVhOTk8wWk9HQ0xVXy10XzJuY3BfMDMyMjJrMFk?oc=5",
-      "published": "2026-11-05T21:12:50+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.25,
-      "sources": [
-        "Google Economía"
-      ]
-    },
-    {
-      "category": "economia",
-      "source": "El País Eco",
-      "title": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
-      "summary": "El vicesecretario de Economía del PP, Alberto Nadal, aboga por bajar impuestos y asegura que el sistema de pensiones es sostenible si aumenta la productividad",
-      "url": "https://elpais.com/economia/2026-11-05/el-pp-vincula-el-accidente-de-urda-y-la-crisis-de-vivienda-con-la-falta-de-inversion-del-gobierno.html",
-      "published": "2026-11-05T14:40:51+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/VPPEDPSEBBHT5KTPUPEOD7DOSU.jpeg?auth=1d1a6d8c739fc45bca0457f75a1b97671645fbf8a7991b21d2c35f1a36337af2",
-      "coverage": 1,
-      "relevance": 17.2,
+      "relevance": 20.61,
       "sources": [
         "El País Eco"
       ]
@@ -88,13 +18,13 @@
     {
       "category": "economia",
       "source": "El País Eco",
-      "title": "Telefónica dejará de prestar el servicio universal de telecomunicaciones el 1 de enero de 2027",
-      "summary": "La CNMC avala la propuesta del Gobierno tras constatar que las redes comerciales cubren la demanda y el bajo coste de la financiación",
-      "url": "https://cincodias.elpais.com/companias/2026-11-05/telefonica-dejara-de-prestar-el-servicio-universal-de-telecomunicaciones-el-1-de-enero-de-2027.html",
-      "published": "2026-11-05T14:40:21+00:00",
-      "image": "https://imagenes.elpais.com/resizer/v2/NBQHZQUI4VHZJDVSIQZ6SG7FDU.png?auth=a3472a2e2173f40ed88e6a853ce0954165cc45f1db0cdaf334faf2c85ba99e1a",
+      "title": "Díaz se acerca a la votación de su candidatura a la OIT con los sindicatos divididos y las patronales en contra",
+      "summary": "La elección de la española se complica mucho, pero aún tiene opciones de ganar por el respaldo de varios gobiernos",
+      "url": "https://elpais.com/economia/2026-11-06/diaz-se-acerca-a-la-votacion-de-su-candidatura-a-la-oit-con-los-sindicatos-divididos-y-las-patronales-en-contra.html",
+      "published": "2026-11-06T14:26:46+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/NANTATNHHZGTVLEUFFT7GWVVJQ.jpg?auth=b914e31cbf4a7e24203c2d351661fe65c2be1125429fb8aa4f3b55c4f0faf01b",
       "coverage": 1,
-      "relevance": 17.2,
+      "relevance": 20.45,
       "sources": [
         "El País Eco"
       ]
@@ -102,27 +32,141 @@
     {
       "category": "economia",
       "source": "Google Economía",
-      "title": "Retrocedió el dólar mayorista mientras el mercado sigue mirando a Estados Unidos",
+      "title": "Qué pasará con la economía y dólar si el riesgo país supera los 1.000 puntos",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRl96QkdfR2o4aGNJX2JjYUt0ZGJiNEhiaW9qTkM3d2ZjTGZUU1k1UURSQ1F3XzFncU1sZ044ajBVeGNYSVRyOFduSVM4MWNNUDNOVXdPTnNsUWZUQWIzbjZvVEZwaE02OV9FSjRtRWdmWWVBOG1La0pnQXAxSE5aT1pkeHdka2JIaVBPYzh4WG9ac2d2aWNlRFJoVHYxUTRPRXRDcXVfd0VMNUIyVjczakQtTWlaX1JfQjJFNC1vY0V0N3FUMjNKRUNheXF2bUgwaE5LNlRtME40em1kWDh30gHuAUFVX3lxTFBvc0R2NnY4ZS01cjlzMnRUY0tpNWJXS3RRbHNqYkd1a3kxcy1mOWRoa2VFUDY0ejFrTHVnblBMSXpNR3J6dlpwYmV4RE1nNURIZE9yMVpBVWtFUExpSkdFWUlUQjAxUTF6SWJlMUVXSGt1dlg5eVVxeWp6NFFDVDQ3MXQ2M01mTXRXZWpIcmw5ZGVVbU5pdThibTY4bHo2QnhrR0xqUnBKNTJuVEk3YmwteE5RZ1BONzRCMnhtU1U4MGptRUxza3pERXJ4aFNXcjc5UHNhQjRxcDJuTlFyenl2WmloS3Q2Wmp4TEhsbXc?oc=5",
-      "published": "2026-11-05T19:35:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNkw5bGtDODVpWDVBXzJGT2dPdGtOdnh3WktaUXNxNWpvekxCc2hTbnJaRWFFZVRhcjQ3TGF2ZVc2UnlXS1lwajZyNWFPWjZGdWdOOTJnVHJ1SHE3X0NWQ010S1oxcThiOHNQbDhmQnh1TXdmS0hXWnVUc29FVEpwbnBlWEhUOGdFc0FEY0ZxdWNCdzZIeTMza0NhMThNTjJqdlJuU2EyQ1VYV0UwbGZWU3hybmoxN1hOZ1gyRdIBwgFBVV95cUxNQXpwb3R0UUJ5M0ZBOE1oWURTekM5Rjk4REx1R3ZnRF9JUFo4a1VvbHJqMFNlTTdvMHVZM3dmTDJHNTBXbGlETzJ6TzREYWNBaHZnV184NkRtUFlxMU1Zek5hcS1MQktjdkZ4WHdIVjUxUmlkR0JacXJqNk9DdzhZb21JMWt2QzNySlZjYUhKMmRTSzZNOWpBYl83RDRQNTZmcFdCNTkyZ3JmNUJVOHM2UW9hZDBzd1ZMU2JDc29UN3Nmdw?oc=5",
+      "published": "2026-11-06T16:10:04+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 16.65,
+      "relevance": 18.69,
       "sources": [
         "Google Economía"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "Los principales desafíos que enfrenta León XIV en América Latina",
-      "summary": "En su primer viaje a Sudamérica, del 6 al 17 de noviembre de 2026, a Uruguay, Argentina y Perú, León XIV deberá abordar varios temas de interés. Los abusos sexuales en la Iglesia, el auge del evangelicalismo y las cuestiones relacionadas con su propia seguridad serán algunos de los principales...",
-      "url": "https://es.aleteia.org/2026/11/05/los-principales-desafios-que-enfrenta-leon-xiv-en-america-latina/",
-      "published": "2026-11-05T20:11:04+00:00",
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Tipo de cambio hoy en Perú: ¿cuánto está el dólar este viernes 6 de noviembre?",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOMk9fa0trQUNpZ1IwTnlDQldUTVRrWlpJSDY4RXVqSmtwNGEwVHozYlRtU0RUb2JueXhEUDdkLVlfaXBKSEZickUzR2lFSElEMmlndmxVVW5ENkdHRkFkbGxOdVFZLU5wUDRUOUJYNkh5TG9nTE13aHpJTXNGQVFNdGlPN3Nhdkx4bnNKaHVHMzZTWXpqVFQtZDRtWEFpYlFoUHdRbDFkY2d0UG1nN3JYZnNUM1pWMVJRQ2stLTFtN0N3b2w5MGc3dkUzdThnb1FRZFFFekRXNVF0SDg3ejF0SV9BcnJtUGt3YmtzTWJaTUQ5TTB1MFJxcUwwa2JOVGhpcW5zeA?oc=5",
+      "published": "2026-11-06T15:31:06+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.07,
+      "relevance": 18.45,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "El riesgo país superó los 900 puntos y se profundizó la caída de bonos y acciones argentinas",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2wwYlRnaHo1LXZsZG9sQXRFcUEwX1R0YWVjTGlBTEEzYklrX2dvMkJNeGhrQjZodmhjYXZfWm1sM0liQkstbUZuWEFRNDdTR1otUi1HN2gwSjNfZkE3NFJvZFgwWTdhUDZzNVVjbktHeW9fREtEckRJRTFlOW5MSnJaU1JoamdCc0pXWW1wX1E4MWtXMGNsZGNsRDVrR0hQcHVXOGlGelQ3VGZxV3JjNVJ5UTFYR0xmM0N1VkNXQWE3TURlc291UdIByAFBVV95cUxPR2wwYlRnaHo1LXZsZG9sQXRFcUEwX1R0YWVjTGlBTEEzYklrX2dvMkJNeGhrQjZodmhjYXZfWm1sM0liQkstbUZuWEFRNDdTR1otUi1HN2gwSjNfZkE3NFJvZFgwWTdhUDZzNVVjbktHeW9fREtEckRJRTFlOW5MSnJaU1JoamdCc0pXWW1wX1E4MWtXMGNsZGNsRDVrR0hQcHVXOGlGelQ3VGZxV3JjNVJ5UTFYR0xmM0N1VkNXQWE3TURlc291UQ?oc=5",
+      "published": "2026-11-06T14:00:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.88,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Precio del dólar hoy 6 de noviembre de 2026: peso mexicano avanza a pesar de la debilidad del carry trade",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0VmZIWENwQUdCTmR6WGVVZFA2ZFdGeEFTdnZvd3ZIbFZEcEhSM09qcU9uUnlMcTE3Ump6NlVXanRsQkYyODFlbXVLbFJkVURVaXZCYWlkR3NJRkpHSXR0X3pCaE1oenFQbnZPVGxWMlRURDRLenNnVEN3QQ?oc=5",
+      "published": "2026-11-06T13:59:18+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.88,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "Google Economía",
+      "title": "Qué es el “dólar fuga”, cómo se opera y por qué el precio se despega del oficial",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTVwY2RhdEJLS1laUGQ4RGlrUUJwOENSVDJJZ3JndC1OdDFiNlFSSVZzdHBxZnZjNU1RZVZoUThHcDRZU3ZZT0ItbGhEMjhrX2I1Ym9hakRMS3Z0MXpPZkw3aTdQanE1bDdxQy0yZG5wMHhOQnU0c1dCLXRTLWNsQ3pQc0RRRGVFQVRTSks3V0NEUGRrSlQ5cDVIQXBIbFFNR3pZZVFkM2x1aGwwQWdGWFdFejNnVUhhVF9Tcm9n0gHYAUFVX3lxTE9WT1BqYzFmcmp2VE9pbHBQY2pnS3ZRUXd6TlBwclMyOXE3UGF0UmFiR1hheEFXSTVadUFWVElnLUV2YjBfWEg5R0psOGlBbDFsS25aSlZFcUp5a2F6MzZ4VG0yOXNQMkhpd1NNakY3aTFLNUpxTkhVNXJvZ3Q1QzVLZXJPX1RPTEpsNU84LW50N0lxeS00dTFaQnMySkRnZlAyUmY5V0N6NEFwUklFcm5oT19RdkY4S2s1V3RyM3pVeEwxeXJ4enhVYmNYaVU1VHg2czhPWHVIeA?oc=5",
+      "published": "2026-11-06T13:32:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.71,
+      "sources": [
+        "Google Economía"
+      ]
+    },
+    {
+      "category": "economia",
+      "source": "El País Eco",
+      "title": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
+      "summary": "El Gobierno subirá el SMI en 2027 hasta los 18.004 euros al año y ajustará el impuesto sobre la renta para garantizar que no tribute",
+      "url": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+      "published": "2026-11-06T04:45:01+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/54NPE6OZMJHJPF7LEAQD6CG7VQ.jpg?auth=ad2276d078496993e1398bd53485130c698c5fa548238a2cccaefd9221b60f1c",
+      "coverage": 1,
+      "relevance": 16.81,
+      "sources": [
+        "El País Eco"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "León XIV rumbo a Uruguay",
+      "summary": "",
+      "url": "https://es.aleteia.org/2026/11/06/leon-xiv-rumbo-a-uruguay/",
+      "published": "2026-11-06T14:17:40+00:00",
+      "image": null,
+      "coverage": 2,
+      "relevance": 29.19,
+      "sources": [
+        "Aleteia",
+        "Google Noticias UY"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Vatican News",
+      "title": "Uruguay espera al Papa León con los brazos abiertos",
+      "summary": "A pocas horas de la llegada del Papa León XIV a Uruguay, la ciudad está lista para recibir a los fieles y peregrinos no solo de este país que vienen a escuchar al Santo Padre, sino también de Argentina, Brasil y Paraguay.Leer todo",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-11/uruguay-espera-al-papa-leon-con-los-brazos-abiertos.html",
+      "published": "2026-11-06T11:00:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/06/07/1793946007829.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "coverage": 2,
+      "relevance": 28.55,
+      "sources": [
+        "Google Noticias UY",
+        "Vatican News"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "El milagro de los rosarios de la visita papal: 35.000 almas apadrinan a voluntarios",
+      "summary": "Aleteia revela los detalles y el conmovedor trasfondo de la iniciativa mística detrás de las 35 mil piezas de oración donadas para la visita del Papa León XIV a Argentina: cada rosario que recibirá un voluntario pasó por las manos de un fiel que rezó en secreto por él. Esta maratónica labor,...",
+      "url": "https://es.aleteia.org/2026/11/06/el-milagro-de-los-rosarios-de-la-visita-papal-35-000-almas-apadrinan-a-voluntarios/",
+      "published": "2026-11-06T16:00:30+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.83,
+      "sources": [
+        "Aleteia"
+      ]
+    },
+    {
+      "category": "iglesia",
+      "source": "Aleteia",
+      "title": "¿Qué nos dice la «lucidez terminal» sobre el alma humana?",
+      "summary": "Los médicos y las familias relatan historias similares: una persona sumida desde hace años en la demencia, que ni siquiera reconoce a sus seres más cercanos, de repente vuelve a la vida. Sonríe, habla con frases completas, pregunta por los hijos, recuerda el pasado. Y luego —al cabo de una hora, a...",
+      "url": "https://es.aleteia.org/2026/11/06/que-nos-dice-la-lucidez-terminal-sobre-el-alma-humana/",
+      "published": "2026-11-06T15:30:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 19.64,
       "sources": [
         "Aleteia"
       ]
@@ -130,13 +174,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Monseñor Tróccoli: La visita del Papa va a ser una primavera para la Iglesia",
-      "summary": "Este 5 de noviembre, a pocas horas de la llegada del Papa León XIV a Uruguay, en Radio Vaticana – Vatican News dialogamos con monseñor Milton Tróccoli, Presidente de la Conferencia Episcopal Uruguaya, quien destacó que esta visita “ayudará a todos a levantar la mirada, mirar con más esperanza el...",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-11/milton-troccoli-presidente-obispos-uruguay-visita-iglesia.html",
-      "published": "2026-11-05T18:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/agosto/05/2026-08-05-mons-milton-troccoli-uruguay.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Paraguay: el presidente Peña renuncia tras quiebra bancaria",
+      "summary": "Santiago Peña deja la presidencia del país sudamericano tras la caída de Ueno Bank, una institución financiera de la que había sido accionista. La decisión se produjo después de que la oposición iniciara el proceso de destitución. Casi tres millones de clientes se vieron afectados por la crisis....",
+      "url": "https://www.vaticannews.va/es/mundo/news/2026-11/paraguay-renuncia-presidente-quiebra-bancaria-impeachment.html",
+      "published": "2026-11-06T12:18:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/afp/2026/11/05/17/1793896213434.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.85,
+      "relevance": 19.04,
       "sources": [
         "Vatican News"
       ]
@@ -144,41 +188,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "Haití: Más muertes a causa de la violencia de pandillas",
-      "summary": "Bandas criminales tomaron represalias en la ciudad de Arcahaie. Dos mil soldados de El Salvador han sido desplegados en el país caribeño desde finales de octubre en una operación para repatriar a cuatro soldados salvadoreños tomados como rehenes por bandas criminales el mes pasado.Leer todo",
-      "url": "https://www.vaticannews.va/es/mundo/news/2026-11/haiti-16-muertos-mas-a-causa-de-la-violencia-de-pandillas.html",
-      "published": "2026-11-05T17:23:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/reuters/2024/10/21/04/1729477041357.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Pastorino: Que esta visita sea una oportunidad para despertar la esperanza",
+      "summary": "Este viernes, 6 de junio, en nuestro programa Estudio 9, dialogamos en Montevideo con María José Pastorino, directora del Departamento de Comunicación Social de la Arquidiócesis de Montevideo y con el padre Gustavo Monzón, SI, Vicerrector de la Universidad Católica del Uruguay, sobre la visita...",
+      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/estudio-9-uruguay-pastorino-monzon-montevideo.html",
+      "published": "2026-11-06T11:30:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/07/23.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.62,
-      "sources": [
-        "Vatican News"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿David Bisbal le canta a la Virgen María?",
-      "summary": "Cuando David Bisbal publicó su primer sencillo «Ave María» el año 2002, después de saltar a la fama en el concurso televisivo Operación Triunfo, no le cantaba a la Virgen María. Simplemente usaba esa clásica expresión en un tema compuesto por el productor discográfico colombiano Kike Santander para...",
-      "url": "https://es.aleteia.org/2026/11/05/david-bisbal-le-canta-a-la-virgen-maria/",
-      "published": "2026-11-05T18:37:13+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 17.48,
-      "sources": [
-        "Aleteia"
-      ]
-    },
-    {
-      "category": "iglesia",
-      "source": "Vatican News",
-      "title": "La formación de las jóvenes vietnamitas con las Amantes de la Santa Cruz de Hanói",
-      "summary": "Las hermanas Amantes de la Santa Cruz de Hanói organizan un programa de verano para chicas que reinterpreta, a la luz del Evangelio, las virtudes femeninas de la tradición vietnamita.Leer todo",
-      "url": "https://www.vaticannews.va/es/iglesia/news/2026-11/sisters-project-vietnam-asia-monjas-jovenes.html",
-      "published": "2026-11-05T17:00:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/settembre/26/sp204-foto-copertina.png/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.png",
-      "coverage": 1,
-      "relevance": 17.47,
+      "relevance": 18.74,
       "sources": [
         "Vatican News"
       ]
@@ -186,13 +202,13 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "El rostro de la Iglesia en China, un camino de comunión",
-      "summary": "En la Pontificia Universidad Urbaniana, la conferencia organizada por Fides, «El rostro de la Iglesia universal en China», celebró el centenario de la consagración de los primeros seis obispos chinos. Parolin afirmó: «Los obispos chinos tienen la responsabilidad de ser protagonistas de la vida...",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/rostro-de-la-iglesia-en-china-un-camino-de-comunion.html",
-      "published": "2026-11-05T16:35:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/05/whatsapp-image-2026-11-05-at-14-18-23-rsz.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "Virgen de los treinta y tres: “la Santa Patrona de Uruguay”",
+      "summary": "Nuestra Señora de los Treinta y Tres, Patrona del Pueblo Uruguayo, es para el país una “presencia”, que, con el paso de los años, hace más sólidos los orígenes culturales, raciales e históricos del País.Leer todo",
+      "url": "https://www.vaticannews.va/es/iglesia/news/2026-11/devocion-iglesia-maria.html",
+      "published": "2026-11-06T09:58:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/multimedia/2026/novembre/07/33.jpg/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.32,
+      "relevance": 18.17,
       "sources": [
         "Vatican News"
       ]
@@ -200,41 +216,111 @@
     {
       "category": "iglesia",
       "source": "Vatican News",
-      "title": "León regresa a casa, a una tierra llena de contradicciones pero rica de esperanza",
-      "summary": "El largo viaje por América Latina del Sucesor de Pedro, que fue misionero en Perú.Leer todo",
-      "url": "https://www.vaticannews.va/es/vaticano/news/2026-11/editorial-tornielli-viaje-papa-leon-uruguay-argentina-peru.html",
-      "published": "2026-11-05T16:31:00+00:00",
-      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/09/25/2026-09-25-viaggio-apostolico-in-francia---visita-unesco/1790344820144.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
+      "title": "León XIV partió hacia América Latina, comienza el viaje apostólico",
+      "summary": "El Airbus de Ita Airways en el que viaja el Papa despegó esta mañana, 6 de noviembre, del aeropuerto de Roma-Fiumicino «Leonardo da Vinci» a las 7:05 horas para llegar, después de más de trece horas de vuelo, a Montevideo, la capital de Uruguay, el primero de los tres países —junto con Argentina y...",
+      "url": "https://www.vaticannews.va/es/papa/news/2026-11/papa-leon-xiv-viaje-apostolico-uruguay-argentina-peru.html",
+      "published": "2026-11-06T06:09:00+00:00",
+      "image": "https://www.vaticannews.va/content/dam/vaticannews/agenzie/images/srv/2026/11/06/2026-11-06-viaggio-apostolico-in-uruguay--argentina-e-peru---par/1793945698288.JPG/_jcr_content/renditions/cq5dam.thumbnail.cropped.750.422.jpeg",
       "coverage": 1,
-      "relevance": 17.29,
+      "relevance": 16.74,
       "sources": [
         "Vatican News"
       ]
     },
     {
-      "category": "iglesia",
-      "source": "Aleteia",
-      "title": "¿Es el cielo simplemente una sucesión monótona de días sin fin?",
-      "summary": "Para algunos de nosotros, la perspectiva de la «vida eterna» no nos llena precisamente de entusiasmo. Nuestra mente podría imaginar una experiencia similar a nuestra vida en la Tierra, salvo que no tiene fin. Esta visión de la eternidad es muy común, sobre todo en las películas y series de...",
-      "url": "https://es.aleteia.org/2026/11/05/es-el-cielo-simplemente-una-sucesion-monotona-de-dias-sin-fin/",
-      "published": "2026-11-05T17:56:15+00:00",
-      "image": null,
+      "category": "tecnologia",
+      "source": "El País Tech",
+      "title": "Un ciberataque expone los datos médicos y financieros de casi un cuarto de la población de Moldavia",
+      "summary": "La presidenta del país admite que las instituciones tardaron en detectar este robo de información personal, que puede usarse en fraudes",
+      "url": "https://elpais.com/sociedad/2026-11-06/un-ciberataque-expone-los-datos-medicos-y-financieros-de-casi-un-cuarto-de-la-poblacion-de-moldavia.html",
+      "published": "2026-11-06T14:40:09+00:00",
+      "image": "https://imagenes.elpais.com/resizer/v2/L63V2UQ2GGZIKSYUMMVR2ADIOA.jpg?auth=d93d95173fc74272c7075699f7dbf58328912c94f237e722d33bf28c8962ba9e",
       "coverage": 1,
-      "relevance": 17.23,
+      "relevance": 20.53,
       "sources": [
-        "Aleteia"
+        "El País Tech"
       ]
     },
     {
       "category": "tecnologia",
       "source": "Xataka",
-      "title": "La Junta Electoral autoriza el uso de MiDNI para identificarse al votar en las elecciones generales del 29 de noviembre",
-      "summary": "Llevar el DNI en el móvil puede resultar muy cómodo, pero disponer de una aplicación oficial no significa que siempre podamos utilizarla en cualquier situación. Hasta ahora, las elecciones eran un buen ejemplo de ello. Aunque MiDNI permite acreditar nuestra identidad desde el teléfono, su...",
-      "url": "https://www.xataka.com/aplicaciones/junta-electoral-autoriza-uso-midni-para-identificarse-al-votar-elecciones-generales-29-noviembre",
-      "published": "2026-11-05T22:59:00+00:00",
-      "image": "https://i.blogs.es/1f26cd/mi-dni-digital-votar-elecciones/1024_2000.jpeg",
+      "title": "Sony da un golpe de nostalgia con sus nuevos auriculares retro: inspirados en los del Walkman, van con cable y no son muy caros",
+      "summary": "Frente a los auriculares Bluetooth, hay cierto interés que va ganando fuerza hacia los auriculares con cable. Las marcas lo saben y propuestas como la de Sony afianzan el camino hacia algo menos actual. De momento se encuentra en estado de precompra, pero los Sony MDR-3R ya están disponibles en...",
+      "url": "https://www.xataka.com/seleccion/sony-da-golpe-nostalgia-sus-nuevos-auriculares-retro-inspirados-walkman-van-cable-no-muy-caros",
+      "published": "2026-11-06T16:32:28+00:00",
+      "image": "https://i.blogs.es/49bde9/sony-mdr-3r/1024_2000.jpeg",
       "coverage": 1,
-      "relevance": 19.42,
+      "relevance": 20.33,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Corea del Sur se ha convertido en el termómetro de la IA: sus fabricantes de chips están pagando las dudas de Wall Street",
+      "summary": "Hoy la bolsa surcoreana se ha pegado un batacazo enorme. El principal indicador bursátil de este país asiático es el KOSPI, y durante 2026 ha sido el protagonista de una de las mayores subidas de los grandes mercados internacionales impulsado principalmente por dos empresas: Samsung y SK hynix....",
+      "url": "https://www.xataka.com/robotica-e-ia/corea-sur-se-ha-convertido-termometro-ia-sus-fabricantes-chips-estan-pagando-dudas-wall-street",
+      "published": "2026-11-06T16:31:08+00:00",
+      "image": "https://i.blogs.es/da9f85/samsung/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.32,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "AEG comienza su Black November con descuentos de hasta el 60 % en electrodomésticos y dispositivos del hogar",
+      "summary": "No son pocas las tiendas que han comenzado su particular Black Friday los primeros días de noviembre. Son días que ya podemos aprovechar para renovar todo aquello que necesitemos y no solo hablamos de móviles o tablets: también electrodomésticos. Si quieres renovar alguno de ellos, tienes una muy...",
+      "url": "https://www.xataka.com/seleccion/aeg-comienza-su-black-november-descuentos-60-electrodomesticos-dispositivos-hogar",
+      "published": "2026-11-06T16:15:07+00:00",
+      "image": "https://i.blogs.es/856f8b/aeg-black-november-portada/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.22,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "\"Algo extraordinario\": el canadiense que fue a la Luna lidera un proyecto urbanístico en Madrid con 12.000 viviendas de lujo",
+      "summary": "En el episodio de Los Simpsons ‘Marge contra el monorraíl’, un vendedor convence a Springfield de gastarse el dineral en un tren elevado que nadie pidió nunca. Springfield, al menos, llegó a inaugurarlo. Ahora un astronauta que rodeó la Luna en abril asesora un proyecto de 12.000 viviendas de lujo...",
+      "url": "https://www.xataka.com/magnet/algo-extraordinario-canadiense-que-fue-a-luna-lidera-proyecto-urbanistico-madrid-12-000-viviendas-lujo",
+      "published": "2026-11-06T16:01:07+00:00",
+      "image": "https://i.blogs.es/82b6ba/fumada-2/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 20.14,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Se han evaporado 2,5 billones de dólares de la bolsa de EEUU y en el punto de mira está el estallido de las neoclouds",
+      "summary": "Estos días se ha hablado bastante de las neoclouds, pero estas últimas horas, con el guantazo que se han pegado las empresas relacionadas con la IA, la conversación ha subido de tono. El motivo es que, el mismo día en el que el Nasdaq cerraba con números preocupantes, Bloomberg contó que Microsoft,...",
+      "url": "https://www.xataka.com/empresas-y-economia/se-han-evaporado-2-5-billones-dolares-bolsa-eeuu-punto-mira-esta-estallido-neoclouds",
+      "published": "2026-11-06T15:31:07+00:00",
+      "image": "https://i.blogs.es/67a516/upscalemedia-transformed-2-/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.95,
+      "sources": [
+        "Xataka"
+      ]
+    },
+    {
+      "category": "tecnologia",
+      "source": "Xataka",
+      "title": "Claude ya puede decirte en qué se te va el dinero del banco. Lo que no puede es tocar ni un euro",
+      "summary": "Si la IA sabe de todo, y se supone que da mejores consejos que muchos humanos... ¿por qué no preguntarle cómo sacarle más ventaja a nuestro dinero? No es algo extraño, ya que las dudas monetarias son uno de los tipos de consulta habituales en los chatbots con IA (un 11 % de las consultas). Así que...",
+      "url": "https://www.xataka.com/robotica-e-ia/claude-puede-decirte-que-se-te-va-dinero-banco-que-no-puede-tocar-euro",
+      "published": "2026-11-06T15:01:11+00:00",
+      "image": "https://i.blogs.es/4b2661/portada-herramienta-financiera-claude-2/1024_2000.jpeg",
+      "coverage": 1,
+      "relevance": 19.76,
       "sources": [
         "Xataka"
       ]
@@ -242,111 +328,27 @@
     {
       "category": "tecnologia",
       "source": "Hipertextual",
-      "title": "Xbox rediseña su app para PC, que ahora es más simple y hasta un 60 % más rápida",
-      "summary": "Xbox acaba de presentar una muy interesante renovación de su app para PC. El cliente nativo de la plataforma para Windows no solo estrena un nuevo diseño que la hace mucho más simple y ágil de navegar, sino que también introduce mejoras notorias en su rendimiento, algo que los usuarios llevaban...",
-      "url": "https://hipertextual.com/videojuegos/nueva-app-xbox-pc/",
-      "published": "2026-11-05T21:20:40+00:00",
-      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/xbox-app-pc-2-scaled.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
+      "title": "‘Other Worlds’, la precuela de ‘Stranger Things’, es oficial: mira el primer teaser",
+      "summary": "Puede que Stranger Things haya terminado, pero eso no significa que no queden historias por contar dentro del mismo universo. Netflix acaba de oficializar Other Worlds, un spin-off y precuela live-action de su aclamada serie, y el anuncio ha llegado con un primer teaser. Los detalles sobre Other...",
+      "url": "https://hipertextual.com/cine-television/other-worlds-stranger-things-precuela-netflix/",
+      "published": "2026-11-06T15:30:30+00:00",
+      "image": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2026/11/other-worlds.jpg?fit=1024%2C576&amp;quality=70&amp;strip=all&amp;ssl=1",
       "coverage": 1,
-      "relevance": 18.5,
+      "relevance": 19.65,
       "sources": [
         "Hipertextual"
       ]
     },
     {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Sony revive los auriculares del Walkman de 1979 con los nuevos MDR-3R y se suma al regreso del audio con cable",
-      "summary": "Hay algo curioso en el momento tecnológico que vivimos. Tenemos teléfonos capaces de hacer fotografías excelentes y, aun así, las cámaras digitales compactas vuelven a despertar interés; llevamos años escuchando música por Bluetooth, pero los auriculares con cable también están recuperando...",
-      "url": "https://www.xataka.com/audio/sony-revive-auriculares-walkman-1979-nuevos-mdr-3r-se-suma-al-regreso-audio-cable",
-      "published": "2026-11-05T19:59:09+00:00",
-      "image": "https://i.blogs.es/51ffda/mdr-3r_orange_lifestyle_usbc_7_29_30_202655642__2__rev1-large/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.29,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Hundimiento histórico de la bolsa estadounidense: las grandes tecnológicas se dejan a esta hora entre un 9% y un 19%",
-      "summary": "La alegría ha durado poco en Wall Street. Apenas un día después de que las bolsas estadounidenses celebraran los resultados de las elecciones legislativas con importantes subidas, el panorama ha cambiado por completo. Los inversores están vendiendo acciones tecnológicas a un ritmo que está...",
-      "url": "https://www.xataka.com/empresas-y-economia/hundimiento-historico-bolsa-estadounidense-grandes-tecnologicas-se-dejan-a-esta-hora-9-19",
-      "published": "2026-11-05T19:43:00+00:00",
-      "image": "https://i.blogs.es/20c397/bosa-calida-wall-street/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.19,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "Nunca habíamos dedicado tanto tiempo a nuestros hijos y, aun así, nos sentimos malos padres por salir a cenar sin ellos",
-      "summary": "Salir por la puerta y dejar a los niños con los abuelos o con una niñera para salir a tomar una copa puede ser algo que genere un sentimiento de culpa en muchos padres. Y es algo que tiene sentido, puesto que vivimos en la era de la crianza hiperconsciente, un modelo donde cada minuto cuenta y...",
-      "url": "https://www.xataka.com/medicina-y-salud/nunca-habiamos-dedicado-tiempo-a-nuestros-hijos-asi-nos-sentimos-malos-padres-salir-a-cenar-ellos",
-      "published": "2026-11-05T19:31:06+00:00",
-      "image": "https://i.blogs.es/eedf49/cuidado-hijos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 18.12,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "SpaceX no convenció a las operadoras con la telefonía de Starlink, así que Elon Musk se está creando su propia operadora móvil",
-      "summary": "Durante los últimos meses, Elon Musk ha estado llamando a la puerta de las grandes operadoras de EEUU. Su oferta era sencilla: usar sus redes de telefonía para ofrecer un servicio de telefonía móvil vía satélite con Starlink. Todas le dijeron que no. Cualquiera se habría rendido. Pero Musk ha hecho...",
-      "url": "https://www.xataka.com/telefono-movil/spacex-no-convencio-a-operadoras-telefonia-starlink-asi-que-elon-musk-se-esta-creando-su-propia-operadora-movil",
-      "published": "2026-11-05T18:31:06+00:00",
-      "image": "https://i.blogs.es/9021dd/54820097838_e4341f8a4b_k/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 17.74,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Genbeta",
-      "title": "Los centros de datos de IA generan su propia energía. ¿Cómo afecta esto a la red eléctrica en general?",
-      "summary": "La IA necesita cada vez más electricidad y las Big Tech están buscando maneras de lograrlo sin depender de compañías eléctricas. Según las previsiones de la Agencia Internacional de la Energía, el consumo mundial de los centros de datos podría pasar de 485 teravatios hora en 2025 a unos 950 en...",
-      "url": "https://www.genbeta.com/actualidad/centros-datos-ia-generan-su-propia-energia-como-afecta-esto-a-red-electrica-general",
-      "published": "2026-11-05T19:01:07+00:00",
-      "image": "https://i.blogs.es/4b9685/genbeta-3-centro-de-datos/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 17.63,
-      "sources": [
-        "Genbeta"
-      ]
-    },
-    {
-      "category": "tecnologia",
-      "source": "Xataka",
-      "title": "En 2007, EEUU tuvo la disparatada idea de fabricar cemento quemando montañas de alfombras viejas: el experimento funcionó, hasta que llegó la factura",
-      "summary": "Estados Unidos tenía un problema que se medía en millones de toneladas: cada año, una montaña de moquetas y alfombras usadas terminaba en los vertederos. En el año 2007, un grupo de investigadores encontró una salida tan extraña como prometedora: utilizarlas para alimentar los hornos de las...",
-      "url": "https://www.xataka.com/energia/2007-eeuu-tuvo-disparatada-idea-fabricar-cemento-quemando-millones-alfombras-viejas-experimento-funciono-que-llego-factura",
-      "published": "2026-11-05T18:01:10+00:00",
-      "image": "https://i.blogs.es/2da71b/21688/1024_2000.jpeg",
-      "coverage": 1,
-      "relevance": 17.56,
-      "sources": [
-        "Xataka"
-      ]
-    },
-    {
       "category": "deportes",
       "source": "Marca",
-      "title": "La perla del fútbol mundial, a punto de fichar por el Madrid",
-      "summary": "Así vienen los periódicos deportivos de este viernes 6 de noviembre de 2026.",
-      "url": "https://www.marca.com/futbol/album/2026/11/06/portadas-dia.html",
-      "published": "2026-11-06T00:37:26+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed209f875c8.jpeg",
+      "title": "El crowdfunding para Jesús de Miguel supera los 100.000 euros: Porro, Borja Iglesias, Baena, Morata, dos presidentes de Segunda...",
+      "summary": "Han donado numerosos jugadores de LaLiga y los que más los presidentes de Cádiz y Ceuta",
+      "url": "https://www.marca.com/futbol/tenerife/2026/11/06/crowdfunding-jesus-miguel-supera-100-000-euros-porro-borja-iglesias-baena-morata-dos-presidentes-segunda.html",
+      "published": "2026-11-06T16:42:36+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aee03714ca1f.jpeg",
       "coverage": 1,
-      "relevance": 20.03,
+      "relevance": 20.4,
       "sources": [
         "Marca"
       ]
@@ -354,13 +356,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Si la final del Mundial 2030 no es en España deberíamos retirarnos de la organización\"",
-      "summary": "El presidente del PP lo tiene muy claro",
-      "url": "https://www.marca.com/futbol/federacion-espanola-futbol/2026/11/06/feijoo-final-mundial-2030-espana-deberiamos-retirarnos-organizacion.html",
-      "published": "2026-11-06T00:22:09+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed1b981943f.jpeg",
+      "title": "Alonso reanima a Aston Martin en un estreno en Brasil de máxima igualdad",
+      "summary": "El Gran Premio de Brasil en Interlagos arranca con cuatro pilotos de cuatro equipos diferentes en lo más alto. Lando Norris marca la pauta",
+      "url": "https://www.marca.com/motor/formula1/gp-brasil/2026/11/06/alonso-reanima-aston-martin-estreno-brasil-maxima-igualdad.html",
+      "published": "2026-11-06T16:39:19+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedfade89c22.png",
       "coverage": 1,
-      "relevance": 19.94,
+      "relevance": 20.38,
       "sources": [
         "Marca"
       ]
@@ -368,13 +370,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Lakovic dedica el triunfo a Jesús de Miguel y cree que no se debería haber jugado",
-      "summary": "\"Me gustaría dedicar esta victoria en honor a Jesús de Miguel, a su familia y sus más allegados\", dijo el esloveno",
-      "url": "https://www.marca.com/baloncesto/eurocup/2026/11/06/lakovic-dedica-triunfo-jesus-miguel-cree-deberia-haber-jugado.html",
-      "published": "2026-11-05T23:30:30+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aed111e4e3ff.jpeg",
+      "title": "El emotivo cartel del Leganés: \"Nunca te irás DEMI memoria\"",
+      "summary": "El delantero madrileño fallecido en Tenerife jugó en la cantera pepinera",
+      "url": "https://www.marca.com/futbol/leganes/2026/11/06/emotivo-cartel-leganes-nunca-te-iras-demi-memoria.html",
+      "published": "2026-11-06T16:28:41+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedfde152d79.jpeg",
       "coverage": 1,
-      "relevance": 19.61,
+      "relevance": 20.31,
       "sources": [
         "Marca"
       ]
@@ -382,13 +384,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Los Lakers degradan a Bronny James",
-      "summary": "El base jugará en el equipo afiliado en la G League después de haber disputado sólo 12 minutos en lo que va de temporada NBA",
-      "url": "https://www.marca.com/baloncesto/nba/2026/11/06/lakers-degradan-bronny-james-enviandole-g-league.html",
-      "published": "2026-11-05T23:08:55+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aed0541f2433.jpeg",
+      "title": "El FBI detiene al padre de Meghan Markle por pornografía infantil",
+      "summary": "Hasta el momento, no han trascendido oficialmente los cargos a los que se podría enfrentar",
+      "url": "https://www.marca.com/tiramillas/sociedad/2026/11/06/fbi-detiene-thomas-markle-padre-meghan-markle-presunta-coleccion-pornografia-infantil.html",
+      "published": "2026-11-06T16:06:13+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedf9b55df04.jpeg",
       "coverage": 1,
-      "relevance": 19.48,
+      "relevance": 20.17,
       "sources": [
         "Marca"
       ]
@@ -396,13 +398,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "Alucinan con el Coliseum: \"Tiene una energía única, ha sido una locura\"",
-      "summary": "El técnico del Brighton analizaba al equipo azulón en la previa del partido de Conference",
-      "url": "https://www.marca.com/futbol/getafe/2026/11/05/fabian-huerzeler-coliseum-energia-unica-sido-locura.html",
-      "published": "2026-11-05T22:53:47+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aed08a93ad54.jpeg",
+      "title": "Polémico cambio de fecha para el Barça-Atleti",
+      "summary": "Barça y Atlético, doble cita en liga en menos de un mes y serán tres en 86 días",
+      "url": "https://www.marca.com/futbol/primera-division/2026/11/06/laliga-adelanta-2-diciembre-barca-atletico-real-sociedad-real-madrid.html",
+      "published": "2026-11-06T15:53:22+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedf7e974b93.jpeg",
       "coverage": 1,
-      "relevance": 19.39,
+      "relevance": 20.09,
       "sources": [
         "Marca"
       ]
@@ -410,13 +412,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "¡Fichaje inminente!",
-      "summary": "El club blanco, a punto de oficializar la llegada de la perla inglesa",
-      "url": "https://www.marca.com/futbol/real-madrid/2026/11/05/fichaje-jj-gabriel-real-madrid-inminente.html",
-      "published": "2026-11-05T22:42:00+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2025/10/27/68ff52a529538.jpeg",
+      "title": "Confirman las nuevas fechas de los debates electorales del 29N",
+      "summary": "El periodo de quince días de campaña electoral para las elecciones generales del 29 de noviembre arrancará la próxima semana",
+      "url": "https://www.marca.com/tiramillas/politica/2026/11/06/son-nuevas-fechas-debates-electorales-29n-sexta-confirma-viernes-13-noviembre-primero.html",
+      "published": "2026-11-06T15:52:22+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedf78fb56d4.jpeg",
       "coverage": 1,
-      "relevance": 19.31,
+      "relevance": 20.08,
       "sources": [
         "Marca"
       ]
@@ -424,13 +426,13 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"Podía pensar hasta en retirarme\"",
-      "summary": "El hispanogeorgiano concede a ABC su primera entrevista desde que perdió el cinturón del peso ligero de la UFC y su condición de invicto en la Casa Blanca",
-      "url": "https://www.marca.com/combates-ufc/2026/11/05/topuria-rompe-silencio-caer-gaethje-podia-pensar-retirarme.html",
-      "published": "2026-11-05T22:41:34+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/03/6ae9f9812b3d7.jpeg",
+      "title": "La noche que explica el abismo entre Mourinho y Xabi Alonso",
+      "summary": "El portugués se 'encerró' a las 3am con su plantilla para unirlos frente al calendario; el tolosarra impuso una concentración.. y acabó regalando dos días libres para frenar el motín",
+      "url": "https://www.marca.com/futbol/real-madrid/2026/11/06/abismo-mourinho-xabi-alonso-intrahistoria-dos-noches-valdebebas.html",
+      "published": "2026-11-06T15:50:33+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aedf72a7d745.r_d.634-315-0.jpeg",
       "coverage": 1,
-      "relevance": 19.31,
+      "relevance": 20.07,
       "sources": [
         "Marca"
       ]
@@ -438,97 +440,55 @@
     {
       "category": "deportes",
       "source": "Marca",
-      "title": "\"No podía seguir jugando contra el United cada temporada\"",
-      "summary": "El excompañero del azulgrana se deshace en elogios hacia él y lo compara con Messi",
-      "url": "https://www.marca.com/futbol/barcelona/2026/11/05/rashford-lamine-gana-siete-balones-oro-me-sorprendera.html",
-      "published": "2026-11-05T22:37:25+00:00",
-      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/05/6aed04e98f133.jpeg",
+      "title": "Tommy Paul, eliminado de París y la clasificación de Jódar a las ATP Finals dependerá de Alcaraz",
+      "summary": "Alcaraz tendrá que evitar el pase a semifinales de Taylor Fritz para que Rafa clasifique a Turín",
+      "url": "https://www.marca.com/tenis/2026/11/06/tommy-paul-eliminado-paris-clasificacion-jodar-atp-finals-dependera-alcaraz.html",
+      "published": "2026-11-06T15:00:40+00:00",
+      "image": "https://objetos-xlk.estaticos-marca.com/files/og_thumbnail/uploads/2026/11/06/6aedeb2e68be4.jpeg",
       "coverage": 1,
-      "relevance": 19.28,
+      "relevance": 19.76,
       "sources": [
         "Marca"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Trump se reúne con el enviado de Putin mientras EE. UU. anuncia nuevas conversaciones de paz para Ucrania",
-      "summary": "El presidente de Estados Unidos, Donald Trump, confirmó este jueves 5 de noviembre que se reunió en la Casa Blanca con el enviado de Vladimir Putin, Kirill Dmitriev, pero no con los representantes ucranianos, que también estaban presentes en un acto encabezado por Melania Trump. Mientras tanto,...",
-      "url": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20261106-trump-se-re%C3%BAne-con-el-enviado-de-putin-mientras-ee-uu-anuncia-nuevas-conversaciones-de-paz-para-ucrania",
-      "published": "2026-11-06T01:02:51+00:00",
-      "image": "https://s.france24.com/media/display/b9c7c790-d968-11f1-b608-bf1914cabd52/w:1024/p:16x9/056e83dfed741759a64dba89d61afeebc55e9bff.jpg",
+      "source": "BBC Mundo",
+      "title": "\"El envío de tropas a Haití es una apuesta política de Bukele: demostrar que no es solo un actor nacional, sino uno mucho más poderoso a nivel regional\"",
+      "summary": "Tras la desaparición de cuatro militares salvadoreños en el país caribeño, Bukele advirtió a los líderes de los grupos criminales allí que puede acabar con ellos como lo hizo con la MS-13 y el Barrio 18. Hablamos al respecto con el especialista en Haití Romain Le Cour Grandmaison.",
+      "url": "https://www.bbc.com/mundo/articles/c6lykpx0284wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T16:07:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c905/live/7db75ae0-d706-11f1-ac17-5d3d5470aaba.jpg",
       "coverage": 1,
-      "relevance": 20.49,
+      "relevance": 21.37,
       "sources": [
-        "France 24"
+        "BBC Mundo"
       ]
     },
     {
       "category": "belico",
-      "source": "France 24",
-      "title": "Ecuador: a juicio siete personas, entre ellas un exministro correísta, por el asesinato de Fernando Villavicencio",
-      "summary": "El exministro del Interior ecuatoriano, José Serrano, se encuentra entre las seis personas que serán procesadas por el asesinato del candidato presidencial, que fue acribillado a su salida de un acto de campaña una semana antes de la primera vuelta de las elecciones en Ecuador. Serrano fue...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-ecuador-a-juicio-siete-personas-entre-ellas-un-exministro-corre%C3%ADsta-por-el-asesinato-de-fernando-villavicencio",
-      "published": "2026-11-05T23:24:03+00:00",
-      "image": "https://s.france24.com/media/display/72b8a3be-d96e-11f1-ac2f-d18c5759e759/w:1024/p:16x9/AP23230090868081.jpg",
+      "source": "BBC Mundo",
+      "title": "De qué se acusa a Santiago Peña, el presidente de Paraguay que se enfrenta a un juicio político tras la crisis de Ueno Bank",
+      "summary": "La oposición acusa al Santiago Peña de conflicto de intereses por sus vínculos con el grupo propietario de Ueno Bank y cuestiona posibles beneficios económicos.",
+      "url": "https://www.bbc.com/mundo/articles/cxly4497lvg7o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-06T15:28:23+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9b6/live/00622410-d9f6-11f1-bb10-cdca6001fbcf.jpg",
       "coverage": 1,
-      "relevance": 19.87,
+      "relevance": 21.13,
       "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "¿Valió la pena? La guerra en Irán y la sutil ruptura republicana con Trump tras el fiasco en las midterms",
-      "summary": "",
-      "url": "https://www.france24.com/es/medio-oriente/20261105-vali%C3%B3-la-pena-la-guerra-en-ir%C3%A1n-y-la-sutil-ruptura-republicana-con-trump-tras-el-fiasco-en-las-midterms",
-      "published": "2026-11-05T23:00:03+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.72,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Colombia: un periodista sufre un atentado tras denunciar amenazas; la protección le había sido retirada",
-      "summary": "El periodista colombiano Walter López fue víctima de un atentado el miércoles 4 de noviembre, cuando varios hombres armados ingresaron a su vivienda en el municipio de Barrancabermeja, en el departamento de Santander. El ataque se produjo semanas después de que recibiera amenazas de personas que...",
-      "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261105-colombia-un-periodista-sufre-un-atentado-tras-denunciar-amenazas-la-protecci%C3%B3n-le-hab%C3%ADa-sido-retirada",
-      "published": "2026-11-05T22:45:45+00:00",
-      "image": "https://s.france24.com/media/display/35ec93de-efbc-11ef-a890-005056a90284/w:1024/p:16x9/509c2c415047cf4244850d8c00e3740370ae0ca2.jpg",
-      "coverage": 1,
-      "relevance": 19.64,
-      "sources": [
-        "France 24"
-      ]
-    },
-    {
-      "category": "belico",
-      "source": "France 24",
-      "title": "Directo a... Washington y los movimientos internos del Partido Republicano tras las midterms",
-      "summary": "Tras la dura derrota del Partido Republicano en las midterms, en la que perdieron todo el control del Congreso, sus seguidores buscan culpables a quienes responsabilizar. El vicepresidente JD Vance y otros partidarios republicanos han culpado a la guerra en Irán, una posición que ha sido tomada...",
-      "url": "https://www.france24.com/es/video/20261105-directo-a-washington-y-los-movimientos-internos-del-partido-republicano-tras-las-midterms",
-      "published": "2026-11-05T22:38:51+00:00",
-      "image": "https://s.france24.com/media/display/b7c2c230-d961-11f1-90f0-a575454bc579/w:1024/p:16x9/ES-20261105-124925-125515-CS.jpg",
-      "coverage": 1,
-      "relevance": 19.59,
-      "sources": [
-        "France 24"
+        "BBC Mundo"
       ]
     },
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "El ataque ruso contra un centro humanitario deja 43 muertos en Ucrania",
+      "title": "La guerra entre EE.UU. e Irán frena los recortes de tipos de interés en América",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXc0WjZJbXFGRXhjdmxyNDNDLWV1dXYteV9pRHZLQkN6NGh5b2lUcVpXdE5iVHV1cFRfazc1clJVNnFiWWVWSFVrU21FYVh6OGRzNExUOG1ZZTFQVkZWdUR6MXJESldrVW5kb2Z0c05MS2N6RW9rdzlxdGJrME04TFJrek9vNDVyTVZ5U21GYjZWTmcyajE2b2hsS01YS2IxTFpaeG45SFJFSXZ5emUyS1AwU1YyVnE30gG-AUFVX3lxTFB2SG9nQ0gyT2FHYkQtVEJIdHpJOFoxOU5xeDJfWFFrWUZTa2hPVkpyc1h4NTUwc3luTlR0Uml4dmR1Y0dwUGhOM0pOdVZiSHJGTGNpLWNvQ1RVNUpmaHdXbFJCM25PRW9jWlZUbEVjMkNpbkM0SUFPYjdUTXJpdzN5Q0dDWWNfejJ0Z002ZWoyaGlKOGZINFZoZ1Yxbm1pUDhrSDZibzBoREMxSGo3NDBqOUdYTnRBOWstc1BRcEE?oc=5",
-      "published": "2026-11-06T01:25:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOamFUQVhPOGl2ZlNvc0U2VjQ4dWFLWWNmQXVONW9ZaDlaeUQ4ZjJta2xaRVFHTkIzcmJBOWJ2UXpKMS02X2NEZ3JGcms3LU1KU0RfWU9FRC1YN0E1MnRNVk1OS1FXOEZYRkZMOVlHRlNiUXN3YVJIcUFsNjkwXzdrZnFFMkl2RFFLVGZpRU5DWTZlQnRlQ3JMWWRnbnVEMWRvQ0JxU2xKaDhGRzFXb1ZpSmJDLURGMEF0NTd4N0RPWUdDXzFabXpPb3ln0gHkAUFVX3lxTE5BR05MemFNbUY1UWx6VFdiNy1mRGhGR1VQRlNNY0tHVl9UTnpLcGhNSHNoOHRfTnJpVzA2U0dYOVlMLWF3Q2F2ZmZUU0pIaG5hVkgxdURIRy1lTExCcmVqeFhuaEFPY1hHTTdpRWR5dkZRaUExcEN6dkJULW1wZ2N2bW1OR3lyam9rZXYtalNOV3QwWV9rdS15YjJIMjVmc1JCTjQ2b2JRd1hySVd1NUJuNFlqRmlMcWxxak1GdzZqN0FiOVFWeUJ4Vml0d3UxRjQxS1Q1aUZ1VEc5OHgwRTBVZHBlOQ?oc=5",
+      "published": "2026-11-06T16:17:00+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.83,
+      "relevance": 18.74,
       "sources": [
         "Google Noticias"
       ]
@@ -536,13 +496,13 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Melania Trump, primera dama de Estados Unidos, recibió la Orden de la Princesa Olga de Ucrania de Primera Clase, debido a su labor por conseguir un alto total al fuego en Alyoshki, Ucrania. En representación del presidente Volodímir Zelenski, el comision",
+      "title": "Trump dice que habrá «un gran acuerdo» sobre guerra Ucrania",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOTmdzeEdRdzFQc3NpOE5wY29LUG5qYm5JZ1pyemtVNC03LUl0ZXViYm9HWm1ka3hnQzhoME1vMGt2RVE2c08zZW5oTS1KTHhpaFZCRHZGN2k3el9JdFVsRDUyQ21aZ2haS1FENXpGc2tQaEhydHFHbnVHV2pNdmJERlJvSlU1OFMxTFdub24zMG5sOVU0ejdkWFlFWm41cU1BUE5VaDI5dUtEUkZsZkF5ZGZzMnViXzlScjZrZG9TVmlacTR6THhrcGx0QlZuRS1DQ3A4cnJ1QXQ4cmVwc3FxOF9R?oc=5",
-      "published": "2026-11-06T01:20:20+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Jd0R4eW5yaUdVZHNQWTZaaUJ2dXNqbGx2VmZVbm9ZTG5EMWYxX2M0eXdrazlSd2I3Yy05TEtWa2N0Q2FlVVVFVG1FS2VqSnh3Zjg1QnQ2bVBpVkRNMzdlT1RtZ1M4bzBwcFZMSkxYc1I2WWZsZ0RDSkJreDNuQQ?oc=5",
+      "published": "2026-11-06T14:10:53+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.8,
+      "relevance": 17.95,
       "sources": [
         "Google Noticias"
       ]
@@ -550,13 +510,55 @@
     {
       "category": "belico",
       "source": "Google Noticias",
-      "title": "Cinco palestinos mueren en ataques de Israel en Gaza",
+      "title": "Azov busca combatientes hispanohablantes para la guerra de Ucrania en medio de las alertas por voluntarios sudamericanos",
       "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpMelpCZVd1Z2lVSTF3YVRMUUc0R2V4WjBOMkRnUWpxamF2TUxMY1BuYXZmb2JNc3pqeWU1dE42WDJNV3I4eXlKZUlSOGw3NHU1Uzd4b05NZmxFc2VWM0xKR1dqMUxvb1NLLWp0c0xyZ01DTUF2eWZMdndNWVFzSy1HWFlYTUlVRVBYZExn0gGOAUFVX3lxTFBPcURGdFJ5Vk45RmttV05FUThqcWtINnZ3LU5TWThWR0tKMTV2cFZRa3hOaVpKNVVKaTJHVGtxZkc0WC1jcm1PbnNfTkpHVTlqVVhzU2c5YkV1YzhTb0RleTh5Y3BEN09ESDRMQmc5UUR4akRzTEZfLUN3T2I5UUI5UzJwc2kyQWlDaTBrMEE?oc=5",
-      "published": "2026-11-05T23:48:45+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPc1ZNUTUtTWFtTlpSTTZCcWxBTDA3TEFtV09DeVZBTGphdFliQkFLNXY4bEcxZHQzOU9SRUxVRVE3bWVDOWl2Y3JMLXBzTEh6YUJzNHBVMzdURE1OcEVfSVZidzNGUzhPT2xaU3VjMjh2RHZJVkdlRWg5OUxNekZGdUt2ejZMZnFuYjQ3N1Bfem9vMmxCeWNieWZIOThGa0xxNTRSbm1KQjVkQVQ1UHZ3MEFMZ0JiUUVwNWV6eGJxMlB1M3o5Zy1aTlpIOURSQnFBOEQwRVdCYmxQRm1DbVpmejcxSlppMDBHWFBHZ2ZwS254TjBJcWk0bNIBgAJBVV95cUxPUEtRRzdOWEhCdTVob0x4QnZMQXk5WFdUZGpORWh3YTdPNFRZYldZQzY4S1ZybkEzX1E0SHR4YzUtdFc4MFVSVUE0dTdUdkdwV1VnVVFoYld1YkJTUjhtUFBfN2kzYlpSRzRXcjZIYjNLdi1CTy1QRmVUVHBhanVveFZjMzk0ZUVzbUJzYmpXWUpOSm4zM3VfNU9ZczA0eUV3cXVYX3AyYmhvZDJZVVpwZVE0dDAzczhNcnJWZFlyRTFYZ0prYV9oa3FJV1N0ckE5VlZIdU5tTTZXUExPdGowUWVTMEljSHNYbUhuWTVhbElKNzJySnViekdLSTlaR3Bi?oc=5",
+      "published": "2026-11-06T12:49:54+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 18.23,
+      "relevance": 17.44,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Estados Unidos planea ataque a Irán el 9 de noviembre mientras Europa enfrenta amenazas de bomba y Rusia intensifica la tensión",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSUVDZThjZEt3b2Z0QVBLMkk5c0J3dXVvMU45Q21wYWFYbG42SFJQdTNBSGZxQkZYeWNyZ1dOczU3cnpJUHZ3aFVpYklEb2Roc0h5SFFub0ZEVTNxTGZkT3BERlFyRG9VcmM1S0tnZkE4Y3pBM3pUeUo5N1Z1S3IwTU0zWUlWTFZjNEMwZHBHdXFHSmdtTi1YOFVuaEFscU92N2J6U2d1X3J4S2F2TXNEN0xpR25lYnVwYWNUenR1bEdWdUxhTEF3Y1g4MDgyaUNFNjUxR096dHptTl9YQkVhUTZPUW1IZm9tSzltMGFnNjdDWV9BQ3JUTkhHZTRHcTJta0UwctIBigJBVV95cUxNQzF5dHlxSXMxYXFCT2t5Z0lDdGJydVRuYUdWaldENFBoUDRaTWxCc2puODFXZVhaWGZkUWRkRXYtVDliOEN6dGRpR3I1dmlOcEJYYlBGNUtZTmZsMzV0YW5uVVB2T1J0TWxQQ1V2dk5kMERxZzJ2UkJidnFvcVg3WDBXclFzQnRYVjdxQjRIb29PSHBqVEJIX2F0eTh3SExsRE5HYVdOQUllRjJOZ3ZMb0NBUmpwbFhxVk5PdmRYZ2VUeThDclFneFhmMEJRQmluUlZjeURwOE1BUFdJMFhkYmd2TldVdmkxUVF0T0syeWx5ck85MXhpV193b2tnak9VbFprTF91X2ZDdw?oc=5",
+      "published": "2026-11-06T12:45:32+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.41,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "¿Se aproxima un ataque contra Irán? Los movimientos claves en la geopolítica internacional",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWGtRZHlCTDVwWlZ3bC1tRnNvN01hVXlvWVBnWmlVOThPSmdqLXdrdkpDTTJab25vOHc3SFpZRkVPVVpiTUttX1ZaQjBHdm5tZHJfMlR4RmRPY3Z0LVZxTTFEZ0t2UTdoMVVVSjFjSG95SmYxektrTHZVTkFZOFNuNnZKUF9hNHowMThZYW1LMUVVT1BTWERDbUJXSDNtbFdFc2s1LV9pTkN3X21ldEFUU0xoRmlwSUJiQVFLeXVtaENVMGwtOVlv0gHMAUFVX3lxTE95QzY5bG5vSkkwT1JsZDVKbzJWNWR3V2JUQ294R01VZFRDSm1FREwxLVdHM2M5NE1SU2FpQkhoVHRQNk9hT3JEUDhfTDMtcmFOUC1iMGkybmliclItZHJrZnE1Y21sSmZxT19oZ1ZFT0U4NkN4ekNRYUoyMHVuYkk4YjYzRG9XdkQtaW5jMkxwZEVTWkVKLTRFT3dKS1dWdC1QS016MHM0VEtxRjZpUVYwVEloVGhQS01XUmk3RGptd2hCVm5TRXN1UlFCRg?oc=5",
+      "published": "2026-11-06T12:10:50+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.2,
+      "sources": [
+        "Google Noticias"
+      ]
+    },
+    {
+      "category": "belico",
+      "source": "Google Noticias",
+      "title": "Zelenskyy presiona a aliados occidentales por garantías claras de seguridad para la posguerra",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0ZsVE5mc0RTS2V6bUtUTl9nWW1QbkUwSHZWOGhQck9WcXFRRVNtbmZsREgzLUdHQzl4Vkx0T25zdmlScTRFS3FBRExyRlQ0eXdlZE9vUm1NZGxndnJJZFFGMW9PTXNUYTRYd256M2F5UkdLdS05Yi05eDF2SzJZd0YtZktXX0RXZDBQZHFwLUwxdXppMjVGdEZhX0NkX09QQjhSMG1NNURiMzRLNm9FdjdwTTQ0NGs?oc=5",
+      "published": "2026-11-06T11:52:00+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 17.08,
       "sources": [
         "Google Noticias"
       ]
@@ -570,7 +572,7 @@
       "published": "2026-11-05T14:30:36+00:00",
       "image": null,
       "coverage": 2,
-      "relevance": 27.14,
+      "relevance": 22.4,
       "sources": [
         "El Observador",
         "El País Uy"
@@ -578,39 +580,11 @@
     },
     {
       "category": "uruguay",
-      "source": "El País Uy",
-      "title": "Familiares, amigos y dirigentes políticos despidieron a Gonzalo Moratorio en el Palacio Legislativo",
-      "summary": "",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRG1MRmdkcmI3REZONWQzNEpSTXpnUk9XZlNYazR4MXN0R2RXSzdZMWwxZU5KRjdmV3l1WUtVSHE1NmJnMlhsenYxdTdDZ2p1b1lfVENybHcwSWVQc1Rrb21hdFJlT3g4WUVMWmVfZzR2MXo5bnhKYnZ1Y29WV0lraV9pRFRHamx5SWxLY2huN3ZkOVllaWNBY3pHSDctY1puTVBhejU2MEZ5U291N3F2NHY1OWRselRhMVRLeEU0TEtXQVZ2bmkxcmFVYVJEUUNBNzdhOVp0SmJFZmN0TG15ZXQ5Q3JtdDhLTmVhNjgtRQ?oc=5",
-      "published": "2026-11-05T21:42:52+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.84,
-      "sources": [
-        "El País Uy"
-      ]
-    },
-    {
-      "category": "uruguay",
       "source": "La Diaria",
-      "title": "En Paysandú desde este viernes hay zonas de exclusión por la visita del papa León XIV",
-      "summary": "El intendente Nicolás Olivera brindó detalles del megaoperativo de seguridad que comenzará este viernes. Con dos grandes zonas de exclusión y más de 30.000 fieles registrados, la ciudad se prepara para recibir la primera misa del Sumo Pontífice en suelo latinoamericano. A menos de 48 horas del...",
-      "url": "https://ladiaria.com.uy/paysandu/articulo/2026/11/en-paysandu-desde-este-viernes-hay-zonas-de-exclusion-por-la-visita-del-papa-leon-xiv/",
-      "published": "2026-11-06T00:52:14+00:00",
-      "image": null,
-      "coverage": 1,
-      "relevance": 19.53,
-      "sources": [
-        "La Diaria"
-      ]
-    },
-    {
-      "category": "uruguay",
-      "source": "La Diaria",
-      "title": "Salto proyecta un Museo del Deporte para preservar la historia de sus campeones en todas las disciplinas",
-      "summary": "La iniciativa busca reunir objetos, documentos y recuerdos de deportistas salteños que marcaron la historia local y nacional, con el objetivo de reconocer sus trayectorias y preservar el patrimonio deportivo del departamento.Salto contará con un Museo del Deporte destinado a preservar y reconocer...",
-      "url": "https://ladiaria.com.uy/salto/articulo/2026/11/salto-proyecta-un-museo-del-deporte-para-preservar-la-historia-de-sus-campeones-en-todas-las-disciplinas/",
-      "published": "2026-11-06T00:50:57+00:00",
+      "title": "El Consultorio Jurídico de la Udelar atiende 100 casos al año en Salto",
+      "summary": "El servicio funciona durante el año académico y permite que estudiantes avanzados de abogacía adquieran experiencia profesional mediante la atención de consultas y el seguimiento de asuntos judiciales y extrajudiciales.El Consultorio Jurídico de la Universidad de la República (Udelar) es una unidad...",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/11/el-consultorio-juridico-de-la-udelar-atiende-100-casos-al-ano-en-salto/",
+      "published": "2026-11-06T15:57:45+00:00",
       "image": null,
       "coverage": 1,
       "relevance": 19.52,
@@ -621,13 +595,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Encuesta de Equipos: 52% desaprueba la gestión de Orsi y 24% la aprueba",
-      "summary": "El saldo negativo de 28 puntos porcentuales es el más alto registrado por la consultora en lo que va del gobierno.La consultora Equipos divulgó en la noche de este jueves su última encuesta sobre el desempeño del gobierno encabezado por el presidente de la República, Yamandú Orsi. Los números, que...",
-      "url": "https://ladiaria.com.uy/politica/articulo/2026/11/encuesta-de-equipos-52-desaprueba-la-gestion-de-orsi-y-24-la-aprueba/",
-      "published": "2026-11-06T00:49:52+00:00",
+      "title": "El jueves 19 será inaugurada la Zona Franca del Plata en Colonia del Sacramento",
+      "summary": "El emprendimiento apunta a crear un polo de servicios profesionales, con capacidad para 1.000 trabajadores.La primera zona franca de servicios del litoral uruguayo inaugurará sus instalaciones en Colonia del Sacramento, el jueves 19. Se trata de Zona Franca del Plata que funcionará en un edificio...",
+      "url": "https://ladiaria.com.uy/colonia/articulo/2026/11/el-jueves-19-sera-inaugurada-la-zona-franca-del-plata-en-colonia-del-sacramento/",
+      "published": "2026-11-06T15:24:57+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.51,
+      "relevance": 19.31,
       "sources": [
         "La Diaria"
       ]
@@ -635,13 +609,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "País Industrial: informe analizó cambios que atravesará la industria y listó las diez ocupaciones “con mayor urgencia de atención”",
-      "summary": "El estudio identificó que la logística de entrada y la producción son los dos procesos con “mayor carga de transformación” ante las tendencias “tecnológicas, normativas, económicas y geopolíticas” capaces de modificar el sector.En el marco de País Industrial, un proyecto conjunto entre el Instituto...",
-      "url": "https://ladiaria.com.uy/trabajo/articulo/2026/11/pais-industrial-informe-analizo-cambios-que-atravesara-la-industria-y-listo-las-diez-ocupaciones-con-mayor-urgencia-de-atencion/",
-      "published": "2026-11-06T00:21:27+00:00",
+      "title": "Cuando las instituciones cambian desde adentro: el golpe de Estado técnico",
+      "summary": "Uruguay se jacta históricamente de ser una de las democracias más sólidas del continente y de las más antiguas también. Actualmente ocupa el puesto 15 a nivel mundial y lidera América del Sur como la única “democracia plena”, según el Índice de Democracia de The Economist. Es indiscutible que,...",
+      "url": "https://ladiaria.com.uy/opinion/articulo/2026/11/cuando-las-instituciones-cambian-desde-adentro-el-golpe-de-estado-tecnico/",
+      "published": "2026-11-06T15:19:25+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.33,
+      "relevance": 19.28,
       "sources": [
         "La Diaria"
       ]
@@ -649,13 +623,13 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Fiscalía y Tik Tok realizaron una jornada de formación sobre evidencia digital",
-      "summary": "“Hay mucho para trabajar en el tema evidencia digital, pero creo que vamos por buen camino”, dijo a la diaria la directora del Centro de Formación, Mariella Leles.El Centro de Formación de la Fiscalía General de la Nación organizó con Tik Tok una jornada de capacitación sobre investigación en...",
-      "url": "https://ladiaria.com.uy/justicia/articulo/2026/11/fiscalia-y-tik-tok-realizaron-una-jornada-de-formacion-sobre-evidencia-digital/",
-      "published": "2026-11-06T00:20:05+00:00",
+      "title": "Se confirmó la lista de Forlán para los amistosos con Argentina y República Dominicana",
+      "summary": "Entre los convocados están los goleros Diego Jaume e Ignacio de Arruabarrena, y el delantero Bruno Damiani, también vuelven Nicolás de la Cruz y Agustín Canobbio.La Asociación Uruguaya de Fútbol (AUF) dio a conocer este viernes los 28 futbolistas convocados por Diego Forlán, entrenador interino de...",
+      "url": "https://ladiaria.com.uy/deporte/articulo/2026/11/se-confirmo-la-lista-de-forlan-para-los-amistosos-con-argentina-y-republica-dominicana/",
+      "published": "2026-11-06T15:08:45+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.32,
+      "relevance": 19.21,
       "sources": [
         "La Diaria"
       ]
@@ -663,15 +637,43 @@
     {
       "category": "uruguay",
       "source": "La Diaria",
-      "title": "Santiago Peña, quien sigue siendo el presidente paraguayo pese a su renuncia, se defenderá en el juicio político en su contra",
-      "summary": "El Congreso comenzó a tratar en la noche del jueves el juicio político al mandatario, que había renunciado horas antes por su responsabilidad en la quiebra fraudulenta del Ueno Bank.En la mañana del viernes, más precisamente a las 10.00, el presidente paraguayo Santiago Peña está citado a...",
-      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/santiago-pena-quien-sigue-siendo-el-presidente-paraguayo-pese-a-su-renuncia-se-defendera-en-el-juicio-politico-en-su-contra/",
-      "published": "2026-11-06T00:09:52+00:00",
+      "title": "Germán Coutinho sufrió un infarto cerebral y permanece internado",
+      "summary": "El director de Ancap se descompensó durante una reunión del directorio y fue trasladado a La Española.Germán Coutinho, director de Ancap y exintendente de Salto, sufrió un accidente cerebrovascular (ACV) mientras participaba en una reunión del directorio del ente, durante la tarde de este jueves....",
+      "url": "https://ladiaria.com.uy/salto/articulo/2026/11/german-coutinho-sufrio-un-infarto-cerebral-y-permanece-internado/",
+      "published": "2026-11-06T15:05:37+00:00",
       "image": null,
       "coverage": 1,
-      "relevance": 19.26,
+      "relevance": 19.19,
       "sources": [
         "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "La Diaria",
+      "title": "Paraguay: se inició la sesión en el Congreso para tratar el juicio político contra Santiago Peña",
+      "summary": "El presidente paraguayo estaba citado a presentarse a las 10.00 para ejercer su defensa, solicitó una prórroga de 72 horas para preparar su descargo y fue rechazada.Cerca de una hora después de lo previsto, comenzó la sesión en el Congreso paraguayo para tratar el juicio político contra el...",
+      "url": "https://ladiaria.com.uy/mundo/articulo/2026/11/paraguay-se-inicio-la-sesion-en-el-congreso-para-tratar-el-juicio-politico-contra-santiago-pena/",
+      "published": "2026-11-06T14:12:31+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.86,
+      "sources": [
+        "La Diaria"
+      ]
+    },
+    {
+      "category": "uruguay",
+      "source": "Google Noticias UY",
+      "title": "León XIV en Uruguay. Un recorrido por las calles de Borro, donde la Iglesia construye un futuro para la juventud suburbana",
+      "summary": "",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRDkwTlFJQkdOSXJxUDZCa3dYVzUtN3JURnl4NXlmYTdiSUJSXy1iUWNjWC1kVTJ4R1BsVzBOZmJhcmNzR3hQYlRWTzVTcGpnVDZHb2dWc0dwQ01nR1JfZjM2X2lYTnZrVzhCbEhVQlFiOW14ZGtveEt2SmN1a0I3ZnNabVdHanRWWFMyRm9mQ0JFTVJyX2dLSEJvdEloX0RzODZkcEVTWWQ3SVBSRmNubnY3dUYwMG1OeURGZVBZUlNXUXZTam81MlY2eGNFQUtNaXQxRUFxQUZtUTBpRHVjWUpzN09BVXljME9xQi13MmFSS1lkejRj?oc=5",
+      "published": "2026-11-06T16:22:44+00:00",
+      "image": null,
+      "coverage": 1,
+      "relevance": 18.77,
+      "sources": [
+        "Google Noticias UY"
       ]
     }
   ]
